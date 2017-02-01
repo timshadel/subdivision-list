@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: Veľkopoľské vojvodstvo
+  level: voivodship
+PL-KP:
+  name: Kujavsko-pomoranské vojvodstvo
+  level: voivodship
+PL-MA:
+  name: Malopoľské vojvodstvo
+  level: voivodship
+PL-DS:
+  name: Dolnosliezske vojvodstvo
+  level: voivodship
+PL-LU:
+  name: Lubelské vojvodstvo
+  level: voivodship
+PL-LB:
+  name: Lubuské vojvodstvo
+  level: voivodship
+PL-MZ:
+  name: Mazovské vojvodstvo
+  level: voivodship
+PL-OP:
+  name: Opolské vojvodstvo
+  level: voivodship
+PL-PK:
+  name: Podkarpatské vojvodstvo
+  level: voivodship
+PL-PD:
+  name: Podleské vojvodstvo
+  level: voivodship
+PL-PM:
+  name: Pomoranské vojvodstvo
+  level: voivodship
+PL-SL:
+  name: Sliezske vojvodstvo
+  level: voivodship
+PL-WN:
+  name: Varmsko-mazurské vojvodstvo
+  level: voivodship
+PL-ZP:
+  name: Západopomoranské vojvodstvo
+  level: voivodship
+PL-SK:
+  name: Svätokrížske vojvodstvo
+  level: voivodship

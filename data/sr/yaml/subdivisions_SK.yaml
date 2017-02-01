@@ -1,0 +1,22 @@
+---
+SK-BC:
+  name: "Банскобистрички крај"
+  level: region
+SK-BL:
+  name: "Братиславски крај"
+  level: region
+SK-KI:
+  name: "Кошички крај"
+  level: region
+SK-NI:
+  name: "Њитрански крај"
+  level: region
+SK-PV:
+  name: "Прешовски крај"
+  level: region
+SK-TA:
+  name: "Трнавски крај"
+  level: region
+SK-ZI:
+  name: "Жилински крај"
+  level: region

@@ -1,0 +1,43 @@
+---
+CL-AN:
+  name: Antofagasta
+  level: region
+CL-AR:
+  name: Arauco
+  level: region
+CL-AP:
+  name: Arica y Parinacota
+  level: region
+CL-AT:
+  name: Atacama
+  level: region
+CL-AI:
+  name: Aysén del General Carlos Ibáñez del Campo
+  level: region
+CL-BI:
+  name: Bío-Bío
+  level: region
+CL-CO:
+  name: Coquimbo
+  level: region
+CL-LL:
+  name: Los Lagos
+  level: region
+CL-LR:
+  name: Los Ríos
+  level: region
+CL-MA:
+  name: Magallanes
+  level: region
+CL-ML:
+  name: Maule
+  level: region
+CL-RM:
+  name: Región Metropolitana de Santiago
+  level: region
+CL-TA:
+  name: Tarapacá
+  level: region
+CL-VS:
+  name: Valparaíso
+  level: region

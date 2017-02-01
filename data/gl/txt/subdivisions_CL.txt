@@ -1,0 +1,6 @@
+Antofagasta (CL-AN)
+Rexión de Arica e Parinacota (CL-AP)
+Deserto do Atacama (CL-AT)
+Rexión de Aisén (CL-AI)
+Rexión Metropolitana de Santiago (CL-RM)
+Valparaíso (CL-VS)

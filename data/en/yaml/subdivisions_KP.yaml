@@ -1,0 +1,73 @@
+---
+KP-04:
+  name: Chagang Province
+  level: province
+KP-CHA:
+  name: Chagang Province
+  level: province
+KP-09:
+  name: Hamgyong-bukdo
+  level: province
+KP-08:
+  name: South Hamgyong Province
+  level: province
+KP-HAB:
+  name: North Hamgyong Province
+  level: province
+KP-HAN:
+  name: South Hamgyong Province
+  level: province
+KP-06:
+  name: North Hwanghae Province
+  level: province
+KP-05:
+  name: South Hwanghae Province
+  level: province
+KP-HWB:
+  name: North Hwanghae Province
+  level: province
+KP-HWN:
+  name: South Hwanghae Province
+  level: province
+KP-KAE:
+  name: Kaesong
+  level: special city
+KP-KAN:
+  name: Gangwon
+  level: province
+KP-07:
+  name: Gangwon
+  level: province
+KP-NAJ:
+  name: Rason
+  level: special city
+KP-NAM:
+  name: Nampho
+  level: special city
+KP-13:
+  name: Nason
+  level: special city
+KP-03:
+  name: Pyongan-bukdo
+  level: province
+KP-02:
+  name: South Pyongan Province
+  level: province
+KP-PYB:
+  name: North Pyongan Province
+  level: province
+KP-PYN:
+  name: South Pyongan Province
+  level: province
+KP-01:
+  name: Pyongyang
+  level: capital city
+KP-PYO:
+  name: Pyongyang
+  level: special city
+KP-10:
+  name: Ryanggang Province
+  level: province
+KP-YAN:
+  name: Ryanggang Province
+  level: province

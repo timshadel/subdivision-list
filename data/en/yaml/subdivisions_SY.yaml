@@ -1,0 +1,43 @@
+---
+SY-HL:
+  name: "?alab"
+  level: province
+SY-HM:
+  name: "?amah"
+  level: province
+SY-HI:
+  name: "?ims"
+  level: province
+SY-HA:
+  name: Al ?asakah
+  level: province
+SY-LA:
+  name: Latakia
+  level: province
+SY-QU:
+  name: Al Qunaytirah
+  level: province
+SY-RA:
+  name: Ar-Raqqah
+  level: province
+SY-SU:
+  name: As-Suwayda
+  level: province
+SY-DR:
+  name: Dar?a
+  level: province
+SY-DY:
+  name: Deir ez-Zor
+  level: province
+SY-DI:
+  name: Damascus
+  level: province
+SY-ID:
+  name: Idlib
+  level: province
+SY-RD:
+  name: Rif Dimashq Governorate
+  level: province
+SY-TA:
+  name: Tartus
+  level: province

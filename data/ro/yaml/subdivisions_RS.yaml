@@ -1,0 +1,70 @@
+---
+RS-00:
+  name: Belgrad
+  level: city
+RS-14:
+  name: Districtul Bor
+  level: district
+RS-11:
+  name: Districtul Braničevo
+  level: district
+RS-02:
+  name: Districtul Banatul Central
+  level: district
+RS-23:
+  name: Districtul Jablanica
+  level: district
+RS-09:
+  name: Districtul Kolubara
+  level: district
+RS-08:
+  name: Districtul Mačva
+  level: district
+RS-17:
+  name: Districtul Moravica
+  level: district
+RS-20:
+  name: Districtul Nišava
+  level: district
+RS-03:
+  name: Districtul Banatul de Nord
+  level: district
+RS-01:
+  name: Districtul Bačka de Nord
+  level: district
+RS-22:
+  name: Districtul Pirot
+  level: district
+RS-10:
+  name: Districtul Podunavlje
+  level: district
+RS-13:
+  name: Districtul Pomoravlje
+  level: district
+RS-24:
+  name: Districtul Pčinja
+  level: district
+RS-19:
+  name: Districtul Rasina
+  level: district
+RS-04:
+  name: Districtul Banatul de Sud
+  level: district
+RS-07:
+  name: Districtul Srem
+  level: district
+RS-16:
+  name: Districtul Zlatibor
+  level: district
+RS-12:
+  name: Districtul Šumadija
+  level: district
+RS-28:
+  name: Districtul Kosovska Mitrovica
+  level: district
+RS-26:
+  name: Districtul Peć
+  level: district
+RS-27:
+  name: Districtul Prizren
+  level: district

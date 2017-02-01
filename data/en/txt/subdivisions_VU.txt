@@ -1,0 +1,6 @@
+Malampa Province (VU-MAP)
+Penama Province (VU-PAM)
+Sanma (VU-SAM)
+Shefa Province (VU-SEE)
+Tafea Province (VU-TAE)
+Torba (VU-TOB)

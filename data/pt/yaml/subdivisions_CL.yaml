@@ -1,0 +1,31 @@
+---
+CL-AN:
+  name: Antofagasta
+  level: region
+CL-AP:
+  name: Região de Arica e Parinacota
+  level: region
+CL-AT:
+  name: Deserto de Atacama
+  level: region
+CL-AI:
+  name: Aisén
+  level: region
+CL-BI:
+  name: Biobío
+  level: region
+CL-CO:
+  name: Coquimbo
+  level: region
+CL-ML:
+  name: Maule
+  level: region
+CL-RM:
+  name: Região Metropolitana de Santiago
+  level: region
+CL-TA:
+  name: Tarapacá
+  level: region
+CL-VS:
+  name: Valparaíso
+  level: region

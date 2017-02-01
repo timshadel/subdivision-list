@@ -1,0 +1,121 @@
+---
+ID-AC:
+  name: Aceh
+  level: autonomous province
+ID-BA:
+  name: Bali
+  level: province
+ID-BB:
+  name: Bangka–Belitung Islands
+  level: province
+ID-BT:
+  name: Banten
+  level: province
+ID-BE:
+  name: Bengkulu
+  level: province
+ID-GO:
+  name: Gorontalo
+  level: province
+ID-JK:
+  name: Jakarta
+  level: special district
+ID-JA:
+  name: Jambi
+  level: province
+ID-JW:
+  name: Jawa
+  level: geographic units
+ID-JB:
+  name: West Java
+  level: province
+ID-JT:
+  name: Central Java
+  level: province
+ID-JI:
+  name: East Java
+  level: province
+ID-KA:
+  name: Kalimantan
+  level: geographic units
+ID-KB:
+  name: West Kalimantan
+  level: province
+ID-KS:
+  name: South Kalimantan
+  level: province
+ID-KT:
+  name: Central Kalimantan
+  level: province
+ID-KI:
+  name: East Kalimantan
+  level: province
+ID-KR:
+  name: Riau Islands Province
+  level: province
+ID-LA:
+  name: Lampung
+  level: province
+ID-ML:
+  name: Maluku
+  level: geographic units
+ID-MA:
+  name: Maluku
+  level: province
+ID-MU:
+  name: North Maluku
+  level: province
+ID-NU:
+  name: Lesser Sunda Islands
+  level: geographic units
+ID-NB:
+  name: West Nusa Tenggara
+  level: province
+ID-NT:
+  name: East Nusa Tenggara
+  level: province
+ID-PA:
+  name: Papua
+  level: province
+ID-IJ:
+  name: Papua
+  level: geographic units
+ID-PB:
+  name: West Papua
+  level: province
+ID-RI:
+  name: Riau
+  level: province
+ID-SL:
+  name: Sulawesi
+  level: geographic units
+ID-SR:
+  name: West Sulawesi
+  level: province
+ID-SN:
+  name: South Sulawesi
+  level: province
+ID-ST:
+  name: Central Sulawesi
+  level: province
+ID-SG:
+  name: South East Sulawesi
+  level: province
+ID-SA:
+  name: North Sulawesi
+  level: province
+ID-SM:
+  name: Sumatra
+  level: geographic units
+ID-SB:
+  name: West Sumatra
+  level: province
+ID-SS:
+  name: South Sumatra
+  level: province
+ID-SU:
+  name: North Sumatra
+  level: province
+ID-YO:
+  name: Yogyakarta
+  level: special region

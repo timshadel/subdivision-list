@@ -1,0 +1,16 @@
+<?php return array (
+  'RO-AR' => array('name' => 'ארד', 'level' => 'county'),
+  'RO-BC' => array('name' => 'בקאו', 'level' => 'county'),
+  'RO-BT' => array('name' => 'בוטושאן', 'level' => 'county'),
+  'RO-BV' => array('name' => 'בראשוב', 'level' => 'county'),
+  'RO-BR' => array('name' => 'בראילה', 'level' => 'county'),
+  'RO-B' => array('name' => 'בוקרשט', 'level' => 'city'),
+  'RO-BZ' => array('name' => 'בוזאו', 'level' => 'county'),
+  'RO-CT' => array('name' => 'קונסטנצה', 'level' => 'county'),
+  'RO-GL' => array('name' => 'גאלאץ', 'level' => 'county'),
+  'RO-HD' => array('name' => 'חונדוארה', 'level' => 'county'),
+  'RO-IS' => array('name' => 'יאשי', 'level' => 'county'),
+  'RO-SM' => array('name' => 'סאטו מארה', 'level' => 'county'),
+  'RO-SB' => array('name' => 'סיביו', 'level' => 'county'),
+  'RO-VS' => array('name' => 'וסלוי', 'level' => 'county'),
+);

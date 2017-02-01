@@ -1,0 +1,19 @@
+---
+DK-070:
+  name: Aarhus
+  level: county
+DK-84:
+  name: Kapitál
+  level: region
+DK-015:
+  name: Kodaň
+  level: county
+DK-055:
+  name: Ribe
+  level: county
+DK-025:
+  name: Roskilde
+  level: county
+DK-85:
+  name: Zéland
+  level: region

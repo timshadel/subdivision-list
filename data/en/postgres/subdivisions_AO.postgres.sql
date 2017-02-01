@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_AO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-BGO', E'Bengo', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-BGU', E'Benguela', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-BIE', E'Bié', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-CAB', E'Cabinda', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-CCU', E'Cuando Cubango Province', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-CNO', E'Cuanza Norte Province', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-CUS', E'Cuanza Sul Province', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-CNN', E'Cunene', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-HUA', E'Huambo', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-HUI', E'Huila', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-LUA', E'Luanda', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-LNO', E'Lunda Norte Province', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-LSU', E'Lunda Sul Province', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-MAL', E'Malange', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-MOX', E'Moxico', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-NAM', E'Namibe', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-UIG', E'Uíge', E'province');
+INSERT INTO "subdivision_AO" ("id", "name", "level") VALUES (E'AO-ZAI', E'Zaire', E'province');

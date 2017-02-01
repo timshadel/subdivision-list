@@ -1,0 +1,58 @@
+---
+CI-06:
+  name: 18 Montagnes
+  level: region
+CI-16:
+  name: Agnébi
+  level: region
+CI-17:
+  name: Bafing
+  level: region
+CI-09:
+  name: Bas-Sassandra
+  level: region
+CI-10:
+  name: Denguélé
+  level: region
+CI-18:
+  name: Fromager
+  level: region
+CI-02:
+  name: Haut-Sassandra
+  level: region
+CI-07:
+  name: Lacs
+  level: region
+CI-01:
+  name: Lagunes
+  level: region
+CI-12:
+  name: Marahoué
+  level: region
+CI-19:
+  name: Moyen-Cavally
+  level: region
+CI-05:
+  name: Moyen-Comoé
+  level: region
+CI-11:
+  name: Nzi-Comoé
+  level: region
+CI-03:
+  name: Savanes
+  level: region
+CI-15:
+  name: Sud-Bandama
+  level: region
+CI-13:
+  name: Sud-Comoé
+  level: region
+CI-04:
+  name: Vallée du Bandama
+  level: region
+CI-14:
+  name: Worodougou
+  level: region
+CI-08:
+  name: Zanzan
+  level: region

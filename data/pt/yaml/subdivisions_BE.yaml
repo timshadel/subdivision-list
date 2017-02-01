@@ -1,0 +1,28 @@
+---
+BE-VAN:
+  name: Antuérpia
+  level: province
+BE-BRU:
+  name: Bruxelas
+  level: capital region
+BE-VOV:
+  name: Flandres Oriental
+  level: province
+BE-VBR:
+  name: Brabante Flamengo
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luxemburgo
+  level: province
+BE-WAL:
+  name: Valônia
+  level: region
+BE-WBR:
+  name: Brabante Valão
+  level: province
+BE-VWV:
+  name: Flandres Ocidental
+  level: province

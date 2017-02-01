@@ -1,0 +1,22 @@
+---
+PT-20:
+  name: Assoorid
+  level: autonomous region
+PT-03:
+  name: Braga
+  level: district
+PT-06:
+  name: Coimbra
+  level: district
+PT-10:
+  name: Leiria
+  level: district
+PT-11:
+  name: Lissabon
+  level: district
+PT-30:
+  name: Madeira
+  level: autonomous region
+PT-13:
+  name: Porto
+  level: district

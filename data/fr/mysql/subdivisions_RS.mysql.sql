@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-00', 'Belgrade', 'city');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-14', 'Bor', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-11', 'Braničevo', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-02', 'Banat central', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-23', 'Jablanica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-09', 'Kolubara', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-29', 'District de Kosovo-Pomoravlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-25', 'Kosovo', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-08', 'Mačva', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-17', 'Moravica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-20', 'Nišava', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-03', 'Banat septentrional', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-01', 'Bačka septentrionale', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-22', 'Pirot', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-10', 'Podunavlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-13', 'Pomoravlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-24', 'Pčinja', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-19', 'Rasina', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-04', 'Banat méridional', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-07', 'Syrmie', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-16', 'Zlatibor', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-12', 'Šumadija', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-28', 'Kosovska Mitrovica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-26', 'District de Peć', 'district');

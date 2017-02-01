@@ -1,0 +1,28 @@
+---
+PT-20:
+  name: "Азорські острови"
+  level: autonomous region
+PT-02:
+  name: "Беджа"
+  level: district
+PT-03:
+  name: "Брага"
+  level: district
+PT-06:
+  name: "Коїмбра"
+  level: district
+PT-10:
+  name: "Лейрія"
+  level: district
+PT-11:
+  name: "Лісабон"
+  level: district
+PT-30:
+  name: "Мадейра"
+  level: autonomous region
+PT-13:
+  name: "Порту"
+  level: district
+PT-15:
+  name: "Сетубал"
+  level: district

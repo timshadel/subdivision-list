@@ -1,0 +1,19 @@
+---
+CY-04:
+  name: Famagusta
+  level: district
+CY-06:
+  name: Kyrenia
+  level: district
+CY-03:
+  name: Larnaca
+  level: district
+CY-01:
+  name: Nicosia
+  level: district
+CY-02:
+  name: Limassol
+  level: district
+CY-05:
+  name: Paphos
+  level: district

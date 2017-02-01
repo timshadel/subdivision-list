@@ -1,0 +1,28 @@
+CREATE TABLE subdivision_CV (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-BV', E'Boa Vista', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-BR', E'Brava', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-CS', E'Calheta de São Miguel', E'');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-B', E'Barlavento Islands', E'geographical region');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-S', E'Sotavento Islands', E'geographical region');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-MA', E'Maio', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-MO', E'Mosteiros', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-PA', E'Paul', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-PN', E'Porto-Novo', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-PR', E'Praia', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-RB', E'Ribeira Brava', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-RG', E'Ribeira Grande', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-RS', E'Ribeira Grande de Santiago', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SL', E'Sal', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-CA', E'Santa Catarina', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-CF', E'Santa Catarina do Fogo', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-CR', E'Santa Cruz', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SD', E'São Domingos', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SF', E'Saint Philip', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SO', E'São Lourenço dos Órgãos', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SM', E'São Miguel', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SN', E'São Nicolau', E'');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SS', E'São Salvador do Mundo', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-SV', E'São Vicente', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-TA', E'Tarrafal', E'municipality');
+INSERT INTO "subdivision_CV" ("id", "name", "level") VALUES (E'CV-TS', E'Tarrafal de São Nicolau', E'municipality');

@@ -1,0 +1,49 @@
+---
+PL-DS:
+  name: Lower Silesian Voivodeship
+  level: voivodship
+PL-KP:
+  name: Kuyavian-Pomeranian Voivodeship
+  level: voivodship
+PL-LU:
+  name: Lublin Voivodeship
+  level: voivodship
+PL-LB:
+  name: Lubusz Voivodeship
+  level: voivodship
+PL-LD:
+  name: Lódzkie
+  level: voivodship
+PL-MA:
+  name: Lesser Poland Voivodeship
+  level: voivodship
+PL-MZ:
+  name: Masovian Voivodeship
+  level: voivodship
+PL-OP:
+  name: Opole Voivodeship
+  level: voivodship
+PL-PK:
+  name: Podkarpackie Voivodeship
+  level: voivodship
+PL-PD:
+  name: Podlaskie Voivodeship
+  level: voivodship
+PL-PM:
+  name: Pomeranian Voivodeship
+  level: voivodship
+PL-SL:
+  name: Silesian Voivodeship
+  level: voivodship
+PL-SK:
+  name: "Świętokrzyskie Voivodeship"
+  level: voivodship
+PL-WN:
+  name: Warmian-Masurian Voivodeship
+  level: voivodship
+PL-WP:
+  name: Greater Poland Voivodeship
+  level: voivodship
+PL-ZP:
+  name: West Pomeranian Voivodeship
+  level: voivodship

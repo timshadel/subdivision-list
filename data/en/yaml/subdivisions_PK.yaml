@@ -1,0 +1,31 @@
+---
+PK-JK:
+  name: Azad Kashmir
+  level: pakistan administered area
+PK-BA:
+  name: Baluchistan
+  level: province
+PK-TA:
+  name: Federally Administered Tribal Areas
+  level: territory
+PK-GB:
+  name: Gilgit–Baltistan
+  level: administered areas
+PK-IS:
+  name: Islamabad
+  level: federal capital territory
+PK-KP:
+  name: Khyber Pakhtunkhwa
+  level: province
+PK-NW:
+  name: North West Frontier
+  level: province
+PK-NA:
+  name: Gilgit–Baltistan
+  level: pakistan administered area
+PK-PB:
+  name: Punjab
+  level: province
+PK-SD:
+  name: Sindh
+  level: province

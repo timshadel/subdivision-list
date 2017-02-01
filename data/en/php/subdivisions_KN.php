@@ -1,0 +1,18 @@
+<?php return array (
+  'KN-01' => array('name' => 'Christ Church Nichola Town Parish', 'level' => 'parish'),
+  'KN-N' => array('name' => 'Nevis', 'level' => 'state'),
+  'KN-02' => array('name' => 'Saint Anne Sandy Point Parish', 'level' => 'parish'),
+  'KN-03' => array('name' => 'Saint George Basseterre Parish', 'level' => 'parish'),
+  'KN-04' => array('name' => 'Saint George Gingerland Parish', 'level' => 'parish'),
+  'KN-05' => array('name' => 'Saint James Windward Parish', 'level' => 'parish'),
+  'KN-06' => array('name' => 'Saint John Capisterre Parish', 'level' => 'parish'),
+  'KN-07' => array('name' => 'Saint John Figtree Parish', 'level' => 'parish'),
+  'KN-K' => array('name' => 'Saint Kitts', 'level' => 'state'),
+  'KN-08' => array('name' => 'Saint Mary Cayon Parish', 'level' => 'parish'),
+  'KN-09' => array('name' => 'Saint Paul Capisterre', 'level' => 'parish'),
+  'KN-10' => array('name' => 'Saint Paul Charlestown Parish', 'level' => 'parish'),
+  'KN-11' => array('name' => 'Saint Peter Basseterre Parish', 'level' => 'parish'),
+  'KN-12' => array('name' => 'Saint Thomas Lowland Parish', 'level' => 'parish'),
+  'KN-13' => array('name' => 'Saint Thomas Middle Island Parish', 'level' => 'parish'),
+  'KN-15' => array('name' => 'Trinity Palmetto Point Parish', 'level' => 'parish'),
+);

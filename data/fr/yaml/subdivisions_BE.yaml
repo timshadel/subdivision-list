@@ -1,0 +1,40 @@
+---
+BE-VAN:
+  name: Anvers
+  level: province
+BE-BRU:
+  name: Région de Bruxelles-Capitale
+  level: capital region
+BE-VOV:
+  name: Province de Flandre-Orientale
+  level: province
+BE-VBR:
+  name: Province du Brabant flamand
+  level: province
+BE-VLG:
+  name: Région flamande
+  level: region
+BE-WHT:
+  name: Hainaut
+  level: province
+BE-VLI:
+  name: Limbourg
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luxembourg
+  level: province
+BE-WNA:
+  name: Namur
+  level: province
+BE-WAL:
+  name: Wallonie
+  level: region
+BE-WBR:
+  name: Province du Brabant wallon
+  level: province
+BE-VWV:
+  name: Province de Flandre-Occidentale
+  level: province

@@ -1,0 +1,15 @@
+<?php return array (
+  'PA-1' => array('name' => 'Bocas del Toro', 'level' => 'province'),
+  'PA-4' => array('name' => 'Chiriquí', 'level' => 'province'),
+  'PA-2' => array('name' => 'Coclé Province', 'level' => 'province'),
+  'PA-3' => array('name' => 'Colón', 'level' => 'province'),
+  'PA-0' => array('name' => 'Guna Yala', 'level' => 'comarca'),
+  'PA-5' => array('name' => 'Darien', 'level' => 'province'),
+  'PA-EM' => array('name' => 'Emberá', 'level' => 'indigenous region'),
+  'PA-6' => array('name' => 'Herrera', 'level' => 'province'),
+  'PA-7' => array('name' => 'Los Santos', 'level' => 'province'),
+  'PA-NB' => array('name' => 'Ngöbe-Buglé Comarca', 'level' => 'indigenous region'),
+  'PA-8' => array('name' => 'Panama', 'level' => 'province'),
+  'PA-9' => array('name' => 'Veraguas Province', 'level' => 'province'),
+  'PA-KY' => array('name' => 'Guna Yala', 'level' => 'indigenous region'),
+);

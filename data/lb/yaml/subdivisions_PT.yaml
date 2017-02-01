@@ -1,0 +1,10 @@
+---
+PT-08:
+  name: Faro
+  level: district
+PT-11:
+  name: Lissabon
+  level: district
+PT-13:
+  name: Porto
+  level: district

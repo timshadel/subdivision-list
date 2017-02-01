@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-00', E'Belgrado', E'city');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-14', E'Distretto di Bor', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-11', E'Distretto di Braničevo', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-02', E'Distretto del Banato Centrale', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-23', E'Distretto di Jablanica', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-09', E'Distretto di Kolubara', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-08', E'Distretto di Mačva', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-17', E'Distretto di Moravica', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-20', E'Distretto di Nišava', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-03', E'Distretto del Banato Settentrionale', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-01', E'Distretto della Bačka Settentrionale', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-22', E'Distretto di Pirot', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-10', E'Distretto di Podunavlje', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-13', E'Distretto di Pomoravlje', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-24', E'Distretto di Pčinja', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-19', E'Distretto di Rasina', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-04', E'Distretto del Banato Meridionale', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-07', E'Distretto della Sirmia', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-16', E'Distretto di Zlatibor', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-12', E'Distretto di Šumadija', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-28', E'Distretto di Kosovska Mitrovica', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-26', E'Distretto di Peć', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-27', E'Distretto di Prizren', E'district');

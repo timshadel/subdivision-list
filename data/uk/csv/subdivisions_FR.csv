@@ -1,0 +1,115 @@
+id,name,level
+FR-01,Ен,metropolitan department
+FR-02,Ена,metropolitan department
+FR-03,Альє,metropolitan department
+FR-06,Приморські Альпи,metropolitan department
+FR-04,Альпи Верхнього Провансу,metropolitan department
+FR-A,Ельзас,metropolitan regions
+FR-B,Аквітанія,metropolitan regions
+FR-08,Арденни,metropolitan department
+FR-07,Ардеш,metropolitan department
+FR-10,Об,metropolitan department
+FR-11,Од,metropolitan department
+FR-12,Аверон,metropolitan department
+FR-67,Нижній Рейн,metropolitan department
+FR-13,Буш-дю-Рон,metropolitan department
+FR-E,Бретань,metropolitan regions
+FR-14,Кальвадос,metropolitan department
+FR-15,Канталь,metropolitan department
+FR-G,Шампань-Арденни,metropolitan regions
+FR-16,Шаранта,metropolitan department
+FR-17,Приморська Шаранта,metropolitan department
+FR-18,Шер,metropolitan department
+FR-CP,Кліппертон,dependency
+FR-19,Коррез,metropolitan department
+FR-2A,Південна Корсика,metropolitan department
+FR-H,Корсика,metropolitan regions
+FR-23,Крез,metropolitan department
+FR-79,Де-Севр,metropolitan department
+FR-24,Дордонь,metropolitan department
+FR-25,Ду,metropolitan department
+FR-26,Дром,metropolitan department
+FR-91,Ессонн,metropolitan department
+FR-27,Ер,metropolitan department
+FR-28,Ер і Луар,metropolitan department
+FR-29,Фіністер,metropolitan department
+FR-I,Франш-Конте,metropolitan regions
+FR-30,Гар,metropolitan department
+FR-32,Жер,metropolitan department
+FR-33,Жиронда,metropolitan department
+FR-GP,Гваделупа,overseas regions
+FR-68,Верхній Рейн,metropolitan department
+FR-2B,Верхня Корсика,metropolitan department
+FR-31,Верхня Гаронна,metropolitan department
+FR-P,Нижня Нормандія,metropolitan regions
+FR-GF,Французька Гвіана,overseas regions
+FR-43,Верхня Луара,metropolitan department
+FR-52,Верхня Марна,metropolitan department
+FR-74,Верхня Савойя,metropolitan department
+FR-70,Верхня Сона,metropolitan department
+FR-05,Верхні Альпи,metropolitan department
+FR-65,Верхні Піренеї,metropolitan department
+FR-92,О-де-Сен,metropolitan department
+FR-34,Еро,metropolitan department
+FR-35,Іль і Вілен,metropolitan department
+FR-36,Ендр,metropolitan department
+FR-37,Ендр і Луара,metropolitan department
+FR-38,Ізер,metropolitan department
+FR-39,Юра,metropolitan department
+FR-K,Лангедок-Руссільйон,metropolitan regions
+FR-41,Луар і Шер,metropolitan department
+FR-42,Луара,metropolitan department
+FR-44,Атлантична Луара,metropolitan department
+FR-45,Луаре,metropolitan department
+FR-46,Лот,metropolitan department
+FR-47,Лот і Гаронна,metropolitan department
+FR-48,Лозер,metropolitan department
+FR-49,Мен і Луара,metropolitan department
+FR-50,Манш,metropolitan department
+FR-51,Марна,metropolitan department
+FR-MQ,Мартиніка,overseas regions
+FR-53,Майєнн,metropolitan department
+FR-YT,Майотта,territorial collectivity
+FR-54,Мерт і Мозель,metropolitan department
+FR-55,Мез,metropolitan department
+FR-N,Південь-Піренеї,metropolitan regions
+FR-56,Морбіан,metropolitan department
+FR-57,Мозель,metropolitan department
+FR-58,Ньєвр,metropolitan department
+FR-O,Нор-Па-де-Кале,metropolitan regions
+FR-60,Уаза,metropolitan department
+FR-61,Орн,metropolitan department
+FR-75,Париж,metropolitan department
+FR-62,Па-де-Кале,metropolitan department
+FR-R,Пеї-де-ла-Луар,metropolitan regions
+FR-S,Пікардія,metropolitan regions
+FR-T,Пуату-Шарант,metropolitan regions
+FR-Q,Верхня Нормандія,metropolitan regions
+FR-PF,Французька Полінезія,overseas territory
+FR-NC,Нова Каледонія,overseas territory
+FR-RE,Реюньйон,overseas regions
+FR-U,Прованс-Альпи-Лазурний берег,metropolitan regions
+FR-63,Пюї-де-Дом,metropolitan department
+FR-64,Атлантичні Піренеї,metropolitan department
+FR-66,Східні Піренеї,metropolitan department
+FR-69,Рона,metropolitan department
+FR-V,Рона-Альпи,metropolitan regions
+FR-72,Сарта,metropolitan department
+FR-73,Савойя,metropolitan department
+FR-71,Сона і Луара,metropolitan department
+FR-76,Приморська Сена,metropolitan department
+FR-93,Сена-Сен-Дені,metropolitan department
+FR-77,Сена і Марна,metropolitan department
+FR-80,Сомма,metropolitan department
+FR-82,Тарн і Гаронна,metropolitan department
+FR-90,Територія Бельфор,metropolitan department
+FR-94,Валь-де-Марн,metropolitan department
+FR-83,Вар,metropolitan department
+FR-84,Воклюз,metropolitan department
+FR-85,Вандея,metropolitan department
+FR-88,Вогези,metropolitan department
+FR-89,Йонна,metropolitan department
+FR-78,Івлін,metropolitan department
+FR-MF,Сен-Мартен,overseas territorial collectivity
+FR-BL,Сен-Бартельмі,overseas territorial collectivity
+FR-WF,Волліс і Футуна,overseas territory

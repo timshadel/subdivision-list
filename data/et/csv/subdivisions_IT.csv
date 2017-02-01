@@ -1,0 +1,88 @@
+id,name,level
+IT-65,Abruzzo,region
+IT-AL,Alessandria,province
+IT-AN,Ancona,province
+IT-AR,Arezzo,province
+IT-AT,Asti,province
+IT-BA,Bari,province
+IT-77,Basilicata,region
+IT-BL,Belluno,province
+IT-BG,Bergamo,province
+IT-BI,Biella,province
+IT-BO,Bologna,province
+IT-BZ,Bolzano,province
+IT-BS,Brescia,province
+IT-CA,Cagliari,province
+IT-78,Calabria,region
+IT-72,Campania,region
+IT-CT,Catania,province
+IT-CO,Como,province
+IT-CR,Cremona,province
+IT-CN,Cuneo,province
+IT-45,Emilia Romagna,region
+IT-FE,Ferrara,province
+IT-FI,Firenze,province
+IT-FG,Foggia,province
+IT-FO,Forlì,
+IT-36,Friuli-Venezia Giulia,region
+IT-GE,Genova,province
+IT-IM,Imperia,province
+IT-BT,Barletta-Andria-Trani provints,province
+IT-CI,Carbonia-Iglesiase provints,province
+IT-FC,Forlì-Cesena provints,province
+IT-75,Apuulia,region
+IT-SP,La Spezia,province
+IT-62,Lazio,region
+IT-LC,Lecco,province
+IT-42,Liguuria,region
+IT-LI,Livorno,province
+IT-25,Lombardia,region
+IT-LU,Lucca,province
+IT-MN,Mantova,province
+IT-57,Marche,region
+IT-MT,Matera,province
+IT-ME,Messina,province
+IT-MI,Milano,province
+IT-MO,Modena,province
+IT-67,Molise,region
+IT-NA,Napoli,province
+IT-NO,Novara,province
+IT-PD,Padova,province
+IT-PA,Palermo,province
+IT-PR,Parma,province
+IT-PV,Pavia,province
+IT-PG,Perugia,province
+IT-PC,Piacenza,province
+IT-21,Piemonte,region
+IT-PI,Pisa,province
+IT-PT,Pistoia,province
+IT-PO,Prato,province
+IT-MA,Medio Campidano provints,province
+IT-MB,Monza e Brianza provints,province
+IT-OG,Ogliastra provints,province
+IT-OL,Olbia-Tempio provints,province
+IT-PU,Pesaro e Urbino provints,province
+IT-RA,Ravenna,province
+IT-VB,Verbano-Cusio-Ossola provints,province
+IT-RN,Rimini,province
+IT-RO,Rovigo,province
+IT-88,Sardiinia,region
+IT-82,Sitsiilia,region
+IT-SI,Siena,province
+IT-SO,Sondrio,province
+IT-TA,Taranto,province
+IT-32,Trentino-Alto Adige,region
+IT-TN,Trento,province
+IT-TV,Treviso,province
+IT-TS,Trieste,province
+IT-TO,Torino,province
+IT-52,Toscana,region
+IT-UD,Udine,province
+IT-55,Umbria,region
+IT-VA,Varese,province
+IT-34,Veneto,region
+IT-VE,Venezia,province
+IT-VC,Vercelli,province
+IT-VR,Verona,province
+IT-VI,Vicenza,province
+IT-VT,Viterbo,province

@@ -1,0 +1,37 @@
+---
+SA-14:
+  name: "?Asir"
+  level: region
+SA-11:
+  name: Al Bahah
+  level: region
+SA-12:
+  name: Al Jawf
+  level: region
+SA-03:
+  name: Al Madinah Province
+  level: region
+SA-05:
+  name: Al-Qassim Province
+  level: region
+SA-08:
+  name: Northern Borders Province
+  level: region
+SA-01:
+  name: Riyadh
+  level: region
+SA-04:
+  name: Ash Sharqiyah
+  level: region
+SA-09:
+  name: Jizan
+  level: region
+SA-02:
+  name: Mecca
+  level: region
+SA-10:
+  name: Najran
+  level: region
+SA-07:
+  name: Tabuk
+  level: region

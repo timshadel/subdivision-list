@@ -1,0 +1,64 @@
+---
+CH-BL:
+  name: Canton de Bâle-Campagne
+  level: canton
+CH-BS:
+  name: Canton de Bâle-Ville
+  level: canton
+CH-BE:
+  name: Berne
+  level: canton
+CH-FR:
+  name: Fribourg
+  level: canton
+CH-GL:
+  name: Glaris
+  level: canton
+CH-GR:
+  name: Canton des Grisons
+  level: canton
+CH-JU:
+  name: Jura
+  level: canton
+CH-NE:
+  name: Neuchâtel
+  level: canton
+CH-NW:
+  name: Canton de Nidwald
+  level: canton
+CH-SH:
+  name: Schaffhouse
+  level: canton
+CH-SZ:
+  name: Schwytz
+  level: canton
+CH-SO:
+  name: Soleure
+  level: canton
+CH-TG:
+  name: Canton de Thurgovie
+  level: canton
+CH-TI:
+  name: Canton du Tessin
+  level: canton
+CH-UR:
+  name: Uri
+  level: canton
+CH-VS:
+  name: Canton du Valais
+  level: canton
+CH-VD:
+  name: Canton de Vaud
+  level: canton
+CH-ZG:
+  name: Zoug
+  level: canton
+CH-GE:
+  name: Genève
+  level: canton
+CH-LU:
+  name: Lucerne
+  level: canton
+CH-ZH:
+  name: Zurich
+  level: canton

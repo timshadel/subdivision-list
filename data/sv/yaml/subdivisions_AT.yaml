@@ -1,0 +1,22 @@
+---
+AT-1:
+  name: Burgenland
+  level: state
+AT-3:
+  name: Niederösterreich
+  level: state
+AT-5:
+  name: Salzburg
+  level: state
+AT-6:
+  name: Steiermark
+  level: state
+AT-4:
+  name: Oberösterreich
+  level: state
+AT-9:
+  name: Wien
+  level: state
+AT-8:
+  name: Vorarlberg
+  level: state

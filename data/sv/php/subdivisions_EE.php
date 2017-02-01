@@ -1,0 +1,17 @@
+<?php return array (
+  'EE-37' => array('name' => 'Harju län', 'level' => 'county'),
+  'EE-39' => array('name' => 'Dagö', 'level' => 'county'),
+  'EE-44' => array('name' => 'Ida-Viru län', 'level' => 'county'),
+  'EE-51' => array('name' => 'Järva län', 'level' => 'county'),
+  'EE-49' => array('name' => 'Jõgeva län', 'level' => 'county'),
+  'EE-59' => array('name' => 'Lääne-Viru län', 'level' => 'county'),
+  'EE-57' => array('name' => 'Lääne län', 'level' => 'county'),
+  'EE-67' => array('name' => 'Pärnu län', 'level' => 'county'),
+  'EE-65' => array('name' => 'Põlva län', 'level' => 'county'),
+  'EE-70' => array('name' => 'Rapla län', 'level' => 'county'),
+  'EE-74' => array('name' => 'Ösel', 'level' => 'county'),
+  'EE-78' => array('name' => 'Tartu län', 'level' => 'county'),
+  'EE-82' => array('name' => 'Valga län', 'level' => 'county'),
+  'EE-84' => array('name' => 'Viljandi län', 'level' => 'county'),
+  'EE-86' => array('name' => 'Võru län', 'level' => 'county'),
+);

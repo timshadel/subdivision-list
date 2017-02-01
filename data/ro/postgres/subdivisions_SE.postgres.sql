@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_SE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-K', E'Blekinge län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-W', E'Dalarnas län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-I', E'Gotlands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-X', E'Regiunea Gävleborg', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-N', E'Hallands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-Z', E'Regiunea Jämtland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-F', E'Jönköpings län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-H', E'Kalmar län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-G', E'Kronobergs län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-BD', E'Norrbottens län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-M', E'Skåne län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-AB', E'Stockholms län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-D', E'Södermanlands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-C', E'Uppsala län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-S', E'Värmlands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-AC', E'Västerbottens län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-Y', E'Västernorrlands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-U', E'Västmanlands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-O', E'Västra Götalands län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-T', E'Örebro län', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-E', E'Östergötlands län', E'county');

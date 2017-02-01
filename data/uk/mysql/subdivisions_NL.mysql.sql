@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_NL (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-AW', 'Аруба', 'country');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-BQ1', 'Бонайре', 'special municipality');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-CW', 'Кюрасао', 'country');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-DR', 'Дренте', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-FL', 'Флеволанд', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-FR', 'Фрисландія', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-GE', 'Гелдерланд', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-GR', 'Гронінген', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-LI', 'Лімбург', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-NB', 'Північний Брабант', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-NH', 'Північна Голландія', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-OV', 'Оверейсел', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-BQ2', 'Саба', 'special municipality');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-BQ3', 'Сінт-Естатіус', 'special municipality');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-SX', 'Сінт-Мартен', 'country');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-ZH', 'Південна Голландія', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-UT', 'Утрехт', 'province');
+INSERT INTO `subdivision_NL` (`id`, `name`, `level`) VALUES ('NL-ZE', 'Зеландія', 'province');

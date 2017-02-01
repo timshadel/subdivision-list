@@ -1,0 +1,46 @@
+---
+EE-37:
+  name: Harjumaa
+  level: county
+EE-39:
+  name: Hiiumaa
+  level: county
+EE-44:
+  name: Ida-Virumaa
+  level: county
+EE-51:
+  name: Järvamaa
+  level: county
+EE-49:
+  name: Jõgevamaa
+  level: county
+EE-59:
+  name: Lääne-Virumaa
+  level: county
+EE-57:
+  name: Läänemaa
+  level: county
+EE-67:
+  name: Pärnumaa
+  level: county
+EE-65:
+  name: Põlvamaa
+  level: county
+EE-70:
+  name: Raplamaa
+  level: county
+EE-74:
+  name: Saaremaa
+  level: county
+EE-78:
+  name: Tartumaa
+  level: county
+EE-82:
+  name: Valgamaa
+  level: county
+EE-84:
+  name: Viljandimaa
+  level: county
+EE-86:
+  name: Võrumaa
+  level: county

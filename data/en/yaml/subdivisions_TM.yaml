@@ -1,0 +1,19 @@
+---
+TM-A:
+  name: Ahal
+  level: region
+TM-B:
+  name: Balkans
+  level: region
+TM-D:
+  name: Daşoguz
+  level: region
+TM-L:
+  name: Lebap Province
+  level: region
+TM-M:
+  name: Mary
+  level: region
+TM-S:
+  name: ''
+  level: city

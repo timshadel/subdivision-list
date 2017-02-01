@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_TW (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-CHA', 'Changhua City', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-CYQ', 'Chiayi', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-CYI', 'Chiayi Municipality', 'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-HSQ', 'Hsinchu', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-HSZ', 'Hsinchu Municipality', 'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-HUA', 'Hualien', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-ILA', 'Ilan', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-KHQ', 'Kaohsiung', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-KHH', 'Kaohsiung Special Municipality', 'special municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-KEE', 'Keelung Municipality', 'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-MIA', 'Miaoli', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-NAN', 'Nantou', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-PEN', 'Penghu', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-PIF', 'Pingtung City', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TXQ', 'Taichung', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TXG', 'Taichung Municipality', 'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TNQ', 'Tainan', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TNN', 'Tainan Municipality', 'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TPQ', 'Taipei', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TPE', 'Taipei Special Municipality', 'special municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TTT', 'Taitung', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-TAO', 'Taoyuan', 'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES ('TW-YUN', 'Yunlin County', 'district');

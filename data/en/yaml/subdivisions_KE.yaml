@@ -1,0 +1,25 @@
+---
+KE-200:
+  name: Central
+  level: province
+KE-300:
+  name: Coast
+  level: province
+KE-400:
+  name: Eastern
+  level: province
+KE-110:
+  name: Nairobi
+  level: province
+KE-500:
+  name: North-Eastern
+  level: province
+KE-600:
+  name: Nyanza
+  level: province
+KE-700:
+  name: Rift Valley
+  level: province
+KE-900:
+  name: Western
+  level: province

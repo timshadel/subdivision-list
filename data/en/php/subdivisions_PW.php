@@ -1,0 +1,18 @@
+<?php return array (
+  'PW-002' => array('name' => 'Aimeliik', 'level' => 'state'),
+  'PW-004' => array('name' => 'Airai', 'level' => 'state'),
+  'PW-010' => array('name' => 'Angaur', 'level' => 'state'),
+  'PW-050' => array('name' => 'Hatohobei', 'level' => 'state'),
+  'PW-100' => array('name' => 'Kayangel', 'level' => 'state'),
+  'PW-150' => array('name' => 'Koror', 'level' => 'state'),
+  'PW-212' => array('name' => 'Melekeok', 'level' => 'state'),
+  'PW-214' => array('name' => 'Ngaraard', 'level' => 'state'),
+  'PW-218' => array('name' => 'Ngarchelong', 'level' => 'state'),
+  'PW-222' => array('name' => 'Ngardmau', 'level' => 'state'),
+  'PW-224' => array('name' => 'Ngatpang', 'level' => 'state'),
+  'PW-226' => array('name' => 'Ngchesar', 'level' => 'state'),
+  'PW-227' => array('name' => 'Ngeremlengui', 'level' => 'state'),
+  'PW-228' => array('name' => 'Ngiwal', 'level' => 'state'),
+  'PW-350' => array('name' => 'Peleliu', 'level' => 'state'),
+  'PW-370' => array('name' => 'Sonsorol', 'level' => 'state'),
+);

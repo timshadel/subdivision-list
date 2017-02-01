@@ -1,0 +1,427 @@
+---
+GB-ABE:
+  name: "Абердин"
+  level: council area (scotland)
+GB-ABD:
+  name: "Абердиншир"
+  level: council area (scotland)
+GB-ANS:
+  name: "Ангус"
+  level: council area (scotland)
+GB-BNS:
+  name: "Барнслі"
+  level: metropolitan district
+GB-BDF:
+  name: "Бедфордшир"
+  level: unitary authority
+GB-BFS:
+  name: "Белфаст"
+  level: district council area (northern ireland)
+GB-BIR:
+  name: "Бірмінгем"
+  level: metropolitan district
+GB-BPL:
+  name: "Блекпул"
+  level: unitary authority
+GB-BGW:
+  name: "Бланау-Гвент"
+  level: unitary authority (wales)
+GB-BOL:
+  name: "Болтон"
+  level: metropolitan district
+GB-BMH:
+  name: "Борнмут"
+  level: unitary authority
+GB-BRD:
+  name: "Бредфорд"
+  level: metropolitan district
+GB-BST:
+  name: "Бристоль"
+  level: unitary authority
+GB-BRY:
+  name: "Бромлі"
+  level: borough
+GB-BKM:
+  name: "Бакінгемшир"
+  level: two-tier county
+GB-BUR:
+  name: "Бері"
+  level: metropolitan district
+GB-CAY:
+  name: "Карфіллі"
+  level: unitary authority (wales)
+GB-CAM:
+  name: "Кембриджшир"
+  level: two-tier county
+GB-CRF:
+  name: "Кардіфф"
+  level: unitary authority (wales)
+GB-CMN:
+  name: "Кармартеншир"
+  level: unitary authority (wales)
+GB-CGN:
+  name: "Кередігіон"
+  level: unitary authority (wales)
+GB-CHS:
+  name: "Чешир"
+  level: ''
+GB-CLK:
+  name: "Клакманнаншир"
+  level: council area (scotland)
+GB-CLR:
+  name: "Колрейн"
+  level: district council area (northern ireland)
+GB-CWY:
+  name: "Конві"
+  level: unitary authority (wales)
+GB-CON:
+  name: "Корнуол"
+  level: unitary authority
+GB-COV:
+  name: "Ковентрі"
+  level: metropolitan district
+GB-BDG:
+  name: "Баркінг і Дагенем"
+  level: borough
+GB-FER:
+  name: "Фермана"
+  level: district council area (northern ireland)
+GB-CMA:
+  name: "Камбрія"
+  level: two-tier county
+GB-DEN:
+  name: "Денбігшир"
+  level: unitary authority (wales)
+GB-DER:
+  name: "Дербі"
+  level: unitary authority
+GB-DBY:
+  name: "Дербішир"
+  level: two-tier county
+GB-DRY:
+  name: "Деррі"
+  level: district council area (northern ireland)
+GB-DEV:
+  name: "Девон"
+  level: two-tier county
+GB-DNC:
+  name: "Донкастер"
+  level: metropolitan district
+GB-DOR:
+  name: "Дорсет"
+  level: two-tier county
+GB-DUD:
+  name: "Дадлі"
+  level: metropolitan district
+GB-DGY:
+  name: "Дамфріс і Галловей"
+  level: council area (scotland)
+GB-DND:
+  name: "Данді"
+  level: council area (scotland)
+GB-EAY:
+  name: "Східний Ершир"
+  level: council area (scotland)
+GB-EDU:
+  name: "Східний Данбартоншир"
+  level: council area (scotland)
+GB-ELN:
+  name: "Східний Лотіан"
+  level: council area (scotland)
+GB-ERW:
+  name: "Східний Ренфрюшир"
+  level: council area (scotland)
+GB-ERY:
+  name: "Східний Йоркширський Райдінг"
+  level: unitary authority
+GB-ESX:
+  name: "Східний Сассекс"
+  level: two-tier county
+GB-EDH:
+  name: "Единбург"
+  level: council area (scotland)
+GB-ENF:
+  name: "Енфілд"
+  level: borough
+GB-ESS:
+  name: "Ессекс"
+  level: two-tier county
+GB-FAL:
+  name: "Фолкерк"
+  level: council area (scotland)
+GB-FIF:
+  name: "Файф"
+  level: council area (scotland)
+GB-FLN:
+  name: "Флінтшир"
+  level: unitary authority (wales)
+GB-GLG:
+  name: "Глазго"
+  level: council area (scotland)
+GB-GLS:
+  name: "Глостершир"
+  level: two-tier county
+GB-GRE:
+  name: "Гринвіч"
+  level: borough
+GB-GWN:
+  name: "Гвінет"
+  level: unitary authority (wales)
+GB-HAM:
+  name: "Гемпшир"
+  level: two-tier county
+GB-HRW:
+  name: "Герроу"
+  level: borough
+GB-HEF:
+  name: "Герефордшир"
+  level: unitary authority
+GB-HRT:
+  name: "Гартфордшир"
+  level: two-tier county
+GB-HLD:
+  name: "Височина"
+  level: council area (scotland)
+GB-IVC:
+  name: "Інверклайд"
+  level: council area (scotland)
+GB-HMF:
+  name: "Гаммерсміт і Фулхем"
+  level: borough
+GB-HAV:
+  name: "Гейверінг"
+  level: borough
+GB-ELS:
+  name: "Західні острови"
+  level: council area (scotland)
+GB-AGY:
+  name: "Анґлсі"
+  level: unitary authority (wales)
+GB-LND:
+  name: "Лондонське Сіті"
+  level: city corporation
+GB-IOW:
+  name: "Острів Вайт"
+  level: unitary authority
+GB-KEN:
+  name: "Кент"
+  level: two-tier county
+GB-KHL:
+  name: "Кінгстон-апон-Галл"
+  level: unitary authority
+GB-KTT:
+  name: "Кінгстон-на-Темзі"
+  level: borough
+GB-LAN:
+  name: "Ланкашир"
+  level: two-tier county
+GB-LDS:
+  name: "Лідс"
+  level: metropolitan district
+GB-LCE:
+  name: "Лестер"
+  level: unitary authority
+GB-LEC:
+  name: "Лестершир"
+  level: two-tier county
+GB-LIN:
+  name: "Лінкольншир"
+  level: two-tier county
+GB-LIV:
+  name: "Ліверпуль"
+  level: metropolitan district
+GB-NWM:
+  name: "Ньюем"
+  level: borough
+GB-MAN:
+  name: "Манчестер"
+  level: metropolitan district
+GB-MTY:
+  name: "Мертір-Тідвіл"
+  level: unitary authority (wales)
+GB-MLN:
+  name: "Середній Лотіан"
+  level: council area (scotland)
+GB-MON:
+  name: "Монмутшир"
+  level: unitary authority (wales)
+GB-MRY:
+  name: "Морей"
+  level: council area (scotland)
+GB-NTL:
+  name: "Ніт-Порт-Толбот"
+  level: unitary authority (wales)
+GB-NET:
+  name: "Ньюкасл-апон-Тайн"
+  level: metropolitan district
+GB-NWP:
+  name: "Ньюпорт"
+  level: unitary authority (wales)
+GB-NFK:
+  name: "Норфолк"
+  level: two-tier county
+GB-NAY:
+  name: "Північний Ершир"
+  level: council area (scotland)
+GB-NLK:
+  name: "Північний Ланаркшир"
+  level: council area (scotland)
+GB-NYK:
+  name: "Північний Йоркшир"
+  level: two-tier county
+GB-NTH:
+  name: "Нортгемптоншир"
+  level: two-tier county
+GB-NBL:
+  name: "Нортумберленд"
+  level: unitary authority
+GB-RIC:
+  name: "Річмонд-на-Темзі"
+  level: borough
+GB-NGM:
+  name: "Ноттінгем"
+  level: unitary authority
+GB-NTT:
+  name: "Ноттінгемшир"
+  level: two-tier county
+GB-OLD:
+  name: "Олдгем"
+  level: metropolitan district
+GB-ORK:
+  name: "Оркнейські острови"
+  level: council area (scotland)
+GB-OXF:
+  name: "Оксфордшир"
+  level: two-tier county
+GB-PEM:
+  name: "Пембрукшир"
+  level: unitary authority (wales)
+GB-PKN:
+  name: "Перт-і-Кінросс"
+  level: council area (scotland)
+GB-PTE:
+  name: "Пітерборо"
+  level: unitary authority
+GB-PLY:
+  name: "Плімут"
+  level: unitary authority
+GB-POR:
+  name: "Портсмут"
+  level: unitary authority
+GB-POW:
+  name: "Повіс"
+  level: unitary authority (wales)
+GB-RFW:
+  name: "Ренфрюшир"
+  level: council area (scotland)
+GB-RCH:
+  name: "Рочдейл"
+  level: metropolitan district
+GB-RUT:
+  name: "Рутленд"
+  level: unitary authority
+GB-SCB:
+  name: "Шотландські кордони"
+  level: council area (scotland)
+GB-SHF:
+  name: "Шеффілд"
+  level: metropolitan district
+GB-ZET:
+  name: "Шетландські острови"
+  level: council area (scotland)
+GB-SHR:
+  name: "Шропшир"
+  level: unitary authority
+GB-SOM:
+  name: "Сомерсет"
+  level: two-tier county
+GB-SAY:
+  name: "Південний Ершир"
+  level: council area (scotland)
+GB-SLK:
+  name: "Південний Ланаркшир"
+  level: council area (scotland)
+GB-STH:
+  name: "Саутгемптон"
+  level: unitary authority
+GB-SOS:
+  name: "Саутенд-он-Сі"
+  level: unitary authority
+GB-STS:
+  name: "Стаффордшир"
+  level: two-tier county
+GB-STG:
+  name: "Стерлінг"
+  level: council area (scotland)
+GB-STE:
+  name: "Сток-он-Трент"
+  level: unitary authority
+GB-SFK:
+  name: "Суффолк"
+  level: two-tier county
+GB-SND:
+  name: "Сандерленд"
+  level: metropolitan district
+GB-SRY:
+  name: "Суррей"
+  level: two-tier county
+ENG:
+  name: "Англія"
+  level: country
+GB-TWH:
+  name: "Тауер-Гемлетс"
+  level: borough
+GB-WFT:
+  name: "Волтгем Форест"
+  level: borough
+NIR:
+  name: "Північна Ірландія"
+  level: country
+SCT:
+  name: "Шотландія"
+  level: country
+GB-SWA:
+  name: "Свонсі"
+  level: unitary authority (wales)
+GB-TOF:
+  name: "Торван"
+  level: unitary authority (wales)
+GB-VGL:
+  name: "Долина Гламорган"
+  level: unitary authority (wales)
+WLS:
+  name: "Уельс"
+  level: country
+GB-WAR:
+  name: "Ворікшир"
+  level: two-tier county
+GB-WDU:
+  name: "Західний Данбартоншир"
+  level: council area (scotland)
+GB-WLN:
+  name: "Західний Лотіан"
+  level: council area (scotland)
+GB-WSX:
+  name: "Західний Сассекс"
+  level: two-tier county
+GB-WSM:
+  name: "Вестмінстер"
+  level: borough
+GB-WGN:
+  name: "Віган"
+  level: metropolitan district
+GB-WIL:
+  name: "Вілтшир"
+  level: unitary authority
+GB-WLV:
+  name: "Вулвергемптон"
+  level: metropolitan district
+GB-WOR:
+  name: "Вустершир"
+  level: two-tier county
+GB-WRX:
+  name: "Рексем"
+  level: unitary authority (wales)
+GB-YOR:
+  name: "Йорк"
+  level: unitary authority

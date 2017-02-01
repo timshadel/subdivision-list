@@ -1,0 +1,76 @@
+---
+CH-AG:
+  name: Argóvia
+  level: canton
+CH-AR:
+  name: Appenzell Exterior
+  level: canton
+CH-AI:
+  name: Appenzell Interior
+  level: canton
+CH-BL:
+  name: Basileia-Campo
+  level: canton
+CH-BS:
+  name: Basileia-Cidade
+  level: canton
+CH-BE:
+  name: Berna
+  level: canton
+CH-FR:
+  name: Friburgo
+  level: canton
+CH-GL:
+  name: Glarona
+  level: canton
+CH-GR:
+  name: Grisões
+  level: canton
+CH-JU:
+  name: Jura
+  level: canton
+CH-NE:
+  name: Neuchâtel
+  level: canton
+CH-NW:
+  name: Nidwald
+  level: canton
+CH-OW:
+  name: Obwald
+  level: canton
+CH-SH:
+  name: Schaffhausen
+  level: canton
+CH-SZ:
+  name: Schwyz
+  level: canton
+CH-SO:
+  name: Soleura
+  level: canton
+CH-TG:
+  name: Turgóvia
+  level: canton
+CH-TI:
+  name: Ticino
+  level: canton
+CH-UR:
+  name: Uri
+  level: canton
+CH-VS:
+  name: Valais
+  level: canton
+CH-VD:
+  name: Vaud
+  level: canton
+CH-ZG:
+  name: Zug
+  level: canton
+CH-GE:
+  name: Genebra
+  level: canton
+CH-LU:
+  name: Lucerna
+  level: canton
+CH-ZH:
+  name: Zurique
+  level: canton

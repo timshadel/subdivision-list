@@ -1,0 +1,31 @@
+---
+OM-DA:
+  name: Ad Dakhiliyah
+  level: region
+OM-BA:
+  name: Al Bāţinah
+  level: region
+OM-BU:
+  name: Al Buraimi Governorate
+  level: governorate
+OM-WU:
+  name: Al Wusta
+  level: region
+OM-SH:
+  name: Ash Sharqiyah
+  level: region
+OM-ZA:
+  name: Ad Dhahirah North Governorate
+  level: region
+OM-JA:
+  name: Dhofar Governorate
+  level: governorate
+OM-MA:
+  name: Muscat
+  level: governorate
+OM-MU:
+  name: Musandam Governorate
+  level: governorate
+OM-ZU:
+  name: Dhofar Governorate
+  level: governorate

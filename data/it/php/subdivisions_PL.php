@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Voivodato della Grande Polonia', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Voivodato della Cuiavia-Pomerania', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Voivodato della Piccola Polonia', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Voivodato della Bassa Slesia', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Voivodato di Lublino', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Voivodato di Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Voivodato della Masovia', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Voivodato di Opole', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Voivodato della Precarpazia', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Voivodato della Podlachia', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Voivodato della Pomerania', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Voivodato della Slesia', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Voivodato della Varmia-Masuria', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Voivodato della Pomerania Occidentale', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Voivodato della Santacroce', 'level' => 'voivodship'),
+);

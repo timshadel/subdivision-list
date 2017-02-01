@@ -1,0 +1,85 @@
+---
+MV-02:
+  name: Alif
+  level: administrative atoll
+MV-00:
+  name: Alif Dhaal Atoll
+  level: ''
+MV-20:
+  name: BAA
+  level: administrative atoll
+MV-CE:
+  name: Central
+  level: province
+MV-17:
+  name: Dhaalu
+  level: administrative atoll
+MV-14:
+  name: Faafu
+  level: administrative atoll
+MV-27:
+  name: Gaafu Alif Atoll
+  level: administrative atoll
+MV-28:
+  name: Gaafu Dhaalu Atoll
+  level: administrative atoll
+MV-29:
+  name: Gnaviyani
+  level: administrative atoll
+MV-07:
+  name: Northern Thiladhunmathi Atoll
+  level: administrative atoll
+MV-23:
+  name: Haa Dhaalu Atoll
+  level: administrative atoll
+MV-26:
+  name: Kaafu
+  level: administrative atoll
+MV-05:
+  name: Laamu
+  level: administrative atoll
+MV-03:
+  name: Lhaviyani
+  level: administrative atoll
+MV-MLE:
+  name: Male
+  level: capital
+MV-12:
+  name: Meemu
+  level: administrative atoll
+MV-25:
+  name: Noonu
+  level: administrative atoll
+MV-NO:
+  name: North
+  level: province
+MV-NC:
+  name: North Central
+  level: province
+MV-13:
+  name: RAA
+  level: administrative atoll
+MV-01:
+  name: Seenu
+  level: administrative atoll
+MV-24:
+  name: Shaviyani
+  level: administrative atoll
+MV-SU:
+  name: South
+  level: province
+MV-SC:
+  name: South Central
+  level: province
+MV-08:
+  name: Thaa
+  level: administrative atoll
+MV-UN:
+  name: Upper North
+  level: province
+MV-US:
+  name: Upland South
+  level: province
+MV-04:
+  name: Vaavu
+  level: administrative atoll

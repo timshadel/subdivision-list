@@ -1,0 +1,43 @@
+---
+JM-13:
+  name: Clarendon
+  level: parish
+JM-09:
+  name: Hanover
+  level: parish
+JM-01:
+  name: Kingston
+  level: parish
+JM-12:
+  name: Manchester
+  level: parish
+JM-04:
+  name: Portland
+  level: parish
+JM-02:
+  name: Saint Andrew
+  level: parish
+JM-06:
+  name: Saint Anne
+  level: parish
+JM-14:
+  name: St. Catherine
+  level: parish
+JM-11:
+  name: Saint Elizabeth
+  level: parish
+JM-08:
+  name: Saint James
+  level: parish
+JM-05:
+  name: Mary
+  level: parish
+JM-03:
+  name: Saint Thomas
+  level: parish
+JM-07:
+  name: Trelawney
+  level: parish
+JM-10:
+  name: Westmoreland
+  level: parish

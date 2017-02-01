@@ -1,0 +1,15 @@
+<?php return array (
+  'TL-AL' => array('name' => 'Aileu', 'level' => 'district'),
+  'TL-AN' => array('name' => 'Ainaro', 'level' => 'district'),
+  'TL-BA' => array('name' => 'Baucau', 'level' => 'district'),
+  'TL-BO' => array('name' => 'Bobonaro', 'level' => 'district'),
+  'TL-CO' => array('name' => 'Cova Lima District', 'level' => 'district'),
+  'TL-DI' => array('name' => 'Dili', 'level' => 'district'),
+  'TL-ER' => array('name' => 'Ermera', 'level' => 'district'),
+  'TL-LA' => array('name' => 'Lautém District', 'level' => 'district'),
+  'TL-LI' => array('name' => 'Liquiçá', 'level' => 'district'),
+  'TL-MT' => array('name' => 'Manatuto', 'level' => 'district'),
+  'TL-MF' => array('name' => 'Manufahi District', 'level' => 'district'),
+  'TL-OE' => array('name' => 'Oecusse District', 'level' => 'district'),
+  'TL-VI' => array('name' => 'Viqueque', 'level' => 'district'),
+);

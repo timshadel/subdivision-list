@@ -1,0 +1,37 @@
+---
+BJ-AL:
+  name: Alibori Department
+  level: department
+BJ-AK:
+  name: Atakora Department
+  level: department
+BJ-AQ:
+  name: Atlantique
+  level: department
+BJ-BO:
+  name: Borgou Department
+  level: department
+BJ-CO:
+  name: Collines
+  level: department
+BJ-DO:
+  name: Donga
+  level: department
+BJ-KO:
+  name: Kouffo
+  level: department
+BJ-LI:
+  name: Littoral zone
+  level: department
+BJ-MO:
+  name: Mono
+  level: department
+BJ-OU:
+  name: Ouémé
+  level: department
+BJ-PL:
+  name: Plateau
+  level: department
+BJ-ZO:
+  name: Zou
+  level: department

@@ -1,0 +1,154 @@
+---
+US-AL:
+  name: "אלבמה"
+  level: state
+US-AK:
+  name: "אלסקה"
+  level: state
+US-AS:
+  name: "סמואה האמריקנית"
+  level: outlying area
+US-AZ:
+  name: "אריזונה"
+  level: state
+US-AR:
+  name: "ארקנסו"
+  level: state
+US-CA:
+  name: "קליפורניה"
+  level: state
+US-CO:
+  name: "קולורדו"
+  level: state
+US-CT:
+  name: "קונטיקט"
+  level: state
+US-DE:
+  name: "דלאוור"
+  level: state
+US-FL:
+  name: "פלורידה"
+  level: state
+US-GU:
+  name: "גואם"
+  level: outlying area
+US-HI:
+  name: "הוואי"
+  level: state
+US-ID:
+  name: "איידהו"
+  level: state
+US-IL:
+  name: "אילינוי"
+  level: state
+US-IN:
+  name: "אינדיאנה"
+  level: state
+US-IA:
+  name: "איווה"
+  level: state
+US-KS:
+  name: "קנזס"
+  level: state
+US-KY:
+  name: "קנטקי"
+  level: state
+US-LA:
+  name: "לואיזיאנה"
+  level: state
+US-ME:
+  name: "מיין"
+  level: state
+US-MD:
+  name: "מרילנד"
+  level: state
+US-MI:
+  name: "מישיגן"
+  level: state
+US-MN:
+  name: "מינסוטה"
+  level: state
+US-MS:
+  name: "מיסיסיפי"
+  level: state
+US-MO:
+  name: "מיזורי"
+  level: state
+US-MT:
+  name: "מונטנה"
+  level: state
+US-NE:
+  name: "נברסקה"
+  level: state
+US-NV:
+  name: "נבדה"
+  level: state
+US-NH:
+  name: "ניו המפשייר"
+  level: state
+US-NM:
+  name: "ניו מקסיקו"
+  level: state
+US-NY:
+  name: "ניו יורק"
+  level: state
+US-NC:
+  name: "קרוליינה הצפונית"
+  level: state
+US-ND:
+  name: "דקוטה הצפונית"
+  level: state
+US-MP:
+  name: "איי מריאנה הצפוניים"
+  level: outlying area
+US-OH:
+  name: "אוהיו"
+  level: state
+US-OK:
+  name: "אוקלהומה"
+  level: state
+US-OR:
+  name: "אורגון"
+  level: state
+US-PA:
+  name: "פנסילבניה"
+  level: state
+US-PR:
+  name: "פוארטו ריקו"
+  level: outlying area
+US-RI:
+  name: "רוד איילנד"
+  level: state
+US-SC:
+  name: "קרוליינה הדרומית"
+  level: state
+US-SD:
+  name: "דקוטה הדרומית"
+  level: state
+US-TN:
+  name: "טנסי"
+  level: state
+US-TX:
+  name: "טקסס"
+  level: state
+US-UT:
+  name: "יוטה"
+  level: state
+US-DC:
+  name: "וושינגטון די. סי."
+  level: district
+US-VT:
+  name: "ורמונט"
+  level: state
+US-VI:
+  name: "איי הבתולה"
+  level: outlying area
+US-WA:
+  name: "וושינגטון"
+  level: state
+US-WI:
+  name: "ויסקונסין"
+  level: state
+US-WY:
+  name: "ויומינג"
+  level: state

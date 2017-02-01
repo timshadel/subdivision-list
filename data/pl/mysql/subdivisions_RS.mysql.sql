@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-00', 'Belgrad', 'city');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-14', 'Okręg borski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-11', 'Okręg braniczewski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-02', 'Okręg środkowobanacki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-23', 'Okręg jablanicki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-09', 'Okręg kolubarski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-29', 'Okręg Kosovo-Pomoravlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-25', 'Okręg Kosowo', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-08', 'Okręg maczwański', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-17', 'Okręg morawicki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-20', 'Okręg niszawski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-03', 'Okręg północnobanacki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-01', 'Okręg północnobacki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-22', 'Okręg pirocki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-10', 'Okręg podunajski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-13', 'Okręg pomorawski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-24', 'Okręg pczyński', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-19', 'Okręg rasiński', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-04', 'Okręg południowobanacki', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-07', 'Okręg sremski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-16', 'Okręg zlatiborski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-12', 'Okręg szumadijski', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-28', 'Mitrovica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-26', 'Peć', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-27', 'Prizren', 'district');

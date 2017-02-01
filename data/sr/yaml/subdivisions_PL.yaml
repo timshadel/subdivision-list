@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: "Војводство Великопољско"
+  level: voivodship
+PL-KP:
+  name: "Војводство Кујавско-Поморје"
+  level: voivodship
+PL-MA:
+  name: "Војводство Малопољско"
+  level: voivodship
+PL-DS:
+  name: "Војводство Доње Шлеско"
+  level: voivodship
+PL-LU:
+  name: "Војводство Лублин"
+  level: voivodship
+PL-LB:
+  name: "Војводство Лубуш"
+  level: voivodship
+PL-MZ:
+  name: "Војводство Мазовско"
+  level: voivodship
+PL-OP:
+  name: "Војводство Опоље"
+  level: voivodship
+PL-PK:
+  name: "Војводство Поткарпатје"
+  level: voivodship
+PL-PD:
+  name: "Војводство Подласко"
+  level: voivodship
+PL-PM:
+  name: "Војводство Поморје"
+  level: voivodship
+PL-SL:
+  name: "Војводство Шлеско"
+  level: voivodship
+PL-WN:
+  name: "Варминско-мазурско војводство"
+  level: voivodship
+PL-ZP:
+  name: "Војводство Западно Поморје"
+  level: voivodship
+PL-SK:
+  name: "Војводство Светокришко"
+  level: voivodship

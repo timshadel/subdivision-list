@@ -1,0 +1,19 @@
+---
+DJ-AS:
+  name: "`Ali Sabieh"
+  level: region
+DJ-AR:
+  name: Arta
+  level: region
+DJ-DI:
+  name: Dikhil
+  level: region
+DJ-DJ:
+  name: Djibouti
+  level: city
+DJ-OB:
+  name: Obock
+  level: region
+DJ-TA:
+  name: Tadjoura
+  level: region

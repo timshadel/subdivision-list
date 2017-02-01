@@ -1,0 +1,97 @@
+---
+DO-02:
+  name: Azua
+  level: province
+DO-03:
+  name: Baoruco
+  level: province
+DO-04:
+  name: Barahona
+  level: province
+DO-05:
+  name: Dajabón
+  level: province
+DO-01:
+  name: Distrito Nacional
+  level: province
+DO-06:
+  name: Duarte
+  level: province
+DO-08:
+  name: El Seybo
+  level: province
+DO-09:
+  name: Espaillat
+  level: province
+DO-30:
+  name: Hato Mayor
+  level: province
+DO-10:
+  name: Independencia
+  level: province
+DO-11:
+  name: La Altagracia Province
+  level: province
+DO-07:
+  name: La Estrelleta
+  level: province
+DO-12:
+  name: La Romana
+  level: province
+DO-13:
+  name: La Vega
+  level: province
+DO-14:
+  name: María Trinidad Sánchez Province
+  level: province
+DO-28:
+  name: Monseñor Nouel Province
+  level: province
+DO-15:
+  name: Monte Cristi
+  level: province
+DO-29:
+  name: Monte Plata
+  level: province
+DO-16:
+  name: Pedernales
+  level: province
+DO-17:
+  name: Peravia Province
+  level: province
+DO-18:
+  name: Puerto Plata
+  level: province
+DO-19:
+  name: Salcedo
+  level: province
+DO-20:
+  name: Samaná
+  level: province
+DO-21:
+  name: San Cristóbal
+  level: province
+DO-31:
+  name: San José de Ocoa
+  level: province
+DO-22:
+  name: San Juan
+  level: province
+DO-23:
+  name: San Pedro de Macorís
+  level: province
+DO-25:
+  name: Santiago
+  level: province
+DO-26:
+  name: Santiago Rodríguez
+  level: province
+DO-32:
+  name: Santo Domingo
+  level: ''
+DO-24:
+  name: Sánchez Ramírez Province
+  level: province
+DO-27:
+  name: Valverde
+  level: province

@@ -1,0 +1,18 @@
+<?php return array (
+  'NL-AW' => array('name' => 'Aruba', 'level' => 'country'),
+  'NL-BQ1' => array('name' => 'Bonaire', 'level' => 'special municipality'),
+  'NL-CW' => array('name' => 'Curaçao', 'level' => 'country'),
+  'NL-DR' => array('name' => 'Drenthe', 'level' => 'province'),
+  'NL-FL' => array('name' => 'Flevoland', 'level' => 'province'),
+  'NL-FR' => array('name' => 'Frisia - Fryslân', 'level' => 'province'),
+  'NL-GE' => array('name' => 'Gueldria - Gelderland', 'level' => 'province'),
+  'NL-GR' => array('name' => 'Groninga - Groningen', 'level' => 'province'),
+  'NL-NB' => array('name' => 'Brabante do Norte - Noord Brabant', 'level' => 'province'),
+  'NL-NH' => array('name' => 'Holanda Setentrional - Noord-Holland', 'level' => 'province'),
+  'NL-OV' => array('name' => 'Overijssel', 'level' => 'province'),
+  'NL-BQ2' => array('name' => 'Saba', 'level' => 'special municipality'),
+  'NL-BQ3' => array('name' => 'San Eustaquio', 'level' => 'special municipality'),
+  'NL-ZH' => array('name' => 'Holanda Meridional - Zuid-Holland', 'level' => 'province'),
+  'NL-UT' => array('name' => 'Utrecht', 'level' => 'province'),
+  'NL-ZE' => array('name' => 'Celandia - Zeeland', 'level' => 'province'),
+);

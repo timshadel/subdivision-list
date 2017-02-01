@@ -1,0 +1,169 @@
+id,name,level
+MK-01,Aerodrom,municipality
+MK-AD,Aerodrom,municipality
+MK-AR,Aračinovo,municipality
+MK-02,Aračinovo,municipality
+MK-BR,Berovo,municipality
+MK-03,Berovo,municipality
+MK-04,Bitola,municipality
+MK-TL,Bitola,municipality
+MK-05,Bogdanci,municipality
+MK-BG,Bogdanci,municipality
+MK-06,Bogovinje,municipality
+MK-VJ,Bogovinje,municipality
+MK-BS,Bosilovo,municipality
+MK-07,Bosilovo,municipality
+MK-BN,Brvenica,municipality
+MK-08,Brvenica,municipality
+MK-09,Municipality of Butel,municipality
+MK-BU,Butel,municipality
+MK-CI,Cair,municipality
+MK-CA,Caška,municipality
+MK-77,Centar,municipality
+MK-CE,Centar,municipality
+MK-CZ,Centar Župa,municipality
+MK-78,Centar Župa,municipality
+MK-CH,Cešinovo-Obleševo,municipality
+MK-CS,Cucer Sandevo,municipality
+MK-DB,Debar,municipality
+MK-21,Debar,municipality
+MK-22,Debarca,municipality
+MK-DA,Debarca,municipality
+MK-DL,Delčevo,municipality
+MK-23,Delčevo,municipality
+MK-25,Demir Hisar,municipality
+MK-DM,Demir Hisar,municipality
+MK-DK,Demir Kapija,municipality
+MK-24,Demir Kapija,municipality
+MK-SD,Dojran,municipality
+MK-26,Dojran,municipality
+MK-27,Dolneni,municipality
+MK-DE,Dolneni,municipality
+MK-DR,Drugovo,municipality
+MK-28,Drugovo,municipality
+MK-17,Municipality of Gazi Baba,municipality
+MK-GB,Gazi Baba,municipality
+MK-18,Gevgelija,municipality
+MK-GV,Gevgelija,municipality
+MK-GP,Gjorce Petrov,municipality
+MK-29,Gyorche Petrov,municipality
+MK-19,Gostivar,municipality
+MK-GT,Gostivar,municipality
+MK-GR,Gradsko,municipality
+MK-20,Gradsko,municipality
+MK-IL,Ilinden,municipality
+MK-34,Ilinden,municipality
+MK-JG,Jegunovce,municipality
+MK-35,Jegunovce,municipality
+MK-37,Karbinci,municipality
+MK-KB,Karbinci,municipality
+MK-38,Municipality of Karpoš,municipality
+MK-KX,Karpoš,municipality
+MK-36,Kavadarci,municipality
+MK-AV,Kavadarci,municipality
+MK-KH,Kičevo,municipality
+MK-39,Municipality of Kisela Voda,municipality
+MK-VD,Kisela Voda,municipality
+MK-40,Kičevo,municipality
+MK-OC,Kočani,municipality
+MK-KN,Konče,municipality
+MK-41,Konče,municipality
+MK-42,Kočani,municipality
+MK-43,Kratovo,municipality
+MK-KY,Kratovo,municipality
+MK-KZ,Kriva Palanka,municipality
+MK-44,Kriva Palanka,municipality
+MK-45,Krivogaštani,municipality
+MK-KG,Krivogaštani,municipality
+MK-46,Kruševo,municipality
+MK-KS,Kruševo,municipality
+MK-47,Kumanovo,municipality
+MK-UM,Kumanovo,municipality
+MK-LI,Lipkovo,municipality
+MK-48,Lipkovo,municipality
+MK-LO,Lozovo,municipality
+MK-49,Lozovo,municipality
+MK-51,Makedonska Kamenica,municipality
+MK-MK,Makedonska Kamenica,municipality
+MK-52,Makedonski Brod,municipality
+MK-MD,Makedonski Brod,municipality
+MK-50,Municipality of Mavrovo and Rostuša,municipality
+MK-MR,Mavrovo-i-Rostuša,municipality
+MK-MG,Mogila,municipality
+MK-53,Mogila,municipality
+MK-54,Negotino,municipality
+MK-NG,Negotino,municipality
+MK-NV,Novaci,municipality
+MK-55,Novaci,municipality
+MK-NS,Novo Selo,municipality
+MK-56,Novo Selo,municipality
+MK-58,Ohrid,municipality
+MK-OD,Ohrid,municipality
+MK-OS,Oslomej,municipality
+MK-57,Oslomej,municipality
+MK-PH,Pehčevo,municipality
+MK-60,Pehčevo,municipality
+MK-59,Petrovec,municipality
+MK-PE,Petrovec,municipality
+MK-61,Plasnica,municipality
+MK-PN,Plasnica,municipality
+MK-PP,Prilep,municipality
+MK-62,Prilep,municipality
+MK-PT,Probištip,municipality
+MK-63,Probištip,municipality
+MK-RV,Radoviš,municipality
+MK-64,Radoviš,municipality
+MK-RN,Rankovce,municipality
+MK-65,Rankovce,municipality
+MK-66,Resen,municipality
+MK-RE,Resen,municipality
+MK-67,Rosoman,municipality
+MK-RM,Rosoman,municipality
+MK-68,Sarai,municipality
+MK-AJ,Saraj,municipality
+MK-70,Sopište,municipality
+MK-SS,Sopište,municipality
+MK-NA,Staro Nagoričane,municipality
+MK-71,Staro Nagoričane,municipality
+MK-UG,Struga,municipality
+MK-72,Struga,municipality
+MK-73,Strumica,municipality
+MK-RU,Strumica,municipality
+MK-SU,Studeničani,municipality
+MK-74,Studeničani,municipality
+MK-SL,Sveti Nikole,municipality
+MK-69,Sveti Nikole,municipality
+MK-75,Tearce,municipality
+MK-TR,Tearce,municipality
+MK-ET,Tetovo,municipality
+MK-76,Tetovo,municipality
+MK-10,Valandovo,municipality
+MK-VA,Valandovo,municipality
+MK-11,Vasilevo,municipality
+MK-VL,Vasilevo,municipality
+MK-VE,Veles,municipality
+MK-13,Veles,municipality
+MK-VV,Vevčani,municipality
+MK-12,Vevčani,municipality
+MK-14,Vinica,municipality
+MK-NI,Vinica,municipality
+MK-15,Vraneštica,municipality
+MK-VC,Vraneštica,municipality
+MK-VH,Vrapcište,municipality
+MK-16,Vrapčište,municipality
+MK-31,Zajas,municipality
+MK-ZA,Zajas,municipality
+MK-32,Zelenikovo,municipality
+MK-ZK,Zelenikovo,municipality
+MK-33,Zrnovci,municipality
+MK-ZR,Zrnovci,municipality
+MK-79,Municipality of Čair,municipality
+MK-80,Čaška,municipality
+MK-81,Municipality of Češinovo-Obleševo,municipality
+MK-82,Čučer-Sandevo,municipality
+MK-83,Štip,municipality
+MK-ST,Štip,municipality
+MK-84,Municipality of Šuto Orizari,municipality
+MK-SO,Šuto Orizari,municipality
+MK-30,Želino,municipality
+MK-ZE,Želino,municipality

@@ -1,0 +1,19 @@
+---
+SE-K:
+  name: Blekinge
+  level: county
+SE-W:
+  name: Dalarna
+  level: county
+SE-I:
+  name: Gotland
+  level: county
+SE-S:
+  name: Värmland
+  level: county
+SE-O:
+  name: Västra Götaland
+  level: county
+SE-T:
+  name: "Örebro"
+  level: county

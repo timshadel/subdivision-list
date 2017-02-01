@@ -1,0 +1,106 @@
+---
+RO-AR:
+  name: "Арад"
+  level: county
+RO-AG:
+  name: "Арг"
+  level: county
+RO-BC:
+  name: "Бакеу"
+  level: county
+RO-BN:
+  name: "Бистриця-Несеуд"
+  level: county
+RO-BT:
+  name: "Ботошані"
+  level: county
+RO-BV:
+  name: "Брашов"
+  level: county
+RO-BR:
+  name: "Браїла"
+  level: county
+RO-B:
+  name: "Бухарест"
+  level: city
+RO-BZ:
+  name: "Бузеу"
+  level: county
+RO-CS:
+  name: "Караш-Северін"
+  level: county
+RO-CJ:
+  name: "Клуж-Напока"
+  level: county
+RO-CT:
+  name: "Констанца"
+  level: county
+RO-CV:
+  name: "Ковасна"
+  level: county
+RO-CL:
+  name: "Келераші"
+  level: county
+RO-DJ:
+  name: "Долж"
+  level: county
+RO-DB:
+  name: "Димбовіца"
+  level: county
+RO-GL:
+  name: "Галац"
+  level: county
+RO-GR:
+  name: "Джурджу"
+  level: county
+RO-GJ:
+  name: "Горж"
+  level: county
+RO-HR:
+  name: "Харгіта"
+  level: county
+RO-HD:
+  name: "Хунедоара"
+  level: county
+RO-IS:
+  name: "Ясси"
+  level: county
+RO-IF:
+  name: "Ілфов"
+  level: county
+RO-MM:
+  name: "Мармарощина"
+  level: county
+RO-MH:
+  name: "Мехедінць"
+  level: county
+RO-MS:
+  name: "Муреш"
+  level: county
+RO-NT:
+  name: "Нямц"
+  level: county
+RO-SM:
+  name: "Сату-Маре"
+  level: county
+RO-SB:
+  name: "Сібіу"
+  level: county
+RO-SV:
+  name: "Сучава"
+  level: county
+RO-TR:
+  name: "Телеорман"
+  level: county
+RO-TM:
+  name: "Тиміш"
+  level: county
+RO-TL:
+  name: "Тульча"
+  level: county
+RO-VS:
+  name: "Васлуй"
+  level: county
+RO-VL:
+  name: "Вилчя"
+  level: county

@@ -1,0 +1,7 @@
+Banskobystrický kraj (SK-BC)
+Bratislavský kraj (SK-BL)
+Košický kraj (SK-KI)
+Nitriansky kraj (SK-NI)
+Prešovský kraj (SK-PV)
+Trnavský kraj (SK-TA)
+Žilinský kraj (SK-ZI)

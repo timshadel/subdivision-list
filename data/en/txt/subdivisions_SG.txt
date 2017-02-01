@@ -1,0 +1,5 @@
+Central Singapore (SG-01)
+Northeast (SG-02)
+Northwest (SG-03)
+Southeast (SG-04)
+Southwest (SG-05)

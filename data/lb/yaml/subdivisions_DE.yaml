@@ -1,0 +1,28 @@
+---
+DE-BW:
+  name: Baden-Württemberg
+  level: state
+DE-BY:
+  name: Bayern
+  level: state
+DE-BE:
+  name: Berlin
+  level: state
+DE-BB:
+  name: Brandenburg
+  level: state
+DE-HB:
+  name: Bremen
+  level: state
+DE-HH:
+  name: Hamburg
+  level: state
+DE-HE:
+  name: Hessen
+  level: state
+DE-RP:
+  name: Rheinland-Pfalz
+  level: state
+DE-SL:
+  name: Saarland
+  level: state

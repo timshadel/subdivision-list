@@ -1,0 +1,46 @@
+---
+EE-37:
+  name: Harju County
+  level: county
+EE-39:
+  name: Hiiumaa
+  level: county
+EE-44:
+  name: Ida-Viru County
+  level: county
+EE-51:
+  name: Järva County
+  level: county
+EE-49:
+  name: Jõgeva County
+  level: county
+EE-59:
+  name: Lääne-Viru County
+  level: county
+EE-57:
+  name: Lääne County
+  level: county
+EE-67:
+  name: Pärnu County
+  level: county
+EE-65:
+  name: Põlva County
+  level: county
+EE-70:
+  name: Rapla County
+  level: county
+EE-74:
+  name: Saaremaa
+  level: county
+EE-78:
+  name: Tartu County
+  level: county
+EE-82:
+  name: Valga County
+  level: county
+EE-84:
+  name: Viljandi County
+  level: county
+EE-86:
+  name: Võru County
+  level: county

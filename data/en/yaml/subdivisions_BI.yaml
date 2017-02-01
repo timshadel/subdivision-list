@@ -1,0 +1,55 @@
+---
+BI-BB:
+  name: Bubanza
+  level: province
+BI-BJ:
+  name: Bujumbura
+  level: province
+BI-BM:
+  name: Bujumbura
+  level: province
+BI-BL:
+  name: Bujumbura Rural Province
+  level: province
+BI-BR:
+  name: Bururi
+  level: province
+BI-CA:
+  name: Cankuzo
+  level: province
+BI-CI:
+  name: Cibitoke
+  level: province
+BI-GI:
+  name: Gitega
+  level: province
+BI-KR:
+  name: Karuzi
+  level: province
+BI-KY:
+  name: Kayanza
+  level: province
+BI-KI:
+  name: Kirundo
+  level: province
+BI-MA:
+  name: Makamba
+  level: province
+BI-MU:
+  name: Muramvya
+  level: province
+BI-MY:
+  name: Muyinga
+  level: province
+BI-MW:
+  name: Mwaro
+  level: province
+BI-NG:
+  name: Ngozi
+  level: province
+BI-RT:
+  name: Rutana
+  level: province
+BI-RY:
+  name: Ruyigi
+  level: province

@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-00', E'Belgrad', E'city');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-14', E'Okrug Bor', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-11', E'Okrug Braničevo', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-02', E'Okrug Srednji Banat', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-23', E'Okrug Jablanica', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-09', E'Okrug Kolubara', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-29', E'Okrug Kosovo-Pomoravlje', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-25', E'Okrug Kosovo', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-08', E'Okrug Mačva', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-17', E'Okrug Moravica', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-20', E'Nišavski okrug', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-03', E'Okrug Severni Banat', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-01', E'Okrug Severna Bačka', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-22', E'Okrug Pirot', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-10', E'Okrug Podunavlje', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-13', E'Okrug Pomoravlje', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-24', E'Okrug Pčinja', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-19', E'Okrug Rasina', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-04', E'Okrug Južni Banat', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-07', E'Okrug Srem', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-16', E'Okrug Zlatibor', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-12', E'Okrug Šumadija', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-26', E'Okrug Peć', E'district');

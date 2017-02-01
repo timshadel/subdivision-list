@@ -1,0 +1,7 @@
+Antofagasta (CL-AN)
+Arica y Parinacota (CL-AP)
+Atacamaørkenen (CL-AT)
+Aisén (CL-AI)
+Coquimbo (CL-CO)
+Región Metropolitana de Santiago (CL-RM)
+Valparaíso (CL-VS)

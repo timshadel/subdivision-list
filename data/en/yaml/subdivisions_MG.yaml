@@ -1,0 +1,19 @@
+---
+MG-T:
+  name: Antananarivo
+  level: province
+MG-D:
+  name: Antsiranana
+  level: province
+MG-F:
+  name: Fianarantsoa
+  level: province
+MG-M:
+  name: Mahajanga
+  level: province
+MG-A:
+  name: Toamasina
+  level: province
+MG-U:
+  name: Toliara
+  level: province

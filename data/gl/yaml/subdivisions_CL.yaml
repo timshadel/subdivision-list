@@ -1,0 +1,19 @@
+---
+CL-AN:
+  name: Antofagasta
+  level: region
+CL-AP:
+  name: Rexión de Arica e Parinacota
+  level: region
+CL-AT:
+  name: Deserto do Atacama
+  level: region
+CL-AI:
+  name: Rexión de Aisén
+  level: region
+CL-RM:
+  name: Rexión Metropolitana de Santiago
+  level: region
+CL-VS:
+  name: Valparaíso
+  level: region

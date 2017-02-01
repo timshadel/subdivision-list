@@ -1,0 +1,8 @@
+Banská Bystrica Region (SK-BC)
+Bratislava Region (SK-BL)
+Košice Region (SK-KI)
+Nitra Region (SK-NI)
+Prešov Region (SK-PV)
+Trenciansky kraj (SK-TC)
+Trnava Region (SK-TA)
+Žilina Region (SK-ZI)

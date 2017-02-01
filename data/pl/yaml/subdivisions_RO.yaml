@@ -1,0 +1,106 @@
+---
+RO-AB:
+  name: Alba
+  level: county
+RO-AR:
+  name: Arad
+  level: county
+RO-BC:
+  name: Bacău
+  level: county
+RO-BN:
+  name: Okręg Bistriţa-Năsăud
+  level: county
+RO-BT:
+  name: Botoszany
+  level: county
+RO-BV:
+  name: Braszów
+  level: county
+RO-BR:
+  name: Braiła
+  level: county
+RO-B:
+  name: Bukareszt
+  level: city
+RO-BZ:
+  name: Buzău
+  level: county
+RO-CS:
+  name: Okręg Caraş-Severin
+  level: county
+RO-CJ:
+  name: Kluż-Napoka
+  level: county
+RO-CT:
+  name: Konstanca
+  level: county
+RO-CV:
+  name: Covasna
+  level: county
+RO-CL:
+  name: Călăraşi
+  level: county
+RO-DJ:
+  name: Okręg Dolj
+  level: county
+RO-DB:
+  name: Dâmboviţa
+  level: county
+RO-GL:
+  name: Gałacz
+  level: county
+RO-GR:
+  name: Giurgiu
+  level: county
+RO-GJ:
+  name: Okręg Gorj
+  level: county
+RO-HR:
+  name: Okręg Harghita
+  level: county
+RO-HD:
+  name: Hunedoara
+  level: county
+RO-IS:
+  name: Jassy
+  level: county
+RO-IF:
+  name: Okręg Ilfov
+  level: county
+RO-MM:
+  name: Marmarosz
+  level: county
+RO-MH:
+  name: Okręg Mehedinţi
+  level: county
+RO-MS:
+  name: Okręg Marusza
+  level: county
+RO-NT:
+  name: Okręg Neamţ
+  level: county
+RO-PH:
+  name: Prahova
+  level: county
+RO-SM:
+  name: Satu Mare
+  level: county
+RO-SB:
+  name: Sybin
+  level: county
+RO-SV:
+  name: Suczawa
+  level: county
+RO-TR:
+  name: Okręg Teleorman
+  level: county
+RO-TL:
+  name: Tulcza
+  level: county
+RO-VS:
+  name: Vaslui
+  level: county
+RO-VL:
+  name: Okręg Vâlcea
+  level: county

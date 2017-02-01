@@ -1,0 +1,103 @@
+---
+ES-C:
+  name: La Coruña
+  level: province
+ES-A:
+  name: Alicante
+  level: province
+ES-AN:
+  name: Andalúzia
+  level: ''
+ES-AS:
+  name: Astúria
+  level: autonomous community
+ES-BA:
+  name: Badajoz
+  level: province
+ES-IB:
+  name: Baleáry
+  level: autonomous community
+ES-B:
+  name: Barcelona
+  level: province
+ES-BU:
+  name: Burgos
+  level: province
+ES-CA:
+  name: Cádiz
+  level: province
+ES-S:
+  name: Kantábria
+  level: province
+ES-CT:
+  name: Katalánsko
+  level: autonomous community
+ES-CE:
+  name: Ceuta
+  level: autonomous city
+ES-CR:
+  name: Ciudad Real
+  level: province
+ES-CU:
+  name: Cuenca
+  level: province
+ES-CO:
+  name: Córdoba
+  level: province
+ES-EX:
+  name: Extremadura
+  level: autonomous community
+ES-GA:
+  name: Galícia
+  level: autonomous community
+ES-GR:
+  name: Granada
+  level: province
+ES-GC:
+  name: Las Palmas de Gran Canaria
+  level: province
+ES-LE:
+  name: León
+  level: province
+ES-LU:
+  name: Lugo
+  level: province
+ES-MD:
+  name: Madrid
+  level: autonomous community
+ES-ML:
+  name: Melilla
+  level: autonomous city
+ES-MA:
+  name: Málaga
+  level: province
+ES-NC:
+  name: Navarra
+  level: autonomous community
+ES-SA:
+  name: Salamanca
+  level: province
+ES-TF:
+  name: Santa Cruz de Tenerife
+  level: province
+ES-SG:
+  name: Segovia
+  level: province
+ES-SE:
+  name: Sevilla
+  level: province
+ES-TO:
+  name: Toledo
+  level: province
+ES-V:
+  name: Valencia
+  level: province
+ES-VA:
+  name: Valladolid
+  level: province
+ES-ZA:
+  name: Zamora
+  level: province
+ES-Z:
+  name: Zaragoza
+  level: province

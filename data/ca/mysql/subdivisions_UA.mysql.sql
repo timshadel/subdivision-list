@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_UA (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-71', 'Província de Txerkassy', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-74', 'Província de Txerníhiv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-77', 'Província de Txernivtsí', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-43', 'Crimea', 'autonomous republic');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-12', 'Província de Dnipropetrovsk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-14', 'Província de Donetsk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-63', 'Província de Khàrkiv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-65', 'Província de Kherson', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-68', 'Província de Khmelnytskyi', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-30', 'Kíev', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-32', 'Província de Kíev', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-35', 'Província de Kirovohrad', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-09', 'Província de Luhansk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-46', 'Província de Lviv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-48', 'Província de Mykolàïv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-53', 'Província de Poltava', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-56', 'Província de Rivne', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-40', 'Sebastòpol', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-59', 'Província de Sumy', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-61', 'Província de Ternópill', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-05', 'Província de Vínnytsia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-07', 'Província de Volínia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-21', 'Transcarpàcia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-23', 'Província de Zaporíjjia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-18', 'Província de Jytómyr', 'region');

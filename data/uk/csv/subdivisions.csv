@@ -1,0 +1,810 @@
+country,id,name,level
+AD,AD-07,Андорра-ла-Велья,parish
+AD,AD-08,Ескальдес-Енгордань,parish
+AD,AD-05,Ордіно,parish
+AD,AD-06,Сант-Жулія-де-Лорія,parish
+AT,AT-1,Бургенланд,state
+AT,AT-3,Нижня Австрія,state
+AT,AT-5,Зальцбург,state
+AT,AT-6,Штирія,state
+AT,AT-7,Тіроль,state
+AT,AT-4,Верхня Австрія,state
+AT,AT-9,Відень,state
+AT,AT-8,Форарльберг,state
+BY,BY-HM,Мінськ,city
+BE,BE-VAN,Антверпен,province
+BE,BE-BRU,Брюссельський столичний регіон,capital region
+BE,BE-VOV,Східна Фландрія,province
+BE,BE-VBR,Фламандський Брабант,province
+BE,BE-VLI,Лімбург,province
+BE,BE-WLG,Льєж,province
+BE,BE-WLX,Люксембург,province
+BE,BE-WAL,Валлонія,region
+BE,BE-WBR,Валлонський Брабант,province
+BE,BE-VWV,Західна Фландрія,province
+CA,CA-AB,Альберта,province
+CA,CA-BC,Британська Колумбія,province
+CA,CA-MB,Манітоба,province
+CA,CA-NB,Нью-Брансвік,province
+CA,CA-NL,Ньюфаундленд і Лабрадор,province
+CA,CA-NT,Північно-західні території,territory
+CA,CA-NS,Нова Шотландія,province
+CA,CA-NU,Нунавут,territory
+CA,CA-ON,Онтаріо,province
+CA,CA-PE,Острів Принца Едварда,province
+CA,CA-QC,Квебек,province
+CA,CA-SK,Саскачеван,province
+CA,CA-YT,Юкон,territory
+CL,CL-AN,Антофаґаста,region
+CL,CL-AP,XV Регіон Аріка-і-Парінакота,region
+CL,CL-AT,Атакама,region
+CL,CL-AI,XI Регіон Айсен,region
+CL,CL-CO,Кокімбо,region
+CL,CL-MA,Магальянес,region
+CL,CL-RM,Столичний Регіон Сантьяго,region
+CL,CL-VS,Вальпараїсо,region
+DK,DK-070,Орхус,county
+DK,DK-040,Борнгольм,county
+DK,DK-015,Копенгаген,county
+DK,DK-042,Фюн,county
+DK,DK-025,Роскілле,county
+DK,DK-85,Зеландія,region
+EE,EE-39,Хіюмаа,county
+EE,EE-44,Іда-Вірумаа,county
+EE,EE-51,Ярвамаа,county
+EE,EE-49,Йиґевамаа,county
+EE,EE-59,Ляяне-Вірумаа,county
+EE,EE-57,Ляянемаа,county
+EE,EE-67,Пярнумаа,county
+EE,EE-65,Пилвамаа,county
+EE,EE-70,Рапламаа,county
+EE,EE-74,Сааремаа,county
+EE,EE-78,Тартумаа,county
+EE,EE-82,Валгамаа,county
+EE,EE-84,Вільяндімаа,county
+EE,EE-86,Вирумаа,county
+FR,FR-01,Ен,metropolitan department
+FR,FR-02,Ена,metropolitan department
+FR,FR-03,Альє,metropolitan department
+FR,FR-06,Приморські Альпи,metropolitan department
+FR,FR-04,Альпи Верхнього Провансу,metropolitan department
+FR,FR-A,Ельзас,metropolitan regions
+FR,FR-B,Аквітанія,metropolitan regions
+FR,FR-08,Арденни,metropolitan department
+FR,FR-07,Ардеш,metropolitan department
+FR,FR-10,Об,metropolitan department
+FR,FR-11,Од,metropolitan department
+FR,FR-12,Аверон,metropolitan department
+FR,FR-67,Нижній Рейн,metropolitan department
+FR,FR-13,Буш-дю-Рон,metropolitan department
+FR,FR-E,Бретань,metropolitan regions
+FR,FR-14,Кальвадос,metropolitan department
+FR,FR-15,Канталь,metropolitan department
+FR,FR-G,Шампань-Арденни,metropolitan regions
+FR,FR-16,Шаранта,metropolitan department
+FR,FR-17,Приморська Шаранта,metropolitan department
+FR,FR-18,Шер,metropolitan department
+FR,FR-CP,Кліппертон,dependency
+FR,FR-19,Коррез,metropolitan department
+FR,FR-2A,Південна Корсика,metropolitan department
+FR,FR-H,Корсика,metropolitan regions
+FR,FR-23,Крез,metropolitan department
+FR,FR-79,Де-Севр,metropolitan department
+FR,FR-24,Дордонь,metropolitan department
+FR,FR-25,Ду,metropolitan department
+FR,FR-26,Дром,metropolitan department
+FR,FR-91,Ессонн,metropolitan department
+FR,FR-27,Ер,metropolitan department
+FR,FR-28,Ер і Луар,metropolitan department
+FR,FR-29,Фіністер,metropolitan department
+FR,FR-I,Франш-Конте,metropolitan regions
+FR,FR-30,Гар,metropolitan department
+FR,FR-32,Жер,metropolitan department
+FR,FR-33,Жиронда,metropolitan department
+FR,FR-GP,Гваделупа,overseas regions
+FR,FR-68,Верхній Рейн,metropolitan department
+FR,FR-2B,Верхня Корсика,metropolitan department
+FR,FR-31,Верхня Гаронна,metropolitan department
+FR,FR-P,Нижня Нормандія,metropolitan regions
+FR,FR-GF,Французька Гвіана,overseas regions
+FR,FR-43,Верхня Луара,metropolitan department
+FR,FR-52,Верхня Марна,metropolitan department
+FR,FR-74,Верхня Савойя,metropolitan department
+FR,FR-70,Верхня Сона,metropolitan department
+FR,FR-05,Верхні Альпи,metropolitan department
+FR,FR-65,Верхні Піренеї,metropolitan department
+FR,FR-92,О-де-Сен,metropolitan department
+FR,FR-34,Еро,metropolitan department
+FR,FR-35,Іль і Вілен,metropolitan department
+FR,FR-36,Ендр,metropolitan department
+FR,FR-37,Ендр і Луара,metropolitan department
+FR,FR-38,Ізер,metropolitan department
+FR,FR-39,Юра,metropolitan department
+FR,FR-K,Лангедок-Руссільйон,metropolitan regions
+FR,FR-41,Луар і Шер,metropolitan department
+FR,FR-42,Луара,metropolitan department
+FR,FR-44,Атлантична Луара,metropolitan department
+FR,FR-45,Луаре,metropolitan department
+FR,FR-46,Лот,metropolitan department
+FR,FR-47,Лот і Гаронна,metropolitan department
+FR,FR-48,Лозер,metropolitan department
+FR,FR-49,Мен і Луара,metropolitan department
+FR,FR-50,Манш,metropolitan department
+FR,FR-51,Марна,metropolitan department
+FR,FR-MQ,Мартиніка,overseas regions
+FR,FR-53,Майєнн,metropolitan department
+FR,FR-YT,Майотта,territorial collectivity
+FR,FR-54,Мерт і Мозель,metropolitan department
+FR,FR-55,Мез,metropolitan department
+FR,FR-N,Південь-Піренеї,metropolitan regions
+FR,FR-56,Морбіан,metropolitan department
+FR,FR-57,Мозель,metropolitan department
+FR,FR-58,Ньєвр,metropolitan department
+FR,FR-O,Нор-Па-де-Кале,metropolitan regions
+FR,FR-60,Уаза,metropolitan department
+FR,FR-61,Орн,metropolitan department
+FR,FR-75,Париж,metropolitan department
+FR,FR-62,Па-де-Кале,metropolitan department
+FR,FR-R,Пеї-де-ла-Луар,metropolitan regions
+FR,FR-S,Пікардія,metropolitan regions
+FR,FR-T,Пуату-Шарант,metropolitan regions
+FR,FR-Q,Верхня Нормандія,metropolitan regions
+FR,FR-PF,Французька Полінезія,overseas territory
+FR,FR-NC,Нова Каледонія,overseas territory
+FR,FR-RE,Реюньйон,overseas regions
+FR,FR-U,Прованс-Альпи-Лазурний берег,metropolitan regions
+FR,FR-63,Пюї-де-Дом,metropolitan department
+FR,FR-64,Атлантичні Піренеї,metropolitan department
+FR,FR-66,Східні Піренеї,metropolitan department
+FR,FR-69,Рона,metropolitan department
+FR,FR-V,Рона-Альпи,metropolitan regions
+FR,FR-72,Сарта,metropolitan department
+FR,FR-73,Савойя,metropolitan department
+FR,FR-71,Сона і Луара,metropolitan department
+FR,FR-76,Приморська Сена,metropolitan department
+FR,FR-93,Сена-Сен-Дені,metropolitan department
+FR,FR-77,Сена і Марна,metropolitan department
+FR,FR-80,Сомма,metropolitan department
+FR,FR-82,Тарн і Гаронна,metropolitan department
+FR,FR-90,Територія Бельфор,metropolitan department
+FR,FR-94,Валь-де-Марн,metropolitan department
+FR,FR-83,Вар,metropolitan department
+FR,FR-84,Воклюз,metropolitan department
+FR,FR-85,Вандея,metropolitan department
+FR,FR-88,Вогези,metropolitan department
+FR,FR-89,Йонна,metropolitan department
+FR,FR-78,Івлін,metropolitan department
+FR,FR-MF,Сен-Мартен,overseas territorial collectivity
+FR,FR-BL,Сен-Бартельмі,overseas territorial collectivity
+FR,FR-WF,Волліс і Футуна,overseas territory
+DE,DE-BW,Баден-Вюртемберг,state
+DE,DE-BY,Баварія,state
+DE,DE-BE,Берлін,state
+DE,DE-BB,Бранденбург,state
+DE,DE-HB,Бремен,state
+DE,DE-HH,Гамбург,state
+DE,DE-HE,Гессен,state
+DE,DE-NI,Нижня Саксонія,state
+DE,DE-MV,Мекленбург — Передня Померанія,state
+DE,DE-NW,Північний Рейн-Вестфалія,state
+DE,DE-RP,Рейнланд-Пфальц,state
+DE,DE-SL,Саарланд,state
+DE,DE-SN,Вільна держава Саксонія,state
+DE,DE-ST,Саксонія-Ангальт,state
+DE,DE-SH,Шлезвіг-Гольштейн,state
+DE,DE-TH,Тюрингія,state
+GH,GH-AH,Ашанті,region
+IN,IN-AN,Андаманські і Нікобарські острови,union territory
+IN,IN-AP,Андхра-Прадеш,state
+IN,IN-AR,Аруначал-Прадеш,state
+IN,IN-AS,Ассам,state
+IN,IN-BR,Біхар,state
+IN,IN-CH,Чандігарх,union territory
+IN,IN-CT,Чхаттісґарх,state
+IN,IN-DN,Дадра і Нагар-Хавелі,union territory
+IN,IN-DD,Даман і Діу,union territory
+IN,IN-DL,Делі,union territory
+IN,IN-GA,Гоа,state
+IN,IN-GJ,Гуджарат,state
+IN,IN-HP,Хімачал-Прадеш,state
+IN,IN-JK,Джамму й Кашмір,state
+IN,IN-JH,Джхаркханд,state
+IN,IN-KA,Карнатака,state
+IN,IN-KL,Керала,state
+IN,IN-LD,Лакшадвіп,union territory
+IN,IN-MH,Махараштра,state
+IN,IN-MN,Маніпур,state
+IN,IN-ML,Меґхалая,state
+IN,IN-MZ,Мізорам,state
+IN,IN-NL,Нагаленд,state
+IN,IN-OR,Орісса,state
+IN,IN-PY,Пудучеррі,union territory
+IN,IN-PB,Пенджаб,state
+IN,IN-RJ,Раджастхан,state
+IN,IN-SK,Сіккім,state
+IN,IN-TN,Тамілнаду,state
+IN,IN-TR,Тріпура,state
+IN,IN-UP,Уттар-Прадеш,state
+IN,IN-UT,Уттаракханд,state
+IN,IN-WB,Західний Бенгал,state
+IE,IE-OY,Оффалі,county
+IE,IE-WH,Західний Міт,county
+IE,IE-D,Дублін,county
+IE,IE-G,Ґолвей,county
+IE,IE-L,Ленстер,province
+IE,IE-LK,Лімерик,county
+IE,IE-M,Манстер,province
+IE,IE-SO,Слайго,county
+IE,IE-U,Ольстер,province
+IE,IE-WD,Вотерфорд,county
+IL,IL-M,Центральний район,district
+IL,IL-HA,Хайфа,district
+IL,IL-JM,Єрусалим,district
+IL,IL-D,Район Мінамі,district
+IL,IL-TA,Тель-Авів,district
+IL,IL-Z,Район Кіта,district
+IT,IT-65,Абруццо,region
+IT,IT-AG,Агрідженто,province
+IT,IT-AL,Алессандрія,province
+IT,IT-AN,Анкона,province
+IT,IT-AO,Аоста,province
+IT,IT-AR,Ареццо,province
+IT,IT-AP,Асколі-Пічено,province
+IT,IT-AT,Асті,province
+IT,IT-AV,Авелліно,province
+IT,IT-BA,Барі,province
+IT,IT-77,Базиліката,region
+IT,IT-BL,Беллуно,province
+IT,IT-BN,Беневенто,province
+IT,IT-BG,Бергамо,province
+IT,IT-BO,Болонья,province
+IT,IT-BZ,Больцано,province
+IT,IT-BS,Брешія,province
+IT,IT-BR,Бріндізі,province
+IT,IT-CA,Кальярі,province
+IT,IT-78,Калабрія,region
+IT,IT-CL,Кальтаніссетта,province
+IT,IT-72,Кампанія,region
+IT,IT-CB,Кампобассо,province
+IT,IT-CE,Казерта,province
+IT,IT-CT,Катанія,province
+IT,IT-CZ,Катандзаро,province
+IT,IT-CO,Комо,province
+IT,IT-CS,Козенца,province
+IT,IT-CR,Кремона,province
+IT,IT-KR,Кротоне,province
+IT,IT-CN,Кунео,province
+IT,IT-45,Емілія-Романья,region
+IT,IT-EN,Енна,province
+IT,IT-FM,Фермо,province
+IT,IT-FE,Феррара,province
+IT,IT-FI,Флоренція,province
+IT,IT-FG,Фоджа,province
+IT,IT-FO,Форлі,
+IT,IT-36,Фріулі-Венеція-Джулія,region
+IT,IT-FR,Фрозіноне,province
+IT,IT-GE,Генуя,province
+IT,IT-GO,Горіція,province
+IT,IT-GR,Гроссето,province
+IT,IT-IM,Імперія,province
+IT,IT-IS,Ізернія,province
+IT,IT-BT,Провінція Барлетта-Андрія-Трані,province
+IT,IT-CI,Провінція Карбонія-Іглезіас,province
+IT,IT-FC,Провінція Форлі-Чезена,province
+IT,IT-75,Апулія,region
+IT,IT-SP,Ла-Спеція,province
+IT,IT-62,Лаціо,region
+IT,IT-LE,Лечче,province
+IT,IT-LC,Лекко,province
+IT,IT-42,Лігурія,region
+IT,IT-LI,Ліворно,province
+IT,IT-LO,Лоді,province
+IT,IT-25,Ломбардія,region
+IT,IT-LU,Лукка,province
+IT,IT-MC,Мачерата,province
+IT,IT-MN,Мантуя,province
+IT,IT-57,Марке,region
+IT,IT-MT,Матера,province
+IT,IT-ME,Мессіна,province
+IT,IT-MI,Мілан,province
+IT,IT-MO,Модена,province
+IT,IT-67,Молізе,region
+IT,IT-NA,Неаполь,province
+IT,IT-NO,Новара,province
+IT,IT-NU,Нуоро,province
+IT,IT-OR,Ористано,province
+IT,IT-PD,Падуя,province
+IT,IT-PA,Палермо,province
+IT,IT-PR,Парма,province
+IT,IT-PV,Павія,province
+IT,IT-PG,Перуджа,province
+IT,IT-PE,Пескара,province
+IT,IT-PI,Піза,province
+IT,IT-PT,Пістоя,province
+IT,IT-PN,Порденоне,province
+IT,IT-PZ,Потенца,province
+IT,IT-PO,Прато,province
+IT,IT-MS,Провінція Масса-Каррара,province
+IT,IT-MA,Провінція Медіо-Кампідано,province
+IT,IT-MB,Провінція Монца і Бріанца,province
+IT,IT-OG,Провінція Ольястра,province
+IT,IT-OL,Провінція Ольбія-Темпіо,province
+IT,IT-PU,Провінція Пезаро і Урбіно,province
+IT,IT-RG,Рагуза,province
+IT,IT-RA,Равенна,province
+IT,IT-RC,Реджо-Калабрія,province
+IT,IT-RE,Реджо-нель-Емілія,province
+IT,IT-VB,Провінція Вербано-Кузіо-Оссола,province
+IT,IT-RI,Рієті,province
+IT,IT-RN,Ріміні,province
+IT,IT-RM,Рома,province
+IT,IT-RO,Ровіго,province
+IT,IT-SA,Салерно,province
+IT,IT-88,Сардинія,region
+IT,IT-SS,Сассарі,province
+IT,IT-SV,Савона,province
+IT,IT-82,Сицилія,region
+IT,IT-SI,Сієна,province
+IT,IT-SO,Сондріо,province
+IT,IT-TA,Таранто,province
+IT,IT-TE,Терамо,province
+IT,IT-TR,Терні,province
+IT,IT-TP,Трапані,province
+IT,IT-32,Трентіно-Альто-Адідже,region
+IT,IT-TN,Тренто,province
+IT,IT-TV,Тревізо,province
+IT,IT-TS,Трієст,province
+IT,IT-TO,Турин,province
+IT,IT-52,Тоскана,region
+IT,IT-UD,Удіне,province
+IT,IT-55,Умбрія,region
+IT,IT-VA,Варезе,province
+IT,IT-34,Венето,region
+IT,IT-VE,Венеція,province
+IT,IT-VC,Верчеллі,province
+IT,IT-VR,Верона,province
+IT,IT-VV,Вібо-Валентія,province
+IT,IT-VI,Віченца,province
+IT,IT-VT,Вітербо,province
+LU,LU-D,Дікірх,district
+LU,LU-G,Гревенмахер,district
+LU,LU-L,Люксембург,district
+NL,NL-AW,Аруба,country
+NL,NL-BQ1,Бонайре,special municipality
+NL,NL-CW,Кюрасао,country
+NL,NL-DR,Дренте,province
+NL,NL-FL,Флеволанд,province
+NL,NL-FR,Фрисландія,province
+NL,NL-GE,Гелдерланд,province
+NL,NL-GR,Гронінген,province
+NL,NL-LI,Лімбург,province
+NL,NL-NB,Північний Брабант,province
+NL,NL-NH,Північна Голландія,province
+NL,NL-OV,Оверейсел,province
+NL,NL-BQ2,Саба,special municipality
+NL,NL-BQ3,Сінт-Естатіус,special municipality
+NL,NL-SX,Сінт-Мартен,country
+NL,NL-ZH,Південна Голландія,province
+NL,NL-UT,Утрехт,province
+NL,NL-ZE,Зеландія,province
+NO,NO-02,Акерсгус,county
+NO,NO-09,Еуст-Аґдер,county
+NO,NO-06,Бускерюд,county
+NO,NO-20,Фіннмарк,county
+NO,NO-04,Гедмарк,county
+NO,NO-12,Гордалан,county
+NO,NO-22,Ян-Маєн,
+NO,NO-15,Мере-ог-Ромсдал,county
+NO,NO-17,Нур-Тренделаг,county
+NO,NO-18,Нурлан,county
+NO,NO-05,Опплан,county
+NO,NO-03,Осло,county
+NO,NO-11,Руґалан,county
+NO,NO-21,Шпіцберген,
+NO,NO-16,Сер-Тренделаг,county
+NO,NO-08,Телемарк,county
+NO,NO-19,Трумс,county
+NO,NO-10,Вест-Аґдер,county
+NO,NO-07,Вестфол,county
+NO,NO-01,Естфол,county
+PL,PL-WP,Великопольське воєводство,voivodship
+PL,PL-KP,Куявсько-Поморське воєводство,voivodship
+PL,PL-MA,Малопольське воєводство,voivodship
+PL,PL-DS,Нижньосілезьке воєводство,voivodship
+PL,PL-LU,Люблінське воєводство,voivodship
+PL,PL-LB,Любуське воєводство,voivodship
+PL,PL-MZ,Мазовецьке воєводство,voivodship
+PL,PL-OP,Опольське воєводство,voivodship
+PL,PL-PK,Підкарпатське воєводство,voivodship
+PL,PL-PD,Підляське воєводство,voivodship
+PL,PL-PM,Поморське воєводство,voivodship
+PL,PL-SL,Сілезьке воєводство,voivodship
+PL,PL-WN,Вармінсько-Мазурське воєводство,voivodship
+PL,PL-ZP,Західнопоморське воєводство,voivodship
+PL,PL-SK,Свентокшиське воєводство,voivodship
+PT,PT-20,Азорські острови,autonomous region
+PT,PT-02,Беджа,district
+PT,PT-03,Брага,district
+PT,PT-06,Коїмбра,district
+PT,PT-10,Лейрія,district
+PT,PT-11,Лісабон,district
+PT,PT-30,Мадейра,autonomous region
+PT,PT-13,Порту,district
+PT,PT-15,Сетубал,district
+RO,RO-AR,Арад,county
+RO,RO-AG,Арг,county
+RO,RO-BC,Бакеу,county
+RO,RO-BN,Бистриця-Несеуд,county
+RO,RO-BT,Ботошані,county
+RO,RO-BV,Брашов,county
+RO,RO-BR,Браїла,county
+RO,RO-B,Бухарест,city
+RO,RO-BZ,Бузеу,county
+RO,RO-CS,Караш-Северін,county
+RO,RO-CJ,Клуж-Напока,county
+RO,RO-CT,Констанца,county
+RO,RO-CV,Ковасна,county
+RO,RO-CL,Келераші,county
+RO,RO-DJ,Долж,county
+RO,RO-DB,Димбовіца,county
+RO,RO-GL,Галац,county
+RO,RO-GR,Джурджу,county
+RO,RO-GJ,Горж,county
+RO,RO-HR,Харгіта,county
+RO,RO-HD,Хунедоара,county
+RO,RO-IS,Ясси,county
+RO,RO-IF,Ілфов,county
+RO,RO-MM,Мармарощина,county
+RO,RO-MH,Мехедінць,county
+RO,RO-MS,Муреш,county
+RO,RO-NT,Нямц,county
+RO,RO-SM,Сату-Маре,county
+RO,RO-SB,Сібіу,county
+RO,RO-SV,Сучава,county
+RO,RO-TR,Телеорман,county
+RO,RO-TM,Тиміш,county
+RO,RO-TL,Тульча,county
+RO,RO-VS,Васлуй,county
+RO,RO-VL,Вилчя,county
+RS,RS-00,Белград,city
+RS,RS-02,Середньо-Банатський округ,district
+RS,RS-03,Північно-Банатський округ,district
+RS,RS-01,Північно-Бацький округ,district
+RS,RS-04,Південно-Банатський округ,district
+RS,RS-07,Сремський округ,district
+SK,SK-BC,Банськобистрицький край,region
+SK,SK-BL,Братиславський край,region
+SK,SK-KI,Кошицький край,region
+SK,SK-NI,Нітранський край,region
+SK,SK-PV,Пряшівський край,region
+SK,SK-TA,Трнавський край,region
+SK,SK-ZI,Жилінський край,region
+ES,ES-C,Ла-Корунья,province
+ES,ES-AB,Альбасете,province
+ES,ES-A,Аліканте,province
+ES,ES-AL,Альмерія,province
+ES,ES-AN,Андалусія,
+ES,ES-AS,Астурія,autonomous community
+ES,ES-BA,Бадахос,province
+ES,ES-IB,Балеарські острови,autonomous community
+ES,ES-B,Барселона,province
+ES,ES-BU,Бургос,province
+ES,ES-CA,Кадіс,province
+ES,ES-S,Кантабрія,province
+ES,ES-CM,Кастилія — Ла-Манча,autonomous community
+ES,ES-CL,Кастилія-і-Леон,autonomous community
+ES,ES-CT,Каталонія,autonomous community
+ES,ES-CE,Сеута,autonomous city
+ES,ES-CR,Сьюдад-Реаль,province
+ES,ES-CU,Куенка,province
+ES,ES-CO,Кордова,province
+ES,ES-EX,Естремадура,autonomous community
+ES,ES-SS,Гіпускоа,province
+ES,ES-GI,Жирона,province
+ES,ES-GR,Гранада,province
+ES,ES-GU,Гвадалахара,province
+ES,ES-H,Уельва,province
+ES,ES-HU,Уеска,province
+ES,ES-GC,Лас-Пальмас-де-Ґран-Канарія,province
+ES,ES-LE,Леон,province
+ES,ES-L,Льєйда,province
+ES,ES-LU,Луґо,province
+ES,ES-MD,Мадрид,autonomous community
+ES,ES-ML,Мелілья,autonomous city
+ES,ES-MC,Мурсія,autonomous community
+ES,ES-MA,Малага,province
+ES,ES-NC,Наварра,autonomous community
+ES,ES-OR,Оренсе,province
+ES,ES-P,Паленсія,province
+ES,ES-PO,Понтеведра,province
+ES,ES-SA,Саламанка,province
+ES,ES-TF,Санта-Крус-де-Тенеріфе,province
+ES,ES-SG,Сеговія,province
+ES,ES-SE,Севілья,province
+ES,ES-SO,Сорія,province
+ES,ES-T,Таррагона,province
+ES,ES-TE,Теруель,province
+ES,ES-V,Валенсія,province
+ES,ES-VC,Валенсія,autonomous community
+ES,ES-VA,Вальядолід,province
+ES,ES-Z,Сарагоса,province
+ES,ES-VI,Алава,province
+SE,SE-K,Блекінґе,county
+SE,SE-W,Даларна,county
+SE,SE-I,Ґотланд,county
+SE,SE-X,Євлеборй,county
+SE,SE-N,Галланд,county
+SE,SE-Z,Емтланд,county
+SE,SE-F,Йончопінґ,county
+SE,SE-H,Кальмар,county
+SE,SE-G,Кроноберй,county
+SE,SE-BD,Норрботтен,county
+SE,SE-M,Сконе,county
+SE,SE-AB,Стокгольм,county
+SE,SE-D,Седерманланд,county
+SE,SE-C,Уппсала,county
+SE,SE-S,Вермланд,county
+SE,SE-AC,Вестерботтен,county
+SE,SE-Y,Вестерноррланд,county
+SE,SE-U,Вестманланд,county
+SE,SE-O,Вестра Йоталанд,county
+SE,SE-T,Еребру,county
+SE,SE-E,Естерйотланд,county
+CH,CH-AG,Ааргау,canton
+CH,CH-AR,Аппенцелль — Ауссерроден,canton
+CH,CH-AI,Аппенцелль — Іннерроден,canton
+CH,CH-BL,Базель-Ланд,canton
+CH,CH-BS,Базель-Штадт,canton
+CH,CH-BE,Берн,canton
+CH,CH-FR,Фрібур,canton
+CH,CH-GL,Гларус,canton
+CH,CH-GR,Граубюнден,canton
+CH,CH-JU,Юра,canton
+CH,CH-NE,Невшатель,canton
+CH,CH-NW,Нідвальден,canton
+CH,CH-OW,Обвальден,canton
+CH,CH-SH,Шаффгаузен,canton
+CH,CH-SO,Золотурн,canton
+CH,CH-TG,Тургау,canton
+CH,CH-TI,Тічино,canton
+CH,CH-UR,Урі,canton
+CH,CH-VS,Вале,canton
+CH,CH-VD,Во,canton
+CH,CH-ZG,Цуг,canton
+CH,CH-GE,Женева,canton
+CH,CH-LU,Люцерн,canton
+CH,CH-ZH,Цюрих,canton
+UA,UA-71,Черкаська область,region
+UA,UA-74,Чернігівська область,region
+UA,UA-77,Чернівецька область,region
+UA,UA-43,Кримський півострів,autonomous republic
+UA,UA-12,Дніпропетровська область,region
+UA,UA-14,Донецька область,region
+UA,UA-26,Івано-Франківська область,region
+UA,UA-63,Харківська область,region
+UA,UA-65,Херсонська область,region
+UA,UA-68,Хмельницька область,region
+UA,UA-30,Київ,region
+UA,UA-32,Київська область,region
+UA,UA-35,Кіровоградська область,region
+UA,UA-09,Луганська область,region
+UA,UA-46,Львівська область,region
+UA,UA-48,Миколаївська область,region
+UA,UA-51,Одеська область,region
+UA,UA-53,Полтавська область,region
+UA,UA-56,Рівненська область,region
+UA,UA-40,Севастополь,region
+UA,UA-59,Сумська область,region
+UA,UA-61,Тернопільська область,region
+UA,UA-05,Вінницька область,region
+UA,UA-07,Волинська область,region
+UA,UA-21,Закарпатська область,region
+UA,UA-23,Запорізька область,region
+UA,UA-18,Житомирська область,region
+GB,GB-ABE,Абердин,council area (scotland)
+GB,GB-ABD,Абердиншир,council area (scotland)
+GB,GB-ANS,Ангус,council area (scotland)
+GB,GB-BNS,Барнслі,metropolitan district
+GB,GB-BDF,Бедфордшир,unitary authority
+GB,GB-BFS,Белфаст,district council area (northern ireland)
+GB,GB-BIR,Бірмінгем,metropolitan district
+GB,GB-BPL,Блекпул,unitary authority
+GB,GB-BGW,Бланау-Гвент,unitary authority (wales)
+GB,GB-BOL,Болтон,metropolitan district
+GB,GB-BMH,Борнмут,unitary authority
+GB,GB-BRD,Бредфорд,metropolitan district
+GB,GB-BST,Бристоль,unitary authority
+GB,GB-BRY,Бромлі,borough
+GB,GB-BKM,Бакінгемшир,two-tier county
+GB,GB-BUR,Бері,metropolitan district
+GB,GB-CAY,Карфіллі,unitary authority (wales)
+GB,GB-CAM,Кембриджшир,two-tier county
+GB,GB-CRF,Кардіфф,unitary authority (wales)
+GB,GB-CMN,Кармартеншир,unitary authority (wales)
+GB,GB-CGN,Кередігіон,unitary authority (wales)
+GB,GB-CHS,Чешир,
+GB,GB-CLK,Клакманнаншир,council area (scotland)
+GB,GB-CLR,Колрейн,district council area (northern ireland)
+GB,GB-CWY,Конві,unitary authority (wales)
+GB,GB-CON,Корнуол,unitary authority
+GB,GB-COV,Ковентрі,metropolitan district
+GB,GB-BDG,Баркінг і Дагенем,borough
+GB,GB-FER,Фермана,district council area (northern ireland)
+GB,GB-CMA,Камбрія,two-tier county
+GB,GB-DEN,Денбігшир,unitary authority (wales)
+GB,GB-DER,Дербі,unitary authority
+GB,GB-DBY,Дербішир,two-tier county
+GB,GB-DRY,Деррі,district council area (northern ireland)
+GB,GB-DEV,Девон,two-tier county
+GB,GB-DNC,Донкастер,metropolitan district
+GB,GB-DOR,Дорсет,two-tier county
+GB,GB-DUD,Дадлі,metropolitan district
+GB,GB-DGY,Дамфріс і Галловей,council area (scotland)
+GB,GB-DND,Данді,council area (scotland)
+GB,GB-EAY,Східний Ершир,council area (scotland)
+GB,GB-EDU,Східний Данбартоншир,council area (scotland)
+GB,GB-ELN,Східний Лотіан,council area (scotland)
+GB,GB-ERW,Східний Ренфрюшир,council area (scotland)
+GB,GB-ERY,Східний Йоркширський Райдінг,unitary authority
+GB,GB-ESX,Східний Сассекс,two-tier county
+GB,GB-EDH,Единбург,council area (scotland)
+GB,GB-ENF,Енфілд,borough
+GB,GB-ESS,Ессекс,two-tier county
+GB,GB-FAL,Фолкерк,council area (scotland)
+GB,GB-FIF,Файф,council area (scotland)
+GB,GB-FLN,Флінтшир,unitary authority (wales)
+GB,GB-GLG,Глазго,council area (scotland)
+GB,GB-GLS,Глостершир,two-tier county
+GB,GB-GRE,Гринвіч,borough
+GB,GB-GWN,Гвінет,unitary authority (wales)
+GB,GB-HAM,Гемпшир,two-tier county
+GB,GB-HRW,Герроу,borough
+GB,GB-HEF,Герефордшир,unitary authority
+GB,GB-HRT,Гартфордшир,two-tier county
+GB,GB-HLD,Височина,council area (scotland)
+GB,GB-IVC,Інверклайд,council area (scotland)
+GB,GB-HMF,Гаммерсміт і Фулхем,borough
+GB,GB-HAV,Гейверінг,borough
+GB,GB-ELS,Західні острови,council area (scotland)
+GB,GB-AGY,Анґлсі,unitary authority (wales)
+GB,GB-LND,Лондонське Сіті,city corporation
+GB,GB-IOW,Острів Вайт,unitary authority
+GB,GB-KEN,Кент,two-tier county
+GB,GB-KHL,Кінгстон-апон-Галл,unitary authority
+GB,GB-KTT,Кінгстон-на-Темзі,borough
+GB,GB-LAN,Ланкашир,two-tier county
+GB,GB-LDS,Лідс,metropolitan district
+GB,GB-LCE,Лестер,unitary authority
+GB,GB-LEC,Лестершир,two-tier county
+GB,GB-LIN,Лінкольншир,two-tier county
+GB,GB-LIV,Ліверпуль,metropolitan district
+GB,GB-NWM,Ньюем,borough
+GB,GB-MAN,Манчестер,metropolitan district
+GB,GB-MTY,Мертір-Тідвіл,unitary authority (wales)
+GB,GB-MLN,Середній Лотіан,council area (scotland)
+GB,GB-MON,Монмутшир,unitary authority (wales)
+GB,GB-MRY,Морей,council area (scotland)
+GB,GB-NTL,Ніт-Порт-Толбот,unitary authority (wales)
+GB,GB-NET,Ньюкасл-апон-Тайн,metropolitan district
+GB,GB-NWP,Ньюпорт,unitary authority (wales)
+GB,GB-NFK,Норфолк,two-tier county
+GB,GB-NAY,Північний Ершир,council area (scotland)
+GB,GB-NLK,Північний Ланаркшир,council area (scotland)
+GB,GB-NYK,Північний Йоркшир,two-tier county
+GB,GB-NTH,Нортгемптоншир,two-tier county
+GB,GB-NBL,Нортумберленд,unitary authority
+GB,GB-RIC,Річмонд-на-Темзі,borough
+GB,GB-NGM,Ноттінгем,unitary authority
+GB,GB-NTT,Ноттінгемшир,two-tier county
+GB,GB-OLD,Олдгем,metropolitan district
+GB,GB-ORK,Оркнейські острови,council area (scotland)
+GB,GB-OXF,Оксфордшир,two-tier county
+GB,GB-PEM,Пембрукшир,unitary authority (wales)
+GB,GB-PKN,Перт-і-Кінросс,council area (scotland)
+GB,GB-PTE,Пітерборо,unitary authority
+GB,GB-PLY,Плімут,unitary authority
+GB,GB-POR,Портсмут,unitary authority
+GB,GB-POW,Повіс,unitary authority (wales)
+GB,GB-RFW,Ренфрюшир,council area (scotland)
+GB,GB-RCH,Рочдейл,metropolitan district
+GB,GB-RUT,Рутленд,unitary authority
+GB,GB-SCB,Шотландські кордони,council area (scotland)
+GB,GB-SHF,Шеффілд,metropolitan district
+GB,GB-ZET,Шетландські острови,council area (scotland)
+GB,GB-SHR,Шропшир,unitary authority
+GB,GB-SOM,Сомерсет,two-tier county
+GB,GB-SAY,Південний Ершир,council area (scotland)
+GB,GB-SLK,Південний Ланаркшир,council area (scotland)
+GB,GB-STH,Саутгемптон,unitary authority
+GB,GB-SOS,Саутенд-он-Сі,unitary authority
+GB,GB-STS,Стаффордшир,two-tier county
+GB,GB-STG,Стерлінг,council area (scotland)
+GB,GB-STE,Сток-он-Трент,unitary authority
+GB,GB-SFK,Суффолк,two-tier county
+GB,GB-SND,Сандерленд,metropolitan district
+GB,GB-SRY,Суррей,two-tier county
+GB,ENG,Англія,country
+GB,GB-TWH,Тауер-Гемлетс,borough
+GB,GB-WFT,Волтгем Форест,borough
+GB,NIR,Північна Ірландія,country
+GB,SCT,Шотландія,country
+GB,GB-SWA,Свонсі,unitary authority (wales)
+GB,GB-TOF,Торван,unitary authority (wales)
+GB,GB-VGL,Долина Гламорган,unitary authority (wales)
+GB,WLS,Уельс,country
+GB,GB-WAR,Ворікшир,two-tier county
+GB,GB-WDU,Західний Данбартоншир,council area (scotland)
+GB,GB-WLN,Західний Лотіан,council area (scotland)
+GB,GB-WSX,Західний Сассекс,two-tier county
+GB,GB-WSM,Вестмінстер,borough
+GB,GB-WGN,Віган,metropolitan district
+GB,GB-WIL,Вілтшир,unitary authority
+GB,GB-WLV,Вулвергемптон,metropolitan district
+GB,GB-WOR,Вустершир,two-tier county
+GB,GB-WRX,Рексем,unitary authority (wales)
+GB,GB-YOR,Йорк,unitary authority
+US,US-AL,Алабама,state
+US,US-AK,Аляска,state
+US,US-AS,Східне Самоа,outlying area
+US,US-AZ,Аризона,state
+US,US-AR,Арканзас,state
+US,US-CA,Каліфорнія,state
+US,US-CO,Колорадо,state
+US,US-CT,Коннектикут,state
+US,US-DE,Делавер,state
+US,US-FL,Флорида,state
+US,US-GA,Джорджія,state
+US,US-GU,Гуам,outlying area
+US,US-HI,Гаваї,state
+US,US-ID,Айдахо,state
+US,US-IL,Іллінойс,state
+US,US-IN,Індіана,state
+US,US-IA,Айова,state
+US,US-KS,Канзас,state
+US,US-KY,Кентуккі,state
+US,US-LA,Луїзіана,state
+US,US-ME,Мен,state
+US,US-MD,Меріленд,state
+US,US-MA,Массачусетс,state
+US,US-MI,Мічиган,state
+US,US-MN,Міннесота,state
+US,US-MS,Міссісіпі,state
+US,US-MO,Міссурі,state
+US,US-MT,Монтана,state
+US,US-NE,Небраска,state
+US,US-NV,Невада,state
+US,US-NH,Нью-Гемпшир,state
+US,US-NJ,Нью-Джерсі,state
+US,US-NM,Нью-Мексико,state
+US,US-NY,Нью-Йорк,state
+US,US-NC,Північна Кароліна,state
+US,US-ND,Північна Дакота,state
+US,US-MP,Північні Маріанські острови,outlying area
+US,US-OH,Огайо,state
+US,US-OK,Оклахома,state
+US,US-OR,Орегон,state
+US,US-PA,Пенсильванія,state
+US,US-PR,Пуерто-Рико,outlying area
+US,US-RI,Род-Айленд,state
+US,US-SC,Південна Кароліна,state
+US,US-SD,Південна Дакота,state
+US,US-TN,Теннессі,state
+US,US-TX,Техас,state
+US,US-UM,Зовнішні малі острови США,outlying area
+US,US-UT,Юта,state
+US,US-DC,Вашингтон,district
+US,US-VT,Вермонт,state
+US,US-VI,Віргінські острови,outlying area
+US,US-VA,Вірджинія,state
+US,US-WA,Вашингтон,state
+US,US-WV,Західна Вірджинія,state
+US,US-WI,Вісконсин,state
+US,US-WY,Вайомінг,state
+MT,MT-04,Біркіркара,local council
+MT,MT-09,Флоріана,local council
+MT,MT-10,Фонтана,local council
+MT,MT-26,Марса,local council
+MT,MT-29,Мдіна,local council
+MT,MT-46,Рабат,local council
+MT,MT-56,Сліма,local council
+MT,MT-60,Валетта,local council

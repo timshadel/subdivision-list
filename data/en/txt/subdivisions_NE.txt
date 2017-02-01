@@ -1,0 +1,8 @@
+Agadez (NE-1)
+Diffa (NE-2)
+Dosso (NE-3)
+Maradi (NE-4)
+Niamey (NE-8)
+Tahoua (NE-5)
+Tillabéri (NE-6)
+Zinder (NE-7)

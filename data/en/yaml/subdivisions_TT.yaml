@@ -1,0 +1,49 @@
+---
+TT-ARI:
+  name: Arima
+  level: municipality
+TT-CHA:
+  name: Chaguanas
+  level: municipality
+TT-CTT:
+  name: Couva-Tabaquite-Talparo Regional Corporation
+  level: region
+TT-DMN:
+  name: Diego Martin
+  level: region
+TT-ETO:
+  name: Tobago
+  level: region
+TT-PED:
+  name: Penal-Debe Regional Corporation
+  level: region
+TT-PTF:
+  name: Point Fortin
+  level: municipality
+TT-POS:
+  name: Port of Spain
+  level: municipality
+TT-PRT:
+  name: Princes Town
+  level: region
+TT-RCM:
+  name: Rio Claro-Mayaro Regional Corporation
+  level: region
+TT-SFO:
+  name: San Fernando
+  level: municipality
+TT-SJL:
+  name: San Juan-Laventille Regional Corporation
+  level: region
+TT-SGE:
+  name: Sangre Grande
+  level: region
+TT-SIP:
+  name: Siparia
+  level: region
+TT-TUP:
+  name: Tunapuna-Piarco Regional Corporation
+  level: region
+TT-WTO:
+  name: Tobago
+  level: region

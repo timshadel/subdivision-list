@@ -1,0 +1,172 @@
+---
+US-AL:
+  name: "Алабама"
+  level: state
+US-AK:
+  name: "Аляска"
+  level: state
+US-AS:
+  name: "Східне Самоа"
+  level: outlying area
+US-AZ:
+  name: "Аризона"
+  level: state
+US-AR:
+  name: "Арканзас"
+  level: state
+US-CA:
+  name: "Каліфорнія"
+  level: state
+US-CO:
+  name: "Колорадо"
+  level: state
+US-CT:
+  name: "Коннектикут"
+  level: state
+US-DE:
+  name: "Делавер"
+  level: state
+US-FL:
+  name: "Флорида"
+  level: state
+US-GA:
+  name: "Джорджія"
+  level: state
+US-GU:
+  name: "Гуам"
+  level: outlying area
+US-HI:
+  name: "Гаваї"
+  level: state
+US-ID:
+  name: "Айдахо"
+  level: state
+US-IL:
+  name: "Іллінойс"
+  level: state
+US-IN:
+  name: "Індіана"
+  level: state
+US-IA:
+  name: "Айова"
+  level: state
+US-KS:
+  name: "Канзас"
+  level: state
+US-KY:
+  name: "Кентуккі"
+  level: state
+US-LA:
+  name: "Луїзіана"
+  level: state
+US-ME:
+  name: "Мен"
+  level: state
+US-MD:
+  name: "Меріленд"
+  level: state
+US-MA:
+  name: "Массачусетс"
+  level: state
+US-MI:
+  name: "Мічиган"
+  level: state
+US-MN:
+  name: "Міннесота"
+  level: state
+US-MS:
+  name: "Міссісіпі"
+  level: state
+US-MO:
+  name: "Міссурі"
+  level: state
+US-MT:
+  name: "Монтана"
+  level: state
+US-NE:
+  name: "Небраска"
+  level: state
+US-NV:
+  name: "Невада"
+  level: state
+US-NH:
+  name: "Нью-Гемпшир"
+  level: state
+US-NJ:
+  name: "Нью-Джерсі"
+  level: state
+US-NM:
+  name: "Нью-Мексико"
+  level: state
+US-NY:
+  name: "Нью-Йорк"
+  level: state
+US-NC:
+  name: "Північна Кароліна"
+  level: state
+US-ND:
+  name: "Північна Дакота"
+  level: state
+US-MP:
+  name: "Північні Маріанські острови"
+  level: outlying area
+US-OH:
+  name: "Огайо"
+  level: state
+US-OK:
+  name: "Оклахома"
+  level: state
+US-OR:
+  name: "Орегон"
+  level: state
+US-PA:
+  name: "Пенсильванія"
+  level: state
+US-PR:
+  name: "Пуерто-Рико"
+  level: outlying area
+US-RI:
+  name: "Род-Айленд"
+  level: state
+US-SC:
+  name: "Південна Кароліна"
+  level: state
+US-SD:
+  name: "Південна Дакота"
+  level: state
+US-TN:
+  name: "Теннессі"
+  level: state
+US-TX:
+  name: "Техас"
+  level: state
+US-UM:
+  name: "Зовнішні малі острови США"
+  level: outlying area
+US-UT:
+  name: "Юта"
+  level: state
+US-DC:
+  name: "Вашингтон"
+  level: district
+US-VT:
+  name: "Вермонт"
+  level: state
+US-VI:
+  name: "Віргінські острови"
+  level: outlying area
+US-VA:
+  name: "Вірджинія"
+  level: state
+US-WA:
+  name: "Вашингтон"
+  level: state
+US-WV:
+  name: "Західна Вірджинія"
+  level: state
+US-WI:
+  name: "Вісконсин"
+  level: state
+US-WY:
+  name: "Вайомінг"
+  level: state

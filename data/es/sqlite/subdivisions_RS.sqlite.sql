@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-00', 'Belgrado', 'city');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-14', 'Distrito de Bor', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-11', 'Distrito de Braničevo', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-02', 'Distrito de Banato Central', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-23', 'Distrito de Jablanica', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-09', 'Distrito de Kolubara', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-08', 'Distrito de Mačva', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-17', 'Distrito de Moravica', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-20', 'Distrito de Nišava', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-03', 'Distrito de Banato del Norte', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-01', 'Distrito de Bačka del Norte', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-10', 'Distrito de Podunavlje', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-13', 'Distrito de Pomoravlje', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-24', 'Distrito de Pčinja', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-19', 'Distrito de Rasina', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-04', 'Distrito de Banato del Sur', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-07', 'Distrito de Sirmia', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-16', 'Distrito de Zlatibor', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-12', 'Distrito de Šumadija', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-28', 'Distrito de Mitrovica', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-26', 'Distrito de Peć', 'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES ('RS-27', 'Distrito de Prizren', 'district');

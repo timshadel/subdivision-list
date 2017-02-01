@@ -1,0 +1,5 @@
+Center (TG-C)
+Kara (TG-K)
+Maritime Region (TG-M)
+Plateaux (TG-P)
+Savanes Region (TG-S)

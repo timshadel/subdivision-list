@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_FI (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-AL', 'Åland', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-01', 'Åland Islands', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-02', 'South Karelia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-03', 'Southern Ostrobothnia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-04', 'Southern Savonia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-ES', 'Southern Finland Province', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-IS', 'Eastern Finland Province', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-05', 'Kainuu', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-06', 'Tavastia Proper', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-07', 'Central Ostrobothnia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-08', 'Central Finland', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-09', 'Kymenlaakso', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-LL', 'Lapland', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-10', 'Lappi', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-LS', 'Western Finland Province', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-OL', 'Oulu Province', '');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-11', 'Pirkanmaa', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-12', 'Pohjanmaa', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-13', 'North Karelia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-14', 'Northern Ostrobothnia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-15', 'Northern Savonia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-16', 'Päijänne Tavastia', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-17', 'Satakunta', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-18', 'Uusimaa', 'region');
+INSERT INTO "subdivision_FI" ("id", "name", "level") VALUES ('FI-19', 'Varsinais-Suomi', 'region');

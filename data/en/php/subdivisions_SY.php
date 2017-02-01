@@ -1,0 +1,16 @@
+<?php return array (
+  'SY-HL' => array('name' => '?alab', 'level' => 'province'),
+  'SY-HM' => array('name' => '?amah', 'level' => 'province'),
+  'SY-HI' => array('name' => '?ims', 'level' => 'province'),
+  'SY-HA' => array('name' => 'Al ?asakah', 'level' => 'province'),
+  'SY-LA' => array('name' => 'Latakia', 'level' => 'province'),
+  'SY-QU' => array('name' => 'Al Qunaytirah', 'level' => 'province'),
+  'SY-RA' => array('name' => 'Ar-Raqqah', 'level' => 'province'),
+  'SY-SU' => array('name' => 'As-Suwayda', 'level' => 'province'),
+  'SY-DR' => array('name' => 'Dar?a', 'level' => 'province'),
+  'SY-DY' => array('name' => 'Deir ez-Zor', 'level' => 'province'),
+  'SY-DI' => array('name' => 'Damascus', 'level' => 'province'),
+  'SY-ID' => array('name' => 'Idlib', 'level' => 'province'),
+  'SY-RD' => array('name' => 'Rif Dimashq Governorate', 'level' => 'province'),
+  'SY-TA' => array('name' => 'Tartus', 'level' => 'province'),
+);

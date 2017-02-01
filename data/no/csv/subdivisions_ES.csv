@@ -1,0 +1,49 @@
+id,name,level
+ES-C,La Coruña,province
+ES-AB,Albacete,province
+ES-A,Alicante,province
+ES-AL,Almería,province
+ES-AN,Andalucía,
+ES-AS,Asturias,autonomous community
+ES-IB,Balearene,autonomous community
+ES-B,Barcelona,province
+ES-BU,Burgos,province
+ES-CA,Cádiz,province
+ES-S,Cantabria,province
+ES-CM,Castilla-La Mancha,autonomous community
+ES-CL,Castilla y León,autonomous community
+ES-CT,Catalonia,autonomous community
+ES-CE,Ceuta,autonomous city
+ES-CR,Ciudad Real,province
+ES-CU,Cuenca,province
+ES-CC,Cáceres,province
+ES-CO,Córdoba,province
+ES-EX,Extremadura,autonomous community
+ES-GA,Galicia,autonomous community
+ES-SS,Gipuzkoa,province
+ES-GI,Girona,province
+ES-GR,Granada,province
+ES-GU,Guadalajara,province
+ES-H,Huelva,province
+ES-HU,Huesca,province
+ES-GC,Las Palmas de Gran Canaria,province
+ES-LE,Leon,province
+ES-L,Lleida,province
+ES-LU,Lugo,province
+ES-MD,Madrid,autonomous community
+ES-ML,Melilla,autonomous city
+ES-MC,Murcia,autonomous community
+ES-MA,Málaga,province
+ES-NC,Navarra,autonomous community
+ES-SA,Salamanca,province
+ES-TF,Santa Cruz de Tenerife,province
+ES-SG,Segovia,province
+ES-SE,Sevilla,province
+ES-T,Tarragona,province
+ES-TO,Toledo,province
+ES-V,Valencia,province
+ES-VC,Comunitat Valenciana,autonomous community
+ES-VA,Valladolid,province
+ES-ZA,Zamora,province
+ES-Z,Zaragoza,province
+ES-VI,Álava,province

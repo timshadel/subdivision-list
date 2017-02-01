@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_HR (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-07', E'Bjelovar-Bilogora County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-12', E'Brod-Posavina County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-19', E'Dubrovacko-neretvanska županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-21', E'Zagreb', E'city');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-18', E'Istria County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-04', E'Karlovacka županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-06', E'Koprivnicko-križevacka županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-02', E'Krapina-Zagorje County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-09', E'Licko-senjska županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-20', E'Medimurska županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-14', E'Osjecko-baranjska županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-11', E'Požega-Slavonia County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-08', E'Primorje-Gorski Kotar County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-03', E'Sisacko-moslavacka županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-17', E'Split-Dalmatia County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-05', E'Varaždin County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-10', E'Viroviticko-podravska županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-16', E'Vukovar-Syrmia County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-13', E'Zadar County', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-01', E'Zagrebacka županija', E'county');
+INSERT INTO "subdivision_HR" ("id", "name", "level") VALUES (E'HR-15', E'Šibenik-Knin County', E'county');

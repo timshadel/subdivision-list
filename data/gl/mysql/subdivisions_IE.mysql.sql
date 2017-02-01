@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_IE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-CW', 'Carlow - Ceatharlach', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-CN', 'Cavan - An Cabhán', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LS', 'Condado de Laois', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-OY', 'Condado de Offaly', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WH', 'Condado de Westmeath', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-D', 'Dublín - Baile Átha Cliath', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-G', 'Galway - Gaillimh', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-KY', 'Kerry', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-KK', 'Kilkenny - Cill Chainnigh', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-L', 'Leinster - Cúige Laighean', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LK', 'Limerick - Luimneach', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LD', 'Longford - An Longfort', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-M', 'Munster - Cúige Mumhan', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-SO', 'Sligo - Sligeach', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-U', 'Úlster - Cúige Uladh', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WD', 'Waterford - Port Láirge', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WX', 'Wexford - Loch Garman', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WW', 'Wicklow - Cill Mhantáin', 'county');

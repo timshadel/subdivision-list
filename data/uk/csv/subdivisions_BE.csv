@@ -1,0 +1,11 @@
+id,name,level
+BE-VAN,Антверпен,province
+BE-BRU,Брюссельський столичний регіон,capital region
+BE-VOV,Східна Фландрія,province
+BE-VBR,Фламандський Брабант,province
+BE-VLI,Лімбург,province
+BE-WLG,Льєж,province
+BE-WLX,Люксембург,province
+BE-WAL,Валлонія,region
+BE-WBR,Валлонський Брабант,province
+BE-VWV,Західна Фландрія,province

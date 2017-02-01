@@ -1,0 +1,76 @@
+---
+VE-Z:
+  name: Amazonas
+  level: state
+VE-B:
+  name: Anzoátegui
+  level: state
+VE-C:
+  name: Apure
+  level: state
+VE-D:
+  name: Aragua
+  level: state
+VE-E:
+  name: Barinas
+  level: state
+VE-F:
+  name: Simón Bolívar
+  level: state
+VE-G:
+  name: Carabobo
+  level: state
+VE-H:
+  name: Cojedes
+  level: state
+VE-Y:
+  name: Delta Amacuro
+  level: state
+VE-W:
+  name: Federal Dependencies of Venezuela
+  level: federal dependency
+VE-A:
+  name: Distrito Federal
+  level: federal district
+VE-I:
+  name: Falcón
+  level: state
+VE-J:
+  name: Guárico
+  level: state
+VE-K:
+  name: Lara
+  level: state
+VE-M:
+  name: Miranda
+  level: state
+VE-N:
+  name: Monagas
+  level: state
+VE-L:
+  name: Mérida
+  level: state
+VE-O:
+  name: Nueva Esparta
+  level: state
+VE-P:
+  name: Portuguesa
+  level: state
+VE-R:
+  name: Sucre
+  level: state
+VE-T:
+  name: Trujillo
+  level: state
+VE-S:
+  name: Táchira
+  level: state
+VE-X:
+  name: Vargas
+  level: state
+VE-U:
+  name: Yaracuy
+  level: state
+VE-V:
+  name: Zulia
+  level: state

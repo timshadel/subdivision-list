@@ -1,0 +1,18 @@
+<?php return array (
+  'PS-BTH' => array('name' => 'Bethlehem Bayt Laḩm', 'level' => 'governorates'),
+  'PS-DEB' => array('name' => 'Deir El Balah Dayr al Balaḩ', 'level' => 'governorates'),
+  'PS-GZA' => array('name' => 'Gaza Ghazzah', 'level' => 'governorates'),
+  'PS-HBN' => array('name' => 'Hebron Al Khalīl', 'level' => 'governorates'),
+  'PS-JEN' => array('name' => 'Jenin Janīn', 'level' => 'governorates'),
+  'PS-JRH' => array('name' => 'Jericho – Al Aghwar Arīḩā wa al Aghwār', 'level' => 'governorates'),
+  'PS-JEM' => array('name' => 'Jerusalem Al Quds', 'level' => 'governorates'),
+  'PS-KYS' => array('name' => 'Khan Yunis Khān Yūnis', 'level' => 'governorates'),
+  'PS-NBS' => array('name' => 'Nablus Nāblus', 'level' => 'governorates'),
+  'PS-NGZ' => array('name' => 'North Gaza Shamāl Ghazzah', 'level' => 'governorates'),
+  'PS-QQA' => array('name' => 'Qalqilya Qalqīlyah', 'level' => 'governorates'),
+  'PS-RFH' => array('name' => 'Rafah Rafaḩ', 'level' => 'governorates'),
+  'PS-RBH' => array('name' => 'Ramallah Rām Allāh wa al Bīrah', 'level' => 'governorates'),
+  'PS-SLT' => array('name' => 'Salfit Salfīt', 'level' => 'governorates'),
+  'PS-TBS' => array('name' => 'Tubas Ţūbās', 'level' => 'governorates'),
+  'PS-TKM' => array('name' => 'Tulkarm Ţūlkarm', 'level' => 'governorates'),
+);

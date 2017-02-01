@@ -1,0 +1,15 @@
+<?php return array (
+  'CA-AB' => array('name' => 'Alberta', 'level' => 'province'),
+  'CA-BC' => array('name' => 'Colúmbia Britànica', 'level' => 'province'),
+  'CA-MB' => array('name' => 'Manitoba', 'level' => 'province'),
+  'CA-NB' => array('name' => 'Nova Brunsvic', 'level' => 'province'),
+  'CA-NL' => array('name' => 'Terranova i Labrador', 'level' => 'province'),
+  'CA-NT' => array('name' => 'Territoris del Nord-oest', 'level' => 'territory'),
+  'CA-NS' => array('name' => 'Nova Escòcia', 'level' => 'province'),
+  'CA-NU' => array('name' => 'Nunavut', 'level' => 'territory'),
+  'CA-ON' => array('name' => 'Ontàrio', 'level' => 'province'),
+  'CA-PE' => array('name' => 'Illa del Príncep Eduard', 'level' => 'province'),
+  'CA-QC' => array('name' => 'Quebec', 'level' => 'province'),
+  'CA-SK' => array('name' => 'Saskatchewan', 'level' => 'province'),
+  'CA-YT' => array('name' => 'Yukon', 'level' => 'territory'),
+);

@@ -1,0 +1,37 @@
+---
+DK-070:
+  name: Aarhus
+  level: county
+DK-040:
+  name: Bornholm
+  level: county
+DK-82:
+  name: Regió de Midtjylland
+  level: region
+DK-015:
+  name: Copenhaguen
+  level: county
+DK-042:
+  name: Fiònia
+  level: county
+DK-83:
+  name: Regió de Syddanmark
+  level: region
+DK-065:
+  name: Ringkøbing
+  level: county
+DK-025:
+  name: Roskilde
+  level: county
+DK-035:
+  name: Comtat de Storstrøm
+  level: county
+DK-060:
+  name: Vejle
+  level: county
+DK-030:
+  name: Comtat de Sjælland Occidental
+  level: county
+DK-85:
+  name: Zelanda
+  level: region

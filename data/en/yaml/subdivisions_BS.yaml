@@ -1,0 +1,124 @@
+---
+BS-AK:
+  name: Acklins  Islands
+  level: district
+BS-AC:
+  name: Acklins and Crooked Islands
+  level: district
+BS-BY:
+  name: Berry Islands
+  level: district
+BS-BI:
+  name: Bimini
+  level: district
+BS-BP:
+  name: Black Point
+  level: district
+BS-CI:
+  name: Cat Island
+  level: district
+BS-CO:
+  name: Central Abaco
+  level: district
+BS-CS:
+  name: Central Andros
+  level: district
+BS-CE:
+  name: Central Eleuthera
+  level: district
+BS-FP:
+  name: Freeport
+  level: district
+BS-CK:
+  name: Crooked Island
+  level: district
+BS-EG:
+  name: East Grand Bahama
+  level: district
+BS-EX:
+  name: Exuma
+  level: district
+BS-GC:
+  name: Grand Cay
+  level: district
+BS-GT:
+  name: Green Turtle Cay
+  level: district
+BS-HI:
+  name: Harbour Island
+  level: district
+BS-HR:
+  name: High Rock
+  level: district
+BS-HT:
+  name: Hope Town
+  level: district
+BS-IN:
+  name: Inagua
+  level: district
+BS-KB:
+  name: Kemps Bay
+  level: district
+BS-LI:
+  name: Long Island
+  level: district
+BS-MC:
+  name: Mangrove Cay
+  level: district
+BS-MH:
+  name: Marsh Harbour
+  level: district
+BS-MG:
+  name: Mayaguana
+  level: district
+BS-MI:
+  name: Moore’s Island
+  level: district
+BS-NP:
+  name: New Providence
+  level: district
+BS-NB:
+  name: Nichollstown and Berry Islands
+  level: district
+BS-NO:
+  name: North Abaco
+  level: district
+BS-NS:
+  name: North Andros
+  level: district
+BS-NE:
+  name: North Eleuthera
+  level: district
+BS-RI:
+  name: Ragged Island
+  level: district
+BS-RS:
+  name: Rock Sound
+  level: district
+BS-RC:
+  name: Rum Cay
+  level: district
+BS-SS:
+  name: San Salvador
+  level: district
+BS-SR:
+  name: San Salvador and Rum Cay
+  level: district
+BS-SP:
+  name: Sandy Point
+  level: district
+BS-SO:
+  name: South Abaco
+  level: district
+BS-SA:
+  name: South Andros
+  level: district
+BS-SE:
+  name: South Eleuthera
+  level: district
+BS-SW:
+  name: Spanish Wells
+  level: district
+BS-WG:
+  name: West Grand Bahama
+  level: district

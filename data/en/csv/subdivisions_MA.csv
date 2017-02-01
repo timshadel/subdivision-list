@@ -1,0 +1,85 @@
+id,name,level
+MA-AGD,Agadir,prefecture
+MA-HAO,Al Haouz Province,province
+MA-HOC,Al Hoceima,province
+MA-AOU,Aousserd,prefecture
+MA-ASZ,Assa-Zag Province,province
+MA-AZI,Azilal,province
+MA-BAH,Chtouka Aït Baha Province,province
+MA-MEL,Aït Melloul,
+MA-BES,Ben Slimane,province
+MA-BEM,Beni Mellal,province
+MA-BER,Berkane,province
+MA-BOD,Boujdour,province
+MA-BOM,Boulemane,province
+MA-CAS,Casablanca,prefecture
+MA-09,Chaouia-Ouardigh,region
+MA-CHE,Chefchaouen,province
+MA-CHI,Chichaoua,province
+MA-CHT,Chtouka-Ait Baha,
+MA-SAL,Connaught Salé,prefecture
+MA-10,Doukkala-Abda,region
+MA-HAJ,El Hajeb,province
+MA-JDI,El Jadida,province
+MA-ERR,Errachidia,province
+MA-ESM,Es Smara,province
+MA-ESI,Essaouira,province
+MA-FAH,Fahs-Anjra,prefecture
+MA-05,Fès-Boulemane,region
+MA-FIG,Figuig,province
+MA-FES,Fes,prefecture
+MA-02,Gharb-Chrarda-Béni Hssen,region
+MA-08,Grand Casablanca,region
+MA-GUE,Guelmim,province
+MA-14,Guelmim-Es Smar,region
+MA-IFR,Ifrane,province
+MA-INE,Inezgane,prefecture
+MA-JRA,Jerada,province
+MA-KES,El Kelaa des Sraghna,province
+MA-KHE,Khemisset,province
+MA-KHN,Khenifra,province
+MA-KHO,Khouribga,province
+MA-KEN,Kenitra,province
+MA-04,Orient,rerion
+MA-15,Laâyoune-Boujdour-Sakia El Hamra,region
+MA-LAR,Larache,province
+MA-LAA,Laâyoune,province
+MA-MAR,Marrakech,
+MA-MMD,Marrakech,prefecture
+MA-MMN,Marrakech,prefecture
+MA-11,Marrakesh-Tensift-El Haouz,region
+MA-MED,Mediouna,province
+MA-06,Meknès-Tafilalet,region
+MA-MEK,Meknes,prefecture
+MA-MOH,Mohammadia,prefecture
+MA-MOU,Moulay Yacoub Province,
+MA-NAD,Nador,province
+MA-NOU,Nouaceur,province
+MA-OUA,Ouarzazate,province
+MA-OUD,Oued ed Dahab,province
+MA-16,Oued Ed-Dahab-Lagouira,region
+MA-OUJ,Oujda,prefecture
+MA-RAB,Rabat,prefecture
+MA-RBA,Rabat-Salé,
+MA-07,Rabat-Salé-Zemmour-Zaer,region
+MA-SAF,Safi,province
+MA-SEF,Sefrou,
+MA-SET,Settat,province
+MA-SIK,Sidi Kacem,province
+MA-SYB,Marrakech,prefecture
+MA-SKH,Temara,prefecture
+MA-13,Souss-Massa-Drâa,region
+MA-12,Tadla-Azilal,region
+MA-TNT,Tan-Tan,province
+MA-TNG,Tangier,
+MA-TNG,Tangier,prefecture
+MA-01,Tangier-Tetouan,region
+MA-TAO,Taounate,province
+MA-TAI,Taourirt,province
+MA-TAR,Taroudant,province
+MA-TAT,Tata,province
+MA-TAZ,Taza,province
+MA-03,Taza-Al Hoceima-Taounate,region
+MA-TIZ,Tiznit,province
+MA-TET,Tétouan,
+MA-ZAG,Zagora,province

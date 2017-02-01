@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_EC (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-A', E'Azuay Province', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-B', E'Simón Bolívar', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-C', E'Carchi Province', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-F', E'Canar', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-H', E'Chimborazo', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-X', E'Cotopaxi', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-O', E'El Oro', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-E', E'Esmeraldas', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-W', E'Galápagos Islands', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-G', E'Guayas', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-I', E'Imbabura', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-L', E'Loja', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-R', E'Los Ríos', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-M', E'Manabí', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-S', E'Morona-Santiago Province', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-N', E'Napo', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-D', E'Orellana', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-Y', E'Pastaza', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-P', E'Pichincha', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-SE', E'Santa Elena', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-SD', E'Santo Domingo de los Tsáchilas Province', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-U', E'Sucumbíos Province', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-T', E'Tungurahua', E'province');
+INSERT INTO "subdivision_EC" ("id", "name", "level") VALUES (E'EC-Z', E'Zamora-Chinchipe Province', E'province');

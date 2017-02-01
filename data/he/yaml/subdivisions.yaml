@@ -1,0 +1,1491 @@
+---
+AD:
+  AD-07:
+    name: "אנדורה לה ולה"
+    level: parish
+AT:
+  AT-1:
+    name: "בורגנלנד"
+    level: state
+  AT-3:
+    name: "אוסטריה תחתית"
+    level: state
+  AT-5:
+    name: "זלצבורג"
+    level: state
+  AT-6:
+    name: "שטיריה"
+    level: state
+  AT-7:
+    name: "טירול"
+    level: state
+  AT-4:
+    name: "אוסטריה עילית"
+    level: state
+  AT-9:
+    name: "וינה"
+    level: state
+  AT-8:
+    name: "פורארלברג"
+    level: state
+BY:
+  BY-HM:
+    name: "מינסק"
+    level: city
+BE:
+  BE-VAN:
+    name: "אנטוורפן"
+    level: province
+  BE-BRU:
+    name: "בריסל"
+    level: capital region
+  BE-WLX:
+    name: "לוקסמבורג"
+    level: province
+  BE-WAL:
+    name: "ולוניה"
+    level: region
+CA:
+  CA-AB:
+    name: "אלברטה"
+    level: province
+  CA-BC:
+    name: "קולומביה הבריטית"
+    level: province
+  CA-MB:
+    name: "מניטובה"
+    level: province
+  CA-NB:
+    name: "ניו ברנזוויק"
+    level: province
+  CA-NL:
+    name: "ניופאונדלנד ולברדור"
+    level: province
+  CA-NT:
+    name: "הטריטוריות הצפון-מערביות"
+    level: territory
+  CA-NS:
+    name: "נובה סקוטיה"
+    level: province
+  CA-NU:
+    name: "נונאווט"
+    level: territory
+  CA-ON:
+    name: "אונטריו"
+    level: province
+  CA-PE:
+    name: "אי הנסיך אדוארד"
+    level: province
+  CA-QC:
+    name: "קוויבק"
+    level: province
+  CA-YT:
+    name: "יוקון"
+    level: territory
+CL:
+  CL-AT:
+    name: "מדבר אטקמה"
+    level: region
+  CL-VS:
+    name: "ולפראיסו"
+    level: region
+DK:
+  DK-070:
+    name: "אורהוס"
+    level: county
+  DK-040:
+    name: "בורנהולם"
+    level: county
+  DK-015:
+    name: "קופנהגן"
+    level: county
+  DK-85:
+    name: "זיילנד"
+    level: region
+EE:
+  EE-37:
+    name: "מחוז האריו"
+    level: county
+  EE-39:
+    name: "היומאה"
+    level: county
+  EE-44:
+    name: "מחוז אידה-וירו"
+    level: county
+  EE-51:
+    name: "מחוז יארבה"
+    level: county
+  EE-49:
+    name: "מחוז ייגבה"
+    level: county
+  EE-59:
+    name: "מחוז לאנה-וירו"
+    level: county
+  EE-57:
+    name: "מחוז לאנה"
+    level: county
+  EE-67:
+    name: "מחוז פרנו"
+    level: county
+  EE-65:
+    name: "מחוז פילבה"
+    level: county
+  EE-70:
+    name: "מחוז ראפלה"
+    level: county
+  EE-74:
+    name: "סארמאה"
+    level: county
+  EE-78:
+    name: "מחוז טרטו"
+    level: county
+  EE-82:
+    name: "מחוז ולגה"
+    level: county
+  EE-84:
+    name: "מחוז ויליאנדי"
+    level: county
+  EE-86:
+    name: "מחוז וורו"
+    level: county
+FR:
+  FR-01:
+    name: "אן"
+    level: metropolitan department
+  FR-02:
+    name: "אן"
+    level: metropolitan department
+  FR-03:
+    name: "אלייה"
+    level: metropolitan department
+  FR-06:
+    name: "האלפים הימיים"
+    level: metropolitan department
+  FR-04:
+    name: "האלפים של פרובאנס עילית"
+    level: metropolitan department
+  FR-A:
+    name: "אלזס"
+    level: metropolitan regions
+  FR-B:
+    name: "אקיטן"
+    level: metropolitan regions
+  FR-08:
+    name: "ארדנים"
+    level: metropolitan department
+  FR-07:
+    name: "ארדש"
+    level: metropolitan department
+  FR-10:
+    name: "אוב"
+    level: metropolitan department
+  FR-11:
+    name: "אוד"
+    level: metropolitan department
+  FR-12:
+    name: "אוורון"
+    level: metropolitan department
+  FR-67:
+    name: "ריין תחתון"
+    level: metropolitan department
+  FR-D:
+    name: "בורגונדי"
+    level: metropolitan regions
+  FR-14:
+    name: "קלבדוס"
+    level: metropolitan department
+  FR-F:
+    name: "מרכז"
+    level: metropolitan regions
+  FR-G:
+    name: "שמפאן-ארדן"
+    level: metropolitan regions
+  FR-17:
+    name: "השראנט הימי"
+    level: metropolitan department
+  FR-18:
+    name: "שר"
+    level: metropolitan department
+  FR-CP:
+    name: "קליפרטון"
+    level: dependency
+  FR-2A:
+    name: "קורסיקה הדרומית"
+    level: metropolitan department
+  FR-H:
+    name: "קורסיקה"
+    level: metropolitan regions
+  FR-25:
+    name: "דו"
+    level: metropolitan department
+  FR-29:
+    name: "פיניסטר"
+    level: metropolitan department
+  FR-I:
+    name: "פראנש-קונטה"
+    level: metropolitan regions
+  FR-GP:
+    name: "גוואדלופ"
+    level: overseas regions
+  FR-2B:
+    name: "קורסיקה עילית"
+    level: metropolitan department
+  FR-P:
+    name: "נורמנדי תחתית"
+    level: metropolitan regions
+  FR-GF:
+    name: "גיאנה הצרפתית"
+    level: overseas regions
+  FR-74:
+    name: "סבואה עילית"
+    level: metropolitan department
+  FR-05:
+    name: "האלפים העליונים"
+    level: metropolitan department
+  FR-92:
+    name: "רמות הסן"
+    level: metropolitan department
+  FR-34:
+    name: "ארו"
+    level: metropolitan department
+  FR-35:
+    name: "איל ווילן"
+    level: metropolitan department
+  FR-37:
+    name: "אנדר ולואר"
+    level: metropolitan department
+  FR-K:
+    name: "לנגדוק-רוסיון"
+    level: metropolitan regions
+  FR-42:
+    name: "לואר"
+    level: metropolitan department
+  FR-44:
+    name: "הלואר האטלנטי"
+    level: metropolitan department
+  FR-M:
+    name: "לוריין"
+    level: metropolitan regions
+  FR-46:
+    name: "לוט"
+    level: metropolitan department
+  FR-48:
+    name: "לוזר"
+    level: metropolitan department
+  FR-50:
+    name: "מאנש"
+    level: metropolitan department
+  FR-MQ:
+    name: "מרטיניק"
+    level: overseas regions
+  FR-YT:
+    name: "מיוט"
+    level: territorial collectivity
+  FR-N:
+    name: "מידי-פירנה"
+    level: metropolitan regions
+  FR-57:
+    name: "מוזל"
+    level: metropolitan department
+  FR-O:
+    name: "נור-פה דה קאלה"
+    level: metropolitan regions
+  FR-61:
+    name: "אורן"
+    level: metropolitan department
+  FR-75:
+    name: "פריז"
+    level: metropolitan department
+  FR-62:
+    name: "פה-דה-קאלה"
+    level: metropolitan department
+  FR-R:
+    name: "פיי דה לה לואר"
+    level: metropolitan regions
+  FR-S:
+    name: "פיקרדי"
+    level: metropolitan regions
+  FR-T:
+    name: "פואטו-שראנט"
+    level: metropolitan regions
+  FR-Q:
+    name: "נורמנדי עילית"
+    level: metropolitan regions
+  FR-PF:
+    name: "פולינזיה הצרפתית"
+    level: overseas territory
+  FR-NC:
+    name: "קלדוניה החדשה"
+    level: overseas territory
+  FR-RE:
+    name: "ראוניון"
+    level: overseas regions
+  FR-64:
+    name: "הפירנאים האטלנטיים"
+    level: metropolitan department
+  FR-69:
+    name: "רון"
+    level: metropolitan department
+  FR-V:
+    name: "רון-אלפ"
+    level: metropolitan regions
+  FR-73:
+    name: "סבואה"
+    level: metropolitan department
+  FR-76:
+    name: "סן-מריטים"
+    level: metropolitan department
+  FR-80:
+    name: "סום"
+    level: metropolitan department
+  FR-81:
+    name: "טארן"
+    level: metropolitan department
+  FR-82:
+    name: "טארן וגארון"
+    level: metropolitan department
+  FR-84:
+    name: "ווקלוז"
+    level: metropolitan department
+  FR-85:
+    name: "ונדה"
+    level: metropolitan department
+  FR-86:
+    name: "ויין"
+    level: metropolitan department
+  FR-89:
+    name: "יון"
+    level: metropolitan department
+  FR-BL:
+    name: "סן ברתלמי"
+    level: overseas territorial collectivity
+  FR-PM:
+    name: "סן פייר ומיקלון"
+    level: territorial collectivity
+  FR-WF:
+    name: "ואליס ופוטונה"
+    level: overseas territory
+DE:
+  DE-BW:
+    name: "באדן-וירטמברג"
+    level: state
+  DE-BY:
+    name: "בוואריה"
+    level: state
+  DE-BE:
+    name: "ברלין"
+    level: state
+  DE-BB:
+    name: "ברנדנבורג"
+    level: state
+  DE-HB:
+    name: "ברמן"
+    level: state
+  DE-HH:
+    name: "המבורג"
+    level: state
+  DE-HE:
+    name: "הסן"
+    level: state
+  DE-NI:
+    name: "סקסוניה התחתונה"
+    level: state
+  DE-MV:
+    name: "מקלנבורג-מערב פומרניה"
+    level: state
+  DE-NW:
+    name: "נורדריין-וסטפאליה"
+    level: state
+  DE-RP:
+    name: "ריינלנד-פאלץ"
+    level: state
+  DE-SL:
+    name: "חבל הסאר"
+    level: state
+  DE-SN:
+    name: "סקסוניה"
+    level: state
+  DE-ST:
+    name: "סקסוניה-אנהלט"
+    level: state
+  DE-SH:
+    name: "שלזוויג-הולשטיין"
+    level: state
+  DE-TH:
+    name: "תורינגיה"
+    level: state
+GH:
+  GH-TV:
+    name: "וולטה"
+    level: region
+IN:
+  IN-AN:
+    name: "איי אנדמן וניקובר"
+    level: union territory
+  IN-AP:
+    name: "אנדרה פראדש"
+    level: state
+  IN-AS:
+    name: "אסאם"
+    level: state
+  IN-BR:
+    name: "ביהר"
+    level: state
+  IN-DN:
+    name: "דאדרה ונאגר הבלי"
+    level: union territory
+  IN-DD:
+    name: "דאמאן ודיו"
+    level: union territory
+  IN-DL:
+    name: "דלהי"
+    level: union territory
+  IN-GA:
+    name: "גואה"
+    level: state
+  IN-HR:
+    name: "הריאנה"
+    level: state
+  IN-KA:
+    name: "קארנאטקה"
+    level: state
+  IN-KL:
+    name: "קרלה"
+    level: state
+  IN-LD:
+    name: "לקשאדוויפ"
+    level: union territory
+  IN-MP:
+    name: "מאדהיה פראדש"
+    level: state
+  IN-MH:
+    name: "מהאראשטרה"
+    level: state
+  IN-MN:
+    name: "מאניפור"
+    level: state
+  IN-ML:
+    name: "מגהלאיה"
+    level: state
+  IN-MZ:
+    name: "מיזוראם"
+    level: state
+  IN-NL:
+    name: "נאגאלנד"
+    level: state
+  IN-OR:
+    name: "אוריסה"
+    level: state
+  IN-SK:
+    name: "סיקים"
+    level: state
+  IN-TN:
+    name: "טאמיל נאדו"
+    level: state
+  IN-TR:
+    name: "טריפורה"
+    level: state
+  IN-UP:
+    name: "אוטר פראדש"
+    level: state
+  IN-UT:
+    name: "אוטראקהאנד"
+    level: state
+  IN-WB:
+    name: "מערב בנגל"
+    level: state
+IE:
+  IE-D:
+    name: "דבלין"
+    level: county
+  IE-G:
+    name: "גולוויי"
+    level: county
+  IE-L:
+    name: "לנסטר"
+    level: province
+  IE-LK:
+    name: "לימריק"
+    level: county
+  IE-M:
+    name: "מנסטר"
+    level: province
+  IE-U:
+    name: "אלסטר"
+    level: province
+IL:
+  IL-HA:
+    name: "חיפה"
+    level: district
+  IL-JM:
+    name: "ירושלים"
+    level: district
+  IL-TA:
+    name: "תל אביב-יפו"
+    level: district
+IT:
+  IT-65:
+    name: "אברוצו"
+    level: region
+  IT-AL:
+    name: "אלסנדריה"
+    level: province
+  IT-AN:
+    name: "אנקונה"
+    level: province
+  IT-AO:
+    name: "אאוסטה"
+    level: province
+  IT-AR:
+    name: "ארצו"
+    level: province
+  IT-AT:
+    name: "אסטי"
+    level: province
+  IT-BA:
+    name: "בארי"
+    level: province
+  IT-77:
+    name: "בזיליקטה"
+    level: region
+  IT-BN:
+    name: "בנוונטו"
+    level: province
+  IT-BG:
+    name: "ברגמו"
+    level: province
+  IT-BI:
+    name: "ביאלה"
+    level: province
+  IT-BO:
+    name: "בולוניה"
+    level: province
+  IT-BZ:
+    name: "בולצנו"
+    level: province
+  IT-BS:
+    name: "ברשה"
+    level: province
+  IT-BR:
+    name: "ברינדיזי"
+    level: province
+  IT-CA:
+    name: "קליארי"
+    level: province
+  IT-78:
+    name: "קלבריה"
+    level: region
+  IT-CL:
+    name: "קלטניסטה"
+    level: province
+  IT-72:
+    name: "קמפניה"
+    level: region
+  IT-CB:
+    name: "קמפובאסו"
+    level: province
+  IT-CT:
+    name: "קטניה"
+    level: province
+  IT-CZ:
+    name: "קטנזארו"
+    level: province
+  IT-CO:
+    name: "קומו"
+    level: province
+  IT-CR:
+    name: "קרמונה"
+    level: province
+  IT-KR:
+    name: "קרוטונה"
+    level: province
+  IT-CN:
+    name: "קונאו"
+    level: province
+  IT-45:
+    name: "אמיליה-רומאניה"
+    level: region
+  IT-EN:
+    name: "אנה"
+    level: province
+  IT-FE:
+    name: "פרארה"
+    level: province
+  IT-FI:
+    name: "פירנצה"
+    level: province
+  IT-GO:
+    name: "גוריציה"
+    level: province
+  IT-BT:
+    name: "בארלטה-אנדריה-טראני"
+    level: province
+  IT-CI:
+    name: "קרבוניה איגלסיס"
+    level: province
+  IT-75:
+    name: "פוליה"
+    level: region
+  IT-SP:
+    name: "לה ספציה"
+    level: province
+  IT-62:
+    name: "לאציו"
+    level: region
+  IT-42:
+    name: "ליגוריה"
+    level: region
+  IT-LI:
+    name: "ליבורנו"
+    level: province
+  IT-25:
+    name: "לומברדיה"
+    level: region
+  IT-LU:
+    name: "לוקה"
+    level: province
+  IT-MN:
+    name: "מנטובה"
+    level: province
+  IT-57:
+    name: "מארקה"
+    level: region
+  IT-MT:
+    name: "מטרה"
+    level: province
+  IT-ME:
+    name: "מסינה"
+    level: province
+  IT-MI:
+    name: "מילאנו"
+    level: province
+  IT-MO:
+    name: "מודנה"
+    level: province
+  IT-67:
+    name: "מוליזה"
+    level: region
+  IT-NA:
+    name: "נאפולי"
+    level: province
+  IT-OR:
+    name: "אוריסטאנו"
+    level: province
+  IT-PD:
+    name: "פאדובה"
+    level: province
+  IT-PA:
+    name: "פלרמו"
+    level: province
+  IT-PR:
+    name: "פארמה"
+    level: province
+  IT-PV:
+    name: "פאביה"
+    level: province
+  IT-21:
+    name: "פיימונטה"
+    level: region
+  IT-PI:
+    name: "פיזה"
+    level: province
+  IT-PT:
+    name: "פיסטויה"
+    level: province
+  IT-PZ:
+    name: "פוטנצה"
+    level: province
+  IT-PO:
+    name: "פראטו"
+    level: province
+  IT-MS:
+    name: "מאסה-קרארה"
+    level: province
+  IT-OL:
+    name: "אולביה טמפיו"
+    level: province
+  IT-PU:
+    name: "פזארו אה אורבינו"
+    level: province
+  IT-RG:
+    name: "רגוזה"
+    level: province
+  IT-RA:
+    name: "רוונה"
+    level: province
+  IT-RN:
+    name: "רימיני"
+    level: province
+  IT-RM:
+    name: "רומא"
+    level: province
+  IT-SA:
+    name: "סלרנו"
+    level: province
+  IT-88:
+    name: "סרדיניה"
+    level: region
+  IT-SS:
+    name: "סאסארי"
+    level: province
+  IT-82:
+    name: "סיציליה"
+    level: region
+  IT-SI:
+    name: "סיינה"
+    level: province
+  IT-TA:
+    name: "טאראנטו"
+    level: province
+  IT-TR:
+    name: "טרני"
+    level: province
+  IT-TP:
+    name: "טרפאני"
+    level: province
+  IT-TN:
+    name: "טרנטו"
+    level: province
+  IT-TV:
+    name: "טרוויזו"
+    level: province
+  IT-TS:
+    name: "טריאסטה"
+    level: province
+  IT-TO:
+    name: "טורינו"
+    level: province
+  IT-52:
+    name: "טוסקנה"
+    level: region
+  IT-55:
+    name: "אומבריה"
+    level: region
+  IT-VA:
+    name: "וארזה"
+    level: province
+  IT-34:
+    name: "ונטו"
+    level: region
+  IT-VE:
+    name: "ונציה"
+    level: province
+  IT-VR:
+    name: "ורונה"
+    level: province
+  IT-VV:
+    name: "ויבו ולנטיה"
+    level: province
+LU:
+  LU-L:
+    name: "לוקסמבורג"
+    level: district
+NL:
+  NL-AW:
+    name: "ארובה"
+    level: country
+  NL-BQ1:
+    name: "בונייר"
+    level: special municipality
+  NL-CW:
+    name: "קוראסאו"
+    level: country
+  NL-DR:
+    name: "דרנתה"
+    level: province
+  NL-FL:
+    name: "פלבולנד"
+    level: province
+  NL-FR:
+    name: "פריסלנד"
+    level: province
+  NL-GE:
+    name: "חלדרלנד"
+    level: province
+  NL-GR:
+    name: "חרונינגן"
+    level: province
+  NL-NB:
+    name: "צפון בראבנט"
+    level: province
+  NL-NH:
+    name: "צפון הולנד"
+    level: province
+  NL-OV:
+    name: "אובראיסל"
+    level: province
+  NL-BQ2:
+    name: "סאבא"
+    level: special municipality
+  NL-BQ3:
+    name: "סנט אוסטתיוס"
+    level: special municipality
+  NL-ZH:
+    name: "דרום הולנד"
+    level: province
+  NL-UT:
+    name: "אוטרכט"
+    level: province
+  NL-ZE:
+    name: "זיילנד"
+    level: province
+'NO':
+  NO-02:
+    name: "אקרסהוס"
+    level: county
+  NO-22:
+    name: "יאן מאיין"
+    level: ''
+  NO-03:
+    name: "אוסלו"
+    level: county
+  NO-21:
+    name: "סבאלברד"
+    level: ''
+PT:
+  PT-20:
+    name: "האיים האזוריים"
+    level: autonomous region
+  PT-03:
+    name: "בראגה"
+    level: district
+  PT-06:
+    name: "קוימברה"
+    level: district
+  PT-10:
+    name: "לייריה"
+    level: district
+  PT-11:
+    name: "ליסבון"
+    level: district
+  PT-30:
+    name: "מדיירה"
+    level: autonomous region
+  PT-13:
+    name: "פורטו"
+    level: district
+  PT-14:
+    name: "סנטרם"
+    level: district
+  PT-15:
+    name: "סטובל"
+    level: district
+  PT-07:
+    name: "אבורה"
+    level: district
+RO:
+  RO-AR:
+    name: "ארד"
+    level: county
+  RO-BC:
+    name: "בקאו"
+    level: county
+  RO-BT:
+    name: "בוטושאן"
+    level: county
+  RO-BV:
+    name: "בראשוב"
+    level: county
+  RO-BR:
+    name: "בראילה"
+    level: county
+  RO-B:
+    name: "בוקרשט"
+    level: city
+  RO-BZ:
+    name: "בוזאו"
+    level: county
+  RO-CT:
+    name: "קונסטנצה"
+    level: county
+  RO-GL:
+    name: "גאלאץ"
+    level: county
+  RO-HD:
+    name: "חונדוארה"
+    level: county
+  RO-IS:
+    name: "יאשי"
+    level: county
+  RO-SM:
+    name: "סאטו מארה"
+    level: county
+  RO-SB:
+    name: "סיביו"
+    level: county
+  RO-VS:
+    name: "וסלוי"
+    level: county
+RS:
+  RS-00:
+    name: "בלגרד"
+    level: city
+SK:
+  SK-BC:
+    name: "באנסקה ביסטריצה"
+    level: region
+  SK-TA:
+    name: "מחוז טרנבה"
+    level: region
+ES:
+  ES-AB:
+    name: "אלבסטה"
+    level: province
+  ES-A:
+    name: "אליקנטה"
+    level: province
+  ES-AN:
+    name: "אנדלוסיה"
+    level: ''
+  ES-AS:
+    name: "אסטוריאס"
+    level: autonomous community
+  ES-BA:
+    name: "בדחוס"
+    level: province
+  ES-IB:
+    name: "האיים הבלאריים"
+    level: autonomous community
+  ES-B:
+    name: "ברצלונה"
+    level: province
+  ES-CA:
+    name: "קדיס"
+    level: province
+  ES-S:
+    name: "קנטבריה"
+    level: province
+  ES-CL:
+    name: "קסטיליה ולאון"
+    level: autonomous community
+  ES-CT:
+    name: "קטלוניה"
+    level: autonomous community
+  ES-CE:
+    name: "סאוטה"
+    level: autonomous city
+  ES-CR:
+    name: "סיודאד ריאל"
+    level: province
+  ES-CU:
+    name: "קואנקה"
+    level: province
+  ES-CO:
+    name: "קורדובה"
+    level: province
+  ES-EX:
+    name: "אקסטרמדורה"
+    level: autonomous community
+  ES-GR:
+    name: "גרנדה"
+    level: province
+  ES-GU:
+    name: "גוודלחרה"
+    level: province
+  ES-HU:
+    name: "אואסקה"
+    level: province
+  ES-LE:
+    name: "לאון"
+    level: province
+  ES-L:
+    name: "ליידה"
+    level: province
+  ES-LU:
+    name: "לוגו"
+    level: province
+  ES-MD:
+    name: "מדריד"
+    level: autonomous community
+  ES-ML:
+    name: "מלייה"
+    level: autonomous city
+  ES-MC:
+    name: "מורסיה"
+    level: autonomous community
+  ES-MA:
+    name: "מאלגה"
+    level: province
+  ES-NC:
+    name: "נווארה"
+    level: autonomous community
+  ES-SA:
+    name: "סלמנקה"
+    level: province
+  ES-TF:
+    name: "סנטה קרוס דה טנריפה"
+    level: province
+  ES-SG:
+    name: "סגוביה"
+    level: province
+  ES-SE:
+    name: "סביליה"
+    level: province
+  ES-SO:
+    name: "סוריה"
+    level: province
+  ES-T:
+    name: "טרגונה"
+    level: province
+  ES-V:
+    name: "ולנסיה"
+    level: province
+  ES-VC:
+    name: "ולנסיה"
+    level: autonomous community
+  ES-VA:
+    name: "ואיאדוליד"
+    level: province
+  ES-Z:
+    name: "סרגוסה"
+    level: province
+SE:
+  SE-X:
+    name: "מחוז יבלבורג"
+    level: county
+  SE-Z:
+    name: "מחוז ימטלנד"
+    level: county
+  SE-AB:
+    name: "מחוז סטוקהולם"
+    level: county
+  SE-O:
+    name: "מחוז יטאלנד המערבית"
+    level: county
+CH:
+  CH-AG:
+    name: "ארגאו"
+    level: canton
+  CH-BE:
+    name: "ברן"
+    level: canton
+  CH-FR:
+    name: "פריבור"
+    level: canton
+  CH-GR:
+    name: "גראובינדן"
+    level: canton
+  CH-NW:
+    name: "נידוולדן"
+    level: canton
+  CH-OW:
+    name: "אובוולדן"
+    level: canton
+  CH-SG:
+    name: "סנט גאלן"
+    level: canton
+  CH-SO:
+    name: "זולותורן"
+    level: canton
+  CH-TG:
+    name: "תורגאו"
+    level: canton
+  CH-VS:
+    name: "ואלה"
+    level: canton
+  CH-VD:
+    name: "וו"
+    level: canton
+  CH-LU:
+    name: "לוצרן"
+    level: canton
+  CH-ZH:
+    name: "ציריך"
+    level: canton
+UA:
+  UA-43:
+    name: "חצי האי קרים"
+    level: autonomous republic
+  UA-30:
+    name: "קייב"
+    level: region
+  UA-40:
+    name: "סבסטופול"
+    level: region
+  UA-05:
+    name: "מחוז ויניצה"
+    level: region
+  UA-21:
+    name: "זקרפטיה"
+    level: region
+GB:
+  GB-ABE:
+    name: "אברדין"
+    level: council area (scotland)
+  GB-AGB:
+    name: "ארגייל וביוט"
+    level: council area (scotland)
+  GB-BDF:
+    name: "בדפורדשייר"
+    level: unitary authority
+  GB-BFS:
+    name: "בלפאסט"
+    level: district council area (northern ireland)
+  GB-BIR:
+    name: "ברמינגהאם"
+    level: metropolitan district
+  GB-BST:
+    name: "בריסטול"
+    level: unitary authority
+  GB-CMD:
+    name: "קמדן"
+    level: borough
+  GB-CRF:
+    name: "קארדיף"
+    level: unitary authority (wales)
+  GB-CON:
+    name: "קורנוול"
+    level: unitary authority
+  GB-COV:
+    name: "קובנטרי"
+    level: metropolitan district
+  GB-BDG:
+    name: "בארקינג ודאגנהאם"
+    level: borough
+  GB-CMA:
+    name: "קאמבריה"
+    level: two-tier county
+  GB-DEN:
+    name: "דנבישייר"
+    level: unitary authority (wales)
+  GB-DER:
+    name: "דרבי"
+    level: unitary authority
+  GB-DBY:
+    name: "דרבישייר"
+    level: two-tier county
+  GB-DRY:
+    name: "דרי"
+    level: district council area (northern ireland)
+  GB-DOR:
+    name: "דורסט"
+    level: two-tier county
+  GB-DUR:
+    name: "דרהאם"
+    level: unitary authority
+  GB-EAL:
+    name: "אילינג"
+    level: borough
+  GB-EDH:
+    name: "אדינבורו"
+    level: council area (scotland)
+  GB-ENF:
+    name: "אנפילד"
+    level: borough
+  GB-ESS:
+    name: "אסקס"
+    level: two-tier county
+  GB-GAT:
+    name: "גייטסהד"
+    level: metropolitan district
+  GB-GLG:
+    name: "גלאזגו"
+    level: council area (scotland)
+  GB-GLS:
+    name: "גלוסטרשייר"
+    level: two-tier county
+  GB-HAM:
+    name: "המפשייר"
+    level: two-tier county
+  GB-HRW:
+    name: "הארו"
+    level: borough
+  GB-HAV:
+    name: "הברינג"
+    level: borough
+  GB-AGY:
+    name: "אנגלסי"
+    level: unitary authority (wales)
+  GB-LND:
+    name: "הסיטי של לונדון"
+    level: city corporation
+  GB-IOW:
+    name: "האי וייט"
+    level: unitary authority
+  GB-IOS:
+    name: "איי סילי"
+    level: ''
+  GB-ISL:
+    name: "איזלינגטון"
+    level: borough
+  GB-KEN:
+    name: "קנט"
+    level: two-tier county
+  GB-KHL:
+    name: "האל"
+    level: unitary authority
+  GB-LAN:
+    name: "לנקשייר"
+    level: two-tier county
+  GB-LRN:
+    name: "לרן"
+    level: district council area (northern ireland)
+  GB-LDS:
+    name: "לידס"
+    level: metropolitan district
+  GB-LCE:
+    name: "לסטר"
+    level: unitary authority
+  GB-LIV:
+    name: "ליברפול"
+    level: metropolitan district
+  GB-NWM:
+    name: "ניוהאם"
+    level: borough
+  GB-MDB:
+    name: "מידלסברו"
+    level: unitary authority
+  GB-NET:
+    name: "ניוקאסל"
+    level: metropolitan district
+  GB-NFK:
+    name: "נורפוק"
+    level: two-tier county
+  GB-NGM:
+    name: "נוטינגהאם"
+    level: unitary authority
+  GB-OLD:
+    name: "אולדהאם"
+    level: metropolitan district
+  GB-ORK:
+    name: "אורקני"
+    level: council area (scotland)
+  GB-OXF:
+    name: "אוקספורדשייר"
+    level: two-tier county
+  GB-RDG:
+    name: "רדינג"
+    level: unitary authority
+  GB-RUT:
+    name: "ראטלנד"
+    level: unitary authority
+  GB-SHF:
+    name: "שפילד"
+    level: metropolitan district
+  GB-ZET:
+    name: "איי שטלנד"
+    level: council area (scotland)
+  GB-SOM:
+    name: "סאמרסט"
+    level: two-tier county
+  GB-SFK:
+    name: "סאפוק"
+    level: two-tier county
+  ENG:
+    name: "אנגליה"
+    level: country
+  GB-TWH:
+    name: "טאוור האמלטס"
+    level: borough
+  NIR:
+    name: "צפון אירלנד"
+    level: country
+  SCT:
+    name: "סקוטלנד"
+    level: country
+  GB-SWA:
+    name: "סוונסי"
+    level: unitary authority (wales)
+  WLS:
+    name: "ויילס"
+    level: country
+  GB-WAR:
+    name: "ווריקשייר"
+    level: two-tier county
+  GB-WSM:
+    name: "וסטמינסטר"
+    level: borough
+  GB-WLV:
+    name: "וולברהמפטון"
+    level: metropolitan district
+  GB-WRX:
+    name: "רקסהאם"
+    level: unitary authority (wales)
+  GB-YOR:
+    name: "יורק"
+    level: unitary authority
+US:
+  US-AL:
+    name: "אלבמה"
+    level: state
+  US-AK:
+    name: "אלסקה"
+    level: state
+  US-AS:
+    name: "סמואה האמריקנית"
+    level: outlying area
+  US-AZ:
+    name: "אריזונה"
+    level: state
+  US-AR:
+    name: "ארקנסו"
+    level: state
+  US-CA:
+    name: "קליפורניה"
+    level: state
+  US-CO:
+    name: "קולורדו"
+    level: state
+  US-CT:
+    name: "קונטיקט"
+    level: state
+  US-DE:
+    name: "דלאוור"
+    level: state
+  US-FL:
+    name: "פלורידה"
+    level: state
+  US-GU:
+    name: "גואם"
+    level: outlying area
+  US-HI:
+    name: "הוואי"
+    level: state
+  US-ID:
+    name: "איידהו"
+    level: state
+  US-IL:
+    name: "אילינוי"
+    level: state
+  US-IN:
+    name: "אינדיאנה"
+    level: state
+  US-IA:
+    name: "איווה"
+    level: state
+  US-KS:
+    name: "קנזס"
+    level: state
+  US-KY:
+    name: "קנטקי"
+    level: state
+  US-LA:
+    name: "לואיזיאנה"
+    level: state
+  US-ME:
+    name: "מיין"
+    level: state
+  US-MD:
+    name: "מרילנד"
+    level: state
+  US-MI:
+    name: "מישיגן"
+    level: state
+  US-MN:
+    name: "מינסוטה"
+    level: state
+  US-MS:
+    name: "מיסיסיפי"
+    level: state
+  US-MO:
+    name: "מיזורי"
+    level: state
+  US-MT:
+    name: "מונטנה"
+    level: state
+  US-NE:
+    name: "נברסקה"
+    level: state
+  US-NV:
+    name: "נבדה"
+    level: state
+  US-NH:
+    name: "ניו המפשייר"
+    level: state
+  US-NM:
+    name: "ניו מקסיקו"
+    level: state
+  US-NY:
+    name: "ניו יורק"
+    level: state
+  US-NC:
+    name: "קרוליינה הצפונית"
+    level: state
+  US-ND:
+    name: "דקוטה הצפונית"
+    level: state
+  US-MP:
+    name: "איי מריאנה הצפוניים"
+    level: outlying area
+  US-OH:
+    name: "אוהיו"
+    level: state
+  US-OK:
+    name: "אוקלהומה"
+    level: state
+  US-OR:
+    name: "אורגון"
+    level: state
+  US-PA:
+    name: "פנסילבניה"
+    level: state
+  US-PR:
+    name: "פוארטו ריקו"
+    level: outlying area
+  US-RI:
+    name: "רוד איילנד"
+    level: state
+  US-SC:
+    name: "קרוליינה הדרומית"
+    level: state
+  US-SD:
+    name: "דקוטה הדרומית"
+    level: state
+  US-TN:
+    name: "טנסי"
+    level: state
+  US-TX:
+    name: "טקסס"
+    level: state
+  US-UT:
+    name: "יוטה"
+    level: state
+  US-DC:
+    name: "וושינגטון די. סי."
+    level: district
+  US-VT:
+    name: "ורמונט"
+    level: state
+  US-VI:
+    name: "איי הבתולה"
+    level: outlying area
+  US-WA:
+    name: "וושינגטון"
+    level: state
+  US-WI:
+    name: "ויסקונסין"
+    level: state
+  US-WY:
+    name: "ויומינג"
+    level: state
+MT:
+  MT-03:
+    name: "בירגו"
+    level: local council
+  MT-04:
+    name: "בירקירקארה"
+    level: local council
+  MT-09:
+    name: "פלוריאנה"
+    level: local council
+  MT-25:
+    name: "לואה"
+    level: local council
+  MT-29:
+    name: "מדינה"
+    level: local council
+  MT-41:
+    name: "פייטה"
+    level: local council
+  MT-20:
+    name: "סנגלאה"
+    level: local council
+  MT-45:
+    name: "ויקטוריה"
+    level: local council
+  MT-56:
+    name: "סליאמה"
+    level: local council
+  MT-60:
+    name: "ולטה"
+    level: local council

@@ -1,0 +1,28 @@
+CREATE TABLE subdivision_PE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-AMA', E'Amazonas', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-ANC', E'Ancash Region', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-APU', E'Apurímac', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-ARE', E'Arequipa', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-AYA', E'Ayacucho', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-CAJ', E'Cajamarca', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-CUS', E'Cusco', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-CAL', E'Callao', E'constitutional province');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-HUV', E'Huancavelica', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-HUC', E'Huánuco', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-ICA', E'ICA', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-JUN', E'Junín', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-LAL', E'La Libertad', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-LAM', E'Lambayeque', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-LIM', E'Lima', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-LOR', E'Loreto', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-MDD', E'Madre de Dios', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-MOQ', E'Moquegua', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-LMA', E'Lima Province', E'municipality');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-PAS', E'Pasco', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-PIU', E'Piura', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-PUN', E'Puno', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-SAM', E'San Martín', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-TAC', E'Tacna', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-TUM', E'Tumbes', E'department');
+INSERT INTO "subdivision_PE" ("id", "name", "level") VALUES (E'PE-UCA', E'Ucayali River', E'department');

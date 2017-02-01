@@ -1,0 +1,18 @@
+<?php return array (
+  'TT-ARI' => array('name' => 'Arima', 'level' => 'municipality'),
+  'TT-CHA' => array('name' => 'Chaguanas', 'level' => 'municipality'),
+  'TT-CTT' => array('name' => 'Couva-Tabaquite-Talparo Regional Corporation', 'level' => 'region'),
+  'TT-DMN' => array('name' => 'Diego Martin', 'level' => 'region'),
+  'TT-ETO' => array('name' => 'Tobago', 'level' => 'region'),
+  'TT-PED' => array('name' => 'Penal-Debe Regional Corporation', 'level' => 'region'),
+  'TT-PTF' => array('name' => 'Point Fortin', 'level' => 'municipality'),
+  'TT-POS' => array('name' => 'Port of Spain', 'level' => 'municipality'),
+  'TT-PRT' => array('name' => 'Princes Town', 'level' => 'region'),
+  'TT-RCM' => array('name' => 'Rio Claro-Mayaro Regional Corporation', 'level' => 'region'),
+  'TT-SFO' => array('name' => 'San Fernando', 'level' => 'municipality'),
+  'TT-SJL' => array('name' => 'San Juan-Laventille Regional Corporation', 'level' => 'region'),
+  'TT-SGE' => array('name' => 'Sangre Grande', 'level' => 'region'),
+  'TT-SIP' => array('name' => 'Siparia', 'level' => 'region'),
+  'TT-TUP' => array('name' => 'Tunapuna-Piarco Regional Corporation', 'level' => 'region'),
+  'TT-WTO' => array('name' => 'Tobago', 'level' => 'region'),
+);

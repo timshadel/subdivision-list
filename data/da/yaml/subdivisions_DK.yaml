@@ -1,0 +1,43 @@
+---
+DK-070:
+  name: Aarhus
+  level: county
+DK-040:
+  name: Bornholm
+  level: county
+DK-82:
+  name: Region Midtjylland
+  level: region
+DK-015:
+  name: København
+  level: county
+DK-042:
+  name: Fyn
+  level: county
+DK-83:
+  name: Region Syddanmark
+  level: region
+DK-055:
+  name: Ribe
+  level: county
+DK-065:
+  name: Ringkøbing
+  level: county
+DK-025:
+  name: Roskilde
+  level: county
+DK-050:
+  name: Sønderjylland
+  level: county
+DK-035:
+  name: Storstrøms Amt
+  level: county
+DK-060:
+  name: Vejle
+  level: county
+DK-030:
+  name: Vestsjællands Amt
+  level: county
+DK-85:
+  name: Zeeland
+  level: region

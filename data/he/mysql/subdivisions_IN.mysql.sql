@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_IN (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-AN', 'איי אנדמן וניקובר', 'union territory');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-AP', 'אנדרה פראדש', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-AS', 'אסאם', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-BR', 'ביהר', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-DN', 'דאדרה ונאגר הבלי', 'union territory');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-DD', 'דאמאן ודיו', 'union territory');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-DL', 'דלהי', 'union territory');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-GA', 'גואה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-HR', 'הריאנה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-KA', 'קארנאטקה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-KL', 'קרלה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-LD', 'לקשאדוויפ', 'union territory');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-MP', 'מאדהיה פראדש', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-MH', 'מהאראשטרה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-MN', 'מאניפור', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-ML', 'מגהלאיה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-MZ', 'מיזוראם', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-NL', 'נאגאלנד', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-OR', 'אוריסה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-SK', 'סיקים', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-TN', 'טאמיל נאדו', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-TR', 'טריפורה', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-UP', 'אוטר פראדש', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-UT', 'אוטראקהאנד', 'state');
+INSERT INTO `subdivision_IN` (`id`, `name`, `level`) VALUES ('IN-WB', 'מערב בנגל', 'state');

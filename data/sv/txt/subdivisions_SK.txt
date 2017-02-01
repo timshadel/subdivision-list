@@ -1,0 +1,7 @@
+Banská Bystrica (SK-BC)
+Bratislava (SK-BL)
+Košice (SK-KI)
+Nitra (SK-NI)
+Prešov (SK-PV)
+Trnava (SK-TA)
+Žilina (SK-ZI)

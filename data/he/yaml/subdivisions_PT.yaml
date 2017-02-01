@@ -1,0 +1,31 @@
+---
+PT-20:
+  name: "האיים האזוריים"
+  level: autonomous region
+PT-03:
+  name: "בראגה"
+  level: district
+PT-06:
+  name: "קוימברה"
+  level: district
+PT-10:
+  name: "לייריה"
+  level: district
+PT-11:
+  name: "ליסבון"
+  level: district
+PT-30:
+  name: "מדיירה"
+  level: autonomous region
+PT-13:
+  name: "פורטו"
+  level: district
+PT-14:
+  name: "סנטרם"
+  level: district
+PT-15:
+  name: "סטובל"
+  level: district
+PT-07:
+  name: "אבורה"
+  level: district

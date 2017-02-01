@@ -1,0 +1,175 @@
+---
+BF-BAL:
+  name: Balé Province
+  level: province
+BF-BAM:
+  name: Bam
+  level: province
+BF-BAN:
+  name: Banwa Province
+  level: province
+BF-BAZ:
+  name: Bazèga Province
+  level: province
+BF-01:
+  name: Boucle du Mouhoun Region
+  level: region
+BF-BGR:
+  name: Bougouriba Province
+  level: province
+BF-BLG:
+  name: Boulgou Province
+  level: province
+BF-BLK:
+  name: Boulkiemdé Province
+  level: province
+BF-02:
+  name: Cascade Range
+  level: region
+BF-03:
+  name: Center
+  level: region
+BF-04:
+  name: Centre-Est Region
+  level: region
+BF-05:
+  name: Centre-Nord Region
+  level: region
+BF-06:
+  name: Centre-Ouest Region
+  level: region
+BF-07:
+  name: Centre-Sud
+  level: region
+BF-COM:
+  name: Komoé
+  level: province
+BF-08:
+  name: EST
+  level: region
+BF-GAN:
+  name: Ganzourgou Province
+  level: province
+BF-GNA:
+  name: Gnagna Province
+  level: province
+BF-GOU:
+  name: Gurma people
+  level: province
+BF-09:
+  name: Hauts-Bassins Region
+  level: region
+BF-HOU:
+  name: Houet Province
+  level: province
+BF-IOB:
+  name: Ioba Province
+  level: province
+BF-KAD:
+  name: Kadiogo Province
+  level: province
+BF-KMD:
+  name: Komondjari Province
+  level: province
+BF-KMP:
+  name: Kompienga Province
+  level: province
+BF-KOS:
+  name: Kossi
+  level: province
+BF-KOP:
+  name: Koulpélogo Province
+  level: province
+BF-KOT:
+  name: Kouritenga Province
+  level: province
+BF-KOW:
+  name: Kourwéogo Province
+  level: province
+BF-KEN:
+  name: Kénédougou
+  level: province
+BF-LOR:
+  name: Loroum
+  level: province
+BF-LER:
+  name: Léraba Province
+  level: province
+BF-MOU:
+  name: Mouhoun
+  level: province
+BF-NAO:
+  name: Nahouri Province
+  level: province
+BF-NAM:
+  name: Namentenga Province
+  level: province
+BF-NAY:
+  name: Nayala
+  level: province
+BF-10:
+  name: Nord
+  level: region
+BF-NOU:
+  name: Noumbiel Province
+  level: province
+BF-OUB:
+  name: Oubritenga Province
+  level: province
+BF-OUD:
+  name: Oudalan Province
+  level: province
+BF-PAS:
+  name: Passoré Province
+  level: province
+BF-11:
+  name: Plateau-Central Region
+  level: region
+BF-PON:
+  name: Poni
+  level: province
+BF-12:
+  name: Sahel
+  level: region
+BF-SNG:
+  name: Sanguié Province
+  level: province
+BF-SMT:
+  name: Sanmatenga Province
+  level: province
+BF-SIS:
+  name: Sissili Province
+  level: province
+BF-SOM:
+  name: Soum
+  level: province
+BF-SOR:
+  name: Sourou
+  level: province
+BF-13:
+  name: Sud-Ouest
+  level: region
+BF-SEN:
+  name: Seno
+  level: province
+BF-TAP:
+  name: Tapoa
+  level: province
+BF-TUI:
+  name: Tui
+  level: province
+BF-YAG:
+  name: Yagha Province
+  level: province
+BF-YAT:
+  name: Yatenga Province
+  level: province
+BF-ZIR:
+  name: Ziro
+  level: province
+BF-ZON:
+  name: Zondoma Province
+  level: province
+BF-ZOU:
+  name: Zoundwéogo Province
+  level: province

@@ -1,0 +1,58 @@
+---
+IE-CW:
+  name: Carlow
+  level: county
+IE-CE:
+  name: Clare
+  level: county
+IE-LS:
+  name: Condado de Laois
+  level: county
+IE-OY:
+  name: Condado de Offaly
+  level: county
+IE-WH:
+  name: Condado de Westmeath
+  level: county
+IE-D:
+  name: Dublin
+  level: county
+IE-G:
+  name: Galway
+  level: county
+IE-KY:
+  name: Kerry
+  level: county
+IE-KE:
+  name: Kildare
+  level: county
+IE-KK:
+  name: Kilkenny
+  level: county
+IE-L:
+  name: Leinster
+  level: province
+IE-LK:
+  name: Limerick
+  level: county
+IE-MO:
+  name: Mayo
+  level: county
+IE-M:
+  name: Munster
+  level: province
+IE-SO:
+  name: Sligo
+  level: county
+IE-TA:
+  name: Tipperary
+  level: county
+IE-U:
+  name: Ulster
+  level: province
+IE-WD:
+  name: Waterford
+  level: county
+IE-WX:
+  name: Wexford
+  level: county

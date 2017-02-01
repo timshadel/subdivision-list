@@ -1,0 +1,99 @@
+id,name,level
+PH-ABR,Abra,province
+PH-AGN,Agusan del Norte,province
+PH-AGS,Agusan del Sur,province
+PH-AKL,Aklan,province
+PH-ALB,Albay,province
+PH-ANT,Antique,province
+PH-APA,Apayao,province
+PH-AUR,Aurora,province
+PH-14,Autonomous Region in Muslim Mindanao,region
+PH-BAS,Basilan,province
+PH-BAN,Bataan,province
+PH-BTN,Batanes,province
+PH-BTG,Batangas,province
+PH-BEN,Benguet,province
+PH-05,Bicol,region
+PH-BIL,Biliran,province
+PH-BOH,Bohol,province
+PH-BUK,Bukidnon,province
+PH-BUL,Bulacan,province
+PH-CAG,Cagayan,province
+PH-02,Cagayan Valley,region
+PH-40,CALABARZON,region
+PH-CAN,Camarines Norte,province
+PH-CAS,Camarines Sur,province
+PH-CAM,Camiguin,province
+PH-CAP,Capiz,province
+PH-13,Caraga,region
+PH-CAT,Catanduanes,province
+PH-CAV,Cavite,province
+PH-CEB,Cebu,province
+PH-03,Central Luzon,region
+PH-07,Central Visayas,region
+PH-COM,Compostela Valley,province
+PH-15,Cordillera Administrative Region,region
+PH-NCO,Cotabato,province
+PH-11,Davao,region
+PH-DAV,Davao del Norte,province
+PH-DAS,Davao del Sur,province
+PH-DAO,Davao Oriental,province
+PH-DIN,Dinagat Islands,province
+PH-EAS,Eastern Samar,province
+PH-08,Eastern Visayas,region
+PH-GUI,Guimaras,province
+PH-IFU,Ifugao,province
+PH-01,Ilocos,region
+PH-ILN,Ilocos Norte,province
+PH-ILS,Ilocos Sur,province
+PH-ILI,Iloilo,province
+PH-ISA,Isabela,province
+PH-KAL,Kalinga,province
+PH-LUN,La Union,province
+PH-LAG,Laguna,province
+PH-LAN,Lanao del Norte,province
+PH-LAS,Lanao del Sur,province
+PH-LEY,Leyte,province
+PH-MAG,Maguindanao,province
+PH-MAD,Marinduque,province
+PH-MAS,Masbate,province
+PH-41,MIMAROPA,region
+PH-MDC,Occidental Mindoro,province
+PH-MDR,Oriental Mindoro,province
+PH-MSC,Misamis Occidental,province
+PH-MSR,Misamis Oriental,province
+PH-MOU,Mountain Province,province
+PH-00,Capital region,region
+PH-NEC,Negros Occidental,province
+PH-NER,Negros Oriental,province
+PH-10,Northern Mindanao,region
+PH-NSA,Northern Samar,province
+PH-NUE,Nueva Ecija,province
+PH-NUV,Nueva Vizcaya,province
+PH-PLW,Palawan,province
+PH-PAM,Pampanga,province
+PH-PAN,Pangasinan,province
+PH-QUE,Quezon,province
+PH-QUI,Quirino,province
+PH-RIZ,Rizal,province
+PH-ROM,Romblon,province
+PH-SAR,Sarangani,province
+PH-SIG,Siquijor,province
+PH-12,Soccsksargen,region
+PH-SOR,Sorsogon,province
+PH-SCO,South Cotabato,province
+PH-SLE,Southern Leyte,province
+PH-SUK,Sultan Kudarat,province
+PH-SLU,Sulu,province
+PH-SUN,Surigao del Norte,province
+PH-SUR,Surigao del Sur,province
+PH-TAR,Tarlac,province
+PH-TAW,Tawi-Tawi,province
+PH-WSA,Samar,province
+PH-06,Western Visayas,region
+PH-ZMB,Zambales,province
+PH-ZAN,Zamboanga del Norte,province
+PH-ZAS,Zamboanga del Sur,province
+PH-09,Zamboanga Peninsula,region
+PH-ZSI,Zamboanga Sibuguey,province
+PH-MNL,,

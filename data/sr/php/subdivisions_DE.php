@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Баден-Виртемберг', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Баварска', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Берлин', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Бранденбург', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Бремен', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Хамбург', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Хесен', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Доња Саксонија', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Мекленбург-Западна Померанија', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Северна Рајна-Вестфалија', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Рајна-Палатинат', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Сарланд', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Саксонија', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Саксонија-Анхалт', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Шлезвиг-Холштајн', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Тирингија', 'level' => 'state'),
+);

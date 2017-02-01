@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_KP (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-04', 'Chagang Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-CHA', 'Chagang Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-09', 'Hamgyong-bukdo', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-08', 'South Hamgyong Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-HAB', 'North Hamgyong Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-HAN', 'South Hamgyong Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-06', 'North Hwanghae Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-05', 'South Hwanghae Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-HWB', 'North Hwanghae Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-HWN', 'South Hwanghae Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-KAE', 'Kaesong', 'special city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-KAN', 'Gangwon', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-07', 'Gangwon', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-NAJ', 'Rason', 'special city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-NAM', 'Nampho', 'special city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-13', 'Nason', 'special city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-03', 'Pyongan-bukdo', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-02', 'South Pyongan Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-PYB', 'North Pyongan Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-PYN', 'South Pyongan Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-01', 'Pyongyang', 'capital city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-PYO', 'Pyongyang', 'special city');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-10', 'Ryanggang Province', 'province');
+INSERT INTO "subdivision_KP" ("id", "name", "level") VALUES ('KP-YAN', 'Ryanggang Province', 'province');

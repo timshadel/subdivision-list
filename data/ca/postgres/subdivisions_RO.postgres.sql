@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_RO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-AR', E'Arad', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BC', E'Bacău', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BN', E'Província de Bistrița-Năsăud', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BT', E'Botoşani', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BV', E'Brașov', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BR', E'Brăila', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-B', E'Bucarest', E'city');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CS', E'Província de Caraş-Severin', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CJ', E'Cluj-Napoca', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CT', E'Constanța', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-DJ', E'Província de Dolj', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-DB', E'Dâmboviţa', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GL', E'Galați', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GR', E'Giurgiu', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GJ', E'Província de Gorj', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-HR', E'Província de Harghita', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-IS', E'Iași', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MH', E'Província de Mehedinți', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MS', E'Província de Mureș', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-NT', E'Província de Neamț', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-SB', E'Sibiu', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-SV', E'Suceava', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-TR', E'Província de Teleorman', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-VS', E'Vaslui', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-VL', E'Província de Vâlcea', E'county');

@@ -1,0 +1,58 @@
+---
+NP-BA:
+  name: Bagmati River
+  level: zone
+NP-BH:
+  name: Bheri
+  level: zone
+NP-DH:
+  name: Dhawalagiri
+  level: zone
+NP-GA:
+  name: Gandaki
+  level: zone
+NP-JA:
+  name: Janakpurdham
+  level: zone
+NP-KA:
+  name: Karnali
+  level: zone
+NP-KO:
+  name: Kosi
+  level: zone
+NP-LU:
+  name: Lumbini
+  level: zone
+NP-2:
+  name: Mid-Western Region
+  level: development regions
+NP-1:
+  name: Central Region
+  level: development regions
+NP-MA:
+  name: Mahakali
+  level: zone
+NP-ME:
+  name: Mechi Zone
+  level: zone
+NP-NA:
+  name: Narayani
+  level: zone
+NP-3:
+  name: Western Region
+  level: development regions
+NP-4:
+  name: Eastern Region
+  level: development regions
+NP-RA:
+  name: Rapti
+  level: zone
+NP-SA:
+  name: Sagarmatha
+  level: zone
+NP-SE:
+  name: Search for extraterrestrial intelligence
+  level: zone
+NP-5:
+  name: Far-Western Region
+  level: development regions

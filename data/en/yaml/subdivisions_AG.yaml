@@ -1,0 +1,25 @@
+---
+AG-10:
+  name: Barbuda
+  level: dependency
+AG-11:
+  name: Redonda
+  level: dependency
+AG-03:
+  name: Saint George
+  level: parish
+AG-04:
+  name: Saint John’s
+  level: parish
+AG-05:
+  name: Mary
+  level: parish
+AG-06:
+  name: Paul the Apostle
+  level: parish
+AG-07:
+  name: Saint Peter
+  level: parish
+AG-08:
+  name: Saint Philip
+  level: parish

@@ -1,0 +1,76 @@
+---
+RO-AR:
+  name: Arad
+  level: county
+RO-BC:
+  name: Bacău
+  level: county
+RO-BN:
+  name: Província de Bistrița-Năsăud
+  level: county
+RO-BT:
+  name: Botoşani
+  level: county
+RO-BV:
+  name: Brașov
+  level: county
+RO-BR:
+  name: Brăila
+  level: county
+RO-B:
+  name: Bucarest
+  level: city
+RO-CS:
+  name: Província de Caraş-Severin
+  level: county
+RO-CJ:
+  name: Cluj-Napoca
+  level: county
+RO-CT:
+  name: Constanța
+  level: county
+RO-DJ:
+  name: Província de Dolj
+  level: county
+RO-DB:
+  name: Dâmboviţa
+  level: county
+RO-GL:
+  name: Galați
+  level: county
+RO-GR:
+  name: Giurgiu
+  level: county
+RO-GJ:
+  name: Província de Gorj
+  level: county
+RO-HR:
+  name: Província de Harghita
+  level: county
+RO-IS:
+  name: Iași
+  level: county
+RO-MH:
+  name: Província de Mehedinți
+  level: county
+RO-MS:
+  name: Província de Mureș
+  level: county
+RO-NT:
+  name: Província de Neamț
+  level: county
+RO-SB:
+  name: Sibiu
+  level: county
+RO-SV:
+  name: Suceava
+  level: county
+RO-TR:
+  name: Província de Teleorman
+  level: county
+RO-VS:
+  name: Vaslui
+  level: county
+RO-VL:
+  name: Província de Vâlcea
+  level: county

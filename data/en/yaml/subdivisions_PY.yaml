@@ -1,0 +1,55 @@
+---
+PY-16:
+  name: Alto Paraguay Department
+  level: department
+PY-10:
+  name: Alto Paraná Department
+  level: department
+PY-13:
+  name: Amambay Department
+  level: department
+PY-ASU:
+  name: Asunción
+  level: capital
+PY-19:
+  name: Boquerón
+  level: department
+PY-5:
+  name: Caaguazú
+  level: department
+PY-6:
+  name: Caazapá
+  level: department
+PY-14:
+  name: Canindeyú Department
+  level: department
+PY-11:
+  name: Central
+  level: department
+PY-1:
+  name: Concepción
+  level: department
+PY-3:
+  name: Cordillera
+  level: department
+PY-4:
+  name: Guaira
+  level: department
+PY-7:
+  name: Itapúa Department
+  level: department
+PY-8:
+  name: Misiones Province
+  level: department
+PY-9:
+  name: Paraguarí
+  level: department
+PY-15:
+  name: Presidente Hayes Department
+  level: department
+PY-2:
+  name: San Pedro
+  level: department
+PY-12:
+  name: "Ñeembucú Department"
+  level: department

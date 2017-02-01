@@ -1,0 +1,15 @@
+<?php return array (
+  'BE-VAN' => array('name' => 'Antwerp', 'level' => 'province'),
+  'BE-WBR' => array('name' => 'Walloon Brabant', 'level' => 'province'),
+  'BE-BRU' => array('name' => 'Brussels', 'level' => 'capital region'),
+  'BE-VLG' => array('name' => 'Flemish Region', 'level' => 'region'),
+  'BE-WHT' => array('name' => 'Hainaut', 'level' => 'province'),
+  'BE-VLI' => array('name' => 'Limburg', 'level' => 'province'),
+  'BE-WLG' => array('name' => 'Liège', 'level' => 'province'),
+  'BE-WLX' => array('name' => 'Luxembourg', 'level' => 'province'),
+  'BE-WNA' => array('name' => 'Namur', 'level' => 'province'),
+  'BE-VOV' => array('name' => 'East Flanders', 'level' => 'province'),
+  'BE-VBR' => array('name' => 'Flemish Brabant', 'level' => 'province'),
+  'BE-WAL' => array('name' => 'Wallonia', 'level' => 'region'),
+  'BE-VWV' => array('name' => 'West Flanders', 'level' => 'province'),
+);

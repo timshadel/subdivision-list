@@ -1,0 +1,651 @@
+country,id,name,level
+AD,AD-07,Andorra la Vella,parish
+AT,AT-1,Burgenland,state
+AT,AT-3,Alam-Austria,state
+AT,AT-5,Salzburg,state
+AT,AT-6,Steiermargi liidumaa,state
+AT,AT-4,Ülem-Austria,state
+AT,AT-9,Viin,state
+AT,AT-8,Vorarlberg,state
+BY,BY-HM,Minsk,city
+BE,BE-VAN,Antwerpen,province
+BE,BE-BRU,Pealinna Brüsseli piirkond,capital region
+BE,BE-VOV,Ida-Flandria,province
+BE,BE-VBR,Flaami Brabant,province
+BE,BE-VLG,Flandria,region
+BE,BE-VLI,Limburg,province
+BE,BE-WLG,Liège,province
+BE,BE-WLX,Luksemburg,province
+BE,BE-WAL,Valloonia,region
+BE,BE-WBR,Vallooni Brabant,province
+BE,BE-VWV,Lääne-Flandria provints,province
+CA,CA-AB,Alberta,province
+CA,CA-BC,Briti Columbia,province
+CA,CA-MB,Manitoba provints,province
+CA,CA-NB,New Brunswick,province
+CA,CA-NL,Newfoundland ja Labrador,province
+CA,CA-NT,Loodealad,territory
+CA,CA-NS,Nova Scotia,province
+CA,CA-NU,Nunavut,territory
+CA,CA-ON,Ontario,province
+CA,CA-PE,Prints Edwardi saar,province
+CA,CA-QC,Québec,province
+CA,CA-SK,Saskatchewani provints,province
+CA,CA-YT,Yukon,territory
+CL,CL-AN,Antofagasta,region
+CL,CL-AP,Arica y Parinacota,region
+CL,CL-AT,Atacama,region
+CL,CL-VS,Valparaíso,region
+DK,DK-070,Århus,county
+DK,DK-040,Bornholm,county
+DK,DK-82,Kesk-Jüütimaa,region
+DK,DK-015,Kopenhaagen,county
+DK,DK-042,Fyn,county
+DK,DK-83,Lõuna-Taani piirkond,region
+DK,DK-055,Ribe,county
+DK,DK-025,Roskilde,county
+DK,DK-060,Vejle,county
+DK,DK-076,Viborg,county
+DK,DK-85,Zeelandi provints,region
+EE,EE-37,Harju maakond,county
+EE,EE-39,Hiiumaa,county
+EE,EE-44,Ida-Viru maakond,county
+EE,EE-51,Järva maakond,county
+EE,EE-49,Jõgeva maakond,county
+EE,EE-59,Lääne-Viru maakond,county
+EE,EE-57,Lääne maakond,county
+EE,EE-67,Pärnu maakond,county
+EE,EE-65,Põlva maakond,county
+EE,EE-70,Rapla maakond,county
+EE,EE-74,Saaremaa,county
+EE,EE-78,Tartu maakond,county
+EE,EE-82,Valga maakond,county
+EE,EE-84,Viljandi maakond,county
+EE,EE-86,Võru maakond,county
+FR,FR-01,Aini departemang,metropolitan department
+FR,FR-06,Alpes-Maritimes,metropolitan department
+FR,FR-A,Alsace,metropolitan regions
+FR,FR-B,Akvitaania,metropolitan regions
+FR,FR-08,Ardennid,metropolitan department
+FR,FR-67,Bas-Rhini departemang,metropolitan department
+FR,FR-15,Cantali departemang,metropolitan department
+FR,FR-G,Champagne-Ardenne,metropolitan regions
+FR,FR-18,Cher,metropolitan department
+FR,FR-CP,Clipperton,dependency
+FR,FR-2A,Corse du Sud,metropolitan department
+FR,FR-H,Korsika,metropolitan regions
+FR,FR-28,Eure-et-Loiri departemang,metropolitan department
+FR,FR-29,Finistère,metropolitan department
+FR,FR-I,Franche-Comté,metropolitan regions
+FR,FR-GP,Guadeloupe,overseas regions
+FR,FR-68,Haut-Rhini departemang,metropolitan department
+FR,FR-P,Alam-Normandia,metropolitan regions
+FR,FR-GF,Prantsuse Guajaana,overseas regions
+FR,FR-74,Haute-Savoie departemang,metropolitan department
+FR,FR-87,Haute-Vienne,metropolitan department
+FR,FR-05,Hautes-Alpes,metropolitan department
+FR,FR-92,Hauts-de-Seine,metropolitan department
+FR,FR-34,Hérault,metropolitan department
+FR,FR-K,Languedoc-Roussillon,metropolitan regions
+FR,FR-41,Loir-et-Cheri departemang,metropolitan department
+FR,FR-46,Lot,metropolitan department
+FR,FR-MQ,Martinique,overseas regions
+FR,FR-YT,Mayotte,territorial collectivity
+FR,FR-N,Midi–Pyrénées,metropolitan regions
+FR,FR-56,Morbihani departemang,metropolitan department
+FR,FR-59,Nord,metropolitan department
+FR,FR-O,Nord–Pas-de-Calais,metropolitan regions
+FR,FR-75,Pariis,metropolitan department
+FR,FR-R,Pays de la Loire,metropolitan regions
+FR,FR-S,Picardie,metropolitan regions
+FR,FR-T,Poitou-Charentes,metropolitan regions
+FR,FR-Q,Ülem-Normandia,metropolitan regions
+FR,FR-PF,Prantsuse Polüneesia,overseas territory
+FR,FR-NC,Uus-Kaledoonia,overseas territory
+FR,FR-RE,Réunion,overseas regions
+FR,FR-64,Pyrénées-Atlantiques,metropolitan department
+FR,FR-69,Rhône,metropolitan department
+FR,FR-V,Rhône-Alpes,metropolitan regions
+FR,FR-73,Savoia departemang,metropolitan department
+FR,FR-93,Seine-Saint-Denis,metropolitan department
+FR,FR-77,Seine-et-Marne,metropolitan department
+FR,FR-81,Tarn,metropolitan department
+FR,FR-94,Val-de-Marne,metropolitan department
+FR,FR-85,Vendée,metropolitan department
+FR,FR-78,Yvelines,metropolitan department
+FR,FR-MF,Saint-Martin,overseas territorial collectivity
+FR,FR-BL,Saint-Barthélemy,overseas territorial collectivity
+FR,FR-PM,Saint-Pierre ja Miquelon,territorial collectivity
+FR,FR-WF,Wallis ja Futuna,overseas territory
+DE,DE-BW,Baden-Württemberg,state
+DE,DE-BY,Baieri,state
+DE,DE-BE,Berliin,state
+DE,DE-BB,Brandenburg,state
+DE,DE-HB,Bremen,state
+DE,DE-HH,Hamburg,state
+DE,DE-HE,Hessen,state
+DE,DE-NI,Alam-Saksi,state
+DE,DE-MV,Mecklenburg-Vorpommern,state
+DE,DE-NW,Nordrhein-Westfalen,state
+DE,DE-RP,Rheinland-Pfalz,state
+DE,DE-SL,Saarimaa,state
+DE,DE-SN,Saksimaa,state
+DE,DE-ST,Saksi-Anhalt,state
+DE,DE-SH,Schleswig-Holstein,state
+DE,DE-TH,Tüüringi,state
+GH,GH-TV,Volta,region
+IN,IN-AN,Andamanid ja Nicobarid,union territory
+IN,IN-AP,Andhra Pradesh,state
+IN,IN-AR,Arunāchal Pradesh,state
+IN,IN-AS,Assam,state
+IN,IN-BR,Bihār,state
+IN,IN-CH,Chandīgarh,union territory
+IN,IN-CT,Chhattīsgarh,state
+IN,IN-DN,Dadra ja Nagar Haveli,union territory
+IN,IN-DD,Daman ja Diu,union territory
+IN,IN-DL,Delhi,union territory
+IN,IN-GA,Goa osariik,state
+IN,IN-GJ,Gujarāt,state
+IN,IN-HR,Haryana,state
+IN,IN-HP,Himachal Pradesh,state
+IN,IN-JK,Jammu ja Kashmir,state
+IN,IN-JH,Jharkhand,state
+IN,IN-KA,Karnataka,state
+IN,IN-KL,Kerala,state
+IN,IN-LD,Lakshadweep,union territory
+IN,IN-MP,Madhya Pradesh,state
+IN,IN-MH,Mahārāshtra,state
+IN,IN-MN,Manipur,state
+IN,IN-ML,Meghālaya,state
+IN,IN-MZ,Mizoram,state
+IN,IN-NL,Nagaland,state
+IN,IN-OR,Orissa,state
+IN,IN-PY,Puducherry liiduterritoorium,union territory
+IN,IN-RJ,Rājasthān,state
+IN,IN-SK,Sikkim,state
+IN,IN-TN,Tamil Nadu,state
+IN,IN-TR,Tripura,state
+IN,IN-UP,Uttar Pradesh,state
+IN,IN-UT,Uttarakhand,state
+IN,IN-WB,Lääne-Bengali osariik,state
+IE,IE-CW,Carlow,county
+IE,IE-D,Dublin,county
+IE,IE-G,Galway,county
+IE,IE-LK,Limerick,county
+IE,IE-SO,Sligo,county
+IL,IL-HA,Haifa,district
+IL,IL-JM,Jeruusalemm,district
+IL,IL-TA,Tel Aviv,district
+IT,IT-65,Abruzzo,region
+IT,IT-AL,Alessandria,province
+IT,IT-AN,Ancona,province
+IT,IT-AR,Arezzo,province
+IT,IT-AT,Asti,province
+IT,IT-BA,Bari,province
+IT,IT-77,Basilicata,region
+IT,IT-BL,Belluno,province
+IT,IT-BG,Bergamo,province
+IT,IT-BI,Biella,province
+IT,IT-BO,Bologna,province
+IT,IT-BZ,Bolzano,province
+IT,IT-BS,Brescia,province
+IT,IT-CA,Cagliari,province
+IT,IT-78,Calabria,region
+IT,IT-72,Campania,region
+IT,IT-CT,Catania,province
+IT,IT-CO,Como,province
+IT,IT-CR,Cremona,province
+IT,IT-CN,Cuneo,province
+IT,IT-45,Emilia Romagna,region
+IT,IT-FE,Ferrara,province
+IT,IT-FI,Firenze,province
+IT,IT-FG,Foggia,province
+IT,IT-FO,Forlì,
+IT,IT-36,Friuli-Venezia Giulia,region
+IT,IT-GE,Genova,province
+IT,IT-IM,Imperia,province
+IT,IT-BT,Barletta-Andria-Trani provints,province
+IT,IT-CI,Carbonia-Iglesiase provints,province
+IT,IT-FC,Forlì-Cesena provints,province
+IT,IT-75,Apuulia,region
+IT,IT-SP,La Spezia,province
+IT,IT-62,Lazio,region
+IT,IT-LC,Lecco,province
+IT,IT-42,Liguuria,region
+IT,IT-LI,Livorno,province
+IT,IT-25,Lombardia,region
+IT,IT-LU,Lucca,province
+IT,IT-MN,Mantova,province
+IT,IT-57,Marche,region
+IT,IT-MT,Matera,province
+IT,IT-ME,Messina,province
+IT,IT-MI,Milano,province
+IT,IT-MO,Modena,province
+IT,IT-67,Molise,region
+IT,IT-NA,Napoli,province
+IT,IT-NO,Novara,province
+IT,IT-PD,Padova,province
+IT,IT-PA,Palermo,province
+IT,IT-PR,Parma,province
+IT,IT-PV,Pavia,province
+IT,IT-PG,Perugia,province
+IT,IT-PC,Piacenza,province
+IT,IT-21,Piemonte,region
+IT,IT-PI,Pisa,province
+IT,IT-PT,Pistoia,province
+IT,IT-PO,Prato,province
+IT,IT-MA,Medio Campidano provints,province
+IT,IT-MB,Monza e Brianza provints,province
+IT,IT-OG,Ogliastra provints,province
+IT,IT-OL,Olbia-Tempio provints,province
+IT,IT-PU,Pesaro e Urbino provints,province
+IT,IT-RA,Ravenna,province
+IT,IT-VB,Verbano-Cusio-Ossola provints,province
+IT,IT-RN,Rimini,province
+IT,IT-RO,Rovigo,province
+IT,IT-88,Sardiinia,region
+IT,IT-82,Sitsiilia,region
+IT,IT-SI,Siena,province
+IT,IT-SO,Sondrio,province
+IT,IT-TA,Taranto,province
+IT,IT-32,Trentino-Alto Adige,region
+IT,IT-TN,Trento,province
+IT,IT-TV,Treviso,province
+IT,IT-TS,Trieste,province
+IT,IT-TO,Torino,province
+IT,IT-52,Toscana,region
+IT,IT-UD,Udine,province
+IT,IT-55,Umbria,region
+IT,IT-VA,Varese,province
+IT,IT-34,Veneto,region
+IT,IT-VE,Venezia,province
+IT,IT-VC,Vercelli,province
+IT,IT-VR,Verona,province
+IT,IT-VI,Vicenza,province
+IT,IT-VT,Viterbo,province
+LU,LU-L,Luksemburg,district
+NL,NL-AW,Aruba,country
+NL,NL-BQ1,Bonaire,special municipality
+NL,NL-CW,Curaçao,country
+NL,NL-DR,Drenthe provints,province
+NL,NL-FL,Flevoland,province
+NL,NL-FR,Friisimaa provints,province
+NL,NL-GE,Gelderlandi provints,province
+NL,NL-GR,Groningen,province
+NL,NL-LI,Limburg,province
+NL,NL-NB,Põhja-Brabant,province
+NL,NL-NH,Põhja-Holland,province
+NL,NL-OV,Overijsseli provints,province
+NL,NL-BQ2,Saba saar,special municipality
+NL,NL-BQ3,Sint-Eustatius,special municipality
+NL,NL-ZH,Lõuna-Holland,province
+NL,NL-UT,Utrecht,province
+NL,NL-ZE,Zeelandi provints,province
+NO,NO-02,Akershus,county
+NO,NO-09,Aust-Agder,county
+NO,NO-06,Buskerud,county
+NO,NO-20,Finnmark,county
+NO,NO-04,Hedmark,county
+NO,NO-12,Hordaland,county
+NO,NO-22,Jan Mayen,
+NO,NO-15,Møre og Romsdal,county
+NO,NO-17,Nord-Trøndelag,county
+NO,NO-18,Nordland,county
+NO,NO-05,Oppland,county
+NO,NO-03,Oslo,county
+NO,NO-11,Rogaland,county
+NO,NO-14,Sogn og Fjordane,county
+NO,NO-21,Svalbard,
+NO,NO-16,Sør-Trøndelag,county
+NO,NO-08,Telemark,county
+NO,NO-19,Troms,county
+NO,NO-10,Vest-Agder,county
+NO,NO-07,Vestfold,county
+NO,NO-01,Østfold,county
+PL,PL-WP,Suur-Poola vojevoodkond,voivodship
+PL,PL-KP,Kujawy-Pomorze vojevoodkond,voivodship
+PL,PL-MA,Väike-Poola vojevoodkond,voivodship
+PL,PL-DS,Alam-Sileesia vojevoodkond,voivodship
+PL,PL-LU,Lublini vojevoodkond,voivodship
+PL,PL-LB,Lubuszi vojevoodkond,voivodship
+PL,PL-MZ,Masoovia vojevoodkond,voivodship
+PL,PL-OP,Opole vojevoodkond,voivodship
+PL,PL-PK,Podkarpacie vojevoodkond,voivodship
+PL,PL-PD,Podlaasia vojevoodkond,voivodship
+PL,PL-PM,Pomorze vojevoodkond,voivodship
+PL,PL-SL,Sileesia vojevoodkond,voivodship
+PL,PL-WN,Warmia-Masuuria vojevoodkond,voivodship
+PL,PL-ZP,Lääne-Pomorze vojevoodkond,voivodship
+PL,PL-SK,Święty Krzyżi vojevoodkond,voivodship
+PT,PT-20,Assoorid,autonomous region
+PT,PT-03,Braga,district
+PT,PT-06,Coimbra,district
+PT,PT-10,Leiria,district
+PT,PT-11,Lissabon,district
+PT,PT-30,Madeira,autonomous region
+PT,PT-13,Porto,district
+RO,RO-BN,Bistrița-Năsăudi maakond,county
+RO,RO-BT,Botoșani,county
+RO,RO-BV,Brașov,county
+RO,RO-B,Bukarest,city
+RO,RO-CS,Caraș-Severini maakond,county
+RO,RO-CJ,Cluj-Napoca,county
+RO,RO-CT,Constanța,county
+RO,RO-DJ,Dolji maakond,county
+RO,RO-GL,Galați,county
+RO,RO-GR,Giurgiu,county
+RO,RO-GJ,Gorji maakond,county
+RO,RO-HR,Harghita maakond,county
+RO,RO-IS,Iași,county
+RO,RO-IF,Ilfovi maakond,county
+RO,RO-MH,Mehedinți maakond,county
+RO,RO-MS,Mureși maakond,county
+RO,RO-NT,Neamți maakond,county
+RO,RO-SM,Satu Mare,county
+RO,RO-SB,Sibiu,county
+RO,RO-TR,Teleormani maakond,county
+RO,RO-TM,Timiș,county
+RO,RO-VL,Vâlcea maakond,county
+RS,RS-00,Belgrad,city
+RS,RS-02,Kesk-Banat,district
+RS,RS-03,Põhja-Banat,district
+RS,RS-01,Põhja-Bačka,district
+RS,RS-04,Lõuna-Banat,district
+RS,RS-07,Sremi ringkond,district
+SK,SK-BC,Banská Bystrica maakond,region
+SK,SK-BL,Bratislava maakond,region
+SK,SK-KI,Košice maakond,region
+SK,SK-NI,Nitra maakond,region
+SK,SK-PV,Prešovi maakond,region
+SK,SK-TA,Trnava maakond,region
+SK,SK-ZI,Žilina maakond,region
+ES,ES-C,A Coruña,province
+ES,ES-A,Alicante,province
+ES,ES-AL,Almería,province
+ES,ES-AN,Andaluusia,
+ES,ES-AS,Astuuria,autonomous community
+ES,ES-BA,Badajoz,province
+ES,ES-IB,Baleaarid,autonomous community
+ES,ES-B,Barcelona,province
+ES,ES-BU,Burgos,province
+ES,ES-S,Kantaabria,province
+ES,ES-CM,Castilla–La Mancha,autonomous community
+ES,ES-CL,Castilla-León,autonomous community
+ES,ES-CT,Kataloonia,autonomous community
+ES,ES-CE,Ceuta,autonomous city
+ES,ES-CO,Córdoba,province
+ES,ES-EX,Extremadura,autonomous community
+ES,ES-SS,Gipuzkoa,province
+ES,ES-GI,Girona,province
+ES,ES-GR,Granada,province
+ES,ES-GU,Guadalajara,province
+ES,ES-H,Huelva,province
+ES,ES-GC,Las Palmas de Gran Canaria,province
+ES,ES-LE,Leon,province
+ES,ES-LU,Lugo,province
+ES,ES-MD,Madrid,autonomous community
+ES,ES-ML,Melilla,autonomous city
+ES,ES-MC,Murcia,autonomous community
+ES,ES-MA,Málaga,province
+ES,ES-NC,Navarra,autonomous community
+ES,ES-SA,Salamanca,province
+ES,ES-TF,Santa Cruz de Tenerife,province
+ES,ES-SE,Sevilla,province
+ES,ES-TO,Toledo,province
+ES,ES-V,Valencia,province
+ES,ES-VC,Valencia autonoomne piirkond,autonomous community
+ES,ES-VA,Valladolid,province
+ES,ES-Z,Zaragoza,province
+ES,ES-VI,Araba,province
+SE,SE-K,Blekinge lään,county
+SE,SE-W,Dalarna lään,county
+SE,SE-I,Ojamaa lään,county
+SE,SE-X,Gävleborgi lään,county
+SE,SE-N,Hallandi lään,county
+SE,SE-Z,Jämtlandi lään,county
+SE,SE-F,Jönköpingi lään,county
+SE,SE-H,Kalmari lään,county
+SE,SE-G,Kronobergi lään,county
+SE,SE-BD,Norrbotteni lään,county
+SE,SE-M,Skåne lään,county
+SE,SE-AB,Stockholmi lään,county
+SE,SE-D,Södermanlandi lään,county
+SE,SE-C,Uppsala lään,county
+SE,SE-S,Värmlandi lään,county
+SE,SE-AC,Västerbotteni lään,county
+SE,SE-Y,Västernorrlandi lään,county
+SE,SE-U,Västmanlandi lään,county
+SE,SE-O,Västra Götalandi lään,county
+SE,SE-T,Örebro lään,county
+SE,SE-E,Östergötlandi lään,county
+CH,CH-AG,Aargau kanton,canton
+CH,CH-AR,Appenzell Ausserrhoden,canton
+CH,CH-AI,Appenzell Innerrhoden,canton
+CH,CH-BL,Basel-Landschaft,canton
+CH,CH-BS,Basel-Stadt,canton
+CH,CH-BE,Bern,canton
+CH,CH-GR,Graubündeni kanton,canton
+CH,CH-NE,Neuchâtel,canton
+CH,CH-NW,Nidwalden,canton
+CH,CH-OW,Obwalden,canton
+CH,CH-TG,Thurgau kanton,canton
+CH,CH-TI,Ticino kanton,canton
+CH,CH-ZG,Zug,canton
+CH,CH-GE,Genf,canton
+CH,CH-LU,Luzern,canton
+CH,CH-ZH,Zürich,canton
+UA,UA-71,Tšerkassõ oblast,region
+UA,UA-74,Tšernigivi oblast,region
+UA,UA-77,Tšernivtsi oblast,region
+UA,UA-43,Krimm,autonomous republic
+UA,UA-12,Dnipropetrovski oblast,region
+UA,UA-14,Donetski oblast,region
+UA,UA-26,Ivano-Frankivski oblast,region
+UA,UA-63,Harkivi oblast,region
+UA,UA-65,Hersoni oblast,region
+UA,UA-68,Hmelnõtskõi oblast,region
+UA,UA-30,Kiiev,region
+UA,UA-32,Kiievi oblast,region
+UA,UA-35,Kirovogradi oblast,region
+UA,UA-09,Luganski oblast,region
+UA,UA-46,Lvivi oblast,region
+UA,UA-48,Mõkolajivi oblast,region
+UA,UA-51,Odessa oblast,region
+UA,UA-53,Poltava oblast,region
+UA,UA-56,Rivne oblast,region
+UA,UA-40,Sevastopol,region
+UA,UA-59,Sumõ oblast,region
+UA,UA-61,Ternopili oblast,region
+UA,UA-05,Vinnõtsja oblast,region
+UA,UA-07,Volõõnia oblast,region
+UA,UA-21,Taga-Karpaatia,region
+UA,UA-23,Zaporižžja oblast,region
+UA,UA-18,Žõtomõri oblast,region
+GB,GB-ABE,Aberdeen,council area (scotland)
+GB,GB-ABD,Aberdeenshire,council area (scotland)
+GB,GB-ANS,Angus,council area (scotland)
+GB,GB-AGB,Argyll and Bute,council area (scotland)
+GB,GB-ARM,Armagh,district council area (northern ireland)
+GB,GB-BNS,Barnsley,metropolitan district
+GB,GB-BDF,Bedfordshire,unitary authority
+GB,GB-BFS,Belfast,district council area (northern ireland)
+GB,GB-BIR,Birmingham,metropolitan district
+GB,GB-BPL,Blackpool,unitary authority
+GB,GB-BGW,Blaenau Gwent,unitary authority (wales)
+GB,GB-BOL,Bolton,metropolitan district
+GB,GB-BMH,Bournemouth,unitary authority
+GB,GB-BRD,Bradford,metropolitan district
+GB,GB-BGE,Bridgend,unitary authority (wales)
+GB,GB-BST,Bristol,unitary authority
+GB,GB-BRY,Bromley,borough
+GB,GB-BKM,Buckinghamshire,two-tier county
+GB,GB-CAY,Caerphilly,unitary authority (wales)
+GB,GB-CAM,Cambridgeshire,two-tier county
+GB,GB-CRF,Cardiff,unitary authority (wales)
+GB,GB-CMN,Carmarthenshire,unitary authority (wales)
+GB,GB-CGN,Ceredigion,unitary authority (wales)
+GB,GB-CHS,Cheshire,
+GB,GB-CLK,Clackmannanshire,council area (scotland)
+GB,GB-CWY,Conwy,unitary authority (wales)
+GB,GB-CON,Cornwall,unitary authority
+GB,GB-COV,Coventry,metropolitan district
+GB,GB-CMA,Cumbria,two-tier county
+GB,GB-DAL,Darlington,unitary authority
+GB,GB-DEN,Denbighshire,unitary authority (wales)
+GB,GB-DER,Derby,unitary authority
+GB,GB-DBY,Derbyshire,two-tier county
+GB,GB-DEV,Devoni krahvkond,two-tier county
+GB,GB-DOR,Dorset,two-tier county
+GB,GB-DGY,Dumfries and Galloway,council area (scotland)
+GB,GB-DND,Dundee,council area (scotland)
+GB,GB-DUR,Durham,unitary authority
+GB,GB-EAL,Ealing,borough
+GB,GB-EAY,East Ayrshire,council area (scotland)
+GB,GB-EDU,East Dunbartonshire,council area (scotland)
+GB,GB-ELN,East Lothian,council area (scotland)
+GB,GB-ERW,East Renfrewshire,council area (scotland)
+GB,GB-ERY,East Riding of Yorkshire,unitary authority
+GB,GB-ESX,Ida-Sussex,two-tier county
+GB,GB-EDH,Edinburgh,council area (scotland)
+GB,GB-ESS,Essex,two-tier county
+GB,GB-FAL,Falkirk,council area (scotland)
+GB,GB-FIF,Fife,council area (scotland)
+GB,GB-FLN,Flintshire,unitary authority (wales)
+GB,GB-GAT,Gateshead,metropolitan district
+GB,GB-GLG,Glasgow,council area (scotland)
+GB,GB-GLS,Gloucestershire,two-tier county
+GB,GB-GRE,Greenwich,borough
+GB,GB-GWN,Gwynedd,unitary authority (wales)
+GB,GB-HAM,Hampshire,two-tier county
+GB,GB-HEF,Herefordshire,unitary authority
+GB,GB-HRT,Hertfordshire,two-tier county
+GB,GB-HLD,Mägismaa,council area (scotland)
+GB,GB-HIL,Hillingdon,borough
+GB,GB-IVC,Inverclyde,council area (scotland)
+GB,GB-HAV,Haveringi linnaosa,borough
+GB,GB-ELS,Välis-Hebriidid,council area (scotland)
+GB,GB-AGY,Anglesey,unitary authority (wales)
+GB,GB-IOW,Wight,unitary authority
+GB,GB-IOS,Scilly saared,
+GB,GB-ISL,Islington,borough
+GB,GB-KEN,Kent,two-tier county
+GB,GB-LAN,Lancashire,two-tier county
+GB,GB-LDS,Leeds,metropolitan district
+GB,GB-LEC,Leicestershire,two-tier county
+GB,GB-LIN,Lincolnshire,two-tier county
+GB,GB-LIV,Liverpool,metropolitan district
+GB,GB-MAN,Manchester,metropolitan district
+GB,GB-MTY,Merthyr Tydfil,unitary authority (wales)
+GB,GB-MLN,Midlothian,council area (scotland)
+GB,GB-MON,Monmouthshire,unitary authority (wales)
+GB,GB-MRY,Moray,council area (scotland)
+GB,GB-NTL,Neath Port Talbot,unitary authority (wales)
+GB,GB-NET,Newcastle upon Tyne,metropolitan district
+GB,GB-NWP,Newport,unitary authority (wales)
+GB,GB-NFK,Norfolk,two-tier county
+GB,GB-NAY,North Ayrshire,council area (scotland)
+GB,GB-NLK,North Lanarkshire,council area (scotland)
+GB,GB-NYK,Põhja-Yorkshire,two-tier county
+GB,GB-NTH,Northamptonshire,two-tier county
+GB,GB-NBL,Northumberland,unitary authority
+GB,GB-NTT,Nottinghamshire,two-tier county
+GB,GB-ORK,Orkney saared,council area (scotland)
+GB,GB-OXF,Oxfordshire,two-tier county
+GB,GB-PEM,Pembrokeshire,unitary authority (wales)
+GB,GB-PKN,Perth and Kinross,council area (scotland)
+GB,GB-PTE,Peterborough,unitary authority
+GB,GB-PLY,Plymouth,unitary authority
+GB,GB-POL,Poole,unitary authority
+GB,GB-POR,Portsmouth,unitary authority
+GB,GB-POW,Powys,unitary authority (wales)
+GB,GB-RFW,Renfrewshire,council area (scotland)
+GB,GB-RUT,Rutland,unitary authority
+GB,GB-SCB,Scottish Borders,council area (scotland)
+GB,GB-SHF,Sheffield,metropolitan district
+GB,GB-ZET,Shetlandi saared,council area (scotland)
+GB,GB-SHR,Shropshire,unitary authority
+GB,GB-SOM,Somerset,two-tier county
+GB,GB-SAY,South Ayrshire,council area (scotland)
+GB,GB-SLK,South Lanarkshire,council area (scotland)
+GB,GB-STH,Southampton,unitary authority
+GB,GB-STS,Staffordshire,two-tier county
+GB,GB-STG,Stirling,council area (scotland)
+GB,GB-SFK,Suffolk,two-tier county
+GB,GB-SRY,Surrey,two-tier county
+GB,ENG,Inglismaa,country
+GB,GB-TWH,Tower Hamlets,borough
+GB,NIR,Põhja-Iirimaa,country
+GB,SCT,Šotimaa,country
+GB,GB-SWA,Swansea,unitary authority (wales)
+GB,GB-SWD,Swindon,unitary authority
+GB,GB-TOB,Torbay,unitary authority
+GB,GB-TOF,Torfaen,unitary authority (wales)
+GB,GB-VGL,Vale of Glamorgan,unitary authority (wales)
+GB,WLS,Wales,country
+GB,GB-WRT,Warrington,unitary authority
+GB,GB-WAR,Warwickshire,two-tier county
+GB,GB-WDU,West Dunbartonshire,council area (scotland)
+GB,GB-WLN,West Lothian,council area (scotland)
+GB,GB-WSX,Lääne-Sussex,two-tier county
+GB,GB-WGN,Wigan,metropolitan district
+GB,GB-WIL,Wiltshire,unitary authority
+GB,GB-WOR,Worcestershire,two-tier county
+GB,GB-WRX,Wrexham,unitary authority (wales)
+GB,GB-YOR,York,unitary authority
+US,US-AL,Alabama,state
+US,US-AK,Alaska,state
+US,US-AS,Ameerika Samoa,outlying area
+US,US-AZ,Arizona,state
+US,US-AR,Arkansas,state
+US,US-CA,California,state
+US,US-CO,Colorado,state
+US,US-CT,Connecticut,state
+US,US-DE,Delaware,state
+US,US-FL,Florida,state
+US,US-GU,Guam,outlying area
+US,US-HI,Hawaii osariik,state
+US,US-ID,Idaho,state
+US,US-IL,Illinois,state
+US,US-IN,Indiana,state
+US,US-IA,Iowa,state
+US,US-KS,Kansas,state
+US,US-KY,Kentucky,state
+US,US-LA,Louisiana osariik,state
+US,US-ME,Maine,state
+US,US-MD,Maryland,state
+US,US-MA,Massachusetts,state
+US,US-MI,Michigan,state
+US,US-MN,Minnesota,state
+US,US-MS,Mississippi osariik,state
+US,US-MO,Missouri osariik,state
+US,US-MT,Montana,state
+US,US-NE,Nebraska,state
+US,US-NV,Nevada,state
+US,US-NH,New Hampshire,state
+US,US-NJ,New Jersey osariik,state
+US,US-NM,New Mexico,state
+US,US-NY,New Yorgi osariik,state
+US,US-NC,Põhja-Carolina,state
+US,US-ND,Põhja-Dakota,state
+US,US-MP,Põhja-Mariaanid,outlying area
+US,US-OH,Ohio,state
+US,US-OK,Oklahoma,state
+US,US-OR,Oregon,state
+US,US-PA,Pennsylvania,state
+US,US-PR,Puerto Rico,outlying area
+US,US-RI,Rhode Island,state
+US,US-SC,Lõuna-Carolina,state
+US,US-SD,Lõuna-Dakota,state
+US,US-TN,Tennessee,state
+US,US-TX,Texas,state
+US,US-UM,Ühendriikide hajasaared,outlying area
+US,US-UT,Utah,state
+US,US-DC,Washington,district
+US,US-VT,Vermont,state
+US,US-VI,Neitsisaared,outlying area
+US,US-VA,Virginia,state
+US,US-WA,Washington,state
+US,US-WV,Lääne-Virginia,state
+US,US-WI,Wisconsin,state
+US,US-WY,Wyoming,state
+MT,MT-60,Valletta,local council

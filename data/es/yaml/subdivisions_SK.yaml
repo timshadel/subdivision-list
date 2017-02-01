@@ -1,0 +1,22 @@
+---
+SK-BC:
+  name: Región de Banská Bystrica
+  level: region
+SK-BL:
+  name: Región de Bratislava
+  level: region
+SK-KI:
+  name: Región de Košice
+  level: region
+SK-NI:
+  name: Región de Nitra
+  level: region
+SK-PV:
+  name: Región de Prešov
+  level: region
+SK-TA:
+  name: Región de Trnava
+  level: region
+SK-ZI:
+  name: Región de Žilina
+  level: region

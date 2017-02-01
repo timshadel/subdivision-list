@@ -1,0 +1,7 @@
+Assoorid (PT-20)
+Braga (PT-03)
+Coimbra (PT-06)
+Leiria (PT-10)
+Lissabon (PT-11)
+Madeira (PT-30)
+Porto (PT-13)

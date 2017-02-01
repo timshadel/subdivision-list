@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Baden-Württemberg', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Baviera - Bayern', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berlín - Berlin', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandeburgo - Brandenburg', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Bremen', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburgo - Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hessen', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Baixa Saxonia - Niedersachsen', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Mecklemburgo-Antepomerania - Mecklenburg-Vorpommern', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Renania do Norte-Westfalia - Nordrhein-Westfalen', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Renania-Palatinado - Rheinland-Pfalz', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Sarre - Saarland', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Saxonia - Sachsen', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Saxonia-Anhalt - Sachsen-Anhalt', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Schleswig-Holstein', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Turinxia - Thüringen', 'level' => 'state'),
+);

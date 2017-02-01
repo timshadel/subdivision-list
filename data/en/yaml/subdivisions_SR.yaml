@@ -1,0 +1,31 @@
+---
+SR-BR:
+  name: Brokopondo
+  level: district
+SR-CM:
+  name: Commewijne
+  level: district
+SR-CR:
+  name: Coronie District
+  level: district
+SR-MA:
+  name: Marowijne
+  level: district
+SR-NI:
+  name: Nickerie
+  level: district
+SR-PR:
+  name: Para
+  level: district
+SR-PM:
+  name: Paramaribo
+  level: district
+SR-SA:
+  name: Saramacca
+  level: district
+SR-SI:
+  name: Sipaliwini District
+  level: district
+SR-WA:
+  name: Wanica District
+  level: district

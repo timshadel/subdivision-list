@@ -1,0 +1,61 @@
+---
+NO-02:
+  name: "Акерсгус"
+  level: county
+NO-09:
+  name: "Еуст-Аґдер"
+  level: county
+NO-06:
+  name: "Бускерюд"
+  level: county
+NO-20:
+  name: "Фіннмарк"
+  level: county
+NO-04:
+  name: "Гедмарк"
+  level: county
+NO-12:
+  name: "Гордалан"
+  level: county
+NO-22:
+  name: "Ян-Маєн"
+  level: ''
+NO-15:
+  name: "Мере-ог-Ромсдал"
+  level: county
+NO-17:
+  name: "Нур-Тренделаг"
+  level: county
+NO-18:
+  name: "Нурлан"
+  level: county
+NO-05:
+  name: "Опплан"
+  level: county
+NO-03:
+  name: "Осло"
+  level: county
+NO-11:
+  name: "Руґалан"
+  level: county
+NO-21:
+  name: "Шпіцберген"
+  level: ''
+NO-16:
+  name: "Сер-Тренделаг"
+  level: county
+NO-08:
+  name: "Телемарк"
+  level: county
+NO-19:
+  name: "Трумс"
+  level: county
+NO-10:
+  name: "Вест-Аґдер"
+  level: county
+NO-07:
+  name: "Вестфол"
+  level: county
+NO-01:
+  name: "Естфол"
+  level: county

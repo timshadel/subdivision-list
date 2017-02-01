@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Groot-Polen', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Koejavië-Pommeren', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Klein-Polen', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Neder-Silezië', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lublin', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Mazovië', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opole', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Subkarpaten', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podlachië', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pommeren', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Silezië', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Ermland-Mazurië', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'West-Pommeren', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Święty Krzyż', 'level' => 'voivodship'),
+);

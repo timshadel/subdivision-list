@@ -1,0 +1,46 @@
+---
+PT-01:
+  name: Aveiro
+  level: district
+PT-20:
+  name: Azores
+  level: autonomous region
+PT-02:
+  name: Beja
+  level: district
+PT-03:
+  name: Braga
+  level: district
+PT-06:
+  name: Coímbra
+  level: district
+PT-08:
+  name: Faro
+  level: district
+PT-09:
+  name: Guarda
+  level: district
+PT-10:
+  name: Leiria
+  level: district
+PT-11:
+  name: Lisboa
+  level: district
+PT-30:
+  name: Madeira
+  level: autonomous region
+PT-12:
+  name: Portalegre
+  level: district
+PT-13:
+  name: Oporto
+  level: district
+PT-15:
+  name: Setúbal
+  level: district
+PT-18:
+  name: Viseu
+  level: district
+PT-07:
+  name: "Évora"
+  level: district

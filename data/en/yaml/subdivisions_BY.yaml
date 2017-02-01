@@ -1,0 +1,19 @@
+---
+BY-BR:
+  name: Brestskaya voblasts
+  level: region
+BY-HM:
+  name: Minsk
+  level: city
+BY-HR:
+  name: Hrodzenskaya voblasts
+  level: region
+BY-MA:
+  name: Mahilyowskaya voblasts
+  level: region
+BY-MI:
+  name: Minskaya voblasts
+  level: region
+BY-VI:
+  name: Vitsyebskaya voblasts
+  level: region

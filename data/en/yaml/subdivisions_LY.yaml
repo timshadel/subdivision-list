@@ -1,0 +1,106 @@
+---
+LY-AJ:
+  name: Ajdabiya
+  level: ''
+LY-HZ:
+  name: Al ?izam al Akh?ar
+  level: ''
+LY-BU:
+  name: Butnan District
+  level: popularate
+LY-JA:
+  name: Al Jabal al Akh?ar
+  level: popularate
+LY-JG:
+  name: Nafusa Mountains
+  level: popularate
+LY-JI:
+  name: Al Jifarah
+  level: popularate
+LY-JU:
+  name: Jufra District
+  level: popularate
+LY-KF:
+  name: Kufra District
+  level: popularate
+LY-MJ:
+  name: Marj
+  level: popularate
+LY-MB:
+  name: Al Marqab
+  level: popularate
+LY-QT:
+  name: Qatrun
+  level: ''
+LY-QB:
+  name: Al Qubbah
+  level: ''
+LY-WA:
+  name: Al Wahat District
+  level: popularate
+LY-NQ:
+  name: Nuqat al Khams
+  level: popularate
+LY-SH:
+  name: Wadi al Shatii District
+  level: district
+LY-ZA:
+  name: Zawiya
+  level: popularate
+LY-BA:
+  name: Benghazi
+  level: popularate
+LY-BW:
+  name: Bani Walid
+  level: ''
+LY-DR:
+  name: Derna
+  level: popularate
+LY-GD:
+  name: Ghadames
+  level: ''
+LY-GR:
+  name: Gharyan
+  level: ''
+LY-GT:
+  name: Ghat
+  level: popularate
+LY-JB:
+  name: Jaghbub
+  level: ''
+LY-MI:
+  name: Misrata
+  level: popularate
+LY-MZ:
+  name: Mizda
+  level: ''
+LY-MQ:
+  name: Murzuk
+  level: popularate
+LY-NL:
+  name: Nalut
+  level: popularate
+LY-SB:
+  name: Sabha
+  level: popularate
+LY-SS:
+  name: Sabratah Surman
+  level: ''
+LY-SR:
+  name: Surt
+  level: popularate
+LY-TB:
+  name: Tripoli
+  level: popularate
+LY-TM:
+  name: Tarhunah-Masallatah
+  level: ''
+LY-WD:
+  name: Wadi al ?ayat
+  level: popularate
+LY-WS:
+  name: Wadi al Shatii District
+  level: popularate
+LY-YJ:
+  name: Yafran-Jadu
+  level: ''

@@ -1,0 +1,28 @@
+---
+AT-1:
+  name: Burgenland
+  level: state
+AT-2:
+  name: Karyntia
+  level: state
+AT-3:
+  name: Dolna Austria
+  level: state
+AT-5:
+  name: Salzburg
+  level: state
+AT-6:
+  name: Styria
+  level: state
+AT-7:
+  name: Tyrol
+  level: state
+AT-4:
+  name: Górna Austria
+  level: state
+AT-9:
+  name: Wiedeń
+  level: state
+AT-8:
+  name: Vorarlberg
+  level: state

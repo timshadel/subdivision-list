@@ -1,0 +1,5 @@
+Central (FJ-C)
+Eastern (FJ-E)
+Northern (FJ-N)
+Rotuma (FJ-R)
+Western (FJ-W)

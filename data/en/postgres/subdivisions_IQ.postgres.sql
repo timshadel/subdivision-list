@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_IQ (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-AN', E'Anbar Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-BA', E'Basra', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-MU', E'Muthanna Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-QA', E'Al-Qādisiyyah', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-NA', E'Najaf', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-AR', E'Erbil', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-SU', E'Sulaymaniyah', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-TS', E'Kirkuk Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-BB', E'Babylon Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-BG', E'Baghdad', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-DA', E'Dohuk', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-DQ', E'Dhi Qar Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-DI', E'Diyalá', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-KA', E'Karbala', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-MA', E'Maysan Province', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-NI', E'Ninawá', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-SD', E'Salah ad-Din', E'province');
+INSERT INTO "subdivision_IQ" ("id", "name", "level") VALUES (E'IQ-WA', E'Wasit', E'province');

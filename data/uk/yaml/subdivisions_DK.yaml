@@ -1,0 +1,19 @@
+---
+DK-070:
+  name: "Орхус"
+  level: county
+DK-040:
+  name: "Борнгольм"
+  level: county
+DK-015:
+  name: "Копенгаген"
+  level: county
+DK-042:
+  name: "Фюн"
+  level: county
+DK-025:
+  name: "Роскілле"
+  level: county
+DK-85:
+  name: "Зеландія"
+  level: region

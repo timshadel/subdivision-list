@@ -1,0 +1,6 @@
+Famagusta (CY-04)
+Kyrenia (CY-06)
+Larnaca (CY-03)
+Nicosia (CY-01)
+Limassol (CY-02)
+Paphos (CY-05)

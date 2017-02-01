@@ -1,0 +1,121 @@
+---
+MD-AN:
+  name: Anenii Noi
+  level: district
+MD-BS:
+  name: Basarabeasca
+  level: district
+MD-BR:
+  name: Briceni
+  level: district
+MD-BA:
+  name: Bălți
+  level: city
+MD-CA:
+  name: Cahul
+  level: district
+MD-CT:
+  name: Cantemir
+  level: district
+MD-CU:
+  name: Chișinău
+  level: city
+MD-CH:
+  name: Chisinau City
+  level: city
+MD-CM:
+  name: Cimişlia
+  level: district
+MD-CR:
+  name: Criuleni
+  level: district
+MD-CL:
+  name: Călărași
+  level: district
+MD-CS:
+  name: Căuşeni
+  level: district
+MD-DO:
+  name: Donduşeni
+  level: district
+MD-DR:
+  name: Drochia
+  level: district
+MD-DU:
+  name: Dubăsari
+  level: district
+MD-ED:
+  name: Edineț
+  level: district
+MD-FL:
+  name: Florești
+  level: district
+MD-FA:
+  name: Făleşti
+  level: district
+MD-GA:
+  name: Gagauzia
+  level: autonomous territorial unit
+MD-GL:
+  name: Glodeni
+  level: district
+MD-HI:
+  name: Hîncești
+  level: district
+MD-IA:
+  name: Ialoveni
+  level: district
+MD-LE:
+  name: Leova
+  level: district
+MD-LA:
+  name: Lăpuşina
+  level: district
+MD-NI:
+  name: Nisporeni
+  level: district
+MD-OC:
+  name: Ocniţa
+  level: district
+MD-OR:
+  name: Orhei
+  level: district
+MD-RE:
+  name: Rezina
+  level: district
+MD-RI:
+  name: Rîșcani
+  level: district
+MD-SO:
+  name: Soroca
+  level: district
+MD-ST:
+  name: Străşeni
+  level: district
+MD-SN:
+  name: Stînga Nistrului
+  level: territorial unit
+MD-SI:
+  name: Sîngerei
+  level: district
+MD-TA:
+  name: Taraclia
+  level: district
+MD-TE:
+  name: Teleneşti
+  level: district
+MD-BD:
+  name: Bender
+  level: city
+MD-TI:
+  name: Bender
+  level: district
+MD-UN:
+  name: Ungheni
+  level: district
+MD-SD:
+  name: "Şoldăneşti"
+  level: district
+MD-SV:
+  name: "Ștefan Vodă"
+  level: district

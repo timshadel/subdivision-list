@@ -1,0 +1,10 @@
+---
+BQ-BO:
+  name: Bonaire
+  level: municipality
+BQ-SA:
+  name: Saba
+  level: municipality
+BQ-SE:
+  name: Sint Eustatius
+  level: municipality

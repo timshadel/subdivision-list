@@ -1,0 +1,106 @@
+id,name,level
+CZ-201,Benešov,district
+CZ-202,Beroun,district
+CZ-621,Blansko,district
+CZ-622,Brno-City District,district
+CZ-623,Brno-Country District,district
+CZ-801,Bruntál,district
+CZ-624,Břeclav,district
+CZ-411,Cheb,district
+CZ-422,Chomutov,district
+CZ-531,Chrudim,district
+CZ-321,Domažlice,district
+CZ-421,Děčín,district
+CZ-802,Frýdek Místek,district
+CZ-611,Havlíčkův Brod,district
+CZ-625,Hodonín,district
+CZ-521,Hradec Králové,district
+CZ-512,Jablonec nad Nisou,district
+CZ-711,Jeseník,district
+CZ-612,Jihlava,district
+CZ-JC,Jihoceský kraj,region
+CZ-JM,South Moravian Region,region
+CZ-313,Jindřichův Hradec,district
+CZ-522,Jičín,district
+CZ-KA,Karlovy Vary Region,region
+CZ-412,Karlovy Vary,district
+CZ-803,Karviná,district
+CZ-203,Kladno,district
+CZ-322,Klatovy,district
+CZ-204,Kolín,district
+CZ-721,Kromĕříž,district
+CZ-KR,Hradec Králové Region,region
+CZ-205,Kutná Hora,district
+CZ-513,Liberec,district
+CZ-LI,Liberec Region,region
+CZ-423,Litoměřice,district
+CZ-424,Louny,district
+CZ-207,Mladá Boleslav,district
+CZ-MO,Moravian–Silesian Region,region
+CZ-425,Most,district
+CZ-206,Mělník,district
+CZ-804,Nový Jičín,district
+CZ-208,Nymburk,district
+CZ-523,Náchod,district
+CZ-712,Olomouc,district
+CZ-OL,Olomouc Region,region
+CZ-805,Opava,district
+CZ-806,Ostrava město,district
+CZ-532,Pardubice,district
+CZ-PA,Pardubice Region,region
+CZ-613,Pelhřimov,district
+CZ-PL,Plzenský kraj,region
+CZ-324,Plzeň jih,district
+CZ-323,Plzeň město,district
+CZ-325,Plzeň sever,district
+CZ-315,Prachatice,district
+CZ-101,Prague 1,district
+CZ-10A,Prague 10,district
+CZ-10B,Prague 11,district
+CZ-10C,Prague 12,district
+CZ-10D,Prague 13,district
+CZ-10E,Prague 14,district
+CZ-10F,Prague 15,district
+CZ-102,Prague 2,district
+CZ-103,Prague 3,district
+CZ-104,Prague 4,district
+CZ-105,Prague 5,district
+CZ-106,Prague 6,district
+CZ-107,Prague 7,district
+CZ-108,Prague 8,district
+CZ-109,Prague 9,district
+CZ-209,Praha východ,district
+CZ-20A,Praha západ,district
+CZ-PR,Praha,region
+CZ-713,Prostĕjov,district
+CZ-314,Písek,district
+CZ-714,Přerov,district
+CZ-20B,Příbram,district
+CZ-20C,Rakovník,district
+CZ-326,Rokycany,district
+CZ-524,Rychnov nad Kněžnou,district
+CZ-514,Semily,district
+CZ-413,Sokolov,district
+CZ-316,Strakonice,district
+CZ-ST,Stredoceský kraj,region
+CZ-533,Svitavy,district
+CZ-327,Tachov,district
+CZ-426,Teplice,district
+CZ-525,Trutnov,district
+CZ-317,Tábor,district
+CZ-614,Třebíč,district
+CZ-722,Uherské Hradištĕ,district
+CZ-723,Vsetín,district
+CZ-VY,Vysočina,region
+CZ-626,Vyškov,district
+CZ-724,Zlín,district
+CZ-ZL,Zlín Region,region
+CZ-627,Znojmo,district
+CZ-US,Ústí nad Labem Region,region
+CZ-427,Ústí nad Labem,district
+CZ-534,Ústí nad Orlicí,district
+CZ-511,Česká Lípa,district
+CZ-311,České Budějovice,district
+CZ-312,Český Krumlov,district
+CZ-715,Šumperk,district
+CZ-615,Žd’ár nad Sázavou,district

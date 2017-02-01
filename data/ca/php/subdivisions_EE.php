@@ -1,0 +1,16 @@
+<?php return array (
+  'EE-37' => array('name' => 'Comtat de Harju', 'level' => 'county'),
+  'EE-39' => array('name' => 'Hiiumaa', 'level' => 'county'),
+  'EE-51' => array('name' => 'Comtat de Järva', 'level' => 'county'),
+  'EE-49' => array('name' => 'Comtat de Jõgeva', 'level' => 'county'),
+  'EE-59' => array('name' => 'Comtat de Lääne-Viru', 'level' => 'county'),
+  'EE-57' => array('name' => 'Comtat de Lääne', 'level' => 'county'),
+  'EE-67' => array('name' => 'Comtat de Pärnu', 'level' => 'county'),
+  'EE-65' => array('name' => 'Comtat de Põlva', 'level' => 'county'),
+  'EE-70' => array('name' => 'Comtat de Rapla', 'level' => 'county'),
+  'EE-74' => array('name' => 'Saaremaa', 'level' => 'county'),
+  'EE-78' => array('name' => 'Comtat de Tartu', 'level' => 'county'),
+  'EE-82' => array('name' => 'Comtat de Valga', 'level' => 'county'),
+  'EE-84' => array('name' => 'Comtat de Viljandi', 'level' => 'county'),
+  'EE-86' => array('name' => 'Comtat de Võru', 'level' => 'county'),
+);

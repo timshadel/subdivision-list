@@ -1,0 +1,26 @@
+id,name,level
+CH-AG,Aargau,canton
+CH-AR,Appenzell Ausserrhoden,canton
+CH-AI,Appenzell Innerrhoden,canton
+CH-BL,Basel-Landschaft,canton
+CH-BS,Basel-Stadt,canton
+CH-BE,Bern,canton
+CH-FR,Fribourg,canton
+CH-GL,Glarus,canton
+CH-GR,Graubünden,canton
+CH-JU,Jura,canton
+CH-NE,Neuchâtel,canton
+CH-NW,Nidwalden,canton
+CH-OW,Obwalden,canton
+CH-SH,Schaffhausen,canton
+CH-SZ,Schwyz,canton
+CH-SO,Solothurn,canton
+CH-TG,Thurgau,canton
+CH-TI,Ticino,canton
+CH-UR,Uri,canton
+CH-VS,Valais,canton
+CH-VD,Vaud,canton
+CH-ZG,Zug,canton
+CH-GE,Genève,canton
+CH-LU,Luzern,canton
+CH-ZH,Zürich,canton

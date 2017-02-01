@@ -1,0 +1,67 @@
+---
+TD-BA:
+  name: Batha
+  level: region
+TD-LC:
+  name: Al Buhayrah
+  level: region
+TD-BG:
+  name: Bahr el Ghazal
+  level: region
+TD-BET:
+  name: Borkou-Ennedi-Tibesti
+  level: region
+TD-BO:
+  name: Borkou
+  level: region
+TD-EN:
+  name: Ennedi Plateau
+  level: region
+TD-KA:
+  name: Kanem
+  level: region
+TD-LO:
+  name: Logone Occidental
+  level: region
+TD-LR:
+  name: Logone Oriental
+  level: region
+TD-MA:
+  name: Mandoul Region
+  level: region
+TD-MO:
+  name: Mayo-Kebbi Ouest Region
+  level: region
+TD-ME:
+  name: Mayo-Kebbi Est Region
+  level: region
+TD-GR:
+  name: Guéra
+  level: region
+TD-SA:
+  name: Salamat
+  level: region
+TD-MC:
+  name: Moyen-Chari
+  level: region
+TD-CB:
+  name: Chari-Baguirmi
+  level: region
+TD-SI:
+  name: "Śīla"
+  level: region
+TD-TI:
+  name: Tibesti Mountains
+  level: region
+TD-TA:
+  name: Tandjilé
+  level: region
+TD-OD:
+  name: Ouaddaï
+  level: region
+TD-WF:
+  name: Wadi Fira Region
+  level: region
+TD-HL:
+  name: Hadjer-Lamis Region
+  level: region

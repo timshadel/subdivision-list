@@ -1,0 +1,217 @@
+---
+FR-01:
+  name: "אן"
+  level: metropolitan department
+FR-02:
+  name: "אן"
+  level: metropolitan department
+FR-03:
+  name: "אלייה"
+  level: metropolitan department
+FR-06:
+  name: "האלפים הימיים"
+  level: metropolitan department
+FR-04:
+  name: "האלפים של פרובאנס עילית"
+  level: metropolitan department
+FR-A:
+  name: "אלזס"
+  level: metropolitan regions
+FR-B:
+  name: "אקיטן"
+  level: metropolitan regions
+FR-08:
+  name: "ארדנים"
+  level: metropolitan department
+FR-07:
+  name: "ארדש"
+  level: metropolitan department
+FR-10:
+  name: "אוב"
+  level: metropolitan department
+FR-11:
+  name: "אוד"
+  level: metropolitan department
+FR-12:
+  name: "אוורון"
+  level: metropolitan department
+FR-67:
+  name: "ריין תחתון"
+  level: metropolitan department
+FR-D:
+  name: "בורגונדי"
+  level: metropolitan regions
+FR-14:
+  name: "קלבדוס"
+  level: metropolitan department
+FR-F:
+  name: "מרכז"
+  level: metropolitan regions
+FR-G:
+  name: "שמפאן-ארדן"
+  level: metropolitan regions
+FR-17:
+  name: "השראנט הימי"
+  level: metropolitan department
+FR-18:
+  name: "שר"
+  level: metropolitan department
+FR-CP:
+  name: "קליפרטון"
+  level: dependency
+FR-2A:
+  name: "קורסיקה הדרומית"
+  level: metropolitan department
+FR-H:
+  name: "קורסיקה"
+  level: metropolitan regions
+FR-25:
+  name: "דו"
+  level: metropolitan department
+FR-29:
+  name: "פיניסטר"
+  level: metropolitan department
+FR-I:
+  name: "פראנש-קונטה"
+  level: metropolitan regions
+FR-GP:
+  name: "גוואדלופ"
+  level: overseas regions
+FR-2B:
+  name: "קורסיקה עילית"
+  level: metropolitan department
+FR-P:
+  name: "נורמנדי תחתית"
+  level: metropolitan regions
+FR-GF:
+  name: "גיאנה הצרפתית"
+  level: overseas regions
+FR-74:
+  name: "סבואה עילית"
+  level: metropolitan department
+FR-05:
+  name: "האלפים העליונים"
+  level: metropolitan department
+FR-92:
+  name: "רמות הסן"
+  level: metropolitan department
+FR-34:
+  name: "ארו"
+  level: metropolitan department
+FR-35:
+  name: "איל ווילן"
+  level: metropolitan department
+FR-37:
+  name: "אנדר ולואר"
+  level: metropolitan department
+FR-K:
+  name: "לנגדוק-רוסיון"
+  level: metropolitan regions
+FR-42:
+  name: "לואר"
+  level: metropolitan department
+FR-44:
+  name: "הלואר האטלנטי"
+  level: metropolitan department
+FR-M:
+  name: "לוריין"
+  level: metropolitan regions
+FR-46:
+  name: "לוט"
+  level: metropolitan department
+FR-48:
+  name: "לוזר"
+  level: metropolitan department
+FR-50:
+  name: "מאנש"
+  level: metropolitan department
+FR-MQ:
+  name: "מרטיניק"
+  level: overseas regions
+FR-YT:
+  name: "מיוט"
+  level: territorial collectivity
+FR-N:
+  name: "מידי-פירנה"
+  level: metropolitan regions
+FR-57:
+  name: "מוזל"
+  level: metropolitan department
+FR-O:
+  name: "נור-פה דה קאלה"
+  level: metropolitan regions
+FR-61:
+  name: "אורן"
+  level: metropolitan department
+FR-75:
+  name: "פריז"
+  level: metropolitan department
+FR-62:
+  name: "פה-דה-קאלה"
+  level: metropolitan department
+FR-R:
+  name: "פיי דה לה לואר"
+  level: metropolitan regions
+FR-S:
+  name: "פיקרדי"
+  level: metropolitan regions
+FR-T:
+  name: "פואטו-שראנט"
+  level: metropolitan regions
+FR-Q:
+  name: "נורמנדי עילית"
+  level: metropolitan regions
+FR-PF:
+  name: "פולינזיה הצרפתית"
+  level: overseas territory
+FR-NC:
+  name: "קלדוניה החדשה"
+  level: overseas territory
+FR-RE:
+  name: "ראוניון"
+  level: overseas regions
+FR-64:
+  name: "הפירנאים האטלנטיים"
+  level: metropolitan department
+FR-69:
+  name: "רון"
+  level: metropolitan department
+FR-V:
+  name: "רון-אלפ"
+  level: metropolitan regions
+FR-73:
+  name: "סבואה"
+  level: metropolitan department
+FR-76:
+  name: "סן-מריטים"
+  level: metropolitan department
+FR-80:
+  name: "סום"
+  level: metropolitan department
+FR-81:
+  name: "טארן"
+  level: metropolitan department
+FR-82:
+  name: "טארן וגארון"
+  level: metropolitan department
+FR-84:
+  name: "ווקלוז"
+  level: metropolitan department
+FR-85:
+  name: "ונדה"
+  level: metropolitan department
+FR-86:
+  name: "ויין"
+  level: metropolitan department
+FR-89:
+  name: "יון"
+  level: metropolitan department
+FR-BL:
+  name: "סן ברתלמי"
+  level: overseas territorial collectivity
+FR-PM:
+  name: "סן פייר ומיקלון"
+  level: territorial collectivity
+FR-WF:
+  name: "ואליס ופוטונה"
+  level: overseas territory

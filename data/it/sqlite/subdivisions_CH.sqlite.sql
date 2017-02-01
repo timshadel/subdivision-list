@@ -1,0 +1,28 @@
+CREATE TABLE subdivision_CH (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-AG', 'Canton Argovia', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-AR', 'Canton Appenzello Esterno', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-AI', 'Canton Appenzello Interno', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-BL', 'Canton Basilea Campagna', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-BS', 'Canton Basilea Città', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-BE', 'Berna', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-FR', 'Friburgo', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-GL', 'Glarona', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-GR', 'Cantone dei Grigioni', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-JU', 'Giura', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-NE', 'Neuchâtel', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-NW', 'Canton Nidvaldo', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-OW', 'Canton Obvaldo', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-SG', 'San Gallo', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-SH', 'Sciaffusa', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-SZ', 'Svitto', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-SO', 'Soletta', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-TG', 'Canton Turgovia', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-TI', 'Canton Ticino', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-UR', 'URI', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-VS', 'Canton Vallese', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-VD', 'Canton Vaud', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-ZG', 'Zugo', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-GE', 'Ginevra', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-LU', 'Lucerna', 'canton');
+INSERT INTO "subdivision_CH" ("id", "name", "level") VALUES ('CH-ZH', 'Zurigo', 'canton');

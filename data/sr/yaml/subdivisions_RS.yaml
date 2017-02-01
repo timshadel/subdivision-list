@@ -1,0 +1,76 @@
+---
+RS-00:
+  name: "Београд"
+  level: city
+RS-14:
+  name: "Борски управни округ"
+  level: district
+RS-11:
+  name: "Браничевски управни округ"
+  level: district
+RS-02:
+  name: "Средњобанатски управни округ"
+  level: district
+RS-23:
+  name: "Јабланички управни округ"
+  level: district
+RS-09:
+  name: "Колубарски управни округ"
+  level: district
+RS-29:
+  name: "Косовскопоморавски управни округ"
+  level: district
+RS-25:
+  name: "Косовски управни округ"
+  level: district
+RS-08:
+  name: "Мачвански управни округ"
+  level: district
+RS-17:
+  name: "Моравички управни округ"
+  level: district
+RS-20:
+  name: "Нишавски управни округ"
+  level: district
+RS-03:
+  name: "Севернобанатски управни округ"
+  level: district
+RS-01:
+  name: "Севернобачки управни округ"
+  level: district
+RS-22:
+  name: "Пиротски управни округ"
+  level: district
+RS-10:
+  name: "Подунавски управни округ"
+  level: district
+RS-13:
+  name: "Поморавски управни округ"
+  level: district
+RS-24:
+  name: "Пчињски управни округ"
+  level: district
+RS-19:
+  name: "Расински управни округ"
+  level: district
+RS-04:
+  name: "Јужнобанатски управни округ"
+  level: district
+RS-07:
+  name: "Сремски управни округ"
+  level: district
+RS-16:
+  name: "Златиборски управни округ"
+  level: district
+RS-12:
+  name: "Шумадијски управни округ"
+  level: district
+RS-28:
+  name: "Косовскомитровачки округ"
+  level: district
+RS-26:
+  name: "Пећки округ"
+  level: district
+RS-27:
+  name: "Призренски округ"
+  level: district

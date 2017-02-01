@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: "Великопольське воєводство"
+  level: voivodship
+PL-KP:
+  name: "Куявсько-Поморське воєводство"
+  level: voivodship
+PL-MA:
+  name: "Малопольське воєводство"
+  level: voivodship
+PL-DS:
+  name: "Нижньосілезьке воєводство"
+  level: voivodship
+PL-LU:
+  name: "Люблінське воєводство"
+  level: voivodship
+PL-LB:
+  name: "Любуське воєводство"
+  level: voivodship
+PL-MZ:
+  name: "Мазовецьке воєводство"
+  level: voivodship
+PL-OP:
+  name: "Опольське воєводство"
+  level: voivodship
+PL-PK:
+  name: "Підкарпатське воєводство"
+  level: voivodship
+PL-PD:
+  name: "Підляське воєводство"
+  level: voivodship
+PL-PM:
+  name: "Поморське воєводство"
+  level: voivodship
+PL-SL:
+  name: "Сілезьке воєводство"
+  level: voivodship
+PL-WN:
+  name: "Вармінсько-Мазурське воєводство"
+  level: voivodship
+PL-ZP:
+  name: "Західнопоморське воєводство"
+  level: voivodship
+PL-SK:
+  name: "Свентокшиське воєводство"
+  level: voivodship

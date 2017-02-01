@@ -1,0 +1,16 @@
+<?php return array (
+  'SV-AH' => array('name' => 'Ahuachapán', 'level' => 'department'),
+  'SV-CA' => array('name' => 'Cabana', 'level' => 'department'),
+  'SV-CH' => array('name' => 'Chalatenango', 'level' => 'department'),
+  'SV-CU' => array('name' => 'Cuscatlán Department', 'level' => 'department'),
+  'SV-LI' => array('name' => 'La Libertad', 'level' => 'department'),
+  'SV-PA' => array('name' => 'La Paz', 'level' => 'department'),
+  'SV-UN' => array('name' => 'La Unión', 'level' => 'department'),
+  'SV-MO' => array('name' => 'Morazán', 'level' => 'department'),
+  'SV-SM' => array('name' => 'San Miguel', 'level' => 'department'),
+  'SV-SS' => array('name' => 'San Salvador', 'level' => 'department'),
+  'SV-SV' => array('name' => 'San Vicente', 'level' => 'department'),
+  'SV-SA' => array('name' => 'Santa Ana', 'level' => 'department'),
+  'SV-SO' => array('name' => 'Sonsonate', 'level' => 'department'),
+  'SV-US' => array('name' => 'Usulután', 'level' => 'department'),
+);

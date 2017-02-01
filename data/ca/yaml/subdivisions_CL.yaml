@@ -1,0 +1,13 @@
+---
+CL-AN:
+  name: Antofagasta
+  level: region
+CL-ML:
+  name: Maule
+  level: region
+CL-RM:
+  name: Regió Metropolitana de Santiago
+  level: region
+CL-VS:
+  name: Valparaíso
+  level: region

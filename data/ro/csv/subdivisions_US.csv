@@ -1,0 +1,57 @@
+id,name,level
+US-AL,Alabama,state
+US-AK,Alaska,state
+US-AS,Samoa Americană,outlying area
+US-AZ,Arizona,state
+US-AR,Arkansas,state
+US-CA,California,state
+US-CO,Colorado,state
+US-CT,Connecticut,state
+US-DE,Delaware,state
+US-FL,Florida,state
+US-GA,Georgia,state
+US-GU,Guam,outlying area
+US-HI,Hawaii,state
+US-ID,Idaho,state
+US-IL,Illinois,state
+US-IN,Indiana,state
+US-IA,Iowa,state
+US-KS,Kansas,state
+US-KY,Kentucky,state
+US-LA,Louisiana,state
+US-ME,Maine,state
+US-MD,Maryland,state
+US-MA,Massachusetts,state
+US-MI,Michigan,state
+US-MN,Minnesota,state
+US-MS,Mississippi,state
+US-MO,Missouri,state
+US-MT,Montana,state
+US-NE,Nebraska,state
+US-NV,Nevada,state
+US-NH,New Hampshire,state
+US-NJ,New Jersey,state
+US-NM,New Mexico,state
+US-NY,New York,state
+US-NC,Carolina de Nord,state
+US-ND,Dakota de Nord,state
+US-MP,Comunitatea Insulelor Mariane de Nord,outlying area
+US-OH,Ohio,state
+US-OK,Oklahoma,state
+US-OR,Oregon,state
+US-PA,Pennsylvania,state
+US-PR,Puerto Rico,outlying area
+US-RI,Rhode Island,state
+US-SC,Carolina de Sud,state
+US-SD,Dakota de Sud,state
+US-TN,Tennessee,state
+US-TX,Texas,state
+US-UM,Insulele Minore Îndepărtate ale Statelor Unite,outlying area
+US-UT,Utah,state
+US-DC,"Washington, D.C.",district
+US-VT,Vermont,state
+US-VA,Virginia,state
+US-WA,Washington,state
+US-WV,Virginia de Vest,state
+US-WI,Wisconsin,state
+US-WY,Wyoming,state

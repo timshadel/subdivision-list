@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_PY (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-16', E'Alto Paraguay Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-10', E'Alto Paraná Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-13', E'Amambay Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-ASU', E'Asunción', E'capital');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-19', E'Boquerón', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-5', E'Caaguazú', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-6', E'Caazapá', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-14', E'Canindeyú Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-11', E'Central', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-1', E'Concepción', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-3', E'Cordillera', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-4', E'Guaira', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-7', E'Itapúa Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-8', E'Misiones Province', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-9', E'Paraguarí', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-15', E'Presidente Hayes Department', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-2', E'San Pedro', E'department');
+INSERT INTO "subdivision_PY" ("id", "name", "level") VALUES (E'PY-12', E'Ñeembucú Department', E'department');

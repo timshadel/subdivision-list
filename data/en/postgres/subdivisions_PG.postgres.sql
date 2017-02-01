@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_PG (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-NSB', E'Bougainville', E'autonomous region');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-CPM', E'Central', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-CPK', E'Chimbu', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-EBR', E'East New Britain Province', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-ESW', E'East Sepik Province', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-EHG', E'Eastern Highlands', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-EPW', E'Enga', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-GPK', E'Gulf', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-MPM', E'Madang', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-MRL', E'Manus', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-MBA', E'Milne Bay', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-MPL', E'Morobe', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-NCD', E'National Capital District', E'district');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-NIK', E'New Ireland', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-NSA', E'North Solomons', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-NPP', E'Northern', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-SAN', E'Sandaun', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-SHM', E'Southern Highlands', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-WBK', E'West New Britain Province', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-WPD', E'Western', E'province');
+INSERT INTO "subdivision_PG" ("id", "name", "level") VALUES (E'PG-WHM', E'Western Highlands', E'province');

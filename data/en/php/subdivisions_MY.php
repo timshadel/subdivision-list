@@ -1,0 +1,18 @@
+<?php return array (
+  'MY-01' => array('name' => 'Johor', 'level' => 'state'),
+  'MY-02' => array('name' => 'Kedah', 'level' => 'state'),
+  'MY-03' => array('name' => 'Kelantan', 'level' => 'state'),
+  'MY-04' => array('name' => 'Malacca', 'level' => 'state'),
+  'MY-05' => array('name' => 'Negeri Sembilan', 'level' => 'state'),
+  'MY-06' => array('name' => 'Pahang', 'level' => 'state'),
+  'MY-08' => array('name' => 'Perak', 'level' => 'state'),
+  'MY-09' => array('name' => 'Perlis', 'level' => 'state'),
+  'MY-07' => array('name' => 'Penang Island', 'level' => 'state'),
+  'MY-12' => array('name' => 'Sabah', 'level' => 'state'),
+  'MY-13' => array('name' => 'Sarawak', 'level' => 'state'),
+  'MY-10' => array('name' => 'Selangor', 'level' => 'state'),
+  'MY-11' => array('name' => 'Terengganu', 'level' => 'state'),
+  'MY-14' => array('name' => 'Kuala Lumpur', 'level' => 'federal territory'),
+  'MY-15' => array('name' => 'Labuan', 'level' => 'federal territory'),
+  'MY-16' => array('name' => 'Putrajaya', 'level' => 'federal territory'),
+);

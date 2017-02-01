@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: Groot-Polen
+  level: voivodship
+PL-KP:
+  name: Koejavië-Pommeren
+  level: voivodship
+PL-MA:
+  name: Klein-Polen
+  level: voivodship
+PL-DS:
+  name: Neder-Silezië
+  level: voivodship
+PL-LU:
+  name: Lublin
+  level: voivodship
+PL-LB:
+  name: Lubusz
+  level: voivodship
+PL-MZ:
+  name: Mazovië
+  level: voivodship
+PL-OP:
+  name: Opole
+  level: voivodship
+PL-PK:
+  name: Subkarpaten
+  level: voivodship
+PL-PD:
+  name: Podlachië
+  level: voivodship
+PL-PM:
+  name: Pommeren
+  level: voivodship
+PL-SL:
+  name: Silezië
+  level: voivodship
+PL-WN:
+  name: Ermland-Mazurië
+  level: voivodship
+PL-ZP:
+  name: West-Pommeren
+  level: voivodship
+PL-SK:
+  name: "Święty Krzyż"
+  level: voivodship

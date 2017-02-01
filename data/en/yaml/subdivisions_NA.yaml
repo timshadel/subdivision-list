@@ -1,0 +1,40 @@
+---
+NA-CA:
+  name: Caprivi
+  level: region
+NA-ER:
+  name: Erongo Region
+  level: region
+NA-HA:
+  name: Hardap
+  level: region
+NA-KA:
+  name: Karas
+  level: region
+NA-KH:
+  name: Khomas Region
+  level: region
+NA-KU:
+  name: Kunene
+  level: region
+NA-OW:
+  name: Ohangwena Region
+  level: region
+NA-OK:
+  name: Okavango
+  level: region
+NA-OH:
+  name: Omaheke Region
+  level: region
+NA-OS:
+  name: Omusati Region
+  level: region
+NA-ON:
+  name: Oshana Region
+  level: region
+NA-OT:
+  name: Oshikoto
+  level: region
+NA-OD:
+  name: Otjozondjupa Region
+  level: region

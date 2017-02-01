@@ -1,0 +1,40 @@
+---
+LR-BM:
+  name: Bomi
+  level: county
+LR-BG:
+  name: Bong
+  level: county
+LR-GB:
+  name: Grand Bassa County
+  level: county
+LR-CM:
+  name: Grand Cape Mount County
+  level: county
+LR-GG:
+  name: Grand Gedeh County
+  level: county
+LR-GK:
+  name: Grand Kru County
+  level: county
+LR-LO:
+  name: Lofa
+  level: county
+LR-MG:
+  name: Margibi County
+  level: county
+LR-MY:
+  name: Maryland
+  level: county
+LR-MO:
+  name: Montserrado County
+  level: county
+LR-NI:
+  name: Nimba
+  level: county
+LR-RI:
+  name: River Cess
+  level: county
+LR-SI:
+  name: Sinoe
+  level: county

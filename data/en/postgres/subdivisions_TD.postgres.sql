@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_TD (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-BA', E'Batha', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-LC', E'Al Buhayrah', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-BG', E'Bahr el Ghazal', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-BET', E'Borkou-Ennedi-Tibesti', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-BO', E'Borkou', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-EN', E'Ennedi Plateau', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-KA', E'Kanem', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-LO', E'Logone Occidental', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-LR', E'Logone Oriental', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-MA', E'Mandoul Region', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-MO', E'Mayo-Kebbi Ouest Region', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-ME', E'Mayo-Kebbi Est Region', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-GR', E'Guéra', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-SA', E'Salamat', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-MC', E'Moyen-Chari', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-CB', E'Chari-Baguirmi', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-SI', E'Śīla', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-TI', E'Tibesti Mountains', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-TA', E'Tandjilé', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-OD', E'Ouaddaï', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-WF', E'Wadi Fira Region', E'region');
+INSERT INTO "subdivision_TD" ("id", "name", "level") VALUES (E'TD-HL', E'Hadjer-Lamis Region', E'region');

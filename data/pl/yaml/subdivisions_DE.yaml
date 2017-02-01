@@ -1,0 +1,49 @@
+---
+DE-BW:
+  name: Badenia-Wirtembergia
+  level: state
+DE-BY:
+  name: Bawaria
+  level: state
+DE-BE:
+  name: Berlin
+  level: state
+DE-BB:
+  name: Brandenburgia
+  level: state
+DE-HB:
+  name: Brema
+  level: state
+DE-HH:
+  name: Hamburg
+  level: state
+DE-HE:
+  name: Hesja
+  level: state
+DE-NI:
+  name: Dolna Saksonia
+  level: state
+DE-MV:
+  name: Meklemburgia-Pomorze Przednie
+  level: state
+DE-NW:
+  name: Nadrenia Północna-Westfalia
+  level: state
+DE-RP:
+  name: Nadrenia-Palatynat
+  level: state
+DE-SL:
+  name: Saara
+  level: state
+DE-SN:
+  name: Saksonia
+  level: state
+DE-ST:
+  name: Saksonia-Anhalt
+  level: state
+DE-SH:
+  name: Szlezwik-Holsztyn
+  level: state
+DE-TH:
+  name: Turyngia
+  level: state

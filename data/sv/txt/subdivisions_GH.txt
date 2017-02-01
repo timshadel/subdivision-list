@@ -1,0 +1,5 @@
+Central (GH-CP)
+Eastern (GH-EP)
+Storaccra (GH-AA)
+Northern (GH-NP)
+Volta (GH-TV)

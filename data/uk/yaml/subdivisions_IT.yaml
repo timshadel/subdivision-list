@@ -1,0 +1,370 @@
+---
+IT-65:
+  name: "Абруццо"
+  level: region
+IT-AG:
+  name: "Агрідженто"
+  level: province
+IT-AL:
+  name: "Алессандрія"
+  level: province
+IT-AN:
+  name: "Анкона"
+  level: province
+IT-AO:
+  name: "Аоста"
+  level: province
+IT-AR:
+  name: "Ареццо"
+  level: province
+IT-AP:
+  name: "Асколі-Пічено"
+  level: province
+IT-AT:
+  name: "Асті"
+  level: province
+IT-AV:
+  name: "Авелліно"
+  level: province
+IT-BA:
+  name: "Барі"
+  level: province
+IT-77:
+  name: "Базиліката"
+  level: region
+IT-BL:
+  name: "Беллуно"
+  level: province
+IT-BN:
+  name: "Беневенто"
+  level: province
+IT-BG:
+  name: "Бергамо"
+  level: province
+IT-BO:
+  name: "Болонья"
+  level: province
+IT-BZ:
+  name: "Больцано"
+  level: province
+IT-BS:
+  name: "Брешія"
+  level: province
+IT-BR:
+  name: "Бріндізі"
+  level: province
+IT-CA:
+  name: "Кальярі"
+  level: province
+IT-78:
+  name: "Калабрія"
+  level: region
+IT-CL:
+  name: "Кальтаніссетта"
+  level: province
+IT-72:
+  name: "Кампанія"
+  level: region
+IT-CB:
+  name: "Кампобассо"
+  level: province
+IT-CE:
+  name: "Казерта"
+  level: province
+IT-CT:
+  name: "Катанія"
+  level: province
+IT-CZ:
+  name: "Катандзаро"
+  level: province
+IT-CO:
+  name: "Комо"
+  level: province
+IT-CS:
+  name: "Козенца"
+  level: province
+IT-CR:
+  name: "Кремона"
+  level: province
+IT-KR:
+  name: "Кротоне"
+  level: province
+IT-CN:
+  name: "Кунео"
+  level: province
+IT-45:
+  name: "Емілія-Романья"
+  level: region
+IT-EN:
+  name: "Енна"
+  level: province
+IT-FM:
+  name: "Фермо"
+  level: province
+IT-FE:
+  name: "Феррара"
+  level: province
+IT-FI:
+  name: "Флоренція"
+  level: province
+IT-FG:
+  name: "Фоджа"
+  level: province
+IT-FO:
+  name: "Форлі"
+  level: ''
+IT-36:
+  name: "Фріулі-Венеція-Джулія"
+  level: region
+IT-FR:
+  name: "Фрозіноне"
+  level: province
+IT-GE:
+  name: "Генуя"
+  level: province
+IT-GO:
+  name: "Горіція"
+  level: province
+IT-GR:
+  name: "Гроссето"
+  level: province
+IT-IM:
+  name: "Імперія"
+  level: province
+IT-IS:
+  name: "Ізернія"
+  level: province
+IT-BT:
+  name: "Провінція Барлетта-Андрія-Трані"
+  level: province
+IT-CI:
+  name: "Провінція Карбонія-Іглезіас"
+  level: province
+IT-FC:
+  name: "Провінція Форлі-Чезена"
+  level: province
+IT-75:
+  name: "Апулія"
+  level: region
+IT-SP:
+  name: "Ла-Спеція"
+  level: province
+IT-62:
+  name: "Лаціо"
+  level: region
+IT-LE:
+  name: "Лечче"
+  level: province
+IT-LC:
+  name: "Лекко"
+  level: province
+IT-42:
+  name: "Лігурія"
+  level: region
+IT-LI:
+  name: "Ліворно"
+  level: province
+IT-LO:
+  name: "Лоді"
+  level: province
+IT-25:
+  name: "Ломбардія"
+  level: region
+IT-LU:
+  name: "Лукка"
+  level: province
+IT-MC:
+  name: "Мачерата"
+  level: province
+IT-MN:
+  name: "Мантуя"
+  level: province
+IT-57:
+  name: "Марке"
+  level: region
+IT-MT:
+  name: "Матера"
+  level: province
+IT-ME:
+  name: "Мессіна"
+  level: province
+IT-MI:
+  name: "Мілан"
+  level: province
+IT-MO:
+  name: "Модена"
+  level: province
+IT-67:
+  name: "Молізе"
+  level: region
+IT-NA:
+  name: "Неаполь"
+  level: province
+IT-NO:
+  name: "Новара"
+  level: province
+IT-NU:
+  name: "Нуоро"
+  level: province
+IT-OR:
+  name: "Ористано"
+  level: province
+IT-PD:
+  name: "Падуя"
+  level: province
+IT-PA:
+  name: "Палермо"
+  level: province
+IT-PR:
+  name: "Парма"
+  level: province
+IT-PV:
+  name: "Павія"
+  level: province
+IT-PG:
+  name: "Перуджа"
+  level: province
+IT-PE:
+  name: "Пескара"
+  level: province
+IT-PI:
+  name: "Піза"
+  level: province
+IT-PT:
+  name: "Пістоя"
+  level: province
+IT-PN:
+  name: "Порденоне"
+  level: province
+IT-PZ:
+  name: "Потенца"
+  level: province
+IT-PO:
+  name: "Прато"
+  level: province
+IT-MS:
+  name: "Провінція Масса-Каррара"
+  level: province
+IT-MA:
+  name: "Провінція Медіо-Кампідано"
+  level: province
+IT-MB:
+  name: "Провінція Монца і Бріанца"
+  level: province
+IT-OG:
+  name: "Провінція Ольястра"
+  level: province
+IT-OL:
+  name: "Провінція Ольбія-Темпіо"
+  level: province
+IT-PU:
+  name: "Провінція Пезаро і Урбіно"
+  level: province
+IT-RG:
+  name: "Рагуза"
+  level: province
+IT-RA:
+  name: "Равенна"
+  level: province
+IT-RC:
+  name: "Реджо-Калабрія"
+  level: province
+IT-RE:
+  name: "Реджо-нель-Емілія"
+  level: province
+IT-VB:
+  name: "Провінція Вербано-Кузіо-Оссола"
+  level: province
+IT-RI:
+  name: "Рієті"
+  level: province
+IT-RN:
+  name: "Ріміні"
+  level: province
+IT-RM:
+  name: "Рома"
+  level: province
+IT-RO:
+  name: "Ровіго"
+  level: province
+IT-SA:
+  name: "Салерно"
+  level: province
+IT-88:
+  name: "Сардинія"
+  level: region
+IT-SS:
+  name: "Сассарі"
+  level: province
+IT-SV:
+  name: "Савона"
+  level: province
+IT-82:
+  name: "Сицилія"
+  level: region
+IT-SI:
+  name: "Сієна"
+  level: province
+IT-SO:
+  name: "Сондріо"
+  level: province
+IT-TA:
+  name: "Таранто"
+  level: province
+IT-TE:
+  name: "Терамо"
+  level: province
+IT-TR:
+  name: "Терні"
+  level: province
+IT-TP:
+  name: "Трапані"
+  level: province
+IT-32:
+  name: "Трентіно-Альто-Адідже"
+  level: region
+IT-TN:
+  name: "Тренто"
+  level: province
+IT-TV:
+  name: "Тревізо"
+  level: province
+IT-TS:
+  name: "Трієст"
+  level: province
+IT-TO:
+  name: "Турин"
+  level: province
+IT-52:
+  name: "Тоскана"
+  level: region
+IT-UD:
+  name: "Удіне"
+  level: province
+IT-55:
+  name: "Умбрія"
+  level: region
+IT-VA:
+  name: "Варезе"
+  level: province
+IT-34:
+  name: "Венето"
+  level: region
+IT-VE:
+  name: "Венеція"
+  level: province
+IT-VC:
+  name: "Верчеллі"
+  level: province
+IT-VR:
+  name: "Верона"
+  level: province
+IT-VV:
+  name: "Вібо-Валентія"
+  level: province
+IT-VI:
+  name: "Віченца"
+  level: province
+IT-VT:
+  name: "Вітербо"
+  level: province

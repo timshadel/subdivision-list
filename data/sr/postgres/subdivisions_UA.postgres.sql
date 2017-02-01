@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_UA (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-71', E'Черкашка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-77', E'Чернивачка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-43', E'Крим', E'autonomous republic');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-12', E'Дњепропетровска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-14', E'Доњечка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-63', E'Харковска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-65', E'Херсонска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-68', E'Хмељничка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-30', E'Кијев', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-32', E'Кијевска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-35', E'Кировоградска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-09', E'Луганска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-46', E'Лавовска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-48', E'Миколајивска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-51', E'Одешка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-53', E'Полтавска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-56', E'Ривањска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-40', E'Севастопољ', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-59', E'Сумска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-61', E'Тернопољска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-07', E'Волињска област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-23', E'Запорошка област', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-18', E'Житомирска област', E'region');

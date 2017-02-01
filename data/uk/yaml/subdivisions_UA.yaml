@@ -1,0 +1,82 @@
+---
+UA-71:
+  name: "Черкаська область"
+  level: region
+UA-74:
+  name: "Чернігівська область"
+  level: region
+UA-77:
+  name: "Чернівецька область"
+  level: region
+UA-43:
+  name: "Кримський півострів"
+  level: autonomous republic
+UA-12:
+  name: "Дніпропетровська область"
+  level: region
+UA-14:
+  name: "Донецька область"
+  level: region
+UA-26:
+  name: "Івано-Франківська область"
+  level: region
+UA-63:
+  name: "Харківська область"
+  level: region
+UA-65:
+  name: "Херсонська область"
+  level: region
+UA-68:
+  name: "Хмельницька область"
+  level: region
+UA-30:
+  name: "Київ"
+  level: region
+UA-32:
+  name: "Київська область"
+  level: region
+UA-35:
+  name: "Кіровоградська область"
+  level: region
+UA-09:
+  name: "Луганська область"
+  level: region
+UA-46:
+  name: "Львівська область"
+  level: region
+UA-48:
+  name: "Миколаївська область"
+  level: region
+UA-51:
+  name: "Одеська область"
+  level: region
+UA-53:
+  name: "Полтавська область"
+  level: region
+UA-56:
+  name: "Рівненська область"
+  level: region
+UA-40:
+  name: "Севастополь"
+  level: region
+UA-59:
+  name: "Сумська область"
+  level: region
+UA-61:
+  name: "Тернопільська область"
+  level: region
+UA-05:
+  name: "Вінницька область"
+  level: region
+UA-07:
+  name: "Волинська область"
+  level: region
+UA-21:
+  name: "Закарпатська область"
+  level: region
+UA-23:
+  name: "Запорізька область"
+  level: region
+UA-18:
+  name: "Житомирська область"
+  level: region

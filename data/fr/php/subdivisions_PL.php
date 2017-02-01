@@ -1,0 +1,16 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Voïvodie de Grande-Pologne', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Couïavie-Poméranie', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Voïvodie de Petite-Pologne', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Voïvodie de Basse-Silésie', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Voïvodie de Lublin', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Voïvodie de Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Voïvodie de Mazovie', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Voïvodie des Basses-Carpates', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Voïvodie de Podlachie', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Voïvodie de Poméranie', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Voïvodie de Silésie', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Voïvodie de Varmie-Mazurie', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Voïvodie de Poméranie occidentale', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Voïvodie de Sainte-Croix', 'level' => 'voivodship'),
+);

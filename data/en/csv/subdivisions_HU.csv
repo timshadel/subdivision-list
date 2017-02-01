@@ -1,0 +1,44 @@
+id,name,level
+HU-BA,Baranya,county
+HU-BZ,Borsod-Abaúj-Zemplén County,county
+HU-BU,Budapest,capital city
+HU-BK,Bács-Kiskun County,county
+HU-BE,Békés,county
+HU-BC,Békéscsaba,city of county right
+HU-CS,Csongrád,county
+HU-DE,Debrecen,city of county right
+HU-DU,Dunaújváros,city of county right
+HU-EG,Eger,city of county right
+HU-ER,ERD,county
+HU-FE,Fejér County,county
+HU-GY,Győr,city of county right
+HU-GS,Győr-Moson-Sopron County,county
+HU-HB,Hajdú-Bihar County,county
+HU-HE,Heves,county
+HU-HV,Hódmezővásárhely,city of county right
+HU-JN,Jász-Nagykun-Szolnok County,county
+HU-KV,Kaposvár,city of county right
+HU-KM,Kecskemét,city of county right
+HU-KE,Komárom-Esztergom County,county
+HU-MI,Miskolc,city of county right
+HU-NK,Nagykanizsa,city of county right
+HU-NY,Nyíregyháza,city of county right
+HU-NO,Nógrád,county
+HU-PE,Pest,county
+HU-PS,Pécs,city of county right
+HU-ST,Salgótarján,city of county right
+HU-SO,Somogy,county
+HU-SN,Sopron,city of county right
+HU-SZ,Szabolcs-Szatmár-Bereg County,county
+HU-SD,Szeged,city of county right
+HU-SS,Szekszárd,city of county right
+HU-SK,Szolnok,city of county right
+HU-SH,Szombathely,city of county right
+HU-SF,Székesfehérvár,city of county right
+HU-TB,Tatabánya,city of county right
+HU-TO,Tolna,county
+HU-VA,Vas County,county
+HU-VE,Veszprém,county
+HU-VM,Veszprém City,city of county right
+HU-ZA,Zala County,county
+HU-ZE,Zalaegerszeg,city of county right

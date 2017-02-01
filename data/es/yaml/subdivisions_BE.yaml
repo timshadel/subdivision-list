@@ -1,0 +1,28 @@
+---
+BE-VAN:
+  name: Amberes
+  level: province
+BE-BRU:
+  name: Región de Bruselas-Capital
+  level: capital region
+BE-VOV:
+  name: Provincia de Flandes Oriental
+  level: province
+BE-VBR:
+  name: Brabante Flamenco
+  level: province
+BE-WLG:
+  name: Lieja
+  level: province
+BE-WLX:
+  name: Luxemburgo
+  level: province
+BE-WAL:
+  name: Valonia
+  level: region
+BE-WBR:
+  name: Provincia del Brabante Valón
+  level: province
+BE-VWV:
+  name: Provincia de Flandes Occidental
+  level: province

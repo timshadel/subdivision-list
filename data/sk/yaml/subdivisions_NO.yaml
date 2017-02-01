@@ -1,0 +1,19 @@
+---
+NO-02:
+  name: Akershus
+  level: county
+NO-20:
+  name: Finnmark
+  level: county
+NO-22:
+  name: Jan Mayen
+  level: ''
+NO-18:
+  name: Nordland
+  level: county
+NO-03:
+  name: Oslo
+  level: county
+NO-21:
+  name: Svalbard
+  level: ''

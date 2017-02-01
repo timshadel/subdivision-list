@@ -1,0 +1,13 @@
+---
+GH-BA:
+  name: Brong-Ahafo
+  level: region
+GH-AA:
+  name: Greater Accra
+  level: region
+GH-UE:
+  name: Upper East
+  level: region
+GH-TV:
+  name: Volta
+  level: region

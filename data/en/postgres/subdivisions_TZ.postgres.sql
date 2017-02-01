@@ -1,0 +1,28 @@
+CREATE TABLE subdivision_TZ (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-01', E'Arusha', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-02', E'Dar es Salaam', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-03', E'Dodoma', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-04', E'Iringa', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-05', E'Kagera', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-06', E'North Pemba Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-07', E'Zanzibar North Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-08', E'Kigoma', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-09', E'Mount Kilimanjaro', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-10', E'South Pemba Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-11', E'Zanzibar Central/South Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-12', E'Lindi', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-26', E'Manyara Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-13', E'Mara', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-14', E'Mbeya', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-15', E'Zanzibar Urban/West Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-16', E'Morogoro', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-17', E'Mtwara', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-18', E'Mwanza', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-19', E'Pwani', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-20', E'Rukwa Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-21', E'Ruvuma Region', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-22', E'Shinyanga', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-23', E'Singida', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-24', E'Tabora', E'region');
+INSERT INTO "subdivision_TZ" ("id", "name", "level") VALUES (E'TZ-25', E'Tanga', E'region');

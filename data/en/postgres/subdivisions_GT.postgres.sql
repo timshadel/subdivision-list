@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_GT (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-AV', E'Alta Verapaz Department', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-BV', E'Baja Verapaz Department', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-CM', E'Chimaltenango', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-CQ', E'Chiquimula', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-PR', E'El Progreso', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-ES', E'Escuintla', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-GU', E'Guatemala', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-HU', E'Huehuetenango', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-IZ', E'Izabal', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-JA', E'Jalapa', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-JU', E'Jutiapa', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-PE', E'Petén', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-QZ', E'Quetzaltenango', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-QC', E'Quiche', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-RE', E'Retalhuleu', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-SA', E'Sacatepéquez', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-SM', E'San Marcos', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-SR', E'Santa Rosa', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-SO', E'Sololá', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-SU', E'Suchitepéquez Department', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-TO', E'Totonicapán', E'department');
+INSERT INTO "subdivision_GT" ("id", "name", "level") VALUES (E'GT-ZA', E'Zacapa', E'department');

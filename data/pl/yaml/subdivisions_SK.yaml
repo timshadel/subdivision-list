@@ -1,0 +1,22 @@
+---
+SK-BC:
+  name: Kraj bańskobystrzycki
+  level: region
+SK-BL:
+  name: Kraj bratysławski
+  level: region
+SK-KI:
+  name: Kraj koszycki
+  level: region
+SK-NI:
+  name: Kraj nitrzański
+  level: region
+SK-PV:
+  name: Kraj preszowski
+  level: region
+SK-TA:
+  name: Kraj trnawski
+  level: region
+SK-ZI:
+  name: Kraj żyliński
+  level: region

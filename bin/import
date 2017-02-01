@@ -1,0 +1,299 @@
+#!/usr/bin/env ruby
+
+require 'fileutils'
+require 'json'
+require 'yaml'
+
+class Subdivision
+  attr_reader :language, :country, :id, :name, :level
+  def initialize language, country, id, name, level
+    @language = language
+    @country = country
+    @id = id
+    @name = name
+    @level = level
+  end
+end
+
+
+###########
+#  Parsing
+
+def language_paths input_dir
+  Dir.glob(File.join(input_dir, '*.php')).reject { |f| f.include? 'old' }.map do |path|
+    path =~ /.*Subdivisions([A-Za-z]{2}).php/
+    [$1.downcase, path]
+  end
+end
+
+def language_subdivisions language, file
+  language_subdivisions = Hash.new { |hash, key| hash[key] = [] }
+  file.scan(/^\$subdivisions\['([^']*)'\]\['([^']*)'\][^\n]*\n'name'[^']*'([^']*)',\n'level'[^']*'([^']*)',/m) do |country, id, name, level|
+    language_subdivisions[country] << Subdivision.new(language, country, id, name, level)
+  end
+  language_subdivisions
+end
+
+def subdivisions language_paths
+  subdivisions = {}
+  language_paths.each do |language, path|
+    subdivisions[language] = language_subdivisions(language, IO.read(path))
+  end
+  subdivisions
+end
+
+
+###########
+#  Paths & naming
+
+def detail_dir language_dir, detail
+  detail_dir = File.join(language_dir, detail)
+  FileUtils.mkdir_p detail_dir
+  detail_dir
+end
+
+def extension detail
+  ['mysql', 'postgres', 'sqlite'].include?(detail) ? "#{detail}.sql" : detail
+end
+
+def subdivision_file language_dir, detail
+  subdivision_path = File.join(detail_dir(language_dir, detail), "subdivisions.#{extension(detail)}")
+  File.open(subdivision_path, "w") do |s|
+    yield s
+  end
+end
+
+def country_file language_dir, country, detail
+  country_path = File.join(detail_dir(language_dir, detail), "subdivisions_#{country}.#{extension(detail)}")
+  File.open(country_path, "w") do |s|
+    yield s
+  end
+end
+
+
+###########
+#  Saving
+
+def save_csv language_dir, subdivisions
+  subdivision_file(language_dir, 'csv') do |s|
+    s.puts 'country,id,name,level'
+    subdivisions.values.flatten.each do |subdivision|
+      s.puts "#{subdivision.country},#{subdivision.id},#{subdivision.name.gsub(/(.*,.*)/, '"\1"')},#{subdivision.level.gsub(/(.*,.*)/, '"\1"')}"
+    end
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'csv') do |c|
+      c.puts 'id,name,level'
+      country_subdivisions.each do |subdivision|
+        c.puts "#{subdivision.id},#{subdivision.name.gsub(/(.*,.*)/, '"\1"')},#{subdivision.level.gsub(/(.*,.*)/, '"\1"')}"
+      end
+    end
+  end
+end
+
+def saveable_hash subdivisions
+  val = Hash.new { |hash, key| hash[key] = {} }
+  subdivisions.each do |country, country_subdivisions|
+    country_subdivisions.each do |subdivision|
+      val[country][subdivision.id] = { "name" => subdivision.name, "level" => subdivision.level }
+    end
+  end
+  val
+end
+
+def save_json language_dir, subdivisions
+  saveable = saveable_hash(subdivisions)
+  subdivision_file(language_dir, 'json') do |s|
+    s.puts saveable.to_json
+  end
+  saveable.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'json') do |c|
+      c.puts country_subdivisions.to_json
+    end
+  end
+end
+
+def save_mysql language_dir, subdivisions
+  subdivision_file(language_dir, 'mysql') do |s|
+    s.puts 'CREATE TABLE subdivision (country VARCHAR(2) NOT NULL, id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;'
+    s.puts ''
+    subdivisions.values.flatten.each do |subdivision|
+      s.puts "INSERT INTO `subdivision` (`country`, `id`, `name`, `level`) VALUES ('#{subdivision.country}','#{subdivision.id}', '#{subdivision.name}', '#{subdivision.level}');"
+    end
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'mysql') do |c|
+      c.puts "CREATE TABLE subdivision_#{country} (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;"
+      c.puts ''
+      country_subdivisions.each do |subdivision|
+        c.puts "INSERT INTO `subdivision_#{subdivision.country}` (`id`, `name`, `level`) VALUES ('#{subdivision.id}', '#{subdivision.name}', '#{subdivision.level}');"
+      end
+    end
+  end
+end
+
+def save_php language_dir, subdivisions
+  subdivision_file(language_dir, 'php') do |s|
+    s.puts '<?php return array ('
+    subdivisions.each do |country, country_subdivisions|
+      s.puts "  '#{country}' => array("
+      country_subdivisions.each do |subdivision|
+        s.puts "    '#{subdivision.id}' => array('name' => '#{subdivision.name}', 'level' => '#{subdivision.level}'),"
+      end
+      s.puts '  ),'
+    end
+    s.puts ');'
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'php') do |c|
+      c.puts '<?php return array ('
+      country_subdivisions.each do |subdivision|
+        c.puts "  '#{subdivision.id}' => array('name' => '#{subdivision.name}', 'level' => '#{subdivision.level}'),"
+      end
+      c.puts ');'
+    end
+  end
+end
+
+def save_postgres language_dir, subdivisions
+  subdivision_file(language_dir, 'postgres') do |s|
+    s.puts 'CREATE TABLE subdivision (country VARCHAR(2) NOT NULL, id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));'
+    s.puts ''
+    subdivisions.values.flatten.each do |subdivision|
+      s.puts "INSERT INTO \"subdivision\" (\"country\", \"id\", \"name\", \"level\") VALUES (E'#{subdivision.country}', E'#{subdivision.id}', E'#{subdivision.name}', E'#{subdivision.level}');"
+    end
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'postgres') do |c|
+      c.puts "CREATE TABLE subdivision_#{country} (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));"
+      c.puts ''
+      country_subdivisions.each do |subdivision|
+          c.puts "INSERT INTO \"subdivision_#{subdivision.country}\" (\"id\", \"name\", \"level\") VALUES (E'#{subdivision.id}', E'#{subdivision.name}', E'#{subdivision.level}');"
+      end
+    end
+  end
+end
+
+def save_sqlite language_dir, subdivisions
+  subdivision_file(language_dir, 'sqlite') do |s|
+    s.puts 'CREATE TABLE subdivision (country VARCHAR(2) NOT NULL, id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));'
+    s.puts ''
+    subdivisions.values.flatten.each do |subdivision|
+      s.puts "INSERT INTO \"subdivision\" (\"country\", \"id\", \"name\", \"level\") VALUES ('#{subdivision.country}', '#{subdivision.id}', '#{subdivision.name}', '#{subdivision.level}');"
+    end
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'sqlite') do |c|
+      c.puts "CREATE TABLE subdivision_#{country} (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));"
+      c.puts ''
+      country_subdivisions.each do |subdivision|
+          c.puts "INSERT INTO \"subdivision_#{subdivision.country}\" (\"id\", \"name\", \"level\") VALUES ('#{subdivision.id}', '#{subdivision.name}', '#{subdivision.level}');"
+      end
+    end
+  end
+end
+
+def save_txt language_dir, subdivisions
+  subdivision_file(language_dir, 'txt') do |s|
+    subdivisions.values.flatten.each do |subdivision|
+      s.puts "#{subdivision.name} (#{subdivision.id})"
+    end
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'txt') do |c|
+      country_subdivisions.each do |subdivision|
+        c.puts "#{subdivision.name} (#{subdivision.id})"
+      end
+    end
+  end
+end
+
+def save_xliff language, language_dir, subdivisions
+  subdivision_file(language_dir, 'xliff') do |s|
+    s.puts '<?xml version="1.0"?>'
+    s.print '<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">'
+    s.print "<file datatype=\"plaintext\" original=\"subdivisions.xliff\" source-language=\"en\" target-language=\"#{language}\"><body>"
+    subdivisions.values.flatten.each do |subdivision|
+      s.print "<trans-unit id=\"subdivision.#{subdivision.id}\" resname=\"subdivision.#{subdivision.id}\">"
+      s.print "<source/><target>#{subdivision.name}</target>"
+      s.print '</trans-unit>'
+    end
+    s.print '</body></file></xliff>'
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'xliff') do |c|
+      c.puts '<?xml version="1.0"?>'
+      c.print '<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">'
+      c.print "<file datatype=\"plaintext\" original=\"subdivisions_#{country}.xliff\" source-language=\"en\" target-language=\"#{language}\"><body>"
+      country_subdivisions.each do |subdivision|
+        c.print "<trans-unit id=\"subdivision.#{subdivision.id}\" resname=\"subdivision.#{subdivision.id}\">"
+        c.print "<source/><target>#{subdivision.name}</target>"
+        c.print '</trans-unit>'
+      end
+      c.print '</body></file></xliff>'
+    end
+  end
+end
+
+def save_xml language_dir, subdivisions
+  subdivision_file(language_dir, 'xml') do |s|
+    s.puts '<?xml version="1.0" encoding="utf-8"?>'
+    s.print '<values>'
+    subdivisions.values.flatten.each do |subdivision|
+      s.print "<item><id>#{subdivision.id}</id><![CDATA[#{subdivision.name}]]><value/></item>"
+    end
+    s.print '</values>'
+  end
+
+  subdivisions.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'xml') do |c|
+      c.puts '<?xml version="1.0" encoding="utf-8"?>'
+      c.print '<values>'
+      country_subdivisions.each do |subdivision|
+        c.print "<item><id>#{subdivision.id}</id><![CDATA[#{subdivision.name}]]><value/></item>"
+      end
+      c.print '</values>'
+    end
+  end
+end
+
+def save_yaml language_dir, subdivisions
+  saveable = saveable_hash(subdivisions)
+  subdivision_file(language_dir, 'yaml') do |s|
+    s.puts saveable.to_yaml
+  end
+  saveable.each do |country, country_subdivisions|
+    country_file(language_dir, country, 'yaml') do |c|
+      c.puts country_subdivisions.to_yaml
+    end
+  end
+end
+
+def save data, project_dir
+  data.each do |language, subdivisions|
+    language_dir = File.join(project_dir, 'data', language)
+    FileUtils.mkdir_p language_dir
+    save_csv(language_dir, subdivisions)
+    save_json(language_dir, subdivisions)
+    save_mysql(language_dir, subdivisions)
+    save_php(language_dir, subdivisions)
+    save_postgres(language_dir, subdivisions)
+    save_sqlite(language_dir, subdivisions)
+    save_txt(language_dir, subdivisions)
+    save_xliff(language, language_dir, subdivisions)
+    save_xml(language_dir, subdivisions)
+    save_yaml(language_dir, subdivisions)
+  end
+end
+
+project_dir = File.expand_path(File.join(File.dirname(__FILE__), '..'))
+input_dir = ARGV[0] || File.expand_path(File.join(project_dir, '..', 'WLM-ISO-3166-2', 'subdivisions'))
+data = subdivisions(language_paths(input_dir))
+save(data, project_dir)

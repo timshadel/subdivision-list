@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_EC (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-A', 'Azuay Province', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-B', 'Simón Bolívar', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-C', 'Carchi Province', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-F', 'Canar', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-H', 'Chimborazo', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-X', 'Cotopaxi', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-O', 'El Oro', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-E', 'Esmeraldas', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-W', 'Galápagos Islands', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-G', 'Guayas', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-I', 'Imbabura', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-L', 'Loja', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-R', 'Los Ríos', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-M', 'Manabí', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-S', 'Morona-Santiago Province', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-N', 'Napo', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-D', 'Orellana', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-Y', 'Pastaza', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-P', 'Pichincha', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-SE', 'Santa Elena', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-SD', 'Santo Domingo de los Tsáchilas Province', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-U', 'Sucumbíos Province', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-T', 'Tungurahua', 'province');
+INSERT INTO `subdivision_EC` (`id`, `name`, `level`) VALUES ('EC-Z', 'Zamora-Chinchipe Province', 'province');

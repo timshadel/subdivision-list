@@ -1,0 +1,55 @@
+---
+YE-AM:
+  name: "`Amran"
+  level: governorate
+YE-AB:
+  name: Abyan Governorate
+  level: governorate
+YE-DA:
+  name: Ad Dāli‘
+  level: governorate
+YE-HU:
+  name: Al ?udaydah
+  level: governorate
+YE-JA:
+  name: Al Jawf
+  level: governorate
+YE-MR:
+  name: Al Mahrah Governorate
+  level: governorate
+YE-MW:
+  name: Al Mahwit
+  level: governorate
+YE-DH:
+  name: Dhamar
+  level: governorate
+YE-HD:
+  name: Hadhramaut
+  level: governorate
+YE-HJ:
+  name: Hajjah
+  level: governorate
+YE-IB:
+  name: Ibb
+  level: governorate
+YE-LA:
+  name: La?ij
+  level: governorate
+YE-RA:
+  name: Raymah
+  level: governorate
+YE-SN:
+  name: Sanʿā
+  level: governorate
+YE-SH:
+  name: Shabwah Governorate
+  level: governorate
+YE-TA:
+  name: Taʿizz
+  level: governorate
+YE-SA:
+  name: "Şan‘ā"
+  level: municipality
+YE-AD:
+  name: "ʿAdan"
+  level: governorate

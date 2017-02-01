@@ -1,0 +1,15 @@
+<?php return array (
+  'CA-AB' => array('name' => 'Alberta', 'level' => 'province'),
+  'CA-BC' => array('name' => 'Columbia Britanică', 'level' => 'province'),
+  'CA-MB' => array('name' => 'Manitoba', 'level' => 'province'),
+  'CA-NB' => array('name' => 'Noul Brunswick', 'level' => 'province'),
+  'CA-NL' => array('name' => 'Newfoundland și Labrador', 'level' => 'province'),
+  'CA-NT' => array('name' => 'Teritoriile de Nordvest', 'level' => 'territory'),
+  'CA-NS' => array('name' => 'Noua Scoție', 'level' => 'province'),
+  'CA-NU' => array('name' => 'Nunavut', 'level' => 'territory'),
+  'CA-ON' => array('name' => 'Ontario', 'level' => 'province'),
+  'CA-PE' => array('name' => 'Insula Prințului Edward', 'level' => 'province'),
+  'CA-QC' => array('name' => 'Provincia Québec', 'level' => 'province'),
+  'CA-SK' => array('name' => 'Saskatchewan', 'level' => 'province'),
+  'CA-YT' => array('name' => 'Yukon', 'level' => 'territory'),
+);

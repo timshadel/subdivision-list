@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_IT (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-BA', 'Bari', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-BO', 'Bologna', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-BZ', 'Bozen', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-CA', 'Cagliari', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-CR', 'Cremona', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-FM', 'Fermo', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-FE', 'Ferrara', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-FI', 'Florenz', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-ME', 'Messina', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-MI', 'Mailand', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-PA', 'Palermo', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-PR', 'Parma', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-PG', 'Perugia', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-21', 'Piemont', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-PI', 'Pisa', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-88', 'Sardinien', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-82', 'Sizilien', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-TR', 'Terni', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-TO', 'Turin', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-52', 'Toskana', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-UD', 'Udine', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-55', 'Umbrien', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-VA', 'Varese', 'province');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-34', 'Venetien', 'region');
+INSERT INTO `subdivision_IT` (`id`, `name`, `level`) VALUES ('IT-VE', 'Venedeg', 'province');

@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Baden-Württemberg', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Bavaria', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berlin', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandenburg', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Bremen', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hesse', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Mecklenburg-Vorpommern', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Lower Saxony', 'level' => 'state'),
+  'DE-NW' => array('name' => 'North Rhine-Westphalia', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Rhineland-Palatinate', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Saarland', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Saxony', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Saxony-Anhalt', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Schleswig-Holstein', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Thuringia', 'level' => 'state'),
+);

@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-00', 'Belgrad', 'city');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-14', 'Okrug Bor', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-11', 'Okrug Braničevo', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-02', 'Okrug Srednji Banat', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-23', 'Okrug Jablanica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-09', 'Okrug Kolubara', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-29', 'Okrug Kosovo-Pomoravlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-25', 'Okrug Kosovo', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-08', 'Okrug Mačva', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-17', 'Okrug Moravica', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-20', 'Nišavski okrug', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-03', 'Okrug Severni Banat', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-01', 'Okrug Severna Bačka', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-22', 'Okrug Pirot', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-10', 'Okrug Podunavlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-13', 'Okrug Pomoravlje', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-24', 'Okrug Pčinja', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-19', 'Okrug Rasina', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-04', 'Okrug Južni Banat', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-07', 'Okrug Srem', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-16', 'Okrug Zlatibor', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-12', 'Okrug Šumadija', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-26', 'Okrug Peć', 'district');

@@ -1,0 +1,160 @@
+---
+GB-ABE:
+  name: Aberdeen
+  level: council area (scotland)
+GB-BLA:
+  name: Ballymena
+  level: district council area (northern ireland)
+GB-BDF:
+  name: Bedfordshire
+  level: unitary authority
+GB-BFS:
+  name: Belfast - Béal Feirste
+  level: district council area (northern ireland)
+GB-BIR:
+  name: Birmingham
+  level: metropolitan district
+GB-BOL:
+  name: Bolton
+  level: metropolitan district
+GB-BKM:
+  name: Buckinghamshire
+  level: two-tier county
+GB-CRF:
+  name: Cardiff - Caerdydd
+  level: unitary authority (wales)
+GB-CHS:
+  name: Cheshire
+  level: ''
+GB-CON:
+  name: Cornualles - Kernow
+  level: unitary authority
+GB-COV:
+  name: Coventry
+  level: metropolitan district
+GB-FER:
+  name: Condado de Fermanagh
+  level: district council area (northern ireland)
+GB-CMA:
+  name: Cumbria
+  level: two-tier county
+GB-DEV:
+  name: Devon
+  level: two-tier county
+GB-EDH:
+  name: Edimburgo - Edinburgh
+  level: council area (scotland)
+GB-ESS:
+  name: Essex
+  level: two-tier county
+GB-GLG:
+  name: Glasgow
+  level: council area (scotland)
+GB-GRE:
+  name: Greenwich
+  level: borough
+GB-HCK:
+  name: Hackney
+  level: borough
+GB-HAM:
+  name: Hampshire
+  level: two-tier county
+GB-HRT:
+  name: Hertfordshire
+  level: two-tier county
+GB-HMF:
+  name: Hammersmith e Fulham
+  level: borough
+GB-ELS:
+  name: Hébridas de Fóra
+  level: council area (scotland)
+GB-AGY:
+  name: Anglesey - Ynys Môn
+  level: unitary authority (wales)
+GB-LND:
+  name: Cidade de Londres
+  level: city corporation
+GB-IOW:
+  name: Illa de Wight
+  level: unitary authority
+GB-KEN:
+  name: Kent
+  level: two-tier county
+GB-LAN:
+  name: Lancashire
+  level: two-tier county
+GB-LDS:
+  name: Leeds
+  level: metropolitan district
+GB-LCE:
+  name: Leicester
+  level: unitary authority
+GB-LEC:
+  name: Leicestershire
+  level: two-tier county
+GB-LIV:
+  name: Liverpool
+  level: metropolitan district
+GB-MAN:
+  name: Manchester
+  level: metropolitan district
+GB-NET:
+  name: Newcastle upon Tyne
+  level: metropolitan district
+GB-NWP:
+  name: Newport
+  level: unitary authority (wales)
+GB-NYK:
+  name: North Yorkshire
+  level: two-tier county
+GB-NTH:
+  name: Northamptonshire
+  level: two-tier county
+GB-NGM:
+  name: Nottingham
+  level: unitary authority
+GB-OLD:
+  name: Oldham
+  level: metropolitan district
+GB-OMH:
+  name: Omagh
+  level: district council area (northern ireland)
+GB-ORK:
+  name: "Órcadas"
+  level: council area (scotland)
+GB-PLY:
+  name: Plymouth
+  level: unitary authority
+GB-SHF:
+  name: Sheffield
+  level: metropolitan district
+GB-ZET:
+  name: Illas Shetland
+  level: council area (scotland)
+GB-STH:
+  name: Southampton
+  level: unitary authority
+GB-STG:
+  name: Stirling
+  level: council area (scotland)
+GB-SFK:
+  name: Suffolk
+  level: two-tier county
+ENG:
+  name: Inglaterra - England
+  level: country
+GB-TWH:
+  name: Tower Hamlets
+  level: borough
+GB-WFT:
+  name: Waltham Forest
+  level: borough
+NIR:
+  name: Irlanda do Norte - Northern Ireland
+  level: country
+SCT:
+  name: Escocia - Scotland
+  level: country
+WLS:
+  name: Gales - Cymru
+  level: country

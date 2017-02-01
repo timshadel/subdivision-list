@@ -1,0 +1,58 @@
+id,name,level
+US-AL,Alabama,state
+US-AK,Alasca,state
+US-AS,Samoa Americana,outlying area
+US-AZ,Arizona,state
+US-AR,Arkansas,state
+US-CA,Califórnia,state
+US-CO,Colorado,state
+US-CT,Connecticut,state
+US-DE,Delaware,state
+US-FL,Flórida,state
+US-GA,Geórgia,state
+US-GU,Guam,outlying area
+US-HI,Havaí,state
+US-ID,Idaho,state
+US-IL,Illinois,state
+US-IN,Indiana,state
+US-IA,Iowa,state
+US-KS,Kansas,state
+US-KY,Kentucky,state
+US-LA,Luisiana,state
+US-ME,Maine,state
+US-MD,Maryland,state
+US-MA,Massachusetts,state
+US-MI,Michigan,state
+US-MN,Minnesota,state
+US-MS,Mississippi,state
+US-MO,Missouri,state
+US-MT,Montana,state
+US-NE,Nebraska,state
+US-NV,Nevada,state
+US-NH,Nova Hampshire,state
+US-NJ,Nova Jersey,state
+US-NM,Novo México,state
+US-NY,Nova Iorque,state
+US-NC,Carolina do Norte,state
+US-ND,Dakota do Norte,state
+US-MP,Marianas Setentrionais,outlying area
+US-OH,Ohio,state
+US-OK,Oklahoma,state
+US-OR,Oregon,state
+US-PA,Pensilvânia,state
+US-PR,Porto Rico,outlying area
+US-RI,Rhode Island,state
+US-SC,Carolina do Sul,state
+US-SD,Dakota do Sul,state
+US-TN,Tennessee,state
+US-TX,Texas,state
+US-UM,Ilhas Menores Distantes dos Estados Unidos,outlying area
+US-UT,Utah,state
+US-DC,"Washington, D.C.",district
+US-VT,Vermont,state
+US-VI,Ilhas Virgens,outlying area
+US-VA,Virgínia,state
+US-WA,Washington,state
+US-WV,Virgínia Ocidental,state
+US-WI,Wisconsin,state
+US-WY,Wyoming,state

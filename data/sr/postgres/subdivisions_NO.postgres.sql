@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_NO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-02', E'Акерсхус', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-09', E'Источни Агдер', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-06', E'Бускеруд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-20', E'Финмарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-04', E'Хедмарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-12', E'Хордаланд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-22', E'Јан Мајен', E'');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-15', E'Мере ог Ромсдал', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-17', E'Северни Тренделаг', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-18', E'Нордланд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-05', E'Опланд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-03', E'Осло', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-11', E'Рогаланд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-14', E'Согн ог Фјордане', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-21', E'Свалбард', E'');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-16', E'Јужни Тренделаг', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-08', E'Телемарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-19', E'Тромс', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-10', E'Западни Агдер', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-07', E'Вестфолд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-01', E'Естфолд', E'county');

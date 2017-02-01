@@ -1,0 +1,21 @@
+CREATE TABLE subdivision_NP (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-BA', E'Bagmati River', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-BH', E'Bheri', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-DH', E'Dhawalagiri', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-GA', E'Gandaki', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-JA', E'Janakpurdham', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-KA', E'Karnali', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-KO', E'Kosi', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-LU', E'Lumbini', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-2', E'Mid-Western Region', E'development regions');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-1', E'Central Region', E'development regions');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-MA', E'Mahakali', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-ME', E'Mechi Zone', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-NA', E'Narayani', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-3', E'Western Region', E'development regions');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-4', E'Eastern Region', E'development regions');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-RA', E'Rapti', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-SA', E'Sagarmatha', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-SE', E'Search for extraterrestrial intelligence', E'zone');
+INSERT INTO "subdivision_NP" ("id", "name", "level") VALUES (E'NP-5', E'Far-Western Region', E'development regions');

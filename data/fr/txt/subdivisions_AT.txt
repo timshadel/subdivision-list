@@ -1,0 +1,8 @@
+Burgenland (AT-1)
+Carinthie (AT-2)
+Basse-Autriche (AT-3)
+Salzbourg (AT-5)
+Styrie (AT-6)
+Haute-Autriche (AT-4)
+Vienne (AT-9)
+Vorarlberg (AT-8)

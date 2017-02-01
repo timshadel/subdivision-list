@@ -1,0 +1,4 @@
+Atacama (CL-AT)
+Biobío (CL-BI)
+Región hlavného mesta Santiago (CL-RM)
+Valparaíso (CL-VS)

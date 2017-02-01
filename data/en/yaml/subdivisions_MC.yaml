@@ -1,0 +1,52 @@
+---
+MC-FO:
+  name: Fontvieille
+  level: quarter
+MC-JE:
+  name: Jardin Exotique
+  level: quarter
+MC-CL:
+  name: La Colle
+  level: quarter
+MC-CO:
+  name: La Condamine
+  level: quarter
+MC-GA:
+  name: La Gare
+  level: quarter
+MC-SO:
+  name: La Source
+  level: quarter
+MC-LA:
+  name: Larvotto
+  level: quarter
+MC-MA:
+  name: Malbousquet
+  level: quarter
+MC-MO:
+  name: Monaco-Ville
+  level: quarter
+MC-MG:
+  name: Moneghetti
+  level: quarter
+MC-MC:
+  name: Monte Carlo
+  level: quarter
+MC-MU:
+  name: Moulins
+  level: quarter
+MC-PH:
+  name: Port-Hercule
+  level: quarter
+MC-SR:
+  name: Saint-Roman
+  level: quarter
+MC-SD:
+  name: Sainte-Dévote
+  level: quarter
+MC-SP:
+  name: Spélugues
+  level: quarter
+MC-VR:
+  name: Vallon de la Rousse
+  level: quarter

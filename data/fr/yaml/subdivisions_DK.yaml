@@ -1,0 +1,49 @@
+---
+DK-070:
+  name: Aarhus
+  level: county
+DK-040:
+  name: Bornholm
+  level: county
+DK-84:
+  name: Capital
+  level: region
+DK-82:
+  name: Jutland-Central
+  level: region
+DK-015:
+  name: Copenhague
+  level: county
+DK-020:
+  name: Frederiksborg
+  level: county
+DK-042:
+  name: Fionie
+  level: county
+DK-83:
+  name: Danemark-du-Sud
+  level: region
+DK-055:
+  name: Ribe
+  level: county
+DK-065:
+  name: Ringkøbing
+  level: county
+DK-025:
+  name: Roskilde
+  level: county
+DK-035:
+  name: Storstrøm
+  level: county
+DK-060:
+  name: Vejle
+  level: county
+DK-076:
+  name: Viborg
+  level: county
+DK-030:
+  name: Sjælland-Occidental
+  level: county
+DK-85:
+  name: Zélande
+  level: region

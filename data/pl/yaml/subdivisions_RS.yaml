@@ -1,0 +1,76 @@
+---
+RS-00:
+  name: Belgrad
+  level: city
+RS-14:
+  name: Okręg borski
+  level: district
+RS-11:
+  name: Okręg braniczewski
+  level: district
+RS-02:
+  name: Okręg środkowobanacki
+  level: district
+RS-23:
+  name: Okręg jablanicki
+  level: district
+RS-09:
+  name: Okręg kolubarski
+  level: district
+RS-29:
+  name: Okręg Kosovo-Pomoravlje
+  level: district
+RS-25:
+  name: Okręg Kosowo
+  level: district
+RS-08:
+  name: Okręg maczwański
+  level: district
+RS-17:
+  name: Okręg morawicki
+  level: district
+RS-20:
+  name: Okręg niszawski
+  level: district
+RS-03:
+  name: Okręg północnobanacki
+  level: district
+RS-01:
+  name: Okręg północnobacki
+  level: district
+RS-22:
+  name: Okręg pirocki
+  level: district
+RS-10:
+  name: Okręg podunajski
+  level: district
+RS-13:
+  name: Okręg pomorawski
+  level: district
+RS-24:
+  name: Okręg pczyński
+  level: district
+RS-19:
+  name: Okręg rasiński
+  level: district
+RS-04:
+  name: Okręg południowobanacki
+  level: district
+RS-07:
+  name: Okręg sremski
+  level: district
+RS-16:
+  name: Okręg zlatiborski
+  level: district
+RS-12:
+  name: Okręg szumadijski
+  level: district
+RS-28:
+  name: Mitrovica
+  level: district
+RS-26:
+  name: Peć
+  level: district
+RS-27:
+  name: Prizren
+  level: district

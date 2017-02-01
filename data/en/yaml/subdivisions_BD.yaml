@@ -1,0 +1,229 @@
+---
+BD-05:
+  name: Bagerhat Sadar Upazila
+  level: district
+BD-01:
+  name: Bandarban District
+  level: district
+BD-02:
+  name: Barguna District
+  level: district
+BD-A:
+  name: Barisal
+  level: division
+BD-06:
+  name: Barisal
+  level: district
+BD-1:
+  name: Barisal
+  level: division
+BD-07:
+  name: Bhola District
+  level: district
+BD-03:
+  name: Bogra
+  level: district
+BD-04:
+  name: Brahmanbaria District
+  level: district
+BD-09:
+  name: Chandpur
+  level: district
+BD-2:
+  name: Chittagong
+  level: division
+BD-B:
+  name: Chittagong
+  level: division
+BD-10:
+  name: Chittagong
+  level: district
+BD-12:
+  name: Chuadanga District
+  level: district
+BD-08:
+  name: Comilla
+  level: district
+BD-13:
+  name: Dhaka
+  level: district
+BD-C:
+  name: Dhaka
+  level: division
+BD-3:
+  name: Dhaka
+  level: division
+BD-14:
+  name: Dinajpur
+  level: district
+BD-15:
+  name: Faridpur
+  level: district
+BD-16:
+  name: Feni
+  level: district
+BD-19:
+  name: Gaibandha District
+  level: district
+BD-18:
+  name: Gazipur
+  level: district
+BD-17:
+  name: Gopalganj
+  level: district
+BD-20:
+  name: Habiganj District
+  level: district
+BD-24:
+  name: Jaipurhat District
+  level: district
+BD-21:
+  name: Jamalpur
+  level: district
+BD-22:
+  name: Jessore District
+  level: district
+BD-25:
+  name: Jhalokati District
+  level: district
+BD-23:
+  name: Jhenaidah District
+  level: district
+BD-29:
+  name: Khagrachari District
+  level: district
+BD-4:
+  name: Khulna
+  level: division
+BD-D:
+  name: Khulna
+  level: division
+BD-27:
+  name: Khulna
+  level: district
+BD-26:
+  name: Kishoreganj
+  level: district
+BD-28:
+  name: Kurigram District
+  level: district
+BD-30:
+  name: Kushtia District
+  level: district
+BD-31:
+  name: Lakshmipur
+  level: district
+BD-32:
+  name: Lalmonirhat District
+  level: district
+BD-36:
+  name: Madaripur District
+  level: district
+BD-37:
+  name: Magura
+  level: district
+BD-33:
+  name: Manikganj District
+  level: district
+BD-39:
+  name: Meherpur District
+  level: district
+BD-38:
+  name: Maulvi Bazar District
+  level: district
+BD-35:
+  name: Munshiganj District
+  level: district
+BD-34:
+  name: Mymensingh
+  level: district
+BD-48:
+  name: Naogaon District
+  level: district
+BD-43:
+  name: Narail District
+  level: district
+BD-40:
+  name: Narayanganj
+  level: district
+BD-42:
+  name: Narsingdi District
+  level: district
+BD-44:
+  name: Natore District
+  level: district
+BD-45:
+  name: Nawabganj
+  level: district
+BD-41:
+  name: Netrokona District
+  level: district
+BD-46:
+  name: Nilphamari District
+  level: district
+BD-47:
+  name: Noakhali District
+  level: district
+BD-49:
+  name: Pabna
+  level: district
+BD-52:
+  name: Panchagarh District
+  level: district
+BD-51:
+  name: Patuakhali District
+  level: district
+BD-50:
+  name: Pirojpur District
+  level: district
+BD-53:
+  name: Rajbari District
+  level: district
+BD-54:
+  name: Rajshahi
+  level: district
+BD-5:
+  name: Rajshahi
+  level: division
+BD-E:
+  name: Rajshahi
+  level: division
+BD-56:
+  name: Rangamati   Parbattya Chattagram
+  level: district
+BD-55:
+  name: Rangpur
+  level: district
+BD-F:
+  name: Rangpur
+  level: division
+BD-58:
+  name: Satkhira District
+  level: district
+BD-62:
+  name: Shariatpur District
+  level: district
+BD-57:
+  name: Sherpur
+  level: district
+BD-59:
+  name: Sirajganj
+  level: district
+BD-61:
+  name: Sunamganj District
+  level: district
+BD-6:
+  name: Sylhet
+  level: division
+BD-60:
+  name: Sylhet
+  level: district
+BD-G:
+  name: Sylhet
+  level: division
+BD-63:
+  name: Tangail
+  level: district
+BD-64:
+  name: Thakurgaon District
+  level: district

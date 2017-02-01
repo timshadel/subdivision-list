@@ -1,0 +1,8 @@
+Burgenland (AT-1)
+Baixa Áustria (AT-3)
+Salzburgo (AT-5)
+Estíria (AT-6)
+Tirol (AT-7)
+Alta Áustria (AT-4)
+Viena (AT-9)
+Vorarlberg (AT-8)

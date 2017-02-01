@@ -1,0 +1,49 @@
+---
+CH-AG:
+  name: Aargau kanton
+  level: canton
+CH-AR:
+  name: Appenzell Ausserrhoden
+  level: canton
+CH-AI:
+  name: Appenzell Innerrhoden
+  level: canton
+CH-BL:
+  name: Basel-Landschaft
+  level: canton
+CH-BS:
+  name: Basel-Stadt
+  level: canton
+CH-BE:
+  name: Bern
+  level: canton
+CH-GR:
+  name: Graubündeni kanton
+  level: canton
+CH-NE:
+  name: Neuchâtel
+  level: canton
+CH-NW:
+  name: Nidwalden
+  level: canton
+CH-OW:
+  name: Obwalden
+  level: canton
+CH-TG:
+  name: Thurgau kanton
+  level: canton
+CH-TI:
+  name: Ticino kanton
+  level: canton
+CH-ZG:
+  name: Zug
+  level: canton
+CH-GE:
+  name: Genf
+  level: canton
+CH-LU:
+  name: Luzern
+  level: canton
+CH-ZH:
+  name: Zürich
+  level: canton

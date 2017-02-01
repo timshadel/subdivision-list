@@ -1,0 +1,54 @@
+id,name,level
+GB-ABE,Aberdeen,council area (scotland)
+GB-BLA,Ballymena,district council area (northern ireland)
+GB-BDF,Bedfordshire,unitary authority
+GB-BFS,Belfast - Béal Feirste,district council area (northern ireland)
+GB-BIR,Birmingham,metropolitan district
+GB-BOL,Bolton,metropolitan district
+GB-BKM,Buckinghamshire,two-tier county
+GB-CRF,Cardiff - Caerdydd,unitary authority (wales)
+GB-CHS,Cheshire,
+GB-CON,Cornualles - Kernow,unitary authority
+GB-COV,Coventry,metropolitan district
+GB-FER,Condado de Fermanagh,district council area (northern ireland)
+GB-CMA,Cumbria,two-tier county
+GB-DEV,Devon,two-tier county
+GB-EDH,Edimburgo - Edinburgh,council area (scotland)
+GB-ESS,Essex,two-tier county
+GB-GLG,Glasgow,council area (scotland)
+GB-GRE,Greenwich,borough
+GB-HCK,Hackney,borough
+GB-HAM,Hampshire,two-tier county
+GB-HRT,Hertfordshire,two-tier county
+GB-HMF,Hammersmith e Fulham,borough
+GB-ELS,Hébridas de Fóra,council area (scotland)
+GB-AGY,Anglesey - Ynys Môn,unitary authority (wales)
+GB-LND,Cidade de Londres,city corporation
+GB-IOW,Illa de Wight,unitary authority
+GB-KEN,Kent,two-tier county
+GB-LAN,Lancashire,two-tier county
+GB-LDS,Leeds,metropolitan district
+GB-LCE,Leicester,unitary authority
+GB-LEC,Leicestershire,two-tier county
+GB-LIV,Liverpool,metropolitan district
+GB-MAN,Manchester,metropolitan district
+GB-NET,Newcastle upon Tyne,metropolitan district
+GB-NWP,Newport,unitary authority (wales)
+GB-NYK,North Yorkshire,two-tier county
+GB-NTH,Northamptonshire,two-tier county
+GB-NGM,Nottingham,unitary authority
+GB-OLD,Oldham,metropolitan district
+GB-OMH,Omagh,district council area (northern ireland)
+GB-ORK,Órcadas,council area (scotland)
+GB-PLY,Plymouth,unitary authority
+GB-SHF,Sheffield,metropolitan district
+GB-ZET,Illas Shetland,council area (scotland)
+GB-STH,Southampton,unitary authority
+GB-STG,Stirling,council area (scotland)
+GB-SFK,Suffolk,two-tier county
+ENG,Inglaterra - England,country
+GB-TWH,Tower Hamlets,borough
+GB-WFT,Waltham Forest,borough
+NIR,Irlanda do Norte - Northern Ireland,country
+SCT,Escocia - Scotland,country
+WLS,Gales - Cymru,country

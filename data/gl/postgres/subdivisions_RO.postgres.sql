@@ -1,0 +1,22 @@
+CREATE TABLE subdivision_RO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BC', E'Bacău', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BH', E'Bihor', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BN', E'Condado de Bistriţa-Năsăud', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BV', E'Brașov', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-B', E'Bucarest - Bucureşti', E'city');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CS', E'Condado de Caraş-Severin', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CJ', E'Cluj-Napoca', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-DJ', E'Condado de Dolj', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GJ', E'Condado de Gorj', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-HR', E'Condado de Harghita', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-IS', E'Iaşi', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-IF', E'Condado de Ilfov', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MM', E'Maramureş', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MH', E'Condado de Mehedinţi', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MS', E'Condado de Mureş', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-NT', E'Condado de Neamţ', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-SB', E'Sibiu', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-TR', E'Condado de Teleorman', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-VS', E'Vaslui', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-VL', E'Condado de Vâlcea', E'county');

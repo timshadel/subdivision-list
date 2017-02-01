@@ -1,0 +1,28 @@
+id,name,level
+IE-CW,Carlow,county
+IE-CN,Cavan,county
+IE-CE,Clare,county
+IE-CO,Cork,county
+IE-LS,County Laois,county
+IE-OY,County Offaly,county
+IE-WH,County Westmeath,county
+IE-DL,Donegal,county
+IE-D,Dublin,county
+IE-G,Galway,county
+IE-KY,Kerry,county
+IE-KE,Kildare,county
+IE-KK,Kilkenny,county
+IE-L,Leinster,province
+IE-LK,Limerick,county
+IE-LD,Longford,county
+IE-LH,Louth,county
+IE-MO,Mayo,county
+IE-MN,Monaghan,county
+IE-M,Munster,province
+IE-RN,Roscommon,county
+IE-SO,Sligo,county
+IE-TA,Tipperary,county
+IE-U,Provinz Ulster,province
+IE-WD,Waterford,county
+IE-WX,Wexford,county
+IE-WW,Wicklow,county

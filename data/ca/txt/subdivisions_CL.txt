@@ -1,0 +1,4 @@
+Antofagasta (CL-AN)
+Maule (CL-ML)
+Regió Metropolitana de Santiago (CL-RM)
+Valparaíso (CL-VS)

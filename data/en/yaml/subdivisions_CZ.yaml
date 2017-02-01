@@ -1,0 +1,316 @@
+---
+CZ-201:
+  name: Benešov
+  level: district
+CZ-202:
+  name: Beroun
+  level: district
+CZ-621:
+  name: Blansko
+  level: district
+CZ-622:
+  name: Brno-City District
+  level: district
+CZ-623:
+  name: Brno-Country District
+  level: district
+CZ-801:
+  name: Bruntál
+  level: district
+CZ-624:
+  name: Břeclav
+  level: district
+CZ-411:
+  name: Cheb
+  level: district
+CZ-422:
+  name: Chomutov
+  level: district
+CZ-531:
+  name: Chrudim
+  level: district
+CZ-321:
+  name: Domažlice
+  level: district
+CZ-421:
+  name: Děčín
+  level: district
+CZ-802:
+  name: Frýdek Místek
+  level: district
+CZ-611:
+  name: Havlíčkův Brod
+  level: district
+CZ-625:
+  name: Hodonín
+  level: district
+CZ-521:
+  name: Hradec Králové
+  level: district
+CZ-512:
+  name: Jablonec nad Nisou
+  level: district
+CZ-711:
+  name: Jeseník
+  level: district
+CZ-612:
+  name: Jihlava
+  level: district
+CZ-JC:
+  name: Jihoceský kraj
+  level: region
+CZ-JM:
+  name: South Moravian Region
+  level: region
+CZ-313:
+  name: Jindřichův Hradec
+  level: district
+CZ-522:
+  name: Jičín
+  level: district
+CZ-KA:
+  name: Karlovy Vary Region
+  level: region
+CZ-412:
+  name: Karlovy Vary
+  level: district
+CZ-803:
+  name: Karviná
+  level: district
+CZ-203:
+  name: Kladno
+  level: district
+CZ-322:
+  name: Klatovy
+  level: district
+CZ-204:
+  name: Kolín
+  level: district
+CZ-721:
+  name: Kromĕříž
+  level: district
+CZ-KR:
+  name: Hradec Králové Region
+  level: region
+CZ-205:
+  name: Kutná Hora
+  level: district
+CZ-513:
+  name: Liberec
+  level: district
+CZ-LI:
+  name: Liberec Region
+  level: region
+CZ-423:
+  name: Litoměřice
+  level: district
+CZ-424:
+  name: Louny
+  level: district
+CZ-207:
+  name: Mladá Boleslav
+  level: district
+CZ-MO:
+  name: Moravian–Silesian Region
+  level: region
+CZ-425:
+  name: Most
+  level: district
+CZ-206:
+  name: Mělník
+  level: district
+CZ-804:
+  name: Nový Jičín
+  level: district
+CZ-208:
+  name: Nymburk
+  level: district
+CZ-523:
+  name: Náchod
+  level: district
+CZ-712:
+  name: Olomouc
+  level: district
+CZ-OL:
+  name: Olomouc Region
+  level: region
+CZ-805:
+  name: Opava
+  level: district
+CZ-806:
+  name: Ostrava město
+  level: district
+CZ-532:
+  name: Pardubice
+  level: district
+CZ-PA:
+  name: Pardubice Region
+  level: region
+CZ-613:
+  name: Pelhřimov
+  level: district
+CZ-PL:
+  name: Plzenský kraj
+  level: region
+CZ-324:
+  name: Plzeň jih
+  level: district
+CZ-323:
+  name: Plzeň město
+  level: district
+CZ-325:
+  name: Plzeň sever
+  level: district
+CZ-315:
+  name: Prachatice
+  level: district
+CZ-101:
+  name: Prague 1
+  level: district
+CZ-10A:
+  name: Prague 10
+  level: district
+CZ-10B:
+  name: Prague 11
+  level: district
+CZ-10C:
+  name: Prague 12
+  level: district
+CZ-10D:
+  name: Prague 13
+  level: district
+CZ-10E:
+  name: Prague 14
+  level: district
+CZ-10F:
+  name: Prague 15
+  level: district
+CZ-102:
+  name: Prague 2
+  level: district
+CZ-103:
+  name: Prague 3
+  level: district
+CZ-104:
+  name: Prague 4
+  level: district
+CZ-105:
+  name: Prague 5
+  level: district
+CZ-106:
+  name: Prague 6
+  level: district
+CZ-107:
+  name: Prague 7
+  level: district
+CZ-108:
+  name: Prague 8
+  level: district
+CZ-109:
+  name: Prague 9
+  level: district
+CZ-209:
+  name: Praha východ
+  level: district
+CZ-20A:
+  name: Praha západ
+  level: district
+CZ-PR:
+  name: Praha
+  level: region
+CZ-713:
+  name: Prostĕjov
+  level: district
+CZ-314:
+  name: Písek
+  level: district
+CZ-714:
+  name: Přerov
+  level: district
+CZ-20B:
+  name: Příbram
+  level: district
+CZ-20C:
+  name: Rakovník
+  level: district
+CZ-326:
+  name: Rokycany
+  level: district
+CZ-524:
+  name: Rychnov nad Kněžnou
+  level: district
+CZ-514:
+  name: Semily
+  level: district
+CZ-413:
+  name: Sokolov
+  level: district
+CZ-316:
+  name: Strakonice
+  level: district
+CZ-ST:
+  name: Stredoceský kraj
+  level: region
+CZ-533:
+  name: Svitavy
+  level: district
+CZ-327:
+  name: Tachov
+  level: district
+CZ-426:
+  name: Teplice
+  level: district
+CZ-525:
+  name: Trutnov
+  level: district
+CZ-317:
+  name: Tábor
+  level: district
+CZ-614:
+  name: Třebíč
+  level: district
+CZ-722:
+  name: Uherské Hradištĕ
+  level: district
+CZ-723:
+  name: Vsetín
+  level: district
+CZ-VY:
+  name: Vysočina
+  level: region
+CZ-626:
+  name: Vyškov
+  level: district
+CZ-724:
+  name: Zlín
+  level: district
+CZ-ZL:
+  name: Zlín Region
+  level: region
+CZ-627:
+  name: Znojmo
+  level: district
+CZ-US:
+  name: "Ústí nad Labem Region"
+  level: region
+CZ-427:
+  name: "Ústí nad Labem"
+  level: district
+CZ-534:
+  name: "Ústí nad Orlicí"
+  level: district
+CZ-511:
+  name: "Česká Lípa"
+  level: district
+CZ-311:
+  name: "České Budějovice"
+  level: district
+CZ-312:
+  name: "Český Krumlov"
+  level: district
+CZ-715:
+  name: "Šumperk"
+  level: district
+CZ-615:
+  name: "Žd’ár nad Sázavou"
+  level: district

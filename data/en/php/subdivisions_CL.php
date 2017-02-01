@@ -1,0 +1,16 @@
+<?php return array (
+  'CL-AI' => array('name' => 'Aysén Region', 'level' => 'region'),
+  'CL-AN' => array('name' => 'Antofagasta', 'level' => 'region'),
+  'CL-AR' => array('name' => 'Arauco', 'level' => 'region'),
+  'CL-AP' => array('name' => 'Arica y Parinacota Region', 'level' => 'region'),
+  'CL-AT' => array('name' => 'Atacama Desert', 'level' => 'region'),
+  'CL-BI' => array('name' => 'Biobío', 'level' => 'region'),
+  'CL-CO' => array('name' => 'Coquimbo', 'level' => 'region'),
+  'CL-LL' => array('name' => 'Los Lagos', 'level' => 'region'),
+  'CL-LR' => array('name' => 'Los Ríos', 'level' => 'region'),
+  'CL-MA' => array('name' => 'Magallanes', 'level' => 'region'),
+  'CL-ML' => array('name' => 'Maule', 'level' => 'region'),
+  'CL-RM' => array('name' => 'Santiago Metropolitan Region', 'level' => 'region'),
+  'CL-TA' => array('name' => 'Tarapacá', 'level' => 'region'),
+  'CL-VS' => array('name' => 'Valparaíso', 'level' => 'region'),
+);

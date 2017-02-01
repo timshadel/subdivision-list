@@ -1,0 +1,15 @@
+<?php return array (
+  'CH-AG' => array('name' => 'ארגאו', 'level' => 'canton'),
+  'CH-BE' => array('name' => 'ברן', 'level' => 'canton'),
+  'CH-FR' => array('name' => 'פריבור', 'level' => 'canton'),
+  'CH-GR' => array('name' => 'גראובינדן', 'level' => 'canton'),
+  'CH-NW' => array('name' => 'נידוולדן', 'level' => 'canton'),
+  'CH-OW' => array('name' => 'אובוולדן', 'level' => 'canton'),
+  'CH-SG' => array('name' => 'סנט גאלן', 'level' => 'canton'),
+  'CH-SO' => array('name' => 'זולותורן', 'level' => 'canton'),
+  'CH-TG' => array('name' => 'תורגאו', 'level' => 'canton'),
+  'CH-VS' => array('name' => 'ואלה', 'level' => 'canton'),
+  'CH-VD' => array('name' => 'וו', 'level' => 'canton'),
+  'CH-LU' => array('name' => 'לוצרן', 'level' => 'canton'),
+  'CH-ZH' => array('name' => 'ציריך', 'level' => 'canton'),
+);

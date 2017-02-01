@@ -1,0 +1,198 @@
+id,name,level
+GB-ARD,ARD,district council area (northern ireland)
+GB-ABE,Aberdeen,council area (scotland)
+GB-ABD,Aberdeenshire,council area (scotland)
+GB-ANS,Angus,council area (scotland)
+GB-ANT,Antrim,district council area (northern ireland)
+GB-AGB,Argyll and Bute,council area (scotland)
+GB-ARM,Armagh,district council area (northern ireland)
+GB-BLA,Ballymena,district council area (northern ireland)
+GB-BLY,Ballymoney,district council area (northern ireland)
+GB-BNB,Banbridge,district council area (northern ireland)
+GB-BNS,Barnsley,metropolitan district
+GB-BAS,Bath and North East Somerset,unitary authority
+GB-BDF,Bedfordshire,unitary authority
+GB-BFS,Belfast,district council area (northern ireland)
+GB-BIR,Birmingham,metropolitan district
+GB-BPL,Blackpool,unitary authority
+GB-BGW,Blaenau Gwent,unitary authority (wales)
+GB-BOL,Bolton,metropolitan district
+GB-BMH,Bournemouth,unitary authority
+GB-BRD,Bradford,metropolitan district
+GB-BGE,Bridgend,unitary authority (wales)
+GB-BNH,Brighton & Hove,unitary authority
+GB-BST,Bristol,unitary authority
+GB-BKM,Buckinghamshire,two-tier county
+GB-BUR,Bury,metropolitan district
+GB-CAY,Caerphilly,unitary authority (wales)
+GB-CLD,Calderdale,metropolitan district
+GB-CAM,Cambridgeshire,two-tier county
+GB-CMD,Camden,borough
+GB-CRF,Cardiff,unitary authority (wales)
+GB-CMN,Carmarthenshire,unitary authority (wales)
+GB-CKF,Carrickfergus,district council area (northern ireland)
+GB-CGN,Ceredigion,unitary authority (wales)
+GB-CHS,Cheshire,
+GB-CLK,Clackmannanshire,council area (scotland)
+GB-CLR,Coleraine,district council area (northern ireland)
+GB-CWY,Conwy,unitary authority (wales)
+GB-CKT,Cookstown,district council area (northern ireland)
+GB-CON,Cornwall,unitary authority
+GB-COV,Coventry,metropolitan district
+GB-CGV,Craigavon,district council area (northern ireland)
+GB-BDG,London Borough of Barking and Dagenham,borough
+GB-FER,Fermanagh,district council area (northern ireland)
+GB-CMA,Cumbria,two-tier county
+GB-DAL,Darlington,unitary authority
+GB-DEN,Denbighshire,unitary authority (wales)
+GB-DER,Derby,unitary authority
+GB-DBY,Derbyshire,two-tier county
+GB-DRY,Londonderry,district council area (northern ireland)
+GB-DEV,Devon,two-tier county
+GB-DNC,Doncaster,metropolitan district
+GB-DOR,Dorset,two-tier county
+GB-DOW,Down,district council area (northern ireland)
+GB-DUD,Dudley,metropolitan district
+GB-DGY,Dumfries and Galloway,council area (scotland)
+GB-DND,Dundee,council area (scotland)
+GB-DGN,Dungannon and South Tyrone,district council area (northern ireland)
+GB-DUR,Durham,unitary authority
+GB-EAL,Ealing,borough
+GB-EAY,East Ayrshire,council area (scotland)
+GB-EDU,East Dunbartonshire,council area (scotland)
+GB-ELN,East Lothian,council area (scotland)
+GB-ERW,East Renfrewshire,council area (scotland)
+GB-ERY,East Riding of Yorkshire,unitary authority
+GB-ESX,East Sussex,two-tier county
+GB-EDH,Edinburgh,council area (scotland)
+GB-ENF,Enfield,borough
+GB-ESS,Essex,two-tier county
+GB-FAL,Falkirk,council area (scotland)
+GB-FIF,Fife,council area (scotland)
+GB-FLN,Flintshire,unitary authority (wales)
+GB-GAT,Gateshead,metropolitan district
+GB-GLG,Glasgow,council area (scotland)
+GB-GLS,Gloucestershire,two-tier county
+GB-GRE,Greenwich,borough
+GB-GWN,Gwynedd,unitary authority (wales)
+GB-HCK,Hackney,borough
+GB-HAM,Hampshire,two-tier county
+GB-HRW,Harrow,borough
+GB-HPL,Hartlepool,unitary authority
+GB-HEF,Herefordshire,unitary authority
+GB-HRT,Hertfordshire,two-tier county
+GB-HLD,Högland,council area (scotland)
+GB-HIL,Hillingdon,borough
+GB-IVC,Inverclyde,council area (scotland)
+GB-HMF,London Borough of Hammersmith and Fulham,borough
+GB-HAV,London Borough of Havering,borough
+GB-ELS,Yttre Hebriderna,council area (scotland)
+GB-AGY,Anglesey,unitary authority (wales)
+GB-LND,City of London,city corporation
+GB-IOW,Isle of Wight,unitary authority
+GB-IOS,Scillyöarna,
+GB-ISL,Islington,borough
+GB-KEN,Kent,two-tier county
+GB-KHL,Kingston upon Hull,unitary authority
+GB-KIR,Kirklees,metropolitan district
+GB-LAN,Lancashire,two-tier county
+GB-LRN,Larne,district council area (northern ireland)
+GB-LDS,Leeds,metropolitan district
+GB-LCE,Leicester,unitary authority
+GB-LEC,Leicestershire,two-tier county
+GB-LMV,Limavady,district council area (northern ireland)
+GB-LIN,Lincolnshire,two-tier county
+GB-LSB,Lisburn,district council area (northern ireland)
+GB-LIV,Liverpool,metropolitan district
+GB-NWM,London Borough of Newham,borough
+GB-LUT,Luton,unitary authority
+GB-MFT,Magherafelt,district council area (northern ireland)
+GB-MAN,Manchester,metropolitan district
+GB-MDW,Medway,unitary authority
+GB-MTY,Merthyr Tydfil,unitary authority (wales)
+GB-MRT,Merton,borough
+GB-MDB,Middlesbrough,unitary authority
+GB-MLN,Midlothian,council area (scotland)
+GB-MIK,Milton Keynes,unitary authority
+GB-MON,Monmouthshire,unitary authority (wales)
+GB-MRY,Moray,council area (scotland)
+GB-NTL,Neath Port Talbot,unitary authority (wales)
+GB-NET,Newcastle upon Tyne,metropolitan district
+GB-NWP,Newport,unitary authority (wales)
+GB-NYM,Newry and Mourne,district council area (northern ireland)
+GB-NFK,Norfolk,two-tier county
+GB-NAY,North Ayrshire,council area (scotland)
+GB-NEL,North East Lincolnshire,unitary authority
+GB-NLK,North Lanarkshire,council area (scotland)
+GB-NLN,North Lincolnshire,unitary authority
+GB-NYK,North Yorkshire,two-tier county
+GB-NTH,Northamptonshire,two-tier county
+GB-NBL,Northumberland,unitary authority
+GB-RIC,London Borough of Richmond upon Thames,borough
+GB-NGM,Nottingham,unitary authority
+GB-NTT,Nottinghamshire,two-tier county
+GB-OLD,Oldham,metropolitan district
+GB-OMH,Omagh,district council area (northern ireland)
+GB-ORK,Orkneyöarna,council area (scotland)
+GB-OXF,Oxfordshire,two-tier county
+GB-PEM,Pembrokeshire,unitary authority (wales)
+GB-PKN,Perth and Kinross,council area (scotland)
+GB-PTE,Peterborough,unitary authority
+GB-PLY,Plymouth,unitary authority
+GB-POL,Poole,unitary authority
+GB-POR,Portsmouth,unitary authority
+GB-POW,Powys,unitary authority (wales)
+GB-RCC,Redcar and Cleveland,unitary authority
+GB-RFW,Renfrewshire,council area (scotland)
+GB-RCH,Rochdale,metropolitan district
+GB-ROT,Rotherham,metropolitan district
+GB-RUT,Rutland,unitary authority
+GB-SCB,Scottish Borders,council area (scotland)
+GB-SHF,Sheffield,metropolitan district
+GB-ZET,Shetlandsöarna,council area (scotland)
+GB-SHR,Shropshire,unitary authority
+GB-SLG,Slough,unitary authority
+GB-SOL,Solihull,metropolitan district
+GB-SOM,Somerset,two-tier county
+GB-SAY,South Ayrshire,council area (scotland)
+GB-SLK,South Lanarkshire,council area (scotland)
+GB-STH,Southampton,unitary authority
+GB-SOS,Southend-on-Sea,unitary authority
+GB-SWK,Southwark,borough
+GB-STS,Staffordshire,two-tier county
+GB-STG,Stirling,council area (scotland)
+GB-SKP,Stockport,metropolitan district
+GB-STT,Stockton-on-Tees,unitary authority
+GB-STE,Stoke-on-Trent,unitary authority
+GB-STB,Strabane,district council area (northern ireland)
+GB-SFK,Suffolk,two-tier county
+GB-SND,Sunderland,metropolitan district
+GB-SRY,Surrey,two-tier county
+GB-STN,Sutton,borough
+ENG,England,country
+GB-TWH,London Borough of Tower Hamlets,borough
+GB-WFT,London Borough of Waltham Forest,borough
+NIR,Nordirland,country
+GB-WNM,Royal Borough of Windsor and Maidenhead,unitary authority
+SCT,Skottland,country
+GB-SWA,Swansea,unitary authority (wales)
+GB-SWD,Swindon,unitary authority
+GB-TOF,Torfaen,unitary authority (wales)
+GB-VGL,Vale of Glamorgan,unitary authority (wales)
+GB-WKF,Wakefield,metropolitan district
+WLS,Wales,country
+GB-WLL,Walsall,metropolitan district
+GB-WND,Wandsworth,borough
+GB-WRT,Warrington,unitary authority
+GB-WAR,Warwickshire,two-tier county
+GB-WBK,West Berkshire,unitary authority
+GB-WDU,West Dunbartonshire,council area (scotland)
+GB-WLN,West Lothian,council area (scotland)
+GB-WSX,West Sussex,two-tier county
+GB-WGN,Wigan,metropolitan district
+GB-WIL,Wiltshire,unitary authority
+GB-WOK,Wokingham,unitary authority
+GB-WLV,Wolverhampton,metropolitan district
+GB-WOR,Worcestershire,two-tier county
+GB-WRX,Wrexham,unitary authority (wales)
+GB-YOR,York,unitary authority

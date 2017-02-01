@@ -1,0 +1,79 @@
+---
+PE-AMA:
+  name: Amazonas
+  level: department
+PE-ANC:
+  name: Ancash Region
+  level: department
+PE-APU:
+  name: Apurímac
+  level: department
+PE-ARE:
+  name: Arequipa
+  level: department
+PE-AYA:
+  name: Ayacucho
+  level: department
+PE-CAJ:
+  name: Cajamarca
+  level: department
+PE-CUS:
+  name: Cusco
+  level: department
+PE-CAL:
+  name: Callao
+  level: constitutional province
+PE-HUV:
+  name: Huancavelica
+  level: department
+PE-HUC:
+  name: Huánuco
+  level: department
+PE-ICA:
+  name: ICA
+  level: department
+PE-JUN:
+  name: Junín
+  level: department
+PE-LAL:
+  name: La Libertad
+  level: department
+PE-LAM:
+  name: Lambayeque
+  level: department
+PE-LIM:
+  name: Lima
+  level: department
+PE-LOR:
+  name: Loreto
+  level: department
+PE-MDD:
+  name: Madre de Dios
+  level: department
+PE-MOQ:
+  name: Moquegua
+  level: department
+PE-LMA:
+  name: Lima Province
+  level: municipality
+PE-PAS:
+  name: Pasco
+  level: department
+PE-PIU:
+  name: Piura
+  level: department
+PE-PUN:
+  name: Puno
+  level: department
+PE-SAM:
+  name: San Martín
+  level: department
+PE-TAC:
+  name: Tacna
+  level: department
+PE-TUM:
+  name: Tumbes
+  level: department
+PE-UCA:
+  name: Ucayali River
+  level: department

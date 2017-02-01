@@ -1,0 +1,129 @@
+id,name,level
+IT-65,Abruzja,region
+IT-AG,Agrigento,province
+IT-AL,Alessandria,province
+IT-AN,Ankona,province
+IT-AO,Aosta,province
+IT-AR,Arezzo,province
+IT-AP,Ascoli Piceno,province
+IT-AT,Asti,province
+IT-AV,Avellino,province
+IT-BA,Bari,province
+IT-77,Basilicata,region
+IT-BL,Belluno,province
+IT-BN,Benewent,province
+IT-BG,Bergamo,province
+IT-BI,Biella,province
+IT-BO,Bolonia,province
+IT-BZ,Bolzano,province
+IT-BS,Brescia,province
+IT-BR,Brindisi,province
+IT-CA,Cagliari,province
+IT-78,Kalabria,region
+IT-CL,Caltanissetta,province
+IT-72,Kampania,region
+IT-CB,Campobasso,province
+IT-CE,Caserta,province
+IT-CT,Katania,province
+IT-CZ,Catanzaro,province
+IT-CH,Chieti,province
+IT-CO,Como,province
+IT-CS,Cosenza,province
+IT-CR,Cremona,province
+IT-KR,Crotone,province
+IT-CN,Cuneo,province
+IT-45,Emilia-Romania,region
+IT-EN,Enna,province
+IT-FM,Fermo,province
+IT-FE,Ferrara,province
+IT-FI,Florencja,province
+IT-FG,Foggia,province
+IT-FO,Forlì,
+IT-36,Friuli-Wenecja Julijska,region
+IT-FR,Frosinone,province
+IT-GE,Genua,province
+IT-GO,Gorycja,province
+IT-GR,Grosseto,province
+IT-IM,Imperia,province
+IT-IS,Isernia,province
+IT-BT,Prowincja Barletta-Andria-Trani,province
+IT-CI,Prowincja Carbonia-Iglesias,province
+IT-FC,Prowincja Forlì-Cesena,province
+IT-75,Apulia,region
+IT-SP,La Spezia,province
+IT-62,Lacjum,region
+IT-LE,Lecce,province
+IT-LC,Lecco,province
+IT-42,Liguria,region
+IT-LI,Livorno,province
+IT-LO,Lodi,province
+IT-25,Lombardia,region
+IT-LU,Lukka,province
+IT-MC,Macerata,province
+IT-MN,Mantua,province
+IT-57,Marche,region
+IT-MT,Matera,province
+IT-ME,Mesyna,province
+IT-MI,Mediolan,province
+IT-MO,Modena,province
+IT-67,Molise,region
+IT-NA,Neapol,province
+IT-NO,Novara,province
+IT-NU,Nuoro,province
+IT-OR,Oristano,province
+IT-PD,Padwa,province
+IT-PA,Palermo,province
+IT-PR,Parma,province
+IT-PV,Pawia,province
+IT-PG,Perugia,province
+IT-PE,Pescara,province
+IT-PC,Piacenza,province
+IT-21,Piemont,region
+IT-PI,Piza,province
+IT-PT,Pistoia,province
+IT-PN,Pordenone,province
+IT-PZ,Potenza,province
+IT-PO,Prato,province
+IT-MS,Prowincja Massa-Carrara,province
+IT-MA,Prowincja Medio Campidano,province
+IT-MB,Prowincja Monza i Brianza,province
+IT-OG,Prowincja Ogliastra,province
+IT-OL,Prowincja Olbia-Tempio,province
+IT-PU,Prowincja Pesaro e Urbino,province
+IT-RG,Ragusa,province
+IT-RA,Rawenna,province
+IT-RC,Reggio di Calabria,province
+IT-LT,Latynos,province
+IT-23,Dolina Aosty,region
+IT-VB,Prowincja Cusio Ossola,province
+IT-RI,Rieti,province
+IT-RN,Rimini,province
+IT-RM,Roma,province
+IT-RO,Rovigo,province
+IT-SA,Salerno,province
+IT-88,Sardynia,region
+IT-SS,Sassari,province
+IT-SV,Savona,province
+IT-82,Sycylia,region
+IT-SI,Siena,province
+IT-SO,Sondrio,province
+IT-TA,Tarent,province
+IT-TE,Teramo,province
+IT-TR,Terni,province
+IT-TP,Trapani,province
+IT-32,Trydent-Górna Adyga,region
+IT-TN,Trydent,province
+IT-TV,Treviso,province
+IT-TS,Triest,province
+IT-TO,Turyn,province
+IT-52,Toskania,region
+IT-UD,Udine,province
+IT-55,Umbria,region
+IT-VA,Varese,province
+IT-34,Wenecja Euganejska,region
+IT-VE,Wenecja,province
+IT-VC,Vercelli,province
+IT-VR,Werona,province
+IT-VV,Vibo Valentia,province
+IT-VI,Vicenza,province
+IT-VT,Viterbo,province

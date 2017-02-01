@@ -1,0 +1,208 @@
+---
+ES-C:
+  name: A Coruña
+  level: province
+ES-AB:
+  name: Albacete
+  level: province
+ES-A:
+  name: Alicante
+  level: province
+ES-AL:
+  name: Almería
+  level: province
+ES-AN:
+  name: Andalusia
+  level: ''
+ES-O:
+  name: Asturias
+  level: province
+ES-AS:
+  name: Asturias
+  level: autonomous community
+ES-BA:
+  name: Badajoz
+  level: province
+ES-PM:
+  name: Baleares
+  level: province
+ES-B:
+  name: Barcelona
+  level: province
+ES-BU:
+  name: Burgos
+  level: province
+ES-CN:
+  name: Canarias
+  level: ''
+ES-CB:
+  name: Cantabria
+  level: autonomous community
+ES-S:
+  name: Cantabria
+  level: province
+ES-CS:
+  name: Castellón
+  level: province
+ES-CL:
+  name: Castile and León
+  level: autonomous community
+ES-CM:
+  name: Castile-La Mancha
+  level: autonomous community
+ES-CT:
+  name: Catalonia
+  level: autonomous community
+ES-CE:
+  name: Ceuta
+  level: autonomous city
+ES-CR:
+  name: Ciudad Real
+  level: province
+ES-CU:
+  name: Cuenca
+  level: province
+ES-CC:
+  name: Cáceres
+  level: province
+ES-CA:
+  name: Cadiz
+  level: province
+ES-CO:
+  name: Córdoba
+  level: province
+ES-EX:
+  name: Extremadura
+  level: autonomous community
+ES-GA:
+  name: Galicia
+  level: autonomous community
+ES-GI:
+  name: Girona
+  level: province
+ES-GR:
+  name: Granada
+  level: province
+ES-GU:
+  name: Guadalajara
+  level: province
+ES-SS:
+  name: Gipuzkoa
+  level: province
+ES-H:
+  name: Huelva
+  level: province
+ES-HU:
+  name: Huesca
+  level: province
+ES-IB:
+  name: Balearic Islands
+  level: autonomous community
+ES-J:
+  name: Jaén
+  level: province
+ES-LO:
+  name: Rioja
+  level: province
+ES-GC:
+  name: Las Palmas
+  level: province
+ES-LE:
+  name: Leon
+  level: province
+ES-L:
+  name: Lleida
+  level: province
+ES-LU:
+  name: Lugo
+  level: province
+ES-M:
+  name: Madrid
+  level: province
+ES-MD:
+  name: Madrid
+  level: autonomous community
+ES-ML:
+  name: Melilla
+  level: autonomous city
+ES-MU:
+  name: Murcia
+  level: province
+ES-MC:
+  name: Murcia
+  level: autonomous community
+ES-MA:
+  name: Málaga
+  level: province
+ES-NA:
+  name: Navarre
+  level: province
+ES-NC:
+  name: Navarra
+  level: autonomous community
+ES-OR:
+  name: Ourense
+  level: province
+ES-P:
+  name: Palencia
+  level: province
+ES-PV:
+  name: Basque Country
+  level: autonomous community
+ES-PO:
+  name: Pontevedra
+  level: province
+ES-SA:
+  name: Salamanca
+  level: province
+ES-TF:
+  name: Santa Cruz de Tenerife
+  level: province
+ES-SG:
+  name: Segovia
+  level: province
+ES-SE:
+  name: Seville
+  level: province
+ES-SO:
+  name: Soria
+  level: province
+ES-T:
+  name: Tarragona
+  level: province
+ES-TE:
+  name: Teruel
+  level: province
+ES-TO:
+  name: Toledo
+  level: province
+ES-V:
+  name: Valencia
+  level: province
+ES-VC:
+  name: Valencian Community
+  level: autonomous community
+ES-VA:
+  name: Valladolid
+  level: province
+ES-BI:
+  name: Vizcaya
+  level: province
+ES-ZA:
+  name: Zamora
+  level: province
+ES-Z:
+  name: Zaragoza
+  level: province
+ES-VI:
+  name: "Álava"
+  level: province
+ES-AV:
+  name: "Ávila"
+  level: province
+ES-AR:
+  name: ''
+  level: ''
+ES-RI:
+  name: ''
+  level: autonomous community

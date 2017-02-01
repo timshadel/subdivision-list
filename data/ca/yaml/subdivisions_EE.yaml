@@ -1,0 +1,43 @@
+---
+EE-37:
+  name: Comtat de Harju
+  level: county
+EE-39:
+  name: Hiiumaa
+  level: county
+EE-51:
+  name: Comtat de Järva
+  level: county
+EE-49:
+  name: Comtat de Jõgeva
+  level: county
+EE-59:
+  name: Comtat de Lääne-Viru
+  level: county
+EE-57:
+  name: Comtat de Lääne
+  level: county
+EE-67:
+  name: Comtat de Pärnu
+  level: county
+EE-65:
+  name: Comtat de Põlva
+  level: county
+EE-70:
+  name: Comtat de Rapla
+  level: county
+EE-74:
+  name: Saaremaa
+  level: county
+EE-78:
+  name: Comtat de Tartu
+  level: county
+EE-82:
+  name: Comtat de Valga
+  level: county
+EE-84:
+  name: Comtat de Viljandi
+  level: county
+EE-86:
+  name: Comtat de Võru
+  level: county

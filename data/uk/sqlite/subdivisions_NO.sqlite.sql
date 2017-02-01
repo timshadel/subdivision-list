@@ -1,0 +1,22 @@
+CREATE TABLE subdivision_NO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-02', 'Акерсгус', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-09', 'Еуст-Аґдер', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-06', 'Бускерюд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-20', 'Фіннмарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-04', 'Гедмарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-12', 'Гордалан', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-22', 'Ян-Маєн', '');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-15', 'Мере-ог-Ромсдал', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-17', 'Нур-Тренделаг', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-18', 'Нурлан', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-05', 'Опплан', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-03', 'Осло', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-11', 'Руґалан', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-21', 'Шпіцберген', '');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-16', 'Сер-Тренделаг', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-08', 'Телемарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-19', 'Трумс', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-10', 'Вест-Аґдер', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-07', 'Вестфол', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-01', 'Естфол', 'county');

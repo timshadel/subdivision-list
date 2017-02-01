@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-00', 'Београд', 'city');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-14', 'Борски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-11', 'Браничевски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-02', 'Средњобанатски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-23', 'Јабланички управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-09', 'Колубарски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-29', 'Косовскопоморавски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-25', 'Косовски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-08', 'Мачвански управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-17', 'Моравички управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-20', 'Нишавски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-03', 'Севернобанатски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-01', 'Севернобачки управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-22', 'Пиротски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-10', 'Подунавски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-13', 'Поморавски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-24', 'Пчињски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-19', 'Расински управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-04', 'Јужнобанатски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-07', 'Сремски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-16', 'Златиборски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-12', 'Шумадијски управни округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-28', 'Косовскомитровачки округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-26', 'Пећки округ', 'district');
+INSERT INTO `subdivision_RS` (`id`, `name`, `level`) VALUES ('RS-27', 'Призренски округ', 'district');

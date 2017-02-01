@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_UA (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-71', E'Província de Txerkassy', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-74', E'Província de Txerníhiv', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-77', E'Província de Txernivtsí', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-43', E'Crimea', E'autonomous republic');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-12', E'Província de Dnipropetrovsk', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-14', E'Província de Donetsk', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-63', E'Província de Khàrkiv', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-65', E'Província de Kherson', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-68', E'Província de Khmelnytskyi', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-30', E'Kíev', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-32', E'Província de Kíev', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-35', E'Província de Kirovohrad', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-09', E'Província de Luhansk', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-46', E'Província de Lviv', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-48', E'Província de Mykolàïv', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-53', E'Província de Poltava', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-56', E'Província de Rivne', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-40', E'Sebastòpol', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-59', E'Província de Sumy', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-61', E'Província de Ternópill', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-05', E'Província de Vínnytsia', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-07', E'Província de Volínia', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-21', E'Transcarpàcia', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-23', E'Província de Zaporíjjia', E'region');
+INSERT INTO "subdivision_UA" ("id", "name", "level") VALUES (E'UA-18', E'Província de Jytómyr', E'region');

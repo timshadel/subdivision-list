@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_TW (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-CHA', E'Changhua City', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-CYQ', E'Chiayi', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-CYI', E'Chiayi Municipality', E'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-HSQ', E'Hsinchu', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-HSZ', E'Hsinchu Municipality', E'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-HUA', E'Hualien', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-ILA', E'Ilan', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-KHQ', E'Kaohsiung', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-KHH', E'Kaohsiung Special Municipality', E'special municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-KEE', E'Keelung Municipality', E'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-MIA', E'Miaoli', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-NAN', E'Nantou', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-PEN', E'Penghu', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-PIF', E'Pingtung City', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TXQ', E'Taichung', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TXG', E'Taichung Municipality', E'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TNQ', E'Tainan', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TNN', E'Tainan Municipality', E'municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TPQ', E'Taipei', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TPE', E'Taipei Special Municipality', E'special municipality');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TTT', E'Taitung', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-TAO', E'Taoyuan', E'district');
+INSERT INTO "subdivision_TW" ("id", "name", "level") VALUES (E'TW-YUN', E'Yunlin County', E'district');

@@ -1,0 +1,61 @@
+---
+BT-33:
+  name: Bumthang
+  level: district
+BT-12:
+  name: Mebisa
+  level: district
+BT-22:
+  name: Dagana
+  level: district
+BT-GA:
+  name: Gasa
+  level: district
+BT-13:
+  name: Ha
+  level: district
+BT-44:
+  name: Lhuntse
+  level: district
+BT-42:
+  name: Mongar
+  level: district
+BT-11:
+  name: Paro
+  level: district
+BT-43:
+  name: Pemagatsel
+  level: district
+BT-23:
+  name: Punakha
+  level: district
+BT-45:
+  name: Samdrup Jongkhar
+  level: district
+BT-14:
+  name: Samtse
+  level: district
+BT-31:
+  name: Sarpang
+  level: district
+BT-15:
+  name: Thimphu
+  level: district
+BT-TY:
+  name: Trashiyangtse
+  level: district
+BT-41:
+  name: Trashigang
+  level: district
+BT-32:
+  name: Trongsa
+  level: district
+BT-21:
+  name: Tsirang District
+  level: district
+BT-24:
+  name: Wangdue Phodrang
+  level: district
+BT-34:
+  name: Zhemgang
+  level: district

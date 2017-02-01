@@ -1,0 +1,8 @@
+Aakkar (LB-AK)
+Baalbek-Hermel (LB-BH)
+Beirut (LB-BA)
+Beqaa (LB-BI)
+Mount Lebanon Governorate (LB-JL)
+North Governorate (LB-AS)
+South Governorate (LB-JA)
+Nabatieh (LB-NA)

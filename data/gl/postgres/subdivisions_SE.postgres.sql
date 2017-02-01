@@ -1,0 +1,21 @@
+CREATE TABLE subdivision_SE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-K', E'Condado de Blekinge', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-W', E'Condado de Dalarna', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-X', E'Condado de Gävleborg', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-N', E'Condado de Halland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-Z', E'Condado de Jämtland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-F', E'Condado de Jönköping', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-H', E'Condado de Kalmar', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-G', E'Condado de Kronoberg', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-BD', E'Condado de Norrbotten', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-M', E'Escania', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-AB', E'Condado de Estocolmo', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-D', E'Södermanland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-C', E'Condado de Uppsala', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-AC', E'Condado de Västerbotten', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-Y', E'Condado de Västernorrland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-U', E'Condado de Västmanland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-O', E'Condado de Västra Götaland', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-T', E'Condado de Örebro', E'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES (E'SE-E', E'Condado de Östergötland', E'county');

@@ -1,0 +1,82 @@
+---
+UA-71:
+  name: Tsjerkasy oblast
+  level: region
+UA-74:
+  name: Tsjernihiv oblast
+  level: region
+UA-77:
+  name: Tsjernivtsi oblast
+  level: region
+UA-43:
+  name: Krim
+  level: autonomous republic
+UA-12:
+  name: Dnipropetrovsk oblast
+  level: region
+UA-14:
+  name: Donetsk oblast
+  level: region
+UA-26:
+  name: Ivano-Frankivsk oblast
+  level: region
+UA-63:
+  name: Kharkiv oblast
+  level: region
+UA-65:
+  name: Kherson oblast
+  level: region
+UA-68:
+  name: Khmelnytskyj oblast
+  level: region
+UA-30:
+  name: Kiev
+  level: region
+UA-32:
+  name: Kiev oblast
+  level: region
+UA-35:
+  name: Kirovohrad oblast
+  level: region
+UA-09:
+  name: Luhansk oblast
+  level: region
+UA-46:
+  name: Lviv oblast
+  level: region
+UA-48:
+  name: Mykolajiv oblast
+  level: region
+UA-51:
+  name: Odessa oblast
+  level: region
+UA-53:
+  name: Poltava oblast
+  level: region
+UA-56:
+  name: Rivne oblast
+  level: region
+UA-40:
+  name: Sevastopol
+  level: region
+UA-59:
+  name: Sumy oblast
+  level: region
+UA-61:
+  name: Ternopil oblast
+  level: region
+UA-05:
+  name: Vinnytsia oblast
+  level: region
+UA-07:
+  name: Volyn oblast
+  level: region
+UA-21:
+  name: Zakarpattja oblast
+  level: region
+UA-23:
+  name: Zaporizjzjia oblast
+  level: region
+UA-18:
+  name: Zjytomyr oblast
+  level: region

@@ -1,0 +1,17 @@
+<?php return array (
+  'MT-03' => array('name' => 'Биргу', 'level' => 'local council'),
+  'MT-04' => array('name' => 'Биркиркара', 'level' => 'local council'),
+  'MT-06' => array('name' => 'Бормла', 'level' => 'local council'),
+  'MT-29' => array('name' => 'Мдина', 'level' => 'local council'),
+  'MT-43' => array('name' => 'Корми', 'level' => 'local council'),
+  'MT-20' => array('name' => 'Сенглеа', 'level' => 'local council'),
+  'MT-48' => array('name' => 'Сан Ђиљан', 'level' => 'local council'),
+  'MT-46' => array('name' => 'Рабат', 'level' => 'local council'),
+  'MT-45' => array('name' => 'Викторија', 'level' => 'local council'),
+  'MT-55' => array('name' => 'Сигијеви', 'level' => 'local council'),
+  'MT-56' => array('name' => 'Слијема', 'level' => 'local council'),
+  'MT-60' => array('name' => 'Валета', 'level' => 'local council'),
+  'MT-64' => array('name' => 'Забар', 'level' => 'local council'),
+  'MT-67' => array('name' => 'Зејтун', 'level' => 'local council'),
+  'MT-66' => array('name' => 'Зебуг', 'level' => 'local council'),
+);

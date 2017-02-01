@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_VE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-Z', 'Amazonas', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-B', 'Anzoátegui', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-C', 'Apure', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-D', 'Aragua', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-E', 'Barinas', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-F', 'Simón Bolívar', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-G', 'Carabobo', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-H', 'Cojedes', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-Y', 'Delta Amacuro', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-W', 'Federal Dependencies of Venezuela', 'federal dependency');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-A', 'Distrito Federal', 'federal district');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-I', 'Falcón', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-J', 'Guárico', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-K', 'Lara', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-M', 'Miranda', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-N', 'Monagas', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-L', 'Mérida', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-O', 'Nueva Esparta', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-P', 'Portuguesa', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-R', 'Sucre', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-T', 'Trujillo', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-S', 'Táchira', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-X', 'Vargas', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-U', 'Yaracuy', 'state');
+INSERT INTO `subdivision_VE` (`id`, `name`, `level`) VALUES ('VE-V', 'Zulia', 'state');

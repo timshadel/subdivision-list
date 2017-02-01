@@ -1,0 +1,244 @@
+---
+TR-01:
+  name: Adana
+  level: province
+TR-02:
+  name: Adıyaman
+  level: province
+TR-03:
+  name: Afyonkarahisar
+  level: province
+TR-04:
+  name: Agri
+  level: province
+TR-68:
+  name: Aksaray
+  level: province
+TR-05:
+  name: Amasya
+  level: province
+TR-06:
+  name: Ankara
+  level: province
+TR-07:
+  name: Antalya
+  level: province
+TR-75:
+  name: Ardahan
+  level: province
+TR-08:
+  name: Artvin
+  level: province
+TR-09:
+  name: Aydın
+  level: province
+TR-10:
+  name: Balıkesir
+  level: province
+TR-74:
+  name: Bartın
+  level: province
+TR-72:
+  name: Batman
+  level: province
+TR-69:
+  name: Bayburt
+  level: province
+TR-11:
+  name: Bilecik
+  level: province
+TR-12:
+  name: Bingöl
+  level: province
+TR-13:
+  name: Bitlis
+  level: province
+TR-14:
+  name: Bolu
+  level: province
+TR-15:
+  name: Burdur
+  level: province
+TR-16:
+  name: Bursa
+  level: province
+TR-20:
+  name: Denizli
+  level: province
+TR-21:
+  name: Diyarbakır
+  level: province
+TR-81:
+  name: Düzce
+  level: province
+TR-22:
+  name: Edirne
+  level: province
+TR-23:
+  name: Elâzığ
+  level: province
+TR-24:
+  name: Erzincan
+  level: province
+TR-25:
+  name: Erzurum
+  level: province
+TR-26:
+  name: Eskişehir
+  level: province
+TR-27:
+  name: Gaziantep
+  level: province
+TR-28:
+  name: Giresun
+  level: province
+TR-29:
+  name: Gümüşhane
+  level: province
+TR-30:
+  name: Hakkâri
+  level: province
+TR-31:
+  name: Hatay
+  level: province
+TR-76:
+  name: Iğdır
+  level: province
+TR-32:
+  name: Isparta
+  level: province
+TR-34:
+  name: Istanbul
+  level: province
+TR-35:
+  name: Izmir
+  level: province
+TR-46:
+  name: Kahramanmaraş
+  level: province
+TR-78:
+  name: Karabük
+  level: province
+TR-70:
+  name: Karaman
+  level: province
+TR-36:
+  name: Kars
+  level: province
+TR-37:
+  name: Kastamonu
+  level: province
+TR-38:
+  name: Kayseri
+  level: province
+TR-79:
+  name: Kilis
+  level: province
+TR-71:
+  name: Kırıkkale
+  level: province
+TR-39:
+  name: Kırklareli
+  level: province
+TR-40:
+  name: Kırşehir
+  level: province
+TR-41:
+  name: Kocaeli
+  level: province
+TR-42:
+  name: Konya
+  level: province
+TR-43:
+  name: Kütahya
+  level: province
+TR-44:
+  name: Malatya
+  level: province
+TR-45:
+  name: Manisa
+  level: province
+TR-47:
+  name: Mardin
+  level: province
+TR-33:
+  name: Mersin
+  level: province
+TR-48:
+  name: Muğla
+  level: province
+TR-49:
+  name: Mus
+  level: province
+TR-50:
+  name: Nevşehir
+  level: province
+TR-51:
+  name: Niğde
+  level: province
+TR-52:
+  name: Ordu
+  level: province
+TR-80:
+  name: Osmaniye
+  level: province
+TR-53:
+  name: Rize
+  level: province
+TR-54:
+  name: Sakarya
+  level: province
+TR-55:
+  name: Samsun
+  level: province
+TR-63:
+  name: "Şanlıurfa"
+  level: province
+TR-56:
+  name: Siirt
+  level: province
+TR-57:
+  name: Sinop
+  level: province
+TR-73:
+  name: "Şırnak"
+  level: province
+TR-58:
+  name: Sivas
+  level: province
+TR-59:
+  name: Tekirdağ
+  level: province
+TR-60:
+  name: Tokat
+  level: province
+TR-61:
+  name: Trabzon
+  level: province
+TR-62:
+  name: Tunceli
+  level: province
+TR-64:
+  name: Usak
+  level: province
+TR-65:
+  name: Van
+  level: province
+TR-77:
+  name: Yalova
+  level: province
+TR-66:
+  name: Yozgat
+  level: province
+TR-67:
+  name: Zonguldak
+  level: province
+TR-17:
+  name: "Çanakkale"
+  level: province
+TR-18:
+  name: "Çankırı"
+  level: province
+TR-19:
+  name: "Çorum"
+  level: province

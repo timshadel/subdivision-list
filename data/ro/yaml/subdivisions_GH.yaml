@@ -1,0 +1,16 @@
+---
+GH-AH:
+  name: Ashanti
+  level: region
+GH-BA:
+  name: Regiunea Brong-Ahafo
+  level: region
+GH-AA:
+  name: Regiunea Marea Accra
+  level: region
+GH-UE:
+  name: Regiunea Superioară de Est
+  level: region
+GH-TV:
+  name: Volta
+  level: region

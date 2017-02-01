@@ -1,0 +1,73 @@
+---
+KH-2:
+  name: Baat Dambang
+  level: province
+KH-1:
+  name: Banteay Mean Chey
+  level: province
+KH-3:
+  name: Kampong Chaam
+  level: province
+KH-4:
+  name: Kampong Chhnang
+  level: province
+KH-5:
+  name: Kampong Spueu
+  level: province
+KH-6:
+  name: Kampong Thum
+  level: province
+KH-7:
+  name: Kampot
+  level: province
+KH-8:
+  name: Kandaal
+  level: province
+KH-9:
+  name: Kaoh Kong
+  level: province
+KH-10:
+  name: Kracheh
+  level: province
+KH-23:
+  name: Krong Kaeb
+  level: autonomous municipality
+KH-24:
+  name: Krong Pailin
+  level: autonomous municipality
+KH-18:
+  name: Krong Preah Sihanouk
+  level: autonomous municipality
+KH-11:
+  name: Mondol Kiri
+  level: province
+KH-22:
+  name: Otdar Mean Chey
+  level: province
+KH-12:
+  name: Phnom Penh
+  level: autonomous municipality
+KH-15:
+  name: Pousaat
+  level: province
+KH-13:
+  name: Preah Vihear
+  level: province
+KH-14:
+  name: Prey Veaeng
+  level: province
+KH-16:
+  name: Rotanak Kiri
+  level: province
+KH-17:
+  name: Siem Reab
+  level: province
+KH-19:
+  name: Stueng Traeng
+  level: province
+KH-20:
+  name: Svaay Rieng
+  level: province
+KH-21:
+  name: Taakaev
+  level: province

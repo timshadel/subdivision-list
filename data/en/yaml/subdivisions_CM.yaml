@@ -1,0 +1,31 @@
+---
+CM-AD:
+  name: Adamawa
+  level: region
+CM-CE:
+  name: Center
+  level: region
+CM-ES:
+  name: East
+  level: region
+CM-EN:
+  name: Far North
+  level: region
+CM-LT:
+  name: Littoral zone
+  level: region
+CM-NO:
+  name: North
+  level: region
+CM-NW:
+  name: Northwest
+  level: region
+CM-SU:
+  name: South
+  level: region
+CM-SW:
+  name: Southwest
+  level: region
+CM-OU:
+  name: West
+  level: region

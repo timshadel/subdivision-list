@@ -1,0 +1,40 @@
+---
+EE-37:
+  name: "Харју"
+  level: county
+EE-44:
+  name: "Ида-Виру"
+  level: county
+EE-51:
+  name: "Харва"
+  level: county
+EE-49:
+  name: "Јигева"
+  level: county
+EE-59:
+  name: "Љаене-Виру"
+  level: county
+EE-57:
+  name: "Љаене"
+  level: county
+EE-67:
+  name: "Пјарну"
+  level: county
+EE-65:
+  name: "Пилва"
+  level: county
+EE-70:
+  name: "Рапла"
+  level: county
+EE-78:
+  name: "Тарту"
+  level: county
+EE-82:
+  name: "Валга"
+  level: county
+EE-84:
+  name: "Виљанди"
+  level: county
+EE-86:
+  name: "Виру"
+  level: county

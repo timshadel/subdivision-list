@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_UA (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-71', 'Oblast de Tcherkassy', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-74', 'Oblast de Tchernihiv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-77', 'Oblast de Tchernivtsi', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-43', 'Crimée', 'autonomous republic');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-12', 'Oblast de Dnipropetrovsk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-14', 'Oblast de Donetsk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-63', 'Oblast de Kharkiv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-65', 'Oblast de Kherson', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-68', 'Oblast de Khmelnitski', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-30', 'Kiev', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-32', 'Oblast de Kiev', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-35', 'Oblast de Kirovohrad', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-09', 'Oblast de Louhansk', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-46', 'Oblast de Lviv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-48', 'Oblast de Mykolaïv', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-53', 'Oblast de Poltava', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-56', 'Oblast de Rivne', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-40', 'Sébastopol', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-59', 'Oblast de Soumy', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-61', 'Oblast de Ternopil', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-05', 'Oblast de Vinnytsia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-07', 'Oblast de Volhynie', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-21', 'Oblast de Transcarpatie', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-23', 'Oblast de Zaporijia', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-18', 'Oblast de Jytomyr', 'region');

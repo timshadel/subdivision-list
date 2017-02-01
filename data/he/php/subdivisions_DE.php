@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'באדן-וירטמברג', 'level' => 'state'),
+  'DE-BY' => array('name' => 'בוואריה', 'level' => 'state'),
+  'DE-BE' => array('name' => 'ברלין', 'level' => 'state'),
+  'DE-BB' => array('name' => 'ברנדנבורג', 'level' => 'state'),
+  'DE-HB' => array('name' => 'ברמן', 'level' => 'state'),
+  'DE-HH' => array('name' => 'המבורג', 'level' => 'state'),
+  'DE-HE' => array('name' => 'הסן', 'level' => 'state'),
+  'DE-NI' => array('name' => 'סקסוניה התחתונה', 'level' => 'state'),
+  'DE-MV' => array('name' => 'מקלנבורג-מערב פומרניה', 'level' => 'state'),
+  'DE-NW' => array('name' => 'נורדריין-וסטפאליה', 'level' => 'state'),
+  'DE-RP' => array('name' => 'ריינלנד-פאלץ', 'level' => 'state'),
+  'DE-SL' => array('name' => 'חבל הסאר', 'level' => 'state'),
+  'DE-SN' => array('name' => 'סקסוניה', 'level' => 'state'),
+  'DE-ST' => array('name' => 'סקסוניה-אנהלט', 'level' => 'state'),
+  'DE-SH' => array('name' => 'שלזוויג-הולשטיין', 'level' => 'state'),
+  'DE-TH' => array('name' => 'תורינגיה', 'level' => 'state'),
+);

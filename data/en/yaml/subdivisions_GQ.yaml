@@ -1,0 +1,28 @@
+---
+GQ-AN:
+  name: Annobón Province
+  level: province
+GQ-BN:
+  name: Bioko Norte Province
+  level: province
+GQ-BS:
+  name: Bioko Sur Province
+  level: province
+GQ-CS:
+  name: Centro Sur Province
+  level: province
+GQ-KN:
+  name: Kié-Ntem Province
+  level: province
+GQ-LI:
+  name: Littoral zone
+  level: province
+GQ-C:
+  name: Mainland
+  level: region
+GQ-I:
+  name: Insular Region
+  level: region
+GQ-WN:
+  name: Wele-Nzas Province
+  level: province

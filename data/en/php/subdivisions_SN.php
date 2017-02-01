@@ -1,0 +1,16 @@
+<?php return array (
+  'SN-DK' => array('name' => 'Dakar', 'level' => 'region'),
+  'SN-DB' => array('name' => 'Diourbel', 'level' => 'region'),
+  'SN-FK' => array('name' => 'Fatick', 'level' => 'region'),
+  'SN-KA' => array('name' => 'Kaffrine', 'level' => 'region'),
+  'SN-KL' => array('name' => 'Kaolack', 'level' => 'region'),
+  'SN-KD' => array('name' => 'Kolda', 'level' => 'region'),
+  'SN-KE' => array('name' => 'Kédougou', 'level' => 'region'),
+  'SN-LG' => array('name' => 'Louga', 'level' => 'region'),
+  'SN-MT' => array('name' => 'Matam', 'level' => 'region'),
+  'SN-SL' => array('name' => 'Saint Louis', 'level' => 'region'),
+  'SN-SE' => array('name' => 'Sédhiou', 'level' => 'region'),
+  'SN-TC' => array('name' => 'Tambacounda', 'level' => 'region'),
+  'SN-TH' => array('name' => 'Thiès', 'level' => 'region'),
+  'SN-ZG' => array('name' => 'Ziguinchor', 'level' => 'region'),
+);

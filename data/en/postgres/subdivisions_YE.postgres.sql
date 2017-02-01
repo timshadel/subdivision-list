@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_YE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-AM', E'`Amran', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-AB', E'Abyan Governorate', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-DA', E'Ad Dāli‘', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-HU', E'Al ?udaydah', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-JA', E'Al Jawf', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-MR', E'Al Mahrah Governorate', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-MW', E'Al Mahwit', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-DH', E'Dhamar', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-HD', E'Hadhramaut', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-HJ', E'Hajjah', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-IB', E'Ibb', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-LA', E'La?ij', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-RA', E'Raymah', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-SN', E'Sanʿā', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-SH', E'Shabwah Governorate', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-TA', E'Taʿizz', E'governorate');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-SA', E'Şan‘ā', E'municipality');
+INSERT INTO "subdivision_YE" ("id", "name", "level") VALUES (E'YE-AD', E'ʿAdan', E'governorate');

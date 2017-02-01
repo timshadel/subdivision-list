@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_TN (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-12', 'Ariana', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-13', 'Ben Arous', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-23', 'Bizerte', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-31', 'Béja', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-81', 'Gabès', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-71', 'Gafsa', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-32', 'Jendouba', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-41', 'Kairouan', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-42', 'Kasserine', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-73', 'Kebili', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-14', 'Manouba', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-33', 'El Kef', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-53', 'Mahdia', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-82', 'Medenine', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-52', 'Monastir', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-21', 'Nabeul', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-61', 'Sfax', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-43', 'Sidi Bouzid', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-34', 'Siliana', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-51', 'Sousse', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-83', 'Tataouine', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-72', 'Tozeur', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-11', 'Tunis', 'governorate');
+INSERT INTO "subdivision_TN" ("id", "name", "level") VALUES ('TN-22', 'Zaghouan', 'governorate');

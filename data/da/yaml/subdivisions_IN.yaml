@@ -1,0 +1,103 @@
+---
+IN-AN:
+  name: Andamanerne og Nicobarerne
+  level: union territory
+IN-AP:
+  name: Andhra Pradesh
+  level: state
+IN-AR:
+  name: Arunachal Pradesh
+  level: state
+IN-AS:
+  name: Assam
+  level: state
+IN-BR:
+  name: Bihar
+  level: state
+IN-CH:
+  name: Chandigarh
+  level: union territory
+IN-CT:
+  name: Chattisgarh
+  level: state
+IN-DN:
+  name: Dadra og Nagar Haveli
+  level: union territory
+IN-DD:
+  name: Daman og Diu
+  level: union territory
+IN-DL:
+  name: Delhi
+  level: union territory
+IN-GA:
+  name: Goa
+  level: state
+IN-GJ:
+  name: Gujarat
+  level: state
+IN-HR:
+  name: Haryana
+  level: state
+IN-HP:
+  name: Himachal Pradesh
+  level: state
+IN-JH:
+  name: Jharkhand
+  level: state
+IN-KA:
+  name: Karnataka
+  level: state
+IN-KL:
+  name: Kerala
+  level: state
+IN-LD:
+  name: Lakshadweep
+  level: union territory
+IN-MP:
+  name: Madhya Pradesh
+  level: state
+IN-MH:
+  name: Maharashtra
+  level: state
+IN-MN:
+  name: Manipur
+  level: state
+IN-ML:
+  name: Meghalaya
+  level: state
+IN-MZ:
+  name: Mizoram
+  level: state
+IN-NL:
+  name: Nagaland
+  level: state
+IN-OR:
+  name: Orissa
+  level: state
+IN-PY:
+  name: Pondicherry
+  level: union territory
+IN-PB:
+  name: Punjab
+  level: state
+IN-RJ:
+  name: Rajasthan
+  level: state
+IN-SK:
+  name: Sikkim
+  level: state
+IN-TN:
+  name: Tamil Nadu
+  level: state
+IN-TR:
+  name: Tripura
+  level: state
+IN-UP:
+  name: Uttar Pradesh
+  level: state
+IN-UT:
+  name: Uttarakhand
+  level: state
+IN-WB:
+  name: Vestbengalen
+  level: state

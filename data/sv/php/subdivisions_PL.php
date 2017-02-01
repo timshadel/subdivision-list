@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Storpolens vojvodskap', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Kujavien-Pommerns vojvodskap', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Lillpolens vojvodskap', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Nedre Schlesiens vojvodskap', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lublins vojvodskap', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubusz vojvodskap', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Masoviens vojvodskap', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opole vojvodskap', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Nedre Karpaternas vojvodskap', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podlasiens vojvodskap', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pommerns vojvodskap', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Schlesiens vojvodskap', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Ermland-Masuriens vojvodskap', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Västpommerns vojvodskap', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Święty Krzyż vojvodskap', 'level' => 'voivodship'),
+);

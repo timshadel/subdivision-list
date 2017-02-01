@@ -1,0 +1,19 @@
+---
+IL-M:
+  name: "Центральний район"
+  level: district
+IL-HA:
+  name: "Хайфа"
+  level: district
+IL-JM:
+  name: "Єрусалим"
+  level: district
+IL-D:
+  name: "Район Мінамі"
+  level: district
+IL-TA:
+  name: "Тель-Авів"
+  level: district
+IL-Z:
+  name: "Район Кіта"
+  level: district

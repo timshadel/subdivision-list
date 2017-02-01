@@ -1,0 +1,73 @@
+---
+EC-A:
+  name: Azuay Province
+  level: province
+EC-B:
+  name: Simón Bolívar
+  level: province
+EC-C:
+  name: Carchi Province
+  level: province
+EC-F:
+  name: Canar
+  level: province
+EC-H:
+  name: Chimborazo
+  level: province
+EC-X:
+  name: Cotopaxi
+  level: province
+EC-O:
+  name: El Oro
+  level: province
+EC-E:
+  name: Esmeraldas
+  level: province
+EC-W:
+  name: Galápagos Islands
+  level: province
+EC-G:
+  name: Guayas
+  level: province
+EC-I:
+  name: Imbabura
+  level: province
+EC-L:
+  name: Loja
+  level: province
+EC-R:
+  name: Los Ríos
+  level: province
+EC-M:
+  name: Manabí
+  level: province
+EC-S:
+  name: Morona-Santiago Province
+  level: province
+EC-N:
+  name: Napo
+  level: province
+EC-D:
+  name: Orellana
+  level: province
+EC-Y:
+  name: Pastaza
+  level: province
+EC-P:
+  name: Pichincha
+  level: province
+EC-SE:
+  name: Santa Elena
+  level: province
+EC-SD:
+  name: Santo Domingo de los Tsáchilas Province
+  level: province
+EC-U:
+  name: Sucumbíos Province
+  level: province
+EC-T:
+  name: Tungurahua
+  level: province
+EC-Z:
+  name: Zamora-Chinchipe Province
+  level: province

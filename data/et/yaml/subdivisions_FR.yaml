@@ -1,0 +1,166 @@
+---
+FR-01:
+  name: Aini departemang
+  level: metropolitan department
+FR-06:
+  name: Alpes-Maritimes
+  level: metropolitan department
+FR-A:
+  name: Alsace
+  level: metropolitan regions
+FR-B:
+  name: Akvitaania
+  level: metropolitan regions
+FR-08:
+  name: Ardennid
+  level: metropolitan department
+FR-67:
+  name: Bas-Rhini departemang
+  level: metropolitan department
+FR-15:
+  name: Cantali departemang
+  level: metropolitan department
+FR-G:
+  name: Champagne-Ardenne
+  level: metropolitan regions
+FR-18:
+  name: Cher
+  level: metropolitan department
+FR-CP:
+  name: Clipperton
+  level: dependency
+FR-2A:
+  name: Corse du Sud
+  level: metropolitan department
+FR-H:
+  name: Korsika
+  level: metropolitan regions
+FR-28:
+  name: Eure-et-Loiri departemang
+  level: metropolitan department
+FR-29:
+  name: Finistère
+  level: metropolitan department
+FR-I:
+  name: Franche-Comté
+  level: metropolitan regions
+FR-GP:
+  name: Guadeloupe
+  level: overseas regions
+FR-68:
+  name: Haut-Rhini departemang
+  level: metropolitan department
+FR-P:
+  name: Alam-Normandia
+  level: metropolitan regions
+FR-GF:
+  name: Prantsuse Guajaana
+  level: overseas regions
+FR-74:
+  name: Haute-Savoie departemang
+  level: metropolitan department
+FR-87:
+  name: Haute-Vienne
+  level: metropolitan department
+FR-05:
+  name: Hautes-Alpes
+  level: metropolitan department
+FR-92:
+  name: Hauts-de-Seine
+  level: metropolitan department
+FR-34:
+  name: Hérault
+  level: metropolitan department
+FR-K:
+  name: Languedoc-Roussillon
+  level: metropolitan regions
+FR-41:
+  name: Loir-et-Cheri departemang
+  level: metropolitan department
+FR-46:
+  name: Lot
+  level: metropolitan department
+FR-MQ:
+  name: Martinique
+  level: overseas regions
+FR-YT:
+  name: Mayotte
+  level: territorial collectivity
+FR-N:
+  name: Midi–Pyrénées
+  level: metropolitan regions
+FR-56:
+  name: Morbihani departemang
+  level: metropolitan department
+FR-59:
+  name: Nord
+  level: metropolitan department
+FR-O:
+  name: Nord–Pas-de-Calais
+  level: metropolitan regions
+FR-75:
+  name: Pariis
+  level: metropolitan department
+FR-R:
+  name: Pays de la Loire
+  level: metropolitan regions
+FR-S:
+  name: Picardie
+  level: metropolitan regions
+FR-T:
+  name: Poitou-Charentes
+  level: metropolitan regions
+FR-Q:
+  name: "Ülem-Normandia"
+  level: metropolitan regions
+FR-PF:
+  name: Prantsuse Polüneesia
+  level: overseas territory
+FR-NC:
+  name: Uus-Kaledoonia
+  level: overseas territory
+FR-RE:
+  name: Réunion
+  level: overseas regions
+FR-64:
+  name: Pyrénées-Atlantiques
+  level: metropolitan department
+FR-69:
+  name: Rhône
+  level: metropolitan department
+FR-V:
+  name: Rhône-Alpes
+  level: metropolitan regions
+FR-73:
+  name: Savoia departemang
+  level: metropolitan department
+FR-93:
+  name: Seine-Saint-Denis
+  level: metropolitan department
+FR-77:
+  name: Seine-et-Marne
+  level: metropolitan department
+FR-81:
+  name: Tarn
+  level: metropolitan department
+FR-94:
+  name: Val-de-Marne
+  level: metropolitan department
+FR-85:
+  name: Vendée
+  level: metropolitan department
+FR-78:
+  name: Yvelines
+  level: metropolitan department
+FR-MF:
+  name: Saint-Martin
+  level: overseas territorial collectivity
+FR-BL:
+  name: Saint-Barthélemy
+  level: overseas territorial collectivity
+FR-PM:
+  name: Saint-Pierre ja Miquelon
+  level: territorial collectivity
+FR-WF:
+  name: Wallis ja Futuna
+  level: overseas territory

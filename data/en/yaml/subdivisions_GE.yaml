@@ -1,0 +1,37 @@
+---
+GE-AB:
+  name: Abkhazia
+  level: autonomous republic
+GE-AJ:
+  name: Adjara
+  level: autonomous republic
+GE-GU:
+  name: Guria
+  level: region
+GE-IM:
+  name: Imereti
+  level: region
+GE-KA:
+  name: Kakheti
+  level: region
+GE-KK:
+  name: Kvemo Kartli
+  level: region
+GE-MM:
+  name: Mtskheta-Mtianeti
+  level: region
+GE-RL:
+  name: Racha-Lechkhumi  Kvemo Svaneti
+  level: region
+GE-SZ:
+  name: Samegrelo-Zemo Svaneti
+  level: region
+GE-SJ:
+  name: Samtskhe-Javakheti
+  level: region
+GE-SK:
+  name: Shida Kartli
+  level: region
+GE-TB:
+  name: Tbilisi
+  level: city

@@ -1,0 +1,204 @@
+id,name,level
+GB-ARD,ARD,district council area (northern ireland)
+GB-ABE,Aberdeen,council area (scotland)
+GB-ABD,Aberdeenshire,council area (scotland)
+GB-ANS,Angus,council area (scotland)
+GB-ANT,Antrim,district council area (northern ireland)
+GB-AGB,Argyll e Bute,council area (scotland)
+GB-ARM,Armagh,district council area (northern ireland)
+GB-BLA,Ballymena,district council area (northern ireland)
+GB-BNB,Banbridge,district council area (northern ireland)
+GB-BNS,Barnsley,metropolitan district
+GB-BAS,Bath and North East Somerset,unitary authority
+GB-BDF,Bedfordshire,unitary authority
+GB-BFS,Belfast,district council area (northern ireland)
+GB-BIR,Birmingham,metropolitan district
+GB-BBD,Blackburn with Darwen,unitary authority
+GB-BPL,Blackpool,unitary authority
+GB-BGW,Blaenau Gwent,unitary authority (wales)
+GB-BOL,Bolton,metropolitan district
+GB-BMH,Bournemouth,unitary authority
+GB-BRC,Bracknell Forest,unitary authority
+GB-BRD,Bradford,metropolitan district
+GB-BEN,Brent,borough
+GB-BGE,Bridgend,unitary authority (wales)
+GB-BNH,Brighton & Hove,unitary authority
+GB-BST,Bristol,unitary authority
+GB-BKM,Buckinghamshire,two-tier county
+GB-BUR,Bury,metropolitan district
+GB-CAY,Caerphilly,unitary authority (wales)
+GB-CLD,Calderdale,metropolitan district
+GB-CAM,Cambridgeshire,two-tier county
+GB-CMD,Camden,borough
+GB-CRF,Cardiff,unitary authority (wales)
+GB-CMN,Carmarthenshire,unitary authority (wales)
+GB-CKF,Carrickfergus,district council area (northern ireland)
+GB-CGN,Ceredigion,unitary authority (wales)
+GB-CHS,Cheshire,
+GB-CLK,Clackmannanshire,council area (scotland)
+GB-CLR,Coleraine,district council area (northern ireland)
+GB-CWY,Conwy,unitary authority (wales)
+GB-CON,Cornovaglia,unitary authority
+GB-COV,Coventry,metropolitan district
+GB-BDG,Barking e Dagenham,borough
+GB-FER,Fermanagh,district council area (northern ireland)
+GB-CMA,Cumbria,two-tier county
+GB-DAL,Darlington,unitary authority
+GB-DEN,Denbighshire,unitary authority (wales)
+GB-DER,Derby,unitary authority
+GB-DBY,Derbyshire,two-tier county
+GB-DRY,Derry,district council area (northern ireland)
+GB-DEV,Devon,two-tier county
+GB-DNC,Doncaster,metropolitan district
+GB-DOR,Dorset,two-tier county
+GB-DOW,Down,district council area (northern ireland)
+GB-DUD,Dudley,metropolitan district
+GB-DGY,Dumfries e Galloway,council area (scotland)
+GB-DND,Dundee,council area (scotland)
+GB-DGN,Distretto di Dungannon e South Tyrone,district council area (northern ireland)
+GB-DUR,Durham,unitary authority
+GB-EAL,Ealing,borough
+GB-EAY,Ayrshire Orientale,council area (scotland)
+GB-EDU,Dunbartonshire Orientale,council area (scotland)
+GB-ELN,East Lothian,council area (scotland)
+GB-ERW,Renfrewshire Orientale,council area (scotland)
+GB-ERY,East Riding of Yorkshire,unitary authority
+GB-ESX,East Sussex,two-tier county
+GB-EDH,Edimburgo,council area (scotland)
+GB-ENF,Enfield,borough
+GB-ESS,Essex,two-tier county
+GB-FAL,Falkirk,council area (scotland)
+GB-FIF,Fife,council area (scotland)
+GB-FLN,Flintshire,unitary authority (wales)
+GB-GAT,Gateshead,metropolitan district
+GB-GLG,Glasgow,council area (scotland)
+GB-GLS,Gloucestershire,two-tier county
+GB-GRE,Greenwich,borough
+GB-GWN,Gwynedd,unitary authority (wales)
+GB-HAL,Halton,unitary authority
+GB-HAM,Hampshire,two-tier county
+GB-HPL,Hartlepool,unitary authority
+GB-HEF,Herefordshire,unitary authority
+GB-HRT,Hertfordshire,two-tier county
+GB-IVC,Inverclyde,council area (scotland)
+GB-HMF,Hammersmith e Fulham,borough
+GB-HAV,Havering,borough
+GB-ELS,Ebridi Esterne,council area (scotland)
+GB-AGY,Anglesey,unitary authority (wales)
+GB-LND,Città di Londra,city corporation
+GB-IOW,Isola di Wight,unitary authority
+GB-IOS,Isole Scilly,
+GB-KEN,Kent,two-tier county
+GB-KHL,Kingston upon Hull,unitary authority
+GB-KTT,Kingston upon Thames,borough
+GB-KIR,Kirklees,metropolitan district
+GB-LBH,Lambeth,borough
+GB-LAN,Lancashire,two-tier county
+GB-LRN,Larne,district council area (northern ireland)
+GB-LDS,Leeds,metropolitan district
+GB-LCE,Leicester,unitary authority
+GB-LEC,Leicestershire,two-tier county
+GB-LIN,Lincolnshire,two-tier county
+GB-LSB,Lisburn,district council area (northern ireland)
+GB-LIV,Liverpool,metropolitan district
+GB-NWM,Newham,borough
+GB-LUT,Luton,unitary authority
+GB-MAN,Manchester,metropolitan district
+GB-MDW,Medway,unitary authority
+GB-MTY,Merthyr Tydfil,unitary authority (wales)
+GB-MDB,Middlesbrough,unitary authority
+GB-MLN,Midlothian,council area (scotland)
+GB-MIK,Milton Keynes,unitary authority
+GB-MON,Monmouthshire,unitary authority (wales)
+GB-MRY,Moray,council area (scotland)
+GB-NTL,Neath Port Talbot,unitary authority (wales)
+GB-NET,Newcastle upon Tyne,metropolitan district
+GB-NWP,Newport,unitary authority (wales)
+GB-NYM,Distretto di Newry e Mourne,district council area (northern ireland)
+GB-NFK,Norfolk,two-tier county
+GB-NAY,Ayrshire Settentrionale,council area (scotland)
+GB-NEL,North East Lincolnshire,unitary authority
+GB-NLK,Lanarkshire Settentrionale,council area (scotland)
+GB-NLN,North Lincolnshire,unitary authority
+GB-NSM,North Somerset,unitary authority
+GB-NTY,North Tyneside,metropolitan district
+GB-NYK,North Yorkshire,two-tier county
+GB-NTH,Northamptonshire,two-tier county
+GB-NBL,Northumberland,unitary authority
+GB-RIC,Richmond upon Thames,borough
+GB-NGM,Nottingham,unitary authority
+GB-NTT,Nottinghamshire,two-tier county
+GB-OLD,Oldham,metropolitan district
+GB-OMH,Omagh,district council area (northern ireland)
+GB-ORK,Isole Orcadi,council area (scotland)
+GB-OXF,Oxfordshire,two-tier county
+GB-PEM,Pembrokeshire,unitary authority (wales)
+GB-PKN,Perth e Kinross,council area (scotland)
+GB-PTE,Peterborough,unitary authority
+GB-PLY,Plymouth,unitary authority
+GB-POL,Poole,unitary authority
+GB-POR,Portsmouth,unitary authority
+GB-POW,Powys,unitary authority (wales)
+GB-RDG,Reading,unitary authority
+GB-RCC,Redcar and Cleveland,unitary authority
+GB-RFW,Renfrewshire,council area (scotland)
+GB-RCH,Rochdale,metropolitan district
+GB-ROT,Rotherham,metropolitan district
+GB-RUT,Rutland,unitary authority
+GB-SAW,Sandwell,metropolitan district
+GB-SCB,Scottish Borders,council area (scotland)
+GB-SHF,Sheffield,metropolitan district
+GB-ZET,Isole Shetland,council area (scotland)
+GB-SHR,Shropshire,unitary authority
+GB-SLG,Slough,unitary authority
+GB-SOL,Solihull,metropolitan district
+GB-SOM,Somerset,two-tier county
+GB-SAY,Ayrshire Meridionale,council area (scotland)
+GB-SGC,South Gloucestershire,unitary authority
+GB-SLK,Lanarkshire Meridionale,council area (scotland)
+GB-STY,South Tyneside,metropolitan district
+GB-STH,Southampton,unitary authority
+GB-SOS,Southend-on-Sea,unitary authority
+GB-SHN,St. Helens,metropolitan district
+GB-STS,Staffordshire,two-tier county
+GB-STG,Stirling,council area (scotland)
+GB-SKP,Stockport,metropolitan district
+GB-STT,Stockton-on-Tees,unitary authority
+GB-STE,Stoke-on-Trent,unitary authority
+GB-STB,Strabane,district council area (northern ireland)
+GB-SFK,Suffolk,two-tier county
+GB-SND,Sunderland,metropolitan district
+GB-SRY,Surrey,two-tier county
+GB-STN,Sutton,borough
+ENG,Inghilterra,country
+GB-TWH,Tower Hamlets,borough
+GB-WFT,Waltham Forest,borough
+NIR,Irlanda del Nord,country
+GB-WNM,Royal Borough of Windsor and Maidenhead,unitary authority
+SCT,Scozia,country
+GB-SWA,Swansea,unitary authority (wales)
+GB-SWD,Swindon,unitary authority
+GB-TAM,Tameside,metropolitan district
+GB-TFW,Telford and Wrekin,unitary authority
+GB-THR,Thurrock,unitary authority
+GB-TOB,Torbay,unitary authority
+GB-TOF,Torfaen,unitary authority (wales)
+GB-TRF,Trafford,metropolitan district
+GB-VGL,Vale of Glamorgan,unitary authority (wales)
+GB-WKF,Wakefield,metropolitan district
+WLS,Galles,country
+GB-WLL,Walsall,metropolitan district
+GB-WRT,Warrington,unitary authority
+GB-WAR,Warwickshire,two-tier county
+GB-WBK,West Berkshire,unitary authority
+GB-WDU,Dunbartonshire Occidentale,council area (scotland)
+GB-WSX,West Sussex,two-tier county
+GB-WSM,Westminster,borough
+GB-WGN,Wigan,metropolitan district
+GB-WIL,Wiltshire,unitary authority
+GB-WRL,Wirral,metropolitan district
+GB-WOK,Wokingham,unitary authority
+GB-WLV,Wolverhampton,metropolitan district
+GB-WOR,Worcestershire,two-tier county
+GB-WRX,Wrexham,unitary authority (wales)
+GB-YOR,York,unitary authority

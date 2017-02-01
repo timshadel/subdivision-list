@@ -1,0 +1,34 @@
+---
+CG-11:
+  name: Bouenza Department
+  level: department
+CG-BZV:
+  name: Brazzaville
+  level: commune
+CG-8:
+  name: Cuvette
+  level: department
+CG-15:
+  name: Cuvette-Ouest Department
+  level: department
+CG-5:
+  name: Kouilou
+  level: department
+CG-7:
+  name: Likouala
+  level: department
+CG-2:
+  name: Lékoumou Department
+  level: department
+CG-9:
+  name: Niari
+  level: department
+CG-14:
+  name: Plateaux
+  level: department
+CG-12:
+  name: Pool
+  level: department
+CG-13:
+  name: Sangha
+  level: department

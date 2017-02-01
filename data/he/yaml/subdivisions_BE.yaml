@@ -1,0 +1,13 @@
+---
+BE-VAN:
+  name: "אנטוורפן"
+  level: province
+BE-BRU:
+  name: "בריסל"
+  level: capital region
+BE-WLX:
+  name: "לוקסמבורג"
+  level: province
+BE-WAL:
+  name: "ולוניה"
+  level: region

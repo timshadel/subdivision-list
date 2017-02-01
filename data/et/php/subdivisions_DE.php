@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Baden-Württemberg', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Baieri', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berliin', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandenburg', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Bremen', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hessen', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Alam-Saksi', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Mecklenburg-Vorpommern', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Nordrhein-Westfalen', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Rheinland-Pfalz', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Saarimaa', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Saksimaa', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Saksi-Anhalt', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Schleswig-Holstein', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Tüüringi', 'level' => 'state'),
+);

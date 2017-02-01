@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Bádensko-Württembersko', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Bavorsko', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berlín', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandenbursko', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Brémy', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hesensko', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Dolné Sasko', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Meklenbursko-Predpomoransko', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Severné Porýnie-Vestfálsko', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Porýnie-Falcko', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Sársko', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Sasko', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Sasko-Anhaltsko', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Šlezvicko-Holštajnsko', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Durínsko', 'level' => 'state'),
+);

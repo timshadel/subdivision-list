@@ -1,0 +1,5 @@
+Carlow (IE-CW)
+Dublin (IE-D)
+Galway (IE-G)
+Limerick (IE-LK)
+Sligo (IE-SO)

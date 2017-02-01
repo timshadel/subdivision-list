@@ -1,0 +1,37 @@
+---
+GW-BA:
+  name: Bafatá
+  level: region
+GW-BM:
+  name: Biombo Region
+  level: region
+GW-BS:
+  name: Bissau
+  level: autonomous sector
+GW-BL:
+  name: Bolama
+  level: region
+GW-CA:
+  name: Cacheu
+  level: region
+GW-GA:
+  name: Gabú
+  level: region
+GW-L:
+  name: Leste
+  level: province
+GW-N:
+  name: Norte
+  level: province
+GW-OI:
+  name: Oio
+  level: region
+GW-QU:
+  name: Quinara Region
+  level: region
+GW-S:
+  name: Sulis
+  level: province
+GW-TO:
+  name: Tombali
+  level: region

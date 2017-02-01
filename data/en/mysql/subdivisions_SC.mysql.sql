@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_SC (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-01', 'Anse-aux-Pins', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-02', 'Anse Boileau', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-05', 'Anse Royale', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-03', 'Anse Etoile', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-04', 'Au Cap', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-06', 'Baie Lazare', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-07', 'Baie Sainte Anne', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-08', 'Beau Vallon', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-09', 'Bel Air', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-10', 'Bel Ombre', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-11', 'Cascade', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-16', 'English River', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-12', 'Glacis', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-15', 'La Digue', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-24', 'Les Mamelles', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-17', 'Mont Buxton', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-18', 'Mont Fleuri', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-19', 'Plaisance', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-20', 'Pointe La Rue', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-21', 'Port Glaud', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-25', 'Roche Caiman', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-22', 'Saint Louis', 'district');
+INSERT INTO `subdivision_SC` (`id`, `name`, `level`) VALUES ('SC-23', 'Takamaka', 'district');

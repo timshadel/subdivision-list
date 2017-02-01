@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_BI (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-BB', 'Bubanza', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-BJ', 'Bujumbura', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-BM', 'Bujumbura', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-BL', 'Bujumbura Rural Province', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-BR', 'Bururi', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-CA', 'Cankuzo', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-CI', 'Cibitoke', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-GI', 'Gitega', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-KR', 'Karuzi', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-KY', 'Kayanza', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-KI', 'Kirundo', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-MA', 'Makamba', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-MU', 'Muramvya', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-MY', 'Muyinga', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-MW', 'Mwaro', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-NG', 'Ngozi', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-RT', 'Rutana', 'province');
+INSERT INTO "subdivision_BI" ("id", "name", "level") VALUES ('BI-RY', 'Ruyigi', 'province');

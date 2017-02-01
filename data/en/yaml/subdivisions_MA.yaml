@@ -1,0 +1,250 @@
+---
+MA-AGD:
+  name: Agadir
+  level: prefecture
+MA-HAO:
+  name: Al Haouz Province
+  level: province
+MA-HOC:
+  name: Al Hoceima
+  level: province
+MA-AOU:
+  name: Aousserd
+  level: prefecture
+MA-ASZ:
+  name: Assa-Zag Province
+  level: province
+MA-AZI:
+  name: Azilal
+  level: province
+MA-BAH:
+  name: Chtouka Aït Baha Province
+  level: province
+MA-MEL:
+  name: Aït Melloul
+  level: ''
+MA-BES:
+  name: Ben Slimane
+  level: province
+MA-BEM:
+  name: Beni Mellal
+  level: province
+MA-BER:
+  name: Berkane
+  level: province
+MA-BOD:
+  name: Boujdour
+  level: province
+MA-BOM:
+  name: Boulemane
+  level: province
+MA-CAS:
+  name: Casablanca
+  level: prefecture
+MA-09:
+  name: Chaouia-Ouardigh
+  level: region
+MA-CHE:
+  name: Chefchaouen
+  level: province
+MA-CHI:
+  name: Chichaoua
+  level: province
+MA-CHT:
+  name: Chtouka-Ait Baha
+  level: ''
+MA-SAL:
+  name: Connaught Salé
+  level: prefecture
+MA-10:
+  name: Doukkala-Abda
+  level: region
+MA-HAJ:
+  name: El Hajeb
+  level: province
+MA-JDI:
+  name: El Jadida
+  level: province
+MA-ERR:
+  name: Errachidia
+  level: province
+MA-ESM:
+  name: Es Smara
+  level: province
+MA-ESI:
+  name: Essaouira
+  level: province
+MA-FAH:
+  name: Fahs-Anjra
+  level: prefecture
+MA-05:
+  name: Fès-Boulemane
+  level: region
+MA-FIG:
+  name: Figuig
+  level: province
+MA-FES:
+  name: Fes
+  level: prefecture
+MA-02:
+  name: Gharb-Chrarda-Béni Hssen
+  level: region
+MA-08:
+  name: Grand Casablanca
+  level: region
+MA-GUE:
+  name: Guelmim
+  level: province
+MA-14:
+  name: Guelmim-Es Smar
+  level: region
+MA-IFR:
+  name: Ifrane
+  level: province
+MA-INE:
+  name: Inezgane
+  level: prefecture
+MA-JRA:
+  name: Jerada
+  level: province
+MA-KES:
+  name: El Kelaa des Sraghna
+  level: province
+MA-KHE:
+  name: Khemisset
+  level: province
+MA-KHN:
+  name: Khenifra
+  level: province
+MA-KHO:
+  name: Khouribga
+  level: province
+MA-KEN:
+  name: Kenitra
+  level: province
+MA-04:
+  name: Orient
+  level: rerion
+MA-15:
+  name: Laâyoune-Boujdour-Sakia El Hamra
+  level: region
+MA-LAR:
+  name: Larache
+  level: province
+MA-LAA:
+  name: Laâyoune
+  level: province
+MA-MAR:
+  name: Marrakech
+  level: ''
+MA-MMD:
+  name: Marrakech
+  level: prefecture
+MA-MMN:
+  name: Marrakech
+  level: prefecture
+MA-11:
+  name: Marrakesh-Tensift-El Haouz
+  level: region
+MA-MED:
+  name: Mediouna
+  level: province
+MA-06:
+  name: Meknès-Tafilalet
+  level: region
+MA-MEK:
+  name: Meknes
+  level: prefecture
+MA-MOH:
+  name: Mohammadia
+  level: prefecture
+MA-MOU:
+  name: Moulay Yacoub Province
+  level: ''
+MA-NAD:
+  name: Nador
+  level: province
+MA-NOU:
+  name: Nouaceur
+  level: province
+MA-OUA:
+  name: Ouarzazate
+  level: province
+MA-OUD:
+  name: Oued ed Dahab
+  level: province
+MA-16:
+  name: Oued Ed-Dahab-Lagouira
+  level: region
+MA-OUJ:
+  name: Oujda
+  level: prefecture
+MA-RAB:
+  name: Rabat
+  level: prefecture
+MA-RBA:
+  name: Rabat-Salé
+  level: ''
+MA-07:
+  name: Rabat-Salé-Zemmour-Zaer
+  level: region
+MA-SAF:
+  name: Safi
+  level: province
+MA-SEF:
+  name: Sefrou
+  level: ''
+MA-SET:
+  name: Settat
+  level: province
+MA-SIK:
+  name: Sidi Kacem
+  level: province
+MA-SYB:
+  name: Marrakech
+  level: prefecture
+MA-SKH:
+  name: Temara
+  level: prefecture
+MA-13:
+  name: Souss-Massa-Drâa
+  level: region
+MA-12:
+  name: Tadla-Azilal
+  level: region
+MA-TNT:
+  name: Tan-Tan
+  level: province
+MA-TNG:
+  name: Tangier
+  level: prefecture
+MA-01:
+  name: Tangier-Tetouan
+  level: region
+MA-TAO:
+  name: Taounate
+  level: province
+MA-TAI:
+  name: Taourirt
+  level: province
+MA-TAR:
+  name: Taroudant
+  level: province
+MA-TAT:
+  name: Tata
+  level: province
+MA-TAZ:
+  name: Taza
+  level: province
+MA-03:
+  name: Taza-Al Hoceima-Taounate
+  level: region
+MA-TIZ:
+  name: Tiznit
+  level: province
+MA-TET:
+  name: Tétouan
+  level: ''
+MA-ZAG:
+  name: Zagora
+  level: province

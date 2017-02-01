@@ -1,0 +1,31 @@
+---
+DM-02:
+  name: Saint Andrew
+  level: parish
+DM-03:
+  name: Saint David
+  level: parish
+DM-04:
+  name: Saint George
+  level: parish
+DM-05:
+  name: Saint John
+  level: parish
+DM-06:
+  name: Saint Joseph
+  level: parish
+DM-07:
+  name: Luke the Evangelist
+  level: parish
+DM-08:
+  name: Mark the Evangelist
+  level: parish
+DM-09:
+  name: Saint Patrick
+  level: parish
+DM-10:
+  name: Paul the Apostle
+  level: parish
+DM-11:
+  name: Saint Peter
+  level: parish

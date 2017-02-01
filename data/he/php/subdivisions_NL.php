@@ -1,0 +1,18 @@
+<?php return array (
+  'NL-AW' => array('name' => 'ארובה', 'level' => 'country'),
+  'NL-BQ1' => array('name' => 'בונייר', 'level' => 'special municipality'),
+  'NL-CW' => array('name' => 'קוראסאו', 'level' => 'country'),
+  'NL-DR' => array('name' => 'דרנתה', 'level' => 'province'),
+  'NL-FL' => array('name' => 'פלבולנד', 'level' => 'province'),
+  'NL-FR' => array('name' => 'פריסלנד', 'level' => 'province'),
+  'NL-GE' => array('name' => 'חלדרלנד', 'level' => 'province'),
+  'NL-GR' => array('name' => 'חרונינגן', 'level' => 'province'),
+  'NL-NB' => array('name' => 'צפון בראבנט', 'level' => 'province'),
+  'NL-NH' => array('name' => 'צפון הולנד', 'level' => 'province'),
+  'NL-OV' => array('name' => 'אובראיסל', 'level' => 'province'),
+  'NL-BQ2' => array('name' => 'סאבא', 'level' => 'special municipality'),
+  'NL-BQ3' => array('name' => 'סנט אוסטתיוס', 'level' => 'special municipality'),
+  'NL-ZH' => array('name' => 'דרום הולנד', 'level' => 'province'),
+  'NL-UT' => array('name' => 'אוטרכט', 'level' => 'province'),
+  'NL-ZE' => array('name' => 'זיילנד', 'level' => 'province'),
+);

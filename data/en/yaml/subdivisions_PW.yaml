@@ -1,0 +1,49 @@
+---
+PW-002:
+  name: Aimeliik
+  level: state
+PW-004:
+  name: Airai
+  level: state
+PW-010:
+  name: Angaur
+  level: state
+PW-050:
+  name: Hatohobei
+  level: state
+PW-100:
+  name: Kayangel
+  level: state
+PW-150:
+  name: Koror
+  level: state
+PW-212:
+  name: Melekeok
+  level: state
+PW-214:
+  name: Ngaraard
+  level: state
+PW-218:
+  name: Ngarchelong
+  level: state
+PW-222:
+  name: Ngardmau
+  level: state
+PW-224:
+  name: Ngatpang
+  level: state
+PW-226:
+  name: Ngchesar
+  level: state
+PW-227:
+  name: Ngeremlengui
+  level: state
+PW-228:
+  name: Ngiwal
+  level: state
+PW-350:
+  name: Peleliu
+  level: state
+PW-370:
+  name: Sonsorol
+  level: state

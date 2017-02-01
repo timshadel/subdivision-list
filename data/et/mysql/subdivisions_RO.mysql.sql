@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_RO (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-BN', 'Bistrița-Năsăudi maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-BT', 'Botoșani', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-BV', 'Brașov', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-B', 'Bukarest', 'city');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-CS', 'Caraș-Severini maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-CJ', 'Cluj-Napoca', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-CT', 'Constanța', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-DJ', 'Dolji maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-GL', 'Galați', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-GR', 'Giurgiu', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-GJ', 'Gorji maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-HR', 'Harghita maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-IS', 'Iași', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-IF', 'Ilfovi maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-MH', 'Mehedinți maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-MS', 'Mureși maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-NT', 'Neamți maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-SM', 'Satu Mare', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-SB', 'Sibiu', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-TR', 'Teleormani maakond', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-TM', 'Timiș', 'county');
+INSERT INTO `subdivision_RO` (`id`, `name`, `level`) VALUES ('RO-VL', 'Vâlcea maakond', 'county');

@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Baden-Württemberg', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Beieren', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berlijn', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandenburg', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Bremen', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hessen', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Nedersaksen', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Mecklenburg-Voor-Pommeren', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Noordrijn-Westfalen', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Rijnland-Palts', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Saarland', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Saksen', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Saksen-Anhalt', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Sleeswijk-Holstein', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Thüringen', 'level' => 'state'),
+);

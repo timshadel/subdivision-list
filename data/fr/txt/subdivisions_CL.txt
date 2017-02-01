@@ -1,0 +1,8 @@
+Antofagasta (CL-AN)
+Région Aisén del General Carlos Ibáñez del Campo (CL-AI)
+Coquimbo (CL-CO)
+Magallanes (CL-MA)
+Maule (CL-ML)
+Région métropolitaine de Santiago (CL-RM)
+Tarapacá (CL-TA)
+Valparaíso (CL-VS)

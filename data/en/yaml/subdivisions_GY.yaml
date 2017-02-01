@@ -1,0 +1,31 @@
+---
+GY-BA:
+  name: Barima-Waini
+  level: region
+GY-CU:
+  name: Cuyuni-Mazaruni
+  level: region
+GY-DE:
+  name: Demerara-Mahaica
+  level: region
+GY-EB:
+  name: East Berbice-Corentyne
+  level: region
+GY-ES:
+  name: Essequibo Islands-West Demerara
+  level: region
+GY-MA:
+  name: Mahaica-Berbice
+  level: region
+GY-PM:
+  name: Pomeroon-Supenaam
+  level: region
+GY-PT:
+  name: Potaro-Siparuni
+  level: region
+GY-UD:
+  name: Upper Demerara-Berbice
+  level: region
+GY-UT:
+  name: Upper Takutu-Upper Essequibo
+  level: region

@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Voievodatul Polonia Mare', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Voievodatul Cuiavia și Pomerania', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Voievodatul Polonia Mică', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Voievodatul Silezia Inferioară', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Voievodatul Lublin', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Voievodatul Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Voievodatul Mazovia', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Voievodatul Opole', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Voievodatul Subcarpatia', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Voievodatul Podlasia', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Voievodatul Pomerania', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Voievodatul Silezia', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Voievodatul Varmia și Mazuria', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Voievodatul Pomerania Occidentală', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Voievodatul Sfintei Cruci', 'level' => 'voivodship'),
+);

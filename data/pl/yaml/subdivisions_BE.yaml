@@ -1,0 +1,37 @@
+---
+BE-VAN:
+  name: Antwerpia
+  level: province
+BE-BRU:
+  name: Region Stołeczny Brukseli
+  level: capital region
+BE-VOV:
+  name: Prowincja Flandria Wschodnia
+  level: province
+BE-VBR:
+  name: Prowincja Brabancja Flamandzka
+  level: province
+BE-VLG:
+  name: Region Flamandzki
+  level: region
+BE-WHT:
+  name: Hainaut
+  level: province
+BE-VLI:
+  name: Limburg
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luksemburg
+  level: province
+BE-WNA:
+  name: Namur
+  level: province
+BE-WBR:
+  name: Prowincja Brabancja Walońska
+  level: province
+BE-VWV:
+  name: Prowincja Flandria Zachodnia
+  level: province

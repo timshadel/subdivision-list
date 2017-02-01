@@ -1,0 +1,15 @@
+<?php return array (
+  'EE-37' => array('name' => 'Condado de Harju', 'level' => 'county'),
+  'EE-44' => array('name' => 'Condado de Ida-Viru', 'level' => 'county'),
+  'EE-51' => array('name' => 'Condado de Järva', 'level' => 'county'),
+  'EE-49' => array('name' => 'Condado de Jõgeva', 'level' => 'county'),
+  'EE-59' => array('name' => 'Condado de Lääne-Viru', 'level' => 'county'),
+  'EE-57' => array('name' => 'Condado de Lääne', 'level' => 'county'),
+  'EE-67' => array('name' => 'Condado de Pärnu', 'level' => 'county'),
+  'EE-65' => array('name' => 'Condado de Põlva', 'level' => 'county'),
+  'EE-70' => array('name' => 'Condado de Rapla', 'level' => 'county'),
+  'EE-78' => array('name' => 'Condado de Tartu', 'level' => 'county'),
+  'EE-82' => array('name' => 'Condado de Valga', 'level' => 'county'),
+  'EE-84' => array('name' => 'Condado de Viljandi', 'level' => 'county'),
+  'EE-86' => array('name' => 'Condado de Võru', 'level' => 'county'),
+);

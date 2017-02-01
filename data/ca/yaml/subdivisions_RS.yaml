@@ -1,0 +1,19 @@
+---
+RS-00:
+  name: Belgrad
+  level: city
+RS-09:
+  name: Kolubara
+  level: district
+RS-29:
+  name: Kosovo-Pomoravlje
+  level: district
+RS-10:
+  name: Districte de Podunavlje
+  level: district
+RS-13:
+  name: Districte de Pomoravlje
+  level: district
+RS-12:
+  name: Districte de Šumadija
+  level: district

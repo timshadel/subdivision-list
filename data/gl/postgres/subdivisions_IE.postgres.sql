@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_IE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-CW', E'Carlow - Ceatharlach', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-CN', E'Cavan - An Cabhán', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-LS', E'Condado de Laois', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-OY', E'Condado de Offaly', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-WH', E'Condado de Westmeath', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-D', E'Dublín - Baile Átha Cliath', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-G', E'Galway - Gaillimh', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-KY', E'Kerry', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-KK', E'Kilkenny - Cill Chainnigh', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-L', E'Leinster - Cúige Laighean', E'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-LK', E'Limerick - Luimneach', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-LD', E'Longford - An Longfort', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-M', E'Munster - Cúige Mumhan', E'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-SO', E'Sligo - Sligeach', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-U', E'Úlster - Cúige Uladh', E'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-WD', E'Waterford - Port Láirge', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-WX', E'Wexford - Loch Garman', E'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES (E'IE-WW', E'Wicklow - Cill Mhantáin', E'county');

@@ -1,0 +1,64 @@
+---
+PG-NSB:
+  name: Bougainville
+  level: autonomous region
+PG-CPM:
+  name: Central
+  level: province
+PG-CPK:
+  name: Chimbu
+  level: province
+PG-EBR:
+  name: East New Britain Province
+  level: province
+PG-ESW:
+  name: East Sepik Province
+  level: province
+PG-EHG:
+  name: Eastern Highlands
+  level: province
+PG-EPW:
+  name: Enga
+  level: province
+PG-GPK:
+  name: Gulf
+  level: province
+PG-MPM:
+  name: Madang
+  level: province
+PG-MRL:
+  name: Manus
+  level: province
+PG-MBA:
+  name: Milne Bay
+  level: province
+PG-MPL:
+  name: Morobe
+  level: province
+PG-NCD:
+  name: National Capital District
+  level: district
+PG-NIK:
+  name: New Ireland
+  level: province
+PG-NSA:
+  name: North Solomons
+  level: province
+PG-NPP:
+  name: Northern
+  level: province
+PG-SAN:
+  name: Sandaun
+  level: province
+PG-SHM:
+  name: Southern Highlands
+  level: province
+PG-WBK:
+  name: West New Britain Province
+  level: province
+PG-WPD:
+  name: Western
+  level: province
+PG-WHM:
+  name: Western Highlands
+  level: province

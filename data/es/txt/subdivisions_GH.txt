@@ -1,0 +1,7 @@
+Ashanti (GH-AH)
+Brong-Ahafo (GH-BA)
+Central (GH-CP)
+Gran Acra (GH-AA)
+Alta Oriental (GH-UE)
+Volta (GH-TV)
+Western (GH-WP)

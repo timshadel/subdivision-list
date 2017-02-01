@@ -1,0 +1,6 @@
+Antananarivo (MG-T)
+Antsiranana (MG-D)
+Fianarantsoa (MG-F)
+Mahajanga (MG-M)
+Toamasina (MG-A)
+Toliara (MG-U)

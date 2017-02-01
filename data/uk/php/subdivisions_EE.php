@@ -1,0 +1,16 @@
+<?php return array (
+  'EE-39' => array('name' => 'Хіюмаа', 'level' => 'county'),
+  'EE-44' => array('name' => 'Іда-Вірумаа', 'level' => 'county'),
+  'EE-51' => array('name' => 'Ярвамаа', 'level' => 'county'),
+  'EE-49' => array('name' => 'Йиґевамаа', 'level' => 'county'),
+  'EE-59' => array('name' => 'Ляяне-Вірумаа', 'level' => 'county'),
+  'EE-57' => array('name' => 'Ляянемаа', 'level' => 'county'),
+  'EE-67' => array('name' => 'Пярнумаа', 'level' => 'county'),
+  'EE-65' => array('name' => 'Пилвамаа', 'level' => 'county'),
+  'EE-70' => array('name' => 'Рапламаа', 'level' => 'county'),
+  'EE-74' => array('name' => 'Сааремаа', 'level' => 'county'),
+  'EE-78' => array('name' => 'Тартумаа', 'level' => 'county'),
+  'EE-82' => array('name' => 'Валгамаа', 'level' => 'county'),
+  'EE-84' => array('name' => 'Вільяндімаа', 'level' => 'county'),
+  'EE-86' => array('name' => 'Вирумаа', 'level' => 'county'),
+);

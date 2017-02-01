@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_KH (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-2', 'Baat Dambang', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-1', 'Banteay Mean Chey', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-3', 'Kampong Chaam', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-4', 'Kampong Chhnang', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-5', 'Kampong Spueu', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-6', 'Kampong Thum', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-7', 'Kampot', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-8', 'Kandaal', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-9', 'Kaoh Kong', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-10', 'Kracheh', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-23', 'Krong Kaeb', 'autonomous municipality');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-24', 'Krong Pailin', 'autonomous municipality');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-18', 'Krong Preah Sihanouk', 'autonomous municipality');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-11', 'Mondol Kiri', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-22', 'Otdar Mean Chey', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-12', 'Phnom Penh', 'autonomous municipality');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-15', 'Pousaat', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-13', 'Preah Vihear', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-14', 'Prey Veaeng', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-16', 'Rotanak Kiri', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-17', 'Siem Reab', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-19', 'Stueng Traeng', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-20', 'Svaay Rieng', 'province');
+INSERT INTO "subdivision_KH" ("id", "name", "level") VALUES ('KH-21', 'Taakaev', 'province');

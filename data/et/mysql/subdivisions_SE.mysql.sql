@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_SE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-K', 'Blekinge lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-W', 'Dalarna lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-I', 'Ojamaa lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-X', 'Gävleborgi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-N', 'Hallandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-Z', 'Jämtlandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-F', 'Jönköpingi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-H', 'Kalmari lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-G', 'Kronobergi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-BD', 'Norrbotteni lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-M', 'Skåne lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-AB', 'Stockholmi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-D', 'Södermanlandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-C', 'Uppsala lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-S', 'Värmlandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-AC', 'Västerbotteni lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-Y', 'Västernorrlandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-U', 'Västmanlandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-O', 'Västra Götalandi lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-T', 'Örebro lään', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-E', 'Östergötlandi lään', 'county');

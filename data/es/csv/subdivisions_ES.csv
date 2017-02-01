@@ -1,0 +1,60 @@
+id,name,level
+ES-C,La Coruña,province
+ES-AB,Albacete,province
+ES-A,Alicante,province
+ES-AL,Almería,province
+ES-AN,Andalucía,
+ES-AS,Principado de Asturias,autonomous community
+ES-BA,Badajoz,province
+ES-IB,Islas Baleares,autonomous community
+ES-B,Barcelona,province
+ES-PV,País Vasco,autonomous community
+ES-BU,Burgos,province
+ES-CA,Cádiz,province
+ES-CN,Canarias,
+ES-S,Cantabria,province
+ES-CS,Castellón,province
+ES-CM,Castilla-La Mancha,autonomous community
+ES-CL,Castilla y León,autonomous community
+ES-CT,Cataluña,autonomous community
+ES-CE,Ceuta,autonomous city
+ES-CR,Ciudad Real,province
+ES-CU,Cuenca,province
+ES-CC,Cáceres,province
+ES-CO,Córdoba,province
+ES-EX,Extremadura,autonomous community
+ES-GA,Galicia,autonomous community
+ES-SS,Guipúzcoa,province
+ES-GI,Gerona,province
+ES-GR,Granada,province
+ES-GU,Guadalajara,province
+ES-H,Huelva,province
+ES-HU,Huesca,province
+ES-J,Jaén,province
+ES-GC,Las Palmas de Gran Canaria,province
+ES-LE,León,province
+ES-L,Lérida,province
+ES-LU,Lugo,province
+ES-MD,Madrid,autonomous community
+ES-ML,Melilla,autonomous city
+ES-MC,Murcia,autonomous community
+ES-MA,Málaga,province
+ES-NC,Navarra,autonomous community
+ES-OR,Orense,province
+ES-P,Palencia,province
+ES-LO,Rioja,province
+ES-PO,Pontevedra,province
+ES-SA,Salamanca,province
+ES-TF,Santa Cruz de Tenerife,province
+ES-SG,Segovia,province
+ES-SE,Sevilla,province
+ES-SO,Soria,province
+ES-T,Tarragona,province
+ES-TE,Teruel,province
+ES-TO,Toledo,province
+ES-V,Valencia,province
+ES-VC,Comunidad Valenciana,autonomous community
+ES-VA,Valladolid,province
+ES-ZA,Zamora,province
+ES-Z,Zaragoza,province
+ES-VI,Álava,province

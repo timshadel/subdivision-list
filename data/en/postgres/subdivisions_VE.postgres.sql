@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_VE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-Z', E'Amazonas', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-B', E'Anzoátegui', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-C', E'Apure', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-D', E'Aragua', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-E', E'Barinas', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-F', E'Simón Bolívar', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-G', E'Carabobo', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-H', E'Cojedes', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-Y', E'Delta Amacuro', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-W', E'Federal Dependencies of Venezuela', E'federal dependency');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-A', E'Distrito Federal', E'federal district');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-I', E'Falcón', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-J', E'Guárico', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-K', E'Lara', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-M', E'Miranda', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-N', E'Monagas', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-L', E'Mérida', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-O', E'Nueva Esparta', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-P', E'Portuguesa', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-R', E'Sucre', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-T', E'Trujillo', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-S', E'Táchira', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-X', E'Vargas', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-U', E'Yaracuy', E'state');
+INSERT INTO "subdivision_VE" ("id", "name", "level") VALUES (E'VE-V', E'Zulia', E'state');

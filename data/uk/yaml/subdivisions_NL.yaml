@@ -1,0 +1,55 @@
+---
+NL-AW:
+  name: "Аруба"
+  level: country
+NL-BQ1:
+  name: "Бонайре"
+  level: special municipality
+NL-CW:
+  name: "Кюрасао"
+  level: country
+NL-DR:
+  name: "Дренте"
+  level: province
+NL-FL:
+  name: "Флеволанд"
+  level: province
+NL-FR:
+  name: "Фрисландія"
+  level: province
+NL-GE:
+  name: "Гелдерланд"
+  level: province
+NL-GR:
+  name: "Гронінген"
+  level: province
+NL-LI:
+  name: "Лімбург"
+  level: province
+NL-NB:
+  name: "Північний Брабант"
+  level: province
+NL-NH:
+  name: "Північна Голландія"
+  level: province
+NL-OV:
+  name: "Оверейсел"
+  level: province
+NL-BQ2:
+  name: "Саба"
+  level: special municipality
+NL-BQ3:
+  name: "Сінт-Естатіус"
+  level: special municipality
+NL-SX:
+  name: "Сінт-Мартен"
+  level: country
+NL-ZH:
+  name: "Південна Голландія"
+  level: province
+NL-UT:
+  name: "Утрехт"
+  level: province
+NL-ZE:
+  name: "Зеландія"
+  level: province

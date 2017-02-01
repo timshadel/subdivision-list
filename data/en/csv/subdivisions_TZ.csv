@@ -1,0 +1,27 @@
+id,name,level
+TZ-01,Arusha,region
+TZ-02,Dar es Salaam,region
+TZ-03,Dodoma,region
+TZ-04,Iringa,region
+TZ-05,Kagera,region
+TZ-06,North Pemba Region,region
+TZ-07,Zanzibar North Region,region
+TZ-08,Kigoma,region
+TZ-09,Mount Kilimanjaro,region
+TZ-10,South Pemba Region,region
+TZ-11,Zanzibar Central/South Region,region
+TZ-12,Lindi,region
+TZ-26,Manyara Region,region
+TZ-13,Mara,region
+TZ-14,Mbeya,region
+TZ-15,Zanzibar Urban/West Region,region
+TZ-16,Morogoro,region
+TZ-17,Mtwara,region
+TZ-18,Mwanza,region
+TZ-19,Pwani,region
+TZ-20,Rukwa Region,region
+TZ-21,Ruvuma Region,region
+TZ-22,Shinyanga,region
+TZ-23,Singida,region
+TZ-24,Tabora,region
+TZ-25,Tanga,region

@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Војводство Великопољско', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Војводство Кујавско-Поморје', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Војводство Малопољско', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Војводство Доње Шлеско', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Војводство Лублин', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Војводство Лубуш', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Војводство Мазовско', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Војводство Опоље', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Војводство Поткарпатје', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Војводство Подласко', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Војводство Поморје', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Војводство Шлеско', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Варминско-мазурско војводство', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Војводство Западно Поморје', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Војводство Светокришко', 'level' => 'voivodship'),
+);

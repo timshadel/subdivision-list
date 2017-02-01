@@ -1,0 +1,22 @@
+CREATE TABLE subdivision_BT (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-33', E'Bumthang', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-12', E'Mebisa', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-22', E'Dagana', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-GA', E'Gasa', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-13', E'Ha', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-44', E'Lhuntse', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-42', E'Mongar', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-11', E'Paro', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-43', E'Pemagatsel', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-23', E'Punakha', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-45', E'Samdrup Jongkhar', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-14', E'Samtse', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-31', E'Sarpang', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-15', E'Thimphu', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-TY', E'Trashiyangtse', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-41', E'Trashigang', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-32', E'Trongsa', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-21', E'Tsirang District', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-24', E'Wangdue Phodrang', E'district');
+INSERT INTO "subdivision_BT" ("id", "name", "level") VALUES (E'BT-34', E'Zhemgang', E'district');

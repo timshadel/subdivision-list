@@ -1,0 +1,229 @@
+---
+GB-BAS:
+  name: Bath an Nordost Somerset
+  level: unitary authority
+GB-BDF:
+  name: Bedfordshire
+  level: unitary authority
+GB-BBD:
+  name: Blackburn an Darwen
+  level: unitary authority
+GB-BPL:
+  name: Blackpool
+  level: unitary authority
+GB-BMH:
+  name: Bournemouth
+  level: unitary authority
+GB-BNH:
+  name: Brighton an Hove
+  level: unitary authority
+GB-BST:
+  name: Bristol
+  level: unitary authority
+GB-BKM:
+  name: Buckinghamshire
+  level: two-tier county
+GB-CAM:
+  name: Cambridgeshire
+  level: two-tier county
+GB-CHS:
+  name: Cheshire
+  level: ''
+GB-CON:
+  name: Cornwall
+  level: unitary authority
+GB-CMA:
+  name: Cumbria
+  level: two-tier county
+GB-DAL:
+  name: Darlington
+  level: unitary authority
+GB-DER:
+  name: Derby
+  level: unitary authority
+GB-DBY:
+  name: Derbyshire
+  level: two-tier county
+GB-DEV:
+  name: Devon
+  level: two-tier county
+GB-DOR:
+  name: Grofschaft Dorset
+  level: two-tier county
+GB-ERY:
+  name: Ost Riding vu Yorkshire
+  level: unitary authority
+GB-ESX:
+  name: Ost Sussex
+  level: two-tier county
+GB-EDH:
+  name: Edinburgh
+  level: council area (scotland)
+GB-ESS:
+  name: Grofschaft Essex
+  level: two-tier county
+GB-GLS:
+  name: Gloucestershire
+  level: two-tier county
+GB-HAM:
+  name: Hampshire
+  level: two-tier county
+GB-HPL:
+  name: Hartlepool
+  level: unitary authority
+GB-HEF:
+  name: Herefordshire
+  level: unitary authority
+GB-HRT:
+  name: Hertfordshire
+  level: two-tier county
+GB-AGY:
+  name: Anglesey
+  level: unitary authority (wales)
+GB-IOW:
+  name: Insel Wight
+  level: unitary authority
+GB-KEN:
+  name: Kent
+  level: two-tier county
+GB-KHL:
+  name: Kingston-upon-Hull
+  level: unitary authority
+GB-LAN:
+  name: Lancashire
+  level: two-tier county
+GB-LCE:
+  name: Leicester
+  level: unitary authority
+GB-LEC:
+  name: Leicestershire
+  level: two-tier county
+GB-LIN:
+  name: Lincolnshire
+  level: two-tier county
+GB-LIV:
+  name: Liverpool
+  level: metropolitan district
+GB-LUT:
+  name: Luton
+  level: unitary authority
+GB-MDW:
+  name: Medway
+  level: unitary authority
+GB-MDB:
+  name: Middlesbrough
+  level: unitary authority
+GB-NFK:
+  name: Norfolk
+  level: two-tier county
+GB-NEL:
+  name: Nordost Lincolnshire
+  level: unitary authority
+GB-NLN:
+  name: Nord Lincolnshire
+  level: unitary authority
+GB-NSM:
+  name: Nord Somerset
+  level: unitary authority
+GB-NYK:
+  name: Nord Yorkshire
+  level: two-tier county
+GB-NTH:
+  name: Northamptonshire
+  level: two-tier county
+GB-NBL:
+  name: Grofschaft Northumberland
+  level: unitary authority
+GB-NGM:
+  name: Nottingham
+  level: unitary authority
+GB-NTT:
+  name: Nottinghamshire
+  level: two-tier county
+GB-OXF:
+  name: Oxfordshire
+  level: two-tier county
+GB-PTE:
+  name: Peterborough
+  level: unitary authority
+GB-PLY:
+  name: Plymouth
+  level: unitary authority
+GB-POL:
+  name: Poole
+  level: unitary authority
+GB-POR:
+  name: Portsmouth
+  level: unitary authority
+GB-RCC:
+  name: Redcar a Cleveland
+  level: unitary authority
+GB-RUT:
+  name: Rutland
+  level: unitary authority
+GB-SHR:
+  name: Shropshire
+  level: unitary authority
+GB-SOM:
+  name: Somerset
+  level: two-tier county
+GB-SGC:
+  name: Süd Gloucestershire
+  level: unitary authority
+GB-STH:
+  name: Southampton
+  level: unitary authority
+GB-SOS:
+  name: Southend-on-Sea
+  level: unitary authority
+GB-STS:
+  name: Staffordshire
+  level: two-tier county
+GB-STE:
+  name: Stoke-on-Trent
+  level: unitary authority
+GB-SFK:
+  name: Suffolk
+  level: two-tier county
+GB-SRY:
+  name: Grofschaft Surrey
+  level: two-tier county
+ENG:
+  name: England
+  level: country
+NIR:
+  name: Nordirland
+  level: country
+SCT:
+  name: Schottland
+  level: country
+GB-TFW:
+  name: Telford a Wrekin
+  level: unitary authority
+GB-THR:
+  name: Thurrock
+  level: unitary authority
+GB-TOB:
+  name: Torbay
+  level: unitary authority
+WLS:
+  name: Wales
+  level: country
+GB-WRT:
+  name: Warrington
+  level: unitary authority
+GB-WAR:
+  name: Warwickshire
+  level: two-tier county
+GB-WSX:
+  name: West Sussex
+  level: two-tier county
+GB-WIL:
+  name: Wiltshire
+  level: unitary authority
+GB-WOR:
+  name: Worcestershire
+  level: two-tier county
+GB-YOR:
+  name: York
+  level: unitary authority

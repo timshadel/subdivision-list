@@ -1,0 +1,7 @@
+Regione di Banská Bystrica (SK-BC)
+Regione di Bratislava (SK-BL)
+Regione di Košice (SK-KI)
+Regione di Nitra (SK-NI)
+Regione di Prešov (SK-PV)
+Regione di Trnava (SK-TA)
+Regione di Žilina (SK-ZI)

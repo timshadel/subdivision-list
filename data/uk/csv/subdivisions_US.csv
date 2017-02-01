@@ -1,0 +1,58 @@
+id,name,level
+US-AL,Алабама,state
+US-AK,Аляска,state
+US-AS,Східне Самоа,outlying area
+US-AZ,Аризона,state
+US-AR,Арканзас,state
+US-CA,Каліфорнія,state
+US-CO,Колорадо,state
+US-CT,Коннектикут,state
+US-DE,Делавер,state
+US-FL,Флорида,state
+US-GA,Джорджія,state
+US-GU,Гуам,outlying area
+US-HI,Гаваї,state
+US-ID,Айдахо,state
+US-IL,Іллінойс,state
+US-IN,Індіана,state
+US-IA,Айова,state
+US-KS,Канзас,state
+US-KY,Кентуккі,state
+US-LA,Луїзіана,state
+US-ME,Мен,state
+US-MD,Меріленд,state
+US-MA,Массачусетс,state
+US-MI,Мічиган,state
+US-MN,Міннесота,state
+US-MS,Міссісіпі,state
+US-MO,Міссурі,state
+US-MT,Монтана,state
+US-NE,Небраска,state
+US-NV,Невада,state
+US-NH,Нью-Гемпшир,state
+US-NJ,Нью-Джерсі,state
+US-NM,Нью-Мексико,state
+US-NY,Нью-Йорк,state
+US-NC,Північна Кароліна,state
+US-ND,Північна Дакота,state
+US-MP,Північні Маріанські острови,outlying area
+US-OH,Огайо,state
+US-OK,Оклахома,state
+US-OR,Орегон,state
+US-PA,Пенсильванія,state
+US-PR,Пуерто-Рико,outlying area
+US-RI,Род-Айленд,state
+US-SC,Південна Кароліна,state
+US-SD,Південна Дакота,state
+US-TN,Теннессі,state
+US-TX,Техас,state
+US-UM,Зовнішні малі острови США,outlying area
+US-UT,Юта,state
+US-DC,Вашингтон,district
+US-VT,Вермонт,state
+US-VI,Віргінські острови,outlying area
+US-VA,Вірджинія,state
+US-WA,Вашингтон,state
+US-WV,Західна Вірджинія,state
+US-WI,Вісконсин,state
+US-WY,Вайомінг,state

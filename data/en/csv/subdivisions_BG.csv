@@ -1,0 +1,29 @@
+id,name,level
+BG-01,Blagoevgrad,region
+BG-02,Burgas,region
+BG-08,Dobrich,region
+BG-07,Gabrovo,region
+BG-26,Haskovo,region
+BG-09,Kardzhali,region
+BG-10,Kyustendil,region
+BG-11,Lovech,region
+BG-12,Montana,region
+BG-13,Pazardzhik,region
+BG-14,Pernik,region
+BG-15,Pleven,region
+BG-16,Plovdiv,region
+BG-17,Razgrad,region
+BG-18,Ruse,region
+BG-19,Silistra,region
+BG-20,Sliven,region
+BG-21,Smolyan,region
+BG-23,Sofia,region
+BG-22,Sofia,region
+BG-24,Stara Zagora,region
+BG-25,Targovishte,region
+BG-03,Varna,region
+BG-04,Veliko Tarnovo,region
+BG-05,Vidin,region
+BG-06,Vratsa,region
+BG-28,Yambol,region
+BG-27,Shumen,region

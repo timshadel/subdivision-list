@@ -1,0 +1,8 @@
+Ashanti (GH-AH)
+Région de Brong Ahafo (GH-BA)
+Central (GH-CP)
+Région du Grand Accra (GH-AA)
+Northern (GH-NP)
+Région du Haut Ghana oriental (GH-UE)
+Volta (GH-TV)
+Western (GH-WP)

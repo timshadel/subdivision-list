@@ -1,0 +1,49 @@
+---
+CH-AG:
+  name: Aargau
+  level: canton
+CH-AR:
+  name: Appenzell Ausserrhoden
+  level: canton
+CH-AI:
+  name: Appenzell Innerrhoden
+  level: canton
+CH-BL:
+  name: Bazilej-vidiek
+  level: canton
+CH-BS:
+  name: Bazilej-mesto
+  level: canton
+CH-BE:
+  name: Bern
+  level: canton
+CH-FR:
+  name: Fribourg
+  level: canton
+CH-GR:
+  name: Graubünden
+  level: canton
+CH-JU:
+  name: Jura
+  level: canton
+CH-NE:
+  name: Neuchâtel
+  level: canton
+CH-SG:
+  name: Sankt Gallen
+  level: canton
+CH-TI:
+  name: Ticino
+  level: canton
+CH-UR:
+  name: URI
+  level: canton
+CH-GE:
+  name: "Ženeva"
+  level: canton
+CH-LU:
+  name: Luzern
+  level: canton
+CH-ZH:
+  name: Zürich
+  level: canton

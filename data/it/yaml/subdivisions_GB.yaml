@@ -1,0 +1,610 @@
+---
+GB-ARD:
+  name: ARD
+  level: district council area (northern ireland)
+GB-ABE:
+  name: Aberdeen
+  level: council area (scotland)
+GB-ABD:
+  name: Aberdeenshire
+  level: council area (scotland)
+GB-ANS:
+  name: Angus
+  level: council area (scotland)
+GB-ANT:
+  name: Antrim
+  level: district council area (northern ireland)
+GB-AGB:
+  name: Argyll e Bute
+  level: council area (scotland)
+GB-ARM:
+  name: Armagh
+  level: district council area (northern ireland)
+GB-BLA:
+  name: Ballymena
+  level: district council area (northern ireland)
+GB-BNB:
+  name: Banbridge
+  level: district council area (northern ireland)
+GB-BNS:
+  name: Barnsley
+  level: metropolitan district
+GB-BAS:
+  name: Bath and North East Somerset
+  level: unitary authority
+GB-BDF:
+  name: Bedfordshire
+  level: unitary authority
+GB-BFS:
+  name: Belfast
+  level: district council area (northern ireland)
+GB-BIR:
+  name: Birmingham
+  level: metropolitan district
+GB-BBD:
+  name: Blackburn with Darwen
+  level: unitary authority
+GB-BPL:
+  name: Blackpool
+  level: unitary authority
+GB-BGW:
+  name: Blaenau Gwent
+  level: unitary authority (wales)
+GB-BOL:
+  name: Bolton
+  level: metropolitan district
+GB-BMH:
+  name: Bournemouth
+  level: unitary authority
+GB-BRC:
+  name: Bracknell Forest
+  level: unitary authority
+GB-BRD:
+  name: Bradford
+  level: metropolitan district
+GB-BEN:
+  name: Brent
+  level: borough
+GB-BGE:
+  name: Bridgend
+  level: unitary authority (wales)
+GB-BNH:
+  name: Brighton & Hove
+  level: unitary authority
+GB-BST:
+  name: Bristol
+  level: unitary authority
+GB-BKM:
+  name: Buckinghamshire
+  level: two-tier county
+GB-BUR:
+  name: Bury
+  level: metropolitan district
+GB-CAY:
+  name: Caerphilly
+  level: unitary authority (wales)
+GB-CLD:
+  name: Calderdale
+  level: metropolitan district
+GB-CAM:
+  name: Cambridgeshire
+  level: two-tier county
+GB-CMD:
+  name: Camden
+  level: borough
+GB-CRF:
+  name: Cardiff
+  level: unitary authority (wales)
+GB-CMN:
+  name: Carmarthenshire
+  level: unitary authority (wales)
+GB-CKF:
+  name: Carrickfergus
+  level: district council area (northern ireland)
+GB-CGN:
+  name: Ceredigion
+  level: unitary authority (wales)
+GB-CHS:
+  name: Cheshire
+  level: ''
+GB-CLK:
+  name: Clackmannanshire
+  level: council area (scotland)
+GB-CLR:
+  name: Coleraine
+  level: district council area (northern ireland)
+GB-CWY:
+  name: Conwy
+  level: unitary authority (wales)
+GB-CON:
+  name: Cornovaglia
+  level: unitary authority
+GB-COV:
+  name: Coventry
+  level: metropolitan district
+GB-BDG:
+  name: Barking e Dagenham
+  level: borough
+GB-FER:
+  name: Fermanagh
+  level: district council area (northern ireland)
+GB-CMA:
+  name: Cumbria
+  level: two-tier county
+GB-DAL:
+  name: Darlington
+  level: unitary authority
+GB-DEN:
+  name: Denbighshire
+  level: unitary authority (wales)
+GB-DER:
+  name: Derby
+  level: unitary authority
+GB-DBY:
+  name: Derbyshire
+  level: two-tier county
+GB-DRY:
+  name: Derry
+  level: district council area (northern ireland)
+GB-DEV:
+  name: Devon
+  level: two-tier county
+GB-DNC:
+  name: Doncaster
+  level: metropolitan district
+GB-DOR:
+  name: Dorset
+  level: two-tier county
+GB-DOW:
+  name: Down
+  level: district council area (northern ireland)
+GB-DUD:
+  name: Dudley
+  level: metropolitan district
+GB-DGY:
+  name: Dumfries e Galloway
+  level: council area (scotland)
+GB-DND:
+  name: Dundee
+  level: council area (scotland)
+GB-DGN:
+  name: Distretto di Dungannon e South Tyrone
+  level: district council area (northern ireland)
+GB-DUR:
+  name: Durham
+  level: unitary authority
+GB-EAL:
+  name: Ealing
+  level: borough
+GB-EAY:
+  name: Ayrshire Orientale
+  level: council area (scotland)
+GB-EDU:
+  name: Dunbartonshire Orientale
+  level: council area (scotland)
+GB-ELN:
+  name: East Lothian
+  level: council area (scotland)
+GB-ERW:
+  name: Renfrewshire Orientale
+  level: council area (scotland)
+GB-ERY:
+  name: East Riding of Yorkshire
+  level: unitary authority
+GB-ESX:
+  name: East Sussex
+  level: two-tier county
+GB-EDH:
+  name: Edimburgo
+  level: council area (scotland)
+GB-ENF:
+  name: Enfield
+  level: borough
+GB-ESS:
+  name: Essex
+  level: two-tier county
+GB-FAL:
+  name: Falkirk
+  level: council area (scotland)
+GB-FIF:
+  name: Fife
+  level: council area (scotland)
+GB-FLN:
+  name: Flintshire
+  level: unitary authority (wales)
+GB-GAT:
+  name: Gateshead
+  level: metropolitan district
+GB-GLG:
+  name: Glasgow
+  level: council area (scotland)
+GB-GLS:
+  name: Gloucestershire
+  level: two-tier county
+GB-GRE:
+  name: Greenwich
+  level: borough
+GB-GWN:
+  name: Gwynedd
+  level: unitary authority (wales)
+GB-HAL:
+  name: Halton
+  level: unitary authority
+GB-HAM:
+  name: Hampshire
+  level: two-tier county
+GB-HPL:
+  name: Hartlepool
+  level: unitary authority
+GB-HEF:
+  name: Herefordshire
+  level: unitary authority
+GB-HRT:
+  name: Hertfordshire
+  level: two-tier county
+GB-IVC:
+  name: Inverclyde
+  level: council area (scotland)
+GB-HMF:
+  name: Hammersmith e Fulham
+  level: borough
+GB-HAV:
+  name: Havering
+  level: borough
+GB-ELS:
+  name: Ebridi Esterne
+  level: council area (scotland)
+GB-AGY:
+  name: Anglesey
+  level: unitary authority (wales)
+GB-LND:
+  name: Città di Londra
+  level: city corporation
+GB-IOW:
+  name: Isola di Wight
+  level: unitary authority
+GB-IOS:
+  name: Isole Scilly
+  level: ''
+GB-KEN:
+  name: Kent
+  level: two-tier county
+GB-KHL:
+  name: Kingston upon Hull
+  level: unitary authority
+GB-KTT:
+  name: Kingston upon Thames
+  level: borough
+GB-KIR:
+  name: Kirklees
+  level: metropolitan district
+GB-LBH:
+  name: Lambeth
+  level: borough
+GB-LAN:
+  name: Lancashire
+  level: two-tier county
+GB-LRN:
+  name: Larne
+  level: district council area (northern ireland)
+GB-LDS:
+  name: Leeds
+  level: metropolitan district
+GB-LCE:
+  name: Leicester
+  level: unitary authority
+GB-LEC:
+  name: Leicestershire
+  level: two-tier county
+GB-LIN:
+  name: Lincolnshire
+  level: two-tier county
+GB-LSB:
+  name: Lisburn
+  level: district council area (northern ireland)
+GB-LIV:
+  name: Liverpool
+  level: metropolitan district
+GB-NWM:
+  name: Newham
+  level: borough
+GB-LUT:
+  name: Luton
+  level: unitary authority
+GB-MAN:
+  name: Manchester
+  level: metropolitan district
+GB-MDW:
+  name: Medway
+  level: unitary authority
+GB-MTY:
+  name: Merthyr Tydfil
+  level: unitary authority (wales)
+GB-MDB:
+  name: Middlesbrough
+  level: unitary authority
+GB-MLN:
+  name: Midlothian
+  level: council area (scotland)
+GB-MIK:
+  name: Milton Keynes
+  level: unitary authority
+GB-MON:
+  name: Monmouthshire
+  level: unitary authority (wales)
+GB-MRY:
+  name: Moray
+  level: council area (scotland)
+GB-NTL:
+  name: Neath Port Talbot
+  level: unitary authority (wales)
+GB-NET:
+  name: Newcastle upon Tyne
+  level: metropolitan district
+GB-NWP:
+  name: Newport
+  level: unitary authority (wales)
+GB-NYM:
+  name: Distretto di Newry e Mourne
+  level: district council area (northern ireland)
+GB-NFK:
+  name: Norfolk
+  level: two-tier county
+GB-NAY:
+  name: Ayrshire Settentrionale
+  level: council area (scotland)
+GB-NEL:
+  name: North East Lincolnshire
+  level: unitary authority
+GB-NLK:
+  name: Lanarkshire Settentrionale
+  level: council area (scotland)
+GB-NLN:
+  name: North Lincolnshire
+  level: unitary authority
+GB-NSM:
+  name: North Somerset
+  level: unitary authority
+GB-NTY:
+  name: North Tyneside
+  level: metropolitan district
+GB-NYK:
+  name: North Yorkshire
+  level: two-tier county
+GB-NTH:
+  name: Northamptonshire
+  level: two-tier county
+GB-NBL:
+  name: Northumberland
+  level: unitary authority
+GB-RIC:
+  name: Richmond upon Thames
+  level: borough
+GB-NGM:
+  name: Nottingham
+  level: unitary authority
+GB-NTT:
+  name: Nottinghamshire
+  level: two-tier county
+GB-OLD:
+  name: Oldham
+  level: metropolitan district
+GB-OMH:
+  name: Omagh
+  level: district council area (northern ireland)
+GB-ORK:
+  name: Isole Orcadi
+  level: council area (scotland)
+GB-OXF:
+  name: Oxfordshire
+  level: two-tier county
+GB-PEM:
+  name: Pembrokeshire
+  level: unitary authority (wales)
+GB-PKN:
+  name: Perth e Kinross
+  level: council area (scotland)
+GB-PTE:
+  name: Peterborough
+  level: unitary authority
+GB-PLY:
+  name: Plymouth
+  level: unitary authority
+GB-POL:
+  name: Poole
+  level: unitary authority
+GB-POR:
+  name: Portsmouth
+  level: unitary authority
+GB-POW:
+  name: Powys
+  level: unitary authority (wales)
+GB-RDG:
+  name: Reading
+  level: unitary authority
+GB-RCC:
+  name: Redcar and Cleveland
+  level: unitary authority
+GB-RFW:
+  name: Renfrewshire
+  level: council area (scotland)
+GB-RCH:
+  name: Rochdale
+  level: metropolitan district
+GB-ROT:
+  name: Rotherham
+  level: metropolitan district
+GB-RUT:
+  name: Rutland
+  level: unitary authority
+GB-SAW:
+  name: Sandwell
+  level: metropolitan district
+GB-SCB:
+  name: Scottish Borders
+  level: council area (scotland)
+GB-SHF:
+  name: Sheffield
+  level: metropolitan district
+GB-ZET:
+  name: Isole Shetland
+  level: council area (scotland)
+GB-SHR:
+  name: Shropshire
+  level: unitary authority
+GB-SLG:
+  name: Slough
+  level: unitary authority
+GB-SOL:
+  name: Solihull
+  level: metropolitan district
+GB-SOM:
+  name: Somerset
+  level: two-tier county
+GB-SAY:
+  name: Ayrshire Meridionale
+  level: council area (scotland)
+GB-SGC:
+  name: South Gloucestershire
+  level: unitary authority
+GB-SLK:
+  name: Lanarkshire Meridionale
+  level: council area (scotland)
+GB-STY:
+  name: South Tyneside
+  level: metropolitan district
+GB-STH:
+  name: Southampton
+  level: unitary authority
+GB-SOS:
+  name: Southend-on-Sea
+  level: unitary authority
+GB-SHN:
+  name: St. Helens
+  level: metropolitan district
+GB-STS:
+  name: Staffordshire
+  level: two-tier county
+GB-STG:
+  name: Stirling
+  level: council area (scotland)
+GB-SKP:
+  name: Stockport
+  level: metropolitan district
+GB-STT:
+  name: Stockton-on-Tees
+  level: unitary authority
+GB-STE:
+  name: Stoke-on-Trent
+  level: unitary authority
+GB-STB:
+  name: Strabane
+  level: district council area (northern ireland)
+GB-SFK:
+  name: Suffolk
+  level: two-tier county
+GB-SND:
+  name: Sunderland
+  level: metropolitan district
+GB-SRY:
+  name: Surrey
+  level: two-tier county
+GB-STN:
+  name: Sutton
+  level: borough
+ENG:
+  name: Inghilterra
+  level: country
+GB-TWH:
+  name: Tower Hamlets
+  level: borough
+GB-WFT:
+  name: Waltham Forest
+  level: borough
+NIR:
+  name: Irlanda del Nord
+  level: country
+GB-WNM:
+  name: Royal Borough of Windsor and Maidenhead
+  level: unitary authority
+SCT:
+  name: Scozia
+  level: country
+GB-SWA:
+  name: Swansea
+  level: unitary authority (wales)
+GB-SWD:
+  name: Swindon
+  level: unitary authority
+GB-TAM:
+  name: Tameside
+  level: metropolitan district
+GB-TFW:
+  name: Telford and Wrekin
+  level: unitary authority
+GB-THR:
+  name: Thurrock
+  level: unitary authority
+GB-TOB:
+  name: Torbay
+  level: unitary authority
+GB-TOF:
+  name: Torfaen
+  level: unitary authority (wales)
+GB-TRF:
+  name: Trafford
+  level: metropolitan district
+GB-VGL:
+  name: Vale of Glamorgan
+  level: unitary authority (wales)
+GB-WKF:
+  name: Wakefield
+  level: metropolitan district
+WLS:
+  name: Galles
+  level: country
+GB-WLL:
+  name: Walsall
+  level: metropolitan district
+GB-WRT:
+  name: Warrington
+  level: unitary authority
+GB-WAR:
+  name: Warwickshire
+  level: two-tier county
+GB-WBK:
+  name: West Berkshire
+  level: unitary authority
+GB-WDU:
+  name: Dunbartonshire Occidentale
+  level: council area (scotland)
+GB-WSX:
+  name: West Sussex
+  level: two-tier county
+GB-WSM:
+  name: Westminster
+  level: borough
+GB-WGN:
+  name: Wigan
+  level: metropolitan district
+GB-WIL:
+  name: Wiltshire
+  level: unitary authority
+GB-WRL:
+  name: Wirral
+  level: metropolitan district
+GB-WOK:
+  name: Wokingham
+  level: unitary authority
+GB-WLV:
+  name: Wolverhampton
+  level: metropolitan district
+GB-WOR:
+  name: Worcestershire
+  level: two-tier county
+GB-WRX:
+  name: Wrexham
+  level: unitary authority (wales)
+GB-YOR:
+  name: York
+  level: unitary authority

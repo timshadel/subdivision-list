@@ -1,0 +1,52 @@
+---
+MU-AG:
+  name: Agalega Islands
+  level: dependency
+MU-BR:
+  name: Beau-Bassin Rose-Hill
+  level: city
+MU-BL:
+  name: Black River
+  level: district
+MU-CC:
+  name: Cargados Carajos Shoals
+  level: dependency
+MU-CU:
+  name: Curepipe
+  level: city
+MU-FL:
+  name: Flacq District
+  level: district
+MU-GP:
+  name: Grand Port District
+  level: district
+MU-MO:
+  name: Moka
+  level: district
+MU-PA:
+  name: Pamplemousses District
+  level: district
+MU-PW:
+  name: Plaines Wilhems District
+  level: district
+MU-PL:
+  name: Port Louis City
+  level: district
+MU-PU:
+  name: Port Louis District
+  level: city
+MU-QB:
+  name: Quatre Bornes
+  level: city
+MU-RR:
+  name: Rivière du Rempart
+  level: district
+MU-RO:
+  name: Rodrigues
+  level: dependency
+MU-SA:
+  name: Savanne District
+  level: district
+MU-VP:
+  name: Vacoas-Phoenix
+  level: city

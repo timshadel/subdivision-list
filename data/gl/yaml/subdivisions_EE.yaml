@@ -1,0 +1,40 @@
+---
+EE-37:
+  name: Condado de Harju
+  level: county
+EE-44:
+  name: Condado de Ida-Viru
+  level: county
+EE-51:
+  name: Condado de Järva
+  level: county
+EE-49:
+  name: Condado de Jõgeva
+  level: county
+EE-59:
+  name: Condado de Lääne-Viru
+  level: county
+EE-57:
+  name: Condado de Lääne
+  level: county
+EE-67:
+  name: Condado de Pärnu
+  level: county
+EE-65:
+  name: Condado de Põlva
+  level: county
+EE-70:
+  name: Condado de Rapla
+  level: county
+EE-78:
+  name: Condado de Tartu
+  level: county
+EE-82:
+  name: Condado de Valga
+  level: county
+EE-84:
+  name: Condado de Viljandi
+  level: county
+EE-86:
+  name: Condado de Võru
+  level: county

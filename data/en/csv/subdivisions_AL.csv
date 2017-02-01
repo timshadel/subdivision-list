@@ -1,0 +1,49 @@
+id,name,level
+AL-BR,Berat,district
+AL-01,Berat,county
+AL-BU,Bulqizë,district
+AL-DL,Delvinë,district
+AL-DV,Devoll,district
+AL-DI,Dibër,district
+AL-09,Dibër,county
+AL-02,Durrës,county
+AL-DR,Durrës,district
+AL-EL,Elbasan,district
+AL-03,Elbasan,county
+AL-04,Fier,county
+AL-FR,Fier,district
+AL-GJ,Gjirokastër,district
+AL-05,Gjirokastër,county
+AL-GR,Gramsh,district
+AL-HA,HAS,district
+AL-KA,Kavajë,district
+AL-ER,Kolonjë District,district
+AL-KO,Korçë,district
+AL-06,Korçë,county
+AL-KR,Krujë,district
+AL-KU,Kukës,district
+AL-07,Kukës,county
+AL-KB,Kurbin District,district
+AL-KC,Kuçovë,district
+AL-LE,Lezhë,district
+AL-08,Lezhë,county
+AL-LB,Librazhd,district
+AL-LU,Lushnjë,district
+AL-MK,Mallakastër,district
+AL-MM,Malësi e Madhe District,district
+AL-MT,Mat,district
+AL-MR,Mirditë District,district
+AL-PQ,Peqin,district
+AL-PG,Pogradec,district
+AL-PU,Pukë,district
+AL-PR,Përmet,district
+AL-SR,Sarandë,district
+AL-SH,Shkodër,district
+AL-10,Shkodër,county
+AL-SK,Skrapar District,district
+AL-TE,Tepelenë,district
+AL-TR,Tirana,district
+AL-11,Tirana,county
+AL-TP,Tropojë,district
+AL-12,Vlorë,county
+AL-VL,Vlorë,district

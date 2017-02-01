@@ -1,0 +1,19 @@
+---
+RS-00:
+  name: "Белград"
+  level: city
+RS-02:
+  name: "Середньо-Банатський округ"
+  level: district
+RS-03:
+  name: "Північно-Банатський округ"
+  level: district
+RS-01:
+  name: "Північно-Бацький округ"
+  level: district
+RS-04:
+  name: "Південно-Банатський округ"
+  level: district
+RS-07:
+  name: "Сремський округ"
+  level: district

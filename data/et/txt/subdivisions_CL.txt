@@ -1,0 +1,4 @@
+Antofagasta (CL-AN)
+Arica y Parinacota (CL-AP)
+Atacama (CL-AT)
+Valparaíso (CL-VS)

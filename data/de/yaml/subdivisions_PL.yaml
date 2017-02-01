@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: Woiwodschaft Großpolen
+  level: voivodship
+PL-KP:
+  name: Woiwodschaft Kujawien-Pommern
+  level: voivodship
+PL-MA:
+  name: Woiwodschaft Kleinpolen
+  level: voivodship
+PL-DS:
+  name: Woiwodschaft Niederschlesien
+  level: voivodship
+PL-LU:
+  name: Woiwodschaft Lublin
+  level: voivodship
+PL-LB:
+  name: Woiwodschaft Lebus
+  level: voivodship
+PL-MZ:
+  name: Woiwodschaft Masowien
+  level: voivodship
+PL-OP:
+  name: Woiwodschaft Oppeln
+  level: voivodship
+PL-PK:
+  name: Woiwodschaft Karpatenvorland
+  level: voivodship
+PL-PD:
+  name: Woiwodschaft Podlachien
+  level: voivodship
+PL-PM:
+  name: Woiwodschaft Pommern
+  level: voivodship
+PL-SL:
+  name: Woiwodschaft Schlesien
+  level: voivodship
+PL-WN:
+  name: Woiwodschaft Ermland-Masuren
+  level: voivodship
+PL-ZP:
+  name: Woiwodschaft Westpommern
+  level: voivodship
+PL-SK:
+  name: Woiwodschaft Heiligkreuz
+  level: voivodship

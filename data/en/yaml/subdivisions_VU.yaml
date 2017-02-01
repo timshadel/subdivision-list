@@ -1,0 +1,19 @@
+---
+VU-MAP:
+  name: Malampa Province
+  level: province
+VU-PAM:
+  name: Penama Province
+  level: province
+VU-SAM:
+  name: Sanma
+  level: province
+VU-SEE:
+  name: Shefa Province
+  level: province
+VU-TAE:
+  name: Tafea Province
+  level: province
+VU-TOB:
+  name: Torba
+  level: province

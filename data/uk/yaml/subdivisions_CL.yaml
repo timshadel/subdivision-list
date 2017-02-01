@@ -1,0 +1,25 @@
+---
+CL-AN:
+  name: "Антофаґаста"
+  level: region
+CL-AP:
+  name: XV Регіон Аріка-і-Парінакота
+  level: region
+CL-AT:
+  name: "Атакама"
+  level: region
+CL-AI:
+  name: XI Регіон Айсен
+  level: region
+CL-CO:
+  name: "Кокімбо"
+  level: region
+CL-MA:
+  name: "Магальянес"
+  level: region
+CL-RM:
+  name: "Столичний Регіон Сантьяго"
+  level: region
+CL-VS:
+  name: "Вальпараїсо"
+  level: region

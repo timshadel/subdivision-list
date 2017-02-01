@@ -1,0 +1,16 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Voivodat de Gran Polònia', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Voivodat de Cuiàvia i Pomerània', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Voivodat de Petita Polònia', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Voivodat de Baixa Silèsia', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Voivodat de Lublin', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Voivodat de Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Voivodat de Masòvia', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Voivodat de Subcarpàcia', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Voivodat de Podlàquia', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Voivodat de Pomerània', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Voivodat de Silèsia', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Voivodat de Warmia i Mazury', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Voivodat de Pomerània Occidental', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Voivodat de Santa Creu', 'level' => 'voivodship'),
+);

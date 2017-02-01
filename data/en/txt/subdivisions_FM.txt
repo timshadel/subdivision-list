@@ -1,0 +1,4 @@
+Chuuk (FM-TRK)
+Kosrae (FM-KSA)
+Pohnpei (FM-PNI)
+Yap (FM-YAP)

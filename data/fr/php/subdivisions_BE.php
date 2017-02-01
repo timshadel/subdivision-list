@@ -1,0 +1,15 @@
+<?php return array (
+  'BE-VAN' => array('name' => 'Anvers', 'level' => 'province'),
+  'BE-BRU' => array('name' => 'Région de Bruxelles-Capitale', 'level' => 'capital region'),
+  'BE-VOV' => array('name' => 'Province de Flandre-Orientale', 'level' => 'province'),
+  'BE-VBR' => array('name' => 'Province du Brabant flamand', 'level' => 'province'),
+  'BE-VLG' => array('name' => 'Région flamande', 'level' => 'region'),
+  'BE-WHT' => array('name' => 'Hainaut', 'level' => 'province'),
+  'BE-VLI' => array('name' => 'Limbourg', 'level' => 'province'),
+  'BE-WLG' => array('name' => 'Liège', 'level' => 'province'),
+  'BE-WLX' => array('name' => 'Luxembourg', 'level' => 'province'),
+  'BE-WNA' => array('name' => 'Namur', 'level' => 'province'),
+  'BE-WAL' => array('name' => 'Wallonie', 'level' => 'region'),
+  'BE-WBR' => array('name' => 'Province du Brabant wallon', 'level' => 'province'),
+  'BE-VWV' => array('name' => 'Province de Flandre-Occidentale', 'level' => 'province'),
+);

@@ -1,0 +1,16 @@
+---
+TG-C:
+  name: Center
+  level: region
+TG-K:
+  name: Kara
+  level: region
+TG-M:
+  name: Maritime Region
+  level: region
+TG-P:
+  name: Plateaux
+  level: region
+TG-S:
+  name: Savanes Region
+  level: region

@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_NO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-02', 'Акерсхус', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-09', 'Источни Агдер', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-06', 'Бускеруд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-20', 'Финмарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-04', 'Хедмарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-12', 'Хордаланд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-22', 'Јан Мајен', '');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-15', 'Мере ог Ромсдал', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-17', 'Северни Тренделаг', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-18', 'Нордланд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-05', 'Опланд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-03', 'Осло', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-11', 'Рогаланд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-14', 'Согн ог Фјордане', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-21', 'Свалбард', '');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-16', 'Јужни Тренделаг', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-08', 'Телемарк', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-19', 'Тромс', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-10', 'Западни Агдер', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-07', 'Вестфолд', 'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES ('NO-01', 'Естфолд', 'county');

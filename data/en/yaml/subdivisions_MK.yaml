@@ -1,0 +1,505 @@
+---
+MK-01:
+  name: Aerodrom
+  level: municipality
+MK-AD:
+  name: Aerodrom
+  level: municipality
+MK-AR:
+  name: Aračinovo
+  level: municipality
+MK-02:
+  name: Aračinovo
+  level: municipality
+MK-BR:
+  name: Berovo
+  level: municipality
+MK-03:
+  name: Berovo
+  level: municipality
+MK-04:
+  name: Bitola
+  level: municipality
+MK-TL:
+  name: Bitola
+  level: municipality
+MK-05:
+  name: Bogdanci
+  level: municipality
+MK-BG:
+  name: Bogdanci
+  level: municipality
+MK-06:
+  name: Bogovinje
+  level: municipality
+MK-VJ:
+  name: Bogovinje
+  level: municipality
+MK-BS:
+  name: Bosilovo
+  level: municipality
+MK-07:
+  name: Bosilovo
+  level: municipality
+MK-BN:
+  name: Brvenica
+  level: municipality
+MK-08:
+  name: Brvenica
+  level: municipality
+MK-09:
+  name: Municipality of Butel
+  level: municipality
+MK-BU:
+  name: Butel
+  level: municipality
+MK-CI:
+  name: Cair
+  level: municipality
+MK-CA:
+  name: Caška
+  level: municipality
+MK-77:
+  name: Centar
+  level: municipality
+MK-CE:
+  name: Centar
+  level: municipality
+MK-CZ:
+  name: Centar Župa
+  level: municipality
+MK-78:
+  name: Centar Župa
+  level: municipality
+MK-CH:
+  name: Cešinovo-Obleševo
+  level: municipality
+MK-CS:
+  name: Cucer Sandevo
+  level: municipality
+MK-DB:
+  name: Debar
+  level: municipality
+MK-21:
+  name: Debar
+  level: municipality
+MK-22:
+  name: Debarca
+  level: municipality
+MK-DA:
+  name: Debarca
+  level: municipality
+MK-DL:
+  name: Delčevo
+  level: municipality
+MK-23:
+  name: Delčevo
+  level: municipality
+MK-25:
+  name: Demir Hisar
+  level: municipality
+MK-DM:
+  name: Demir Hisar
+  level: municipality
+MK-DK:
+  name: Demir Kapija
+  level: municipality
+MK-24:
+  name: Demir Kapija
+  level: municipality
+MK-SD:
+  name: Dojran
+  level: municipality
+MK-26:
+  name: Dojran
+  level: municipality
+MK-27:
+  name: Dolneni
+  level: municipality
+MK-DE:
+  name: Dolneni
+  level: municipality
+MK-DR:
+  name: Drugovo
+  level: municipality
+MK-28:
+  name: Drugovo
+  level: municipality
+MK-17:
+  name: Municipality of Gazi Baba
+  level: municipality
+MK-GB:
+  name: Gazi Baba
+  level: municipality
+MK-18:
+  name: Gevgelija
+  level: municipality
+MK-GV:
+  name: Gevgelija
+  level: municipality
+MK-GP:
+  name: Gjorce Petrov
+  level: municipality
+MK-29:
+  name: Gyorche Petrov
+  level: municipality
+MK-19:
+  name: Gostivar
+  level: municipality
+MK-GT:
+  name: Gostivar
+  level: municipality
+MK-GR:
+  name: Gradsko
+  level: municipality
+MK-20:
+  name: Gradsko
+  level: municipality
+MK-IL:
+  name: Ilinden
+  level: municipality
+MK-34:
+  name: Ilinden
+  level: municipality
+MK-JG:
+  name: Jegunovce
+  level: municipality
+MK-35:
+  name: Jegunovce
+  level: municipality
+MK-37:
+  name: Karbinci
+  level: municipality
+MK-KB:
+  name: Karbinci
+  level: municipality
+MK-38:
+  name: Municipality of Karpoš
+  level: municipality
+MK-KX:
+  name: Karpoš
+  level: municipality
+MK-36:
+  name: Kavadarci
+  level: municipality
+MK-AV:
+  name: Kavadarci
+  level: municipality
+MK-KH:
+  name: Kičevo
+  level: municipality
+MK-39:
+  name: Municipality of Kisela Voda
+  level: municipality
+MK-VD:
+  name: Kisela Voda
+  level: municipality
+MK-40:
+  name: Kičevo
+  level: municipality
+MK-OC:
+  name: Kočani
+  level: municipality
+MK-KN:
+  name: Konče
+  level: municipality
+MK-41:
+  name: Konče
+  level: municipality
+MK-42:
+  name: Kočani
+  level: municipality
+MK-43:
+  name: Kratovo
+  level: municipality
+MK-KY:
+  name: Kratovo
+  level: municipality
+MK-KZ:
+  name: Kriva Palanka
+  level: municipality
+MK-44:
+  name: Kriva Palanka
+  level: municipality
+MK-45:
+  name: Krivogaštani
+  level: municipality
+MK-KG:
+  name: Krivogaštani
+  level: municipality
+MK-46:
+  name: Kruševo
+  level: municipality
+MK-KS:
+  name: Kruševo
+  level: municipality
+MK-47:
+  name: Kumanovo
+  level: municipality
+MK-UM:
+  name: Kumanovo
+  level: municipality
+MK-LI:
+  name: Lipkovo
+  level: municipality
+MK-48:
+  name: Lipkovo
+  level: municipality
+MK-LO:
+  name: Lozovo
+  level: municipality
+MK-49:
+  name: Lozovo
+  level: municipality
+MK-51:
+  name: Makedonska Kamenica
+  level: municipality
+MK-MK:
+  name: Makedonska Kamenica
+  level: municipality
+MK-52:
+  name: Makedonski Brod
+  level: municipality
+MK-MD:
+  name: Makedonski Brod
+  level: municipality
+MK-50:
+  name: Municipality of Mavrovo and Rostuša
+  level: municipality
+MK-MR:
+  name: Mavrovo-i-Rostuša
+  level: municipality
+MK-MG:
+  name: Mogila
+  level: municipality
+MK-53:
+  name: Mogila
+  level: municipality
+MK-54:
+  name: Negotino
+  level: municipality
+MK-NG:
+  name: Negotino
+  level: municipality
+MK-NV:
+  name: Novaci
+  level: municipality
+MK-55:
+  name: Novaci
+  level: municipality
+MK-NS:
+  name: Novo Selo
+  level: municipality
+MK-56:
+  name: Novo Selo
+  level: municipality
+MK-58:
+  name: Ohrid
+  level: municipality
+MK-OD:
+  name: Ohrid
+  level: municipality
+MK-OS:
+  name: Oslomej
+  level: municipality
+MK-57:
+  name: Oslomej
+  level: municipality
+MK-PH:
+  name: Pehčevo
+  level: municipality
+MK-60:
+  name: Pehčevo
+  level: municipality
+MK-59:
+  name: Petrovec
+  level: municipality
+MK-PE:
+  name: Petrovec
+  level: municipality
+MK-61:
+  name: Plasnica
+  level: municipality
+MK-PN:
+  name: Plasnica
+  level: municipality
+MK-PP:
+  name: Prilep
+  level: municipality
+MK-62:
+  name: Prilep
+  level: municipality
+MK-PT:
+  name: Probištip
+  level: municipality
+MK-63:
+  name: Probištip
+  level: municipality
+MK-RV:
+  name: Radoviš
+  level: municipality
+MK-64:
+  name: Radoviš
+  level: municipality
+MK-RN:
+  name: Rankovce
+  level: municipality
+MK-65:
+  name: Rankovce
+  level: municipality
+MK-66:
+  name: Resen
+  level: municipality
+MK-RE:
+  name: Resen
+  level: municipality
+MK-67:
+  name: Rosoman
+  level: municipality
+MK-RM:
+  name: Rosoman
+  level: municipality
+MK-68:
+  name: Sarai
+  level: municipality
+MK-AJ:
+  name: Saraj
+  level: municipality
+MK-70:
+  name: Sopište
+  level: municipality
+MK-SS:
+  name: Sopište
+  level: municipality
+MK-NA:
+  name: Staro Nagoričane
+  level: municipality
+MK-71:
+  name: Staro Nagoričane
+  level: municipality
+MK-UG:
+  name: Struga
+  level: municipality
+MK-72:
+  name: Struga
+  level: municipality
+MK-73:
+  name: Strumica
+  level: municipality
+MK-RU:
+  name: Strumica
+  level: municipality
+MK-SU:
+  name: Studeničani
+  level: municipality
+MK-74:
+  name: Studeničani
+  level: municipality
+MK-SL:
+  name: Sveti Nikole
+  level: municipality
+MK-69:
+  name: Sveti Nikole
+  level: municipality
+MK-75:
+  name: Tearce
+  level: municipality
+MK-TR:
+  name: Tearce
+  level: municipality
+MK-ET:
+  name: Tetovo
+  level: municipality
+MK-76:
+  name: Tetovo
+  level: municipality
+MK-10:
+  name: Valandovo
+  level: municipality
+MK-VA:
+  name: Valandovo
+  level: municipality
+MK-11:
+  name: Vasilevo
+  level: municipality
+MK-VL:
+  name: Vasilevo
+  level: municipality
+MK-VE:
+  name: Veles
+  level: municipality
+MK-13:
+  name: Veles
+  level: municipality
+MK-VV:
+  name: Vevčani
+  level: municipality
+MK-12:
+  name: Vevčani
+  level: municipality
+MK-14:
+  name: Vinica
+  level: municipality
+MK-NI:
+  name: Vinica
+  level: municipality
+MK-15:
+  name: Vraneštica
+  level: municipality
+MK-VC:
+  name: Vraneštica
+  level: municipality
+MK-VH:
+  name: Vrapcište
+  level: municipality
+MK-16:
+  name: Vrapčište
+  level: municipality
+MK-31:
+  name: Zajas
+  level: municipality
+MK-ZA:
+  name: Zajas
+  level: municipality
+MK-32:
+  name: Zelenikovo
+  level: municipality
+MK-ZK:
+  name: Zelenikovo
+  level: municipality
+MK-33:
+  name: Zrnovci
+  level: municipality
+MK-ZR:
+  name: Zrnovci
+  level: municipality
+MK-79:
+  name: Municipality of Čair
+  level: municipality
+MK-80:
+  name: "Čaška"
+  level: municipality
+MK-81:
+  name: Municipality of Češinovo-Obleševo
+  level: municipality
+MK-82:
+  name: "Čučer-Sandevo"
+  level: municipality
+MK-83:
+  name: "Štip"
+  level: municipality
+MK-ST:
+  name: "Štip"
+  level: municipality
+MK-84:
+  name: Municipality of Šuto Orizari
+  level: municipality
+MK-SO:
+  name: "Šuto Orizari"
+  level: municipality
+MK-30:
+  name: "Želino"
+  level: municipality
+MK-ZE:
+  name: "Želino"
+  level: municipality

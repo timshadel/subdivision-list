@@ -1,0 +1,40 @@
+---
+CA-AB:
+  name: Alberta
+  level: province
+CA-BC:
+  name: Columbia Británica - British Columbia
+  level: province
+CA-MB:
+  name: Manitoba
+  level: province
+CA-NB:
+  name: Nova Brunswick
+  level: province
+CA-NL:
+  name: Terra Nova e Labrador
+  level: province
+CA-NT:
+  name: Territorios do Noroeste
+  level: territory
+CA-NS:
+  name: Nova Escocia - Nova Scotia
+  level: province
+CA-NU:
+  name: Nunavut
+  level: territory
+CA-ON:
+  name: Ontario
+  level: province
+CA-PE:
+  name: Illa do Príncipe Eduardo
+  level: province
+CA-QC:
+  name: Quebec - Québec
+  level: province
+CA-SK:
+  name: Saskatchewan
+  level: province
+CA-YT:
+  name: Yukón
+  level: territory

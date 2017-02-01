@@ -1,0 +1,126 @@
+id,name,level
+FR-01,Département Ain,metropolitan department
+FR-02,Département Aisne,metropolitan department
+FR-03,Département Allier,metropolitan department
+FR-06,Département Alpes-Maritimes,metropolitan department
+FR-04,Département Alpes-de-Haute-Provence,metropolitan department
+FR-A,Elsass,metropolitan regions
+FR-B,Aquitanien,metropolitan regions
+FR-08,Ardennen,metropolitan department
+FR-07,Département Ardèche,metropolitan department
+FR-09,Département Ariège,metropolitan department
+FR-10,Département Aube,metropolitan department
+FR-11,Département Aude,metropolitan department
+FR-12,Département Aveyron,metropolitan department
+FR-67,Département Bas-Rhin,metropolitan department
+FR-13,Département Bouches-du-Rhône,metropolitan department
+FR-D,Burgund,metropolitan regions
+FR-14,Département Calvados,metropolitan department
+FR-15,Département Cantal,metropolitan department
+FR-G,Champagne-Ardenne,metropolitan regions
+FR-16,Département Charente,metropolitan department
+FR-17,Département Charente-Maritime,metropolitan department
+FR-18,Cher,metropolitan department
+FR-CP,Clipperton-Insel,dependency
+FR-19,Département Corrèze,metropolitan department
+FR-2A,Département Corse-du-Sud,metropolitan department
+FR-H,Korsika,metropolitan regions
+FR-23,Département Creuse,metropolitan department
+FR-21,Département Côte-d’Or,metropolitan department
+FR-22,Département Côtes-d’Armor,metropolitan department
+FR-79,Département Deux-Sèvres,metropolitan department
+FR-24,Département Dordogne,metropolitan department
+FR-25,Département Doubs,metropolitan department
+FR-26,Département Drôme,metropolitan department
+FR-91,Département Essonne,metropolitan department
+FR-27,Département Eure,metropolitan department
+FR-28,Département Eure-et-Loir,metropolitan department
+FR-29,Département Finistère,metropolitan department
+FR-I,Franche-Comté,metropolitan regions
+FR-30,Département Gard,metropolitan department
+FR-32,Département Gers,metropolitan department
+FR-33,Département Gironde,metropolitan department
+FR-GP,Guadeloupe,overseas regions
+FR-68,Département Haut-Rhin,metropolitan department
+FR-2B,Département Haute-Corse,metropolitan department
+FR-31,Département Haute-Garonne,metropolitan department
+FR-P,Basse-Normandie,metropolitan regions
+FR-GF,Französisch-Guayana,overseas regions
+FR-43,Département Haute-Loire,metropolitan department
+FR-52,Département Haute-Marne,metropolitan department
+FR-74,Département Haute-Savoie,metropolitan department
+FR-70,Département Haute-Saône,metropolitan department
+FR-87,Département Haute-Vienne,metropolitan department
+FR-05,Département Hautes-Alpes,metropolitan department
+FR-65,Département Hautes-Pyrénées,metropolitan department
+FR-92,Département Hauts-de-Seine,metropolitan department
+FR-34,Département Hérault,metropolitan department
+FR-35,Département Ille-et-Vilaine,metropolitan department
+FR-36,Département Indre,metropolitan department
+FR-37,Département Indre-et-Loire,metropolitan department
+FR-38,Département Isère,metropolitan department
+FR-39,Jura,metropolitan department
+FR-40,Landes,metropolitan department
+FR-K,Languedoc-Roussillon,metropolitan regions
+FR-41,Département Loir-et-Cher,metropolitan department
+FR-42,Département Loire,metropolitan department
+FR-44,Département Loire-Atlantique,metropolitan department
+FR-45,Département Loiret,metropolitan department
+FR-M,Lorraine,metropolitan regions
+FR-46,Lot,metropolitan department
+FR-47,Département Lot-et-Garonne,metropolitan department
+FR-48,Département Lozère,metropolitan department
+FR-49,Département Maine-et-Loire,metropolitan department
+FR-50,Département Manche,metropolitan department
+FR-51,Département Marne,metropolitan department
+FR-MQ,Martinique,overseas regions
+FR-53,Département Mayenne,metropolitan department
+FR-YT,Mayotte,territorial collectivity
+FR-54,Département Meurthe-et-Moselle,metropolitan department
+FR-55,Département Meuse,metropolitan department
+FR-N,Midi-Pyrénées,metropolitan regions
+FR-56,Département Morbihan,metropolitan department
+FR-57,Département Moselle,metropolitan department
+FR-58,Département Nièvre,metropolitan department
+FR-59,Nord,metropolitan department
+FR-O,Nord-Pas-de-Calais,metropolitan regions
+FR-60,Département Oise,metropolitan department
+FR-61,Département Orne,metropolitan department
+FR-75,Paris,metropolitan department
+FR-62,Département Pas-de-Calais,metropolitan department
+FR-R,Pays de la Loire,metropolitan regions
+FR-S,Picardie,metropolitan regions
+FR-T,Poitou-Charentes,metropolitan regions
+FR-Q,Haute-Normandie,metropolitan regions
+FR-PF,Französisch-Polynesien,overseas territory
+FR-NC,Neukaledonien,overseas territory
+FR-RE,Réunion,overseas regions
+FR-U,Provence-Alpes-Côte d’Azur,metropolitan regions
+FR-63,Département Puy-de-Dôme,metropolitan department
+FR-64,Département Pyrénées-Atlantiques,metropolitan department
+FR-66,Département Pyrénées-Orientales,metropolitan department
+FR-69,Rhone,metropolitan department
+FR-V,Rhône-Alpes,metropolitan regions
+FR-72,Département Sarthe,metropolitan department
+FR-73,Département Savoie,metropolitan department
+FR-71,Département Saône-et-Loire,metropolitan department
+FR-76,Département Seine-Maritime,metropolitan department
+FR-93,Département Seine-Saint-Denis,metropolitan department
+FR-77,Département Seine-et-Marne,metropolitan department
+FR-80,Département Somme,metropolitan department
+FR-81,Tarn,metropolitan department
+FR-82,Département Tarn-et-Garonne,metropolitan department
+FR-90,Territoire de Belfort,metropolitan department
+FR-95,Département Val-d’Oise,metropolitan department
+FR-94,Département Val-de-Marne,metropolitan department
+FR-83,Var,metropolitan department
+FR-84,Département Vaucluse,metropolitan department
+FR-85,Département Vendée,metropolitan department
+FR-86,Département Vienne,metropolitan department
+FR-88,Département Vosges,metropolitan department
+FR-89,Département Yonne,metropolitan department
+FR-78,Département Yvelines,metropolitan department
+FR-MF,Saint-Martin,overseas territorial collectivity
+FR-BL,Saint-Barthélemy,overseas territorial collectivity
+FR-PM,Saint-Pierre und Miquelon,territorial collectivity
+FR-WF,Wallis und Futuna,overseas territory

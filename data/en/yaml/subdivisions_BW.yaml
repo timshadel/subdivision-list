@@ -1,0 +1,28 @@
+---
+BW-CE:
+  name: Central
+  level: district
+BW-GH:
+  name: Ghanzi
+  level: district
+BW-KG:
+  name: Kgalagadi
+  level: district
+BW-KL:
+  name: Kgatleng District
+  level: district
+BW-KW:
+  name: Kweneng District
+  level: district
+BW-NE:
+  name: Northeast
+  level: district
+BW-NW:
+  name: Northwest
+  level: district
+BW-SE:
+  name: Southeast
+  level: district
+BW-SO:
+  name: Southern
+  level: district

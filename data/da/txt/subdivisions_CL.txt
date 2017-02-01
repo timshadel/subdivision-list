@@ -1,0 +1,6 @@
+Antofagasta (CL-AN)
+Arica og Parinacota-regionen (CL-AP)
+Atacamaørkenen (CL-AT)
+Aisén-regionen (CL-AI)
+Santiago Hovedstadsregionen (CL-RM)
+Valparaiso (CL-VS)

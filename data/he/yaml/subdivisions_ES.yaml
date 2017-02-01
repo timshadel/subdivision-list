@@ -1,0 +1,112 @@
+---
+ES-AB:
+  name: "אלבסטה"
+  level: province
+ES-A:
+  name: "אליקנטה"
+  level: province
+ES-AN:
+  name: "אנדלוסיה"
+  level: ''
+ES-AS:
+  name: "אסטוריאס"
+  level: autonomous community
+ES-BA:
+  name: "בדחוס"
+  level: province
+ES-IB:
+  name: "האיים הבלאריים"
+  level: autonomous community
+ES-B:
+  name: "ברצלונה"
+  level: province
+ES-CA:
+  name: "קדיס"
+  level: province
+ES-S:
+  name: "קנטבריה"
+  level: province
+ES-CL:
+  name: "קסטיליה ולאון"
+  level: autonomous community
+ES-CT:
+  name: "קטלוניה"
+  level: autonomous community
+ES-CE:
+  name: "סאוטה"
+  level: autonomous city
+ES-CR:
+  name: "סיודאד ריאל"
+  level: province
+ES-CU:
+  name: "קואנקה"
+  level: province
+ES-CO:
+  name: "קורדובה"
+  level: province
+ES-EX:
+  name: "אקסטרמדורה"
+  level: autonomous community
+ES-GR:
+  name: "גרנדה"
+  level: province
+ES-GU:
+  name: "גוודלחרה"
+  level: province
+ES-HU:
+  name: "אואסקה"
+  level: province
+ES-LE:
+  name: "לאון"
+  level: province
+ES-L:
+  name: "ליידה"
+  level: province
+ES-LU:
+  name: "לוגו"
+  level: province
+ES-MD:
+  name: "מדריד"
+  level: autonomous community
+ES-ML:
+  name: "מלייה"
+  level: autonomous city
+ES-MC:
+  name: "מורסיה"
+  level: autonomous community
+ES-MA:
+  name: "מאלגה"
+  level: province
+ES-NC:
+  name: "נווארה"
+  level: autonomous community
+ES-SA:
+  name: "סלמנקה"
+  level: province
+ES-TF:
+  name: "סנטה קרוס דה טנריפה"
+  level: province
+ES-SG:
+  name: "סגוביה"
+  level: province
+ES-SE:
+  name: "סביליה"
+  level: province
+ES-SO:
+  name: "סוריה"
+  level: province
+ES-T:
+  name: "טרגונה"
+  level: province
+ES-V:
+  name: "ולנסיה"
+  level: province
+ES-VC:
+  name: "ולנסיה"
+  level: autonomous community
+ES-VA:
+  name: "ואיאדוליד"
+  level: province
+ES-Z:
+  name: "סרגוסה"
+  level: province

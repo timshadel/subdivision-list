@@ -1,0 +1,106 @@
+---
+IN-AN:
+  name: Andamany a Nikobary
+  level: union territory
+IN-AP:
+  name: "Ándhrapradéš"
+  level: state
+IN-AR:
+  name: Arunáčalpradéš
+  level: state
+IN-AS:
+  name: "Ásam"
+  level: state
+IN-BR:
+  name: Bihár
+  level: state
+IN-CH:
+  name: "Čandígarh"
+  level: union territory
+IN-CT:
+  name: "Čatísgarh"
+  level: state
+IN-DN:
+  name: Dádra a Nagar Havelí
+  level: union territory
+IN-DD:
+  name: Daman a Diú
+  level: union territory
+IN-DL:
+  name: Dillí
+  level: union territory
+IN-GA:
+  name: Goa
+  level: state
+IN-GJ:
+  name: Gudžarát
+  level: state
+IN-HR:
+  name: Harijána
+  level: state
+IN-HP:
+  name: Himáčalpradéš
+  level: state
+IN-JK:
+  name: Džammú a Kašmír
+  level: state
+IN-JH:
+  name: Džharkhand
+  level: state
+IN-KA:
+  name: Karnátaka
+  level: state
+IN-KL:
+  name: Kérala
+  level: state
+IN-LD:
+  name: Lakadivy
+  level: union territory
+IN-MP:
+  name: Madhjapradéš
+  level: state
+IN-MH:
+  name: Maháraštra
+  level: state
+IN-MN:
+  name: Manípur
+  level: state
+IN-ML:
+  name: Meghálaj
+  level: state
+IN-MZ:
+  name: Mizorám
+  level: state
+IN-NL:
+  name: Nágsko
+  level: state
+IN-OR:
+  name: Urísa
+  level: state
+IN-PY:
+  name: Puttučéri
+  level: union territory
+IN-PB:
+  name: Pandžáb
+  level: state
+IN-RJ:
+  name: Radžastan
+  level: state
+IN-SK:
+  name: Sikkim
+  level: state
+IN-TN:
+  name: Tamilnádu
+  level: state
+IN-TR:
+  name: Tripura
+  level: state
+IN-UP:
+  name: Uttarpradéš
+  level: state
+IN-UT:
+  name: Uttarákhand
+  level: state
+IN-WB:
+  name: Západné Bengálsko
+  level: state

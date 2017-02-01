@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_RO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BN', E'Bistrița-Năsăudi maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BT', E'Botoșani', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-BV', E'Brașov', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-B', E'Bukarest', E'city');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CS', E'Caraș-Severini maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CJ', E'Cluj-Napoca', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-CT', E'Constanța', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-DJ', E'Dolji maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GL', E'Galați', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GR', E'Giurgiu', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-GJ', E'Gorji maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-HR', E'Harghita maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-IS', E'Iași', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-IF', E'Ilfovi maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MH', E'Mehedinți maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-MS', E'Mureși maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-NT', E'Neamți maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-SM', E'Satu Mare', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-SB', E'Sibiu', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-TR', E'Teleormani maakond', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-TM', E'Timiș', E'county');
+INSERT INTO "subdivision_RO" ("id", "name", "level") VALUES (E'RO-VL', E'Vâlcea maakond', E'county');

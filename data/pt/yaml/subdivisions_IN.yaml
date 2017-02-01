@@ -1,0 +1,103 @@
+---
+IN-AN:
+  name: Andamão e Nicobar
+  level: union territory
+IN-AP:
+  name: Andhra Pradesh
+  level: state
+IN-AR:
+  name: Arunachal Pradesh
+  level: state
+IN-AS:
+  name: Assam
+  level: state
+IN-BR:
+  name: Bihar
+  level: state
+IN-CH:
+  name: Chandigarh
+  level: union territory
+IN-CT:
+  name: Chhattisgarh
+  level: state
+IN-DN:
+  name: Dadrá e Nagar-Aveli
+  level: union territory
+IN-DD:
+  name: Damão e Diu
+  level: union territory
+IN-DL:
+  name: Deli
+  level: union territory
+IN-GA:
+  name: Goa
+  level: state
+IN-GJ:
+  name: Guzerate
+  level: state
+IN-HR:
+  name: Haryana
+  level: state
+IN-HP:
+  name: Himachal Pradesh
+  level: state
+IN-JK:
+  name: Jammu e Caxemira
+  level: state
+IN-JH:
+  name: Jharkhand
+  level: state
+IN-KA:
+  name: Karnataka
+  level: state
+IN-KL:
+  name: Kerala
+  level: state
+IN-LD:
+  name: Laquedivas
+  level: union territory
+IN-MP:
+  name: Madhya Pradesh
+  level: state
+IN-MH:
+  name: Maharashtra
+  level: state
+IN-MN:
+  name: Manipur
+  level: state
+IN-ML:
+  name: Meghalaya
+  level: state
+IN-MZ:
+  name: Mizoram
+  level: state
+IN-NL:
+  name: Nagaland
+  level: state
+IN-OR:
+  name: Orissa
+  level: state
+IN-PY:
+  name: Puducherry
+  level: union territory
+IN-RJ:
+  name: Rajastão
+  level: state
+IN-SK:
+  name: Siquim
+  level: state
+IN-TN:
+  name: Tamil Nadu
+  level: state
+IN-TR:
+  name: Tripura
+  level: state
+IN-UP:
+  name: Uttar Pradesh
+  level: state
+IN-UT:
+  name: Uttarakhand
+  level: state
+IN-WB:
+  name: Bengala Ocidental
+  level: state

@@ -1,0 +1,76 @@
+---
+IN-AN:
+  name: "איי אנדמן וניקובר"
+  level: union territory
+IN-AP:
+  name: "אנדרה פראדש"
+  level: state
+IN-AS:
+  name: "אסאם"
+  level: state
+IN-BR:
+  name: "ביהר"
+  level: state
+IN-DN:
+  name: "דאדרה ונאגר הבלי"
+  level: union territory
+IN-DD:
+  name: "דאמאן ודיו"
+  level: union territory
+IN-DL:
+  name: "דלהי"
+  level: union territory
+IN-GA:
+  name: "גואה"
+  level: state
+IN-HR:
+  name: "הריאנה"
+  level: state
+IN-KA:
+  name: "קארנאטקה"
+  level: state
+IN-KL:
+  name: "קרלה"
+  level: state
+IN-LD:
+  name: "לקשאדוויפ"
+  level: union territory
+IN-MP:
+  name: "מאדהיה פראדש"
+  level: state
+IN-MH:
+  name: "מהאראשטרה"
+  level: state
+IN-MN:
+  name: "מאניפור"
+  level: state
+IN-ML:
+  name: "מגהלאיה"
+  level: state
+IN-MZ:
+  name: "מיזוראם"
+  level: state
+IN-NL:
+  name: "נאגאלנד"
+  level: state
+IN-OR:
+  name: "אוריסה"
+  level: state
+IN-SK:
+  name: "סיקים"
+  level: state
+IN-TN:
+  name: "טאמיל נאדו"
+  level: state
+IN-TR:
+  name: "טריפורה"
+  level: state
+IN-UP:
+  name: "אוטר פראדש"
+  level: state
+IN-UT:
+  name: "אוטראקהאנד"
+  level: state
+IN-WB:
+  name: "מערב בנגל"
+  level: state

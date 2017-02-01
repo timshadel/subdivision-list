@@ -1,0 +1,17 @@
+<?php return array (
+  'CU-09' => array('name' => 'Camagüey', 'level' => 'province'),
+  'CU-08' => array('name' => 'Ciego de Ávila', 'level' => 'province'),
+  'CU-06' => array('name' => 'Cienfuegos', 'level' => 'province'),
+  'CU-03' => array('name' => 'Havana', 'level' => 'province'),
+  'CU-12' => array('name' => 'Granma', 'level' => 'province'),
+  'CU-14' => array('name' => 'Guantánamo', 'level' => 'province'),
+  'CU-11' => array('name' => 'Holguín', 'level' => 'province'),
+  'CU-99' => array('name' => 'Isla de la Juventud', 'level' => 'special municipality'),
+  'CU-02' => array('name' => 'Havana', 'level' => 'province'),
+  'CU-10' => array('name' => 'Las Tunas', 'level' => 'province'),
+  'CU-04' => array('name' => 'Matanzas', 'level' => 'province'),
+  'CU-01' => array('name' => 'Pinar del Río', 'level' => 'province'),
+  'CU-07' => array('name' => 'Sancti Spíritus', 'level' => 'province'),
+  'CU-13' => array('name' => 'Santiago de Cuba', 'level' => 'province'),
+  'CU-05' => array('name' => 'Villa Clara', 'level' => 'province'),
+);

@@ -1,0 +1,16 @@
+---
+IL-M:
+  name: Distretto Centrale
+  level: district
+IL-HA:
+  name: Haifa
+  level: district
+IL-JM:
+  name: Gerusalemme
+  level: district
+IL-D:
+  name: Distretto Meridionale
+  level: district
+IL-TA:
+  name: Tel Aviv
+  level: district

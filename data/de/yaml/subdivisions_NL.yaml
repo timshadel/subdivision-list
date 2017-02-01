@@ -1,0 +1,55 @@
+---
+NL-AW:
+  name: Aruba
+  level: country
+NL-BQ1:
+  name: Bonaire
+  level: special municipality
+NL-CW:
+  name: Curaçao
+  level: country
+NL-DR:
+  name: Provinz Drenthe
+  level: province
+NL-FL:
+  name: Provinz Flevoland
+  level: province
+NL-FR:
+  name: Provinz Friesland
+  level: province
+NL-GE:
+  name: Provinz Gelderland
+  level: province
+NL-GR:
+  name: Groningen
+  level: province
+NL-LI:
+  name: Limburg
+  level: province
+NL-NB:
+  name: Provinz Nordbrabant
+  level: province
+NL-NH:
+  name: Provinz Nordholland
+  level: province
+NL-OV:
+  name: Provinz Overijssel
+  level: province
+NL-BQ2:
+  name: Saba
+  level: special municipality
+NL-BQ3:
+  name: Sint Eustatius
+  level: special municipality
+NL-SX:
+  name: Sint Maarten
+  level: country
+NL-ZH:
+  name: Provinz Südholland
+  level: province
+NL-UT:
+  name: Utrecht
+  level: province
+NL-ZE:
+  name: Provinz Zeeland
+  level: province

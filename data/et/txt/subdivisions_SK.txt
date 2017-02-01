@@ -1,0 +1,7 @@
+Banská Bystrica maakond (SK-BC)
+Bratislava maakond (SK-BL)
+Košice maakond (SK-KI)
+Nitra maakond (SK-NI)
+Prešovi maakond (SK-PV)
+Trnava maakond (SK-TA)
+Žilina maakond (SK-ZI)

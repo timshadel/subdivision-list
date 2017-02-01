@@ -1,0 +1,8 @@
+Batken (KG-B)
+Bishkek (KG-GB)
+Chuy Province (KG-C)
+Jalal-Abad (KG-J)
+Naryn (KG-N)
+Osh (KG-O)
+Talas (KG-T)
+Issyk Kul (KG-Y)

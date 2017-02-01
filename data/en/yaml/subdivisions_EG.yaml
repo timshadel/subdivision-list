@@ -1,0 +1,88 @@
+---
+EG-DK:
+  name: Dakahlia Governorate
+  level: governorate
+EG-BA:
+  name: Bahr
+  level: governorate
+EG-BH:
+  name: Al Buhayrah
+  level: governorate
+EG-FYM:
+  name: Faiyum
+  level: governorate
+EG-GH:
+  name: Al Gharbiyah
+  level: governorate
+EG-ALX:
+  name: Al Iskandariyah
+  level: governorate
+EG-IS:
+  name: Al Ismā`īlīyah
+  level: governorate
+EG-GZ:
+  name: Al Jizah
+  level: governorate
+EG-MNF:
+  name: Monufia Governorate
+  level: governorate
+EG-MN:
+  name: Minya
+  level: governorate
+EG-C:
+  name: Al Qahirah
+  level: governorate
+EG-KB:
+  name: Qalyubia Governorate
+  level: governorate
+EG-WAD:
+  name: New Valley Governorate
+  level: governorate
+EG-LX:
+  name: Luxor
+  level: governorate
+EG-SUZ:
+  name: As Suways
+  level: governorate
+EG-SU:
+  name: 6th of October
+  level: governorate
+EG-SHR:
+  name: Ash Sharqiyah
+  level: governorate
+EG-ASN:
+  name: Aswan
+  level: governorate
+EG-AST:
+  name: Asyut
+  level: governorate
+EG-BNS:
+  name: Beni Suef
+  level: governorate
+EG-PTS:
+  name: Būr Sa`īd
+  level: governorate
+EG-DT:
+  name: Dumyat
+  level: governorate
+EG-HU:
+  name: Helwan
+  level: governorate
+EG-JS:
+  name: South Sinai Governorate
+  level: governorate
+EG-KFS:
+  name: Kafr el-Sheikh
+  level: governorate
+EG-MT:
+  name: Matrūh
+  level: governorate
+EG-KN:
+  name: Qena
+  level: governorate
+EG-SIN:
+  name: North Sinai Governorate
+  level: governorate
+EG-SHG:
+  name: Sohag
+  level: governorate

@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Suur-Poola vojevoodkond', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Kujawy-Pomorze vojevoodkond', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Väike-Poola vojevoodkond', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Alam-Sileesia vojevoodkond', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lublini vojevoodkond', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubuszi vojevoodkond', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Masoovia vojevoodkond', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opole vojevoodkond', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Podkarpacie vojevoodkond', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podlaasia vojevoodkond', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pomorze vojevoodkond', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Sileesia vojevoodkond', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Warmia-Masuuria vojevoodkond', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Lääne-Pomorze vojevoodkond', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Święty Krzyżi vojevoodkond', 'level' => 'voivodship'),
+);

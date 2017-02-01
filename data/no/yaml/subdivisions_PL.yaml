@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: Storpolske voivodskap
+  level: voivodship
+PL-KP:
+  name: Kujaviskpommerske voivodskap
+  level: voivodship
+PL-MA:
+  name: Lillepolske voivodskap
+  level: voivodship
+PL-DS:
+  name: Nederschlesiske voivodskap
+  level: voivodship
+PL-LU:
+  name: Lublin voivodskap
+  level: voivodship
+PL-LB:
+  name: Lubusz voivodskap
+  level: voivodship
+PL-MZ:
+  name: Masoviske voivodskap
+  level: voivodship
+PL-OP:
+  name: Opole voivodskap
+  level: voivodship
+PL-PK:
+  name: Subkarpatiske voivodskap
+  level: voivodship
+PL-PD:
+  name: Podlasie voivodskap
+  level: voivodship
+PL-PM:
+  name: Pommerske voivodskap
+  level: voivodship
+PL-SL:
+  name: Schlesiske voivodskap
+  level: voivodship
+PL-WN:
+  name: Ermlandskmasuriske voivodskap
+  level: voivodship
+PL-ZP:
+  name: Vestpommerske voivodskap
+  level: voivodship
+PL-SK:
+  name: Helligkorsvoivodskapet
+  level: voivodship

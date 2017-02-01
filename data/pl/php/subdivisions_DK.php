@@ -1,0 +1,16 @@
+<?php return array (
+  'DK-070' => array('name' => 'Aarhus', 'level' => 'county'),
+  'DK-040' => array('name' => 'Bornholm', 'level' => 'county'),
+  'DK-84' => array('name' => 'Kapitał', 'level' => 'region'),
+  'DK-82' => array('name' => 'Jutlandia Środkowa', 'level' => 'region'),
+  'DK-015' => array('name' => 'Kopenhaga', 'level' => 'county'),
+  'DK-042' => array('name' => 'Fionia', 'level' => 'county'),
+  'DK-83' => array('name' => 'Dania Południowa', 'level' => 'region'),
+  'DK-055' => array('name' => 'Ribe', 'level' => 'county'),
+  'DK-065' => array('name' => 'Ringkøbing', 'level' => 'county'),
+  'DK-025' => array('name' => 'Roskilde', 'level' => 'county'),
+  'DK-035' => array('name' => 'Storstrøms Amt', 'level' => 'county'),
+  'DK-060' => array('name' => 'Vejle', 'level' => 'county'),
+  'DK-030' => array('name' => 'Zelandia Zachodnia', 'level' => 'county'),
+  'DK-85' => array('name' => 'Zelandia', 'level' => 'region'),
+);

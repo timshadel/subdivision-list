@@ -1,0 +1,2458 @@
+---
+AD:
+  AD-07:
+    name: "Андорра-ла-Велья"
+    level: parish
+  AD-08:
+    name: "Ескальдес-Енгордань"
+    level: parish
+  AD-05:
+    name: "Ордіно"
+    level: parish
+  AD-06:
+    name: "Сант-Жулія-де-Лорія"
+    level: parish
+AT:
+  AT-1:
+    name: "Бургенланд"
+    level: state
+  AT-3:
+    name: "Нижня Австрія"
+    level: state
+  AT-5:
+    name: "Зальцбург"
+    level: state
+  AT-6:
+    name: "Штирія"
+    level: state
+  AT-7:
+    name: "Тіроль"
+    level: state
+  AT-4:
+    name: "Верхня Австрія"
+    level: state
+  AT-9:
+    name: "Відень"
+    level: state
+  AT-8:
+    name: "Форарльберг"
+    level: state
+BY:
+  BY-HM:
+    name: "Мінськ"
+    level: city
+BE:
+  BE-VAN:
+    name: "Антверпен"
+    level: province
+  BE-BRU:
+    name: "Брюссельський столичний регіон"
+    level: capital region
+  BE-VOV:
+    name: "Східна Фландрія"
+    level: province
+  BE-VBR:
+    name: "Фламандський Брабант"
+    level: province
+  BE-VLI:
+    name: "Лімбург"
+    level: province
+  BE-WLG:
+    name: "Льєж"
+    level: province
+  BE-WLX:
+    name: "Люксембург"
+    level: province
+  BE-WAL:
+    name: "Валлонія"
+    level: region
+  BE-WBR:
+    name: "Валлонський Брабант"
+    level: province
+  BE-VWV:
+    name: "Західна Фландрія"
+    level: province
+CA:
+  CA-AB:
+    name: "Альберта"
+    level: province
+  CA-BC:
+    name: "Британська Колумбія"
+    level: province
+  CA-MB:
+    name: "Манітоба"
+    level: province
+  CA-NB:
+    name: "Нью-Брансвік"
+    level: province
+  CA-NL:
+    name: "Ньюфаундленд і Лабрадор"
+    level: province
+  CA-NT:
+    name: "Північно-західні території"
+    level: territory
+  CA-NS:
+    name: "Нова Шотландія"
+    level: province
+  CA-NU:
+    name: "Нунавут"
+    level: territory
+  CA-ON:
+    name: "Онтаріо"
+    level: province
+  CA-PE:
+    name: "Острів Принца Едварда"
+    level: province
+  CA-QC:
+    name: "Квебек"
+    level: province
+  CA-SK:
+    name: "Саскачеван"
+    level: province
+  CA-YT:
+    name: "Юкон"
+    level: territory
+CL:
+  CL-AN:
+    name: "Антофаґаста"
+    level: region
+  CL-AP:
+    name: XV Регіон Аріка-і-Парінакота
+    level: region
+  CL-AT:
+    name: "Атакама"
+    level: region
+  CL-AI:
+    name: XI Регіон Айсен
+    level: region
+  CL-CO:
+    name: "Кокімбо"
+    level: region
+  CL-MA:
+    name: "Магальянес"
+    level: region
+  CL-RM:
+    name: "Столичний Регіон Сантьяго"
+    level: region
+  CL-VS:
+    name: "Вальпараїсо"
+    level: region
+DK:
+  DK-070:
+    name: "Орхус"
+    level: county
+  DK-040:
+    name: "Борнгольм"
+    level: county
+  DK-015:
+    name: "Копенгаген"
+    level: county
+  DK-042:
+    name: "Фюн"
+    level: county
+  DK-025:
+    name: "Роскілле"
+    level: county
+  DK-85:
+    name: "Зеландія"
+    level: region
+EE:
+  EE-39:
+    name: "Хіюмаа"
+    level: county
+  EE-44:
+    name: "Іда-Вірумаа"
+    level: county
+  EE-51:
+    name: "Ярвамаа"
+    level: county
+  EE-49:
+    name: "Йиґевамаа"
+    level: county
+  EE-59:
+    name: "Ляяне-Вірумаа"
+    level: county
+  EE-57:
+    name: "Ляянемаа"
+    level: county
+  EE-67:
+    name: "Пярнумаа"
+    level: county
+  EE-65:
+    name: "Пилвамаа"
+    level: county
+  EE-70:
+    name: "Рапламаа"
+    level: county
+  EE-74:
+    name: "Сааремаа"
+    level: county
+  EE-78:
+    name: "Тартумаа"
+    level: county
+  EE-82:
+    name: "Валгамаа"
+    level: county
+  EE-84:
+    name: "Вільяндімаа"
+    level: county
+  EE-86:
+    name: "Вирумаа"
+    level: county
+FR:
+  FR-01:
+    name: "Ен"
+    level: metropolitan department
+  FR-02:
+    name: "Ена"
+    level: metropolitan department
+  FR-03:
+    name: "Альє"
+    level: metropolitan department
+  FR-06:
+    name: "Приморські Альпи"
+    level: metropolitan department
+  FR-04:
+    name: "Альпи Верхнього Провансу"
+    level: metropolitan department
+  FR-A:
+    name: "Ельзас"
+    level: metropolitan regions
+  FR-B:
+    name: "Аквітанія"
+    level: metropolitan regions
+  FR-08:
+    name: "Арденни"
+    level: metropolitan department
+  FR-07:
+    name: "Ардеш"
+    level: metropolitan department
+  FR-10:
+    name: "Об"
+    level: metropolitan department
+  FR-11:
+    name: "Од"
+    level: metropolitan department
+  FR-12:
+    name: "Аверон"
+    level: metropolitan department
+  FR-67:
+    name: "Нижній Рейн"
+    level: metropolitan department
+  FR-13:
+    name: "Буш-дю-Рон"
+    level: metropolitan department
+  FR-E:
+    name: "Бретань"
+    level: metropolitan regions
+  FR-14:
+    name: "Кальвадос"
+    level: metropolitan department
+  FR-15:
+    name: "Канталь"
+    level: metropolitan department
+  FR-G:
+    name: "Шампань-Арденни"
+    level: metropolitan regions
+  FR-16:
+    name: "Шаранта"
+    level: metropolitan department
+  FR-17:
+    name: "Приморська Шаранта"
+    level: metropolitan department
+  FR-18:
+    name: "Шер"
+    level: metropolitan department
+  FR-CP:
+    name: "Кліппертон"
+    level: dependency
+  FR-19:
+    name: "Коррез"
+    level: metropolitan department
+  FR-2A:
+    name: "Південна Корсика"
+    level: metropolitan department
+  FR-H:
+    name: "Корсика"
+    level: metropolitan regions
+  FR-23:
+    name: "Крез"
+    level: metropolitan department
+  FR-79:
+    name: "Де-Севр"
+    level: metropolitan department
+  FR-24:
+    name: "Дордонь"
+    level: metropolitan department
+  FR-25:
+    name: "Ду"
+    level: metropolitan department
+  FR-26:
+    name: "Дром"
+    level: metropolitan department
+  FR-91:
+    name: "Ессонн"
+    level: metropolitan department
+  FR-27:
+    name: "Ер"
+    level: metropolitan department
+  FR-28:
+    name: "Ер і Луар"
+    level: metropolitan department
+  FR-29:
+    name: "Фіністер"
+    level: metropolitan department
+  FR-I:
+    name: "Франш-Конте"
+    level: metropolitan regions
+  FR-30:
+    name: "Гар"
+    level: metropolitan department
+  FR-32:
+    name: "Жер"
+    level: metropolitan department
+  FR-33:
+    name: "Жиронда"
+    level: metropolitan department
+  FR-GP:
+    name: "Гваделупа"
+    level: overseas regions
+  FR-68:
+    name: "Верхній Рейн"
+    level: metropolitan department
+  FR-2B:
+    name: "Верхня Корсика"
+    level: metropolitan department
+  FR-31:
+    name: "Верхня Гаронна"
+    level: metropolitan department
+  FR-P:
+    name: "Нижня Нормандія"
+    level: metropolitan regions
+  FR-GF:
+    name: "Французька Гвіана"
+    level: overseas regions
+  FR-43:
+    name: "Верхня Луара"
+    level: metropolitan department
+  FR-52:
+    name: "Верхня Марна"
+    level: metropolitan department
+  FR-74:
+    name: "Верхня Савойя"
+    level: metropolitan department
+  FR-70:
+    name: "Верхня Сона"
+    level: metropolitan department
+  FR-05:
+    name: "Верхні Альпи"
+    level: metropolitan department
+  FR-65:
+    name: "Верхні Піренеї"
+    level: metropolitan department
+  FR-92:
+    name: "О-де-Сен"
+    level: metropolitan department
+  FR-34:
+    name: "Еро"
+    level: metropolitan department
+  FR-35:
+    name: "Іль і Вілен"
+    level: metropolitan department
+  FR-36:
+    name: "Ендр"
+    level: metropolitan department
+  FR-37:
+    name: "Ендр і Луара"
+    level: metropolitan department
+  FR-38:
+    name: "Ізер"
+    level: metropolitan department
+  FR-39:
+    name: "Юра"
+    level: metropolitan department
+  FR-K:
+    name: "Лангедок-Руссільйон"
+    level: metropolitan regions
+  FR-41:
+    name: "Луар і Шер"
+    level: metropolitan department
+  FR-42:
+    name: "Луара"
+    level: metropolitan department
+  FR-44:
+    name: "Атлантична Луара"
+    level: metropolitan department
+  FR-45:
+    name: "Луаре"
+    level: metropolitan department
+  FR-46:
+    name: "Лот"
+    level: metropolitan department
+  FR-47:
+    name: "Лот і Гаронна"
+    level: metropolitan department
+  FR-48:
+    name: "Лозер"
+    level: metropolitan department
+  FR-49:
+    name: "Мен і Луара"
+    level: metropolitan department
+  FR-50:
+    name: "Манш"
+    level: metropolitan department
+  FR-51:
+    name: "Марна"
+    level: metropolitan department
+  FR-MQ:
+    name: "Мартиніка"
+    level: overseas regions
+  FR-53:
+    name: "Майєнн"
+    level: metropolitan department
+  FR-YT:
+    name: "Майотта"
+    level: territorial collectivity
+  FR-54:
+    name: "Мерт і Мозель"
+    level: metropolitan department
+  FR-55:
+    name: "Мез"
+    level: metropolitan department
+  FR-N:
+    name: "Південь-Піренеї"
+    level: metropolitan regions
+  FR-56:
+    name: "Морбіан"
+    level: metropolitan department
+  FR-57:
+    name: "Мозель"
+    level: metropolitan department
+  FR-58:
+    name: "Ньєвр"
+    level: metropolitan department
+  FR-O:
+    name: "Нор-Па-де-Кале"
+    level: metropolitan regions
+  FR-60:
+    name: "Уаза"
+    level: metropolitan department
+  FR-61:
+    name: "Орн"
+    level: metropolitan department
+  FR-75:
+    name: "Париж"
+    level: metropolitan department
+  FR-62:
+    name: "Па-де-Кале"
+    level: metropolitan department
+  FR-R:
+    name: "Пеї-де-ла-Луар"
+    level: metropolitan regions
+  FR-S:
+    name: "Пікардія"
+    level: metropolitan regions
+  FR-T:
+    name: "Пуату-Шарант"
+    level: metropolitan regions
+  FR-Q:
+    name: "Верхня Нормандія"
+    level: metropolitan regions
+  FR-PF:
+    name: "Французька Полінезія"
+    level: overseas territory
+  FR-NC:
+    name: "Нова Каледонія"
+    level: overseas territory
+  FR-RE:
+    name: "Реюньйон"
+    level: overseas regions
+  FR-U:
+    name: "Прованс-Альпи-Лазурний берег"
+    level: metropolitan regions
+  FR-63:
+    name: "Пюї-де-Дом"
+    level: metropolitan department
+  FR-64:
+    name: "Атлантичні Піренеї"
+    level: metropolitan department
+  FR-66:
+    name: "Східні Піренеї"
+    level: metropolitan department
+  FR-69:
+    name: "Рона"
+    level: metropolitan department
+  FR-V:
+    name: "Рона-Альпи"
+    level: metropolitan regions
+  FR-72:
+    name: "Сарта"
+    level: metropolitan department
+  FR-73:
+    name: "Савойя"
+    level: metropolitan department
+  FR-71:
+    name: "Сона і Луара"
+    level: metropolitan department
+  FR-76:
+    name: "Приморська Сена"
+    level: metropolitan department
+  FR-93:
+    name: "Сена-Сен-Дені"
+    level: metropolitan department
+  FR-77:
+    name: "Сена і Марна"
+    level: metropolitan department
+  FR-80:
+    name: "Сомма"
+    level: metropolitan department
+  FR-82:
+    name: "Тарн і Гаронна"
+    level: metropolitan department
+  FR-90:
+    name: "Територія Бельфор"
+    level: metropolitan department
+  FR-94:
+    name: "Валь-де-Марн"
+    level: metropolitan department
+  FR-83:
+    name: "Вар"
+    level: metropolitan department
+  FR-84:
+    name: "Воклюз"
+    level: metropolitan department
+  FR-85:
+    name: "Вандея"
+    level: metropolitan department
+  FR-88:
+    name: "Вогези"
+    level: metropolitan department
+  FR-89:
+    name: "Йонна"
+    level: metropolitan department
+  FR-78:
+    name: "Івлін"
+    level: metropolitan department
+  FR-MF:
+    name: "Сен-Мартен"
+    level: overseas territorial collectivity
+  FR-BL:
+    name: "Сен-Бартельмі"
+    level: overseas territorial collectivity
+  FR-WF:
+    name: "Волліс і Футуна"
+    level: overseas territory
+DE:
+  DE-BW:
+    name: "Баден-Вюртемберг"
+    level: state
+  DE-BY:
+    name: "Баварія"
+    level: state
+  DE-BE:
+    name: "Берлін"
+    level: state
+  DE-BB:
+    name: "Бранденбург"
+    level: state
+  DE-HB:
+    name: "Бремен"
+    level: state
+  DE-HH:
+    name: "Гамбург"
+    level: state
+  DE-HE:
+    name: "Гессен"
+    level: state
+  DE-NI:
+    name: "Нижня Саксонія"
+    level: state
+  DE-MV:
+    name: "Мекленбург — Передня Померанія"
+    level: state
+  DE-NW:
+    name: "Північний Рейн-Вестфалія"
+    level: state
+  DE-RP:
+    name: "Рейнланд-Пфальц"
+    level: state
+  DE-SL:
+    name: "Саарланд"
+    level: state
+  DE-SN:
+    name: "Вільна держава Саксонія"
+    level: state
+  DE-ST:
+    name: "Саксонія-Ангальт"
+    level: state
+  DE-SH:
+    name: "Шлезвіг-Гольштейн"
+    level: state
+  DE-TH:
+    name: "Тюрингія"
+    level: state
+GH:
+  GH-AH:
+    name: "Ашанті"
+    level: region
+IN:
+  IN-AN:
+    name: "Андаманські і Нікобарські острови"
+    level: union territory
+  IN-AP:
+    name: "Андхра-Прадеш"
+    level: state
+  IN-AR:
+    name: "Аруначал-Прадеш"
+    level: state
+  IN-AS:
+    name: "Ассам"
+    level: state
+  IN-BR:
+    name: "Біхар"
+    level: state
+  IN-CH:
+    name: "Чандігарх"
+    level: union territory
+  IN-CT:
+    name: "Чхаттісґарх"
+    level: state
+  IN-DN:
+    name: "Дадра і Нагар-Хавелі"
+    level: union territory
+  IN-DD:
+    name: "Даман і Діу"
+    level: union territory
+  IN-DL:
+    name: "Делі"
+    level: union territory
+  IN-GA:
+    name: "Гоа"
+    level: state
+  IN-GJ:
+    name: "Гуджарат"
+    level: state
+  IN-HP:
+    name: "Хімачал-Прадеш"
+    level: state
+  IN-JK:
+    name: "Джамму й Кашмір"
+    level: state
+  IN-JH:
+    name: "Джхаркханд"
+    level: state
+  IN-KA:
+    name: "Карнатака"
+    level: state
+  IN-KL:
+    name: "Керала"
+    level: state
+  IN-LD:
+    name: "Лакшадвіп"
+    level: union territory
+  IN-MH:
+    name: "Махараштра"
+    level: state
+  IN-MN:
+    name: "Маніпур"
+    level: state
+  IN-ML:
+    name: "Меґхалая"
+    level: state
+  IN-MZ:
+    name: "Мізорам"
+    level: state
+  IN-NL:
+    name: "Нагаленд"
+    level: state
+  IN-OR:
+    name: "Орісса"
+    level: state
+  IN-PY:
+    name: "Пудучеррі"
+    level: union territory
+  IN-PB:
+    name: "Пенджаб"
+    level: state
+  IN-RJ:
+    name: "Раджастхан"
+    level: state
+  IN-SK:
+    name: "Сіккім"
+    level: state
+  IN-TN:
+    name: "Тамілнаду"
+    level: state
+  IN-TR:
+    name: "Тріпура"
+    level: state
+  IN-UP:
+    name: "Уттар-Прадеш"
+    level: state
+  IN-UT:
+    name: "Уттаракханд"
+    level: state
+  IN-WB:
+    name: "Західний Бенгал"
+    level: state
+IE:
+  IE-OY:
+    name: "Оффалі"
+    level: county
+  IE-WH:
+    name: "Західний Міт"
+    level: county
+  IE-D:
+    name: "Дублін"
+    level: county
+  IE-G:
+    name: "Ґолвей"
+    level: county
+  IE-L:
+    name: "Ленстер"
+    level: province
+  IE-LK:
+    name: "Лімерик"
+    level: county
+  IE-M:
+    name: "Манстер"
+    level: province
+  IE-SO:
+    name: "Слайго"
+    level: county
+  IE-U:
+    name: "Ольстер"
+    level: province
+  IE-WD:
+    name: "Вотерфорд"
+    level: county
+IL:
+  IL-M:
+    name: "Центральний район"
+    level: district
+  IL-HA:
+    name: "Хайфа"
+    level: district
+  IL-JM:
+    name: "Єрусалим"
+    level: district
+  IL-D:
+    name: "Район Мінамі"
+    level: district
+  IL-TA:
+    name: "Тель-Авів"
+    level: district
+  IL-Z:
+    name: "Район Кіта"
+    level: district
+IT:
+  IT-65:
+    name: "Абруццо"
+    level: region
+  IT-AG:
+    name: "Агрідженто"
+    level: province
+  IT-AL:
+    name: "Алессандрія"
+    level: province
+  IT-AN:
+    name: "Анкона"
+    level: province
+  IT-AO:
+    name: "Аоста"
+    level: province
+  IT-AR:
+    name: "Ареццо"
+    level: province
+  IT-AP:
+    name: "Асколі-Пічено"
+    level: province
+  IT-AT:
+    name: "Асті"
+    level: province
+  IT-AV:
+    name: "Авелліно"
+    level: province
+  IT-BA:
+    name: "Барі"
+    level: province
+  IT-77:
+    name: "Базиліката"
+    level: region
+  IT-BL:
+    name: "Беллуно"
+    level: province
+  IT-BN:
+    name: "Беневенто"
+    level: province
+  IT-BG:
+    name: "Бергамо"
+    level: province
+  IT-BO:
+    name: "Болонья"
+    level: province
+  IT-BZ:
+    name: "Больцано"
+    level: province
+  IT-BS:
+    name: "Брешія"
+    level: province
+  IT-BR:
+    name: "Бріндізі"
+    level: province
+  IT-CA:
+    name: "Кальярі"
+    level: province
+  IT-78:
+    name: "Калабрія"
+    level: region
+  IT-CL:
+    name: "Кальтаніссетта"
+    level: province
+  IT-72:
+    name: "Кампанія"
+    level: region
+  IT-CB:
+    name: "Кампобассо"
+    level: province
+  IT-CE:
+    name: "Казерта"
+    level: province
+  IT-CT:
+    name: "Катанія"
+    level: province
+  IT-CZ:
+    name: "Катандзаро"
+    level: province
+  IT-CO:
+    name: "Комо"
+    level: province
+  IT-CS:
+    name: "Козенца"
+    level: province
+  IT-CR:
+    name: "Кремона"
+    level: province
+  IT-KR:
+    name: "Кротоне"
+    level: province
+  IT-CN:
+    name: "Кунео"
+    level: province
+  IT-45:
+    name: "Емілія-Романья"
+    level: region
+  IT-EN:
+    name: "Енна"
+    level: province
+  IT-FM:
+    name: "Фермо"
+    level: province
+  IT-FE:
+    name: "Феррара"
+    level: province
+  IT-FI:
+    name: "Флоренція"
+    level: province
+  IT-FG:
+    name: "Фоджа"
+    level: province
+  IT-FO:
+    name: "Форлі"
+    level: ''
+  IT-36:
+    name: "Фріулі-Венеція-Джулія"
+    level: region
+  IT-FR:
+    name: "Фрозіноне"
+    level: province
+  IT-GE:
+    name: "Генуя"
+    level: province
+  IT-GO:
+    name: "Горіція"
+    level: province
+  IT-GR:
+    name: "Гроссето"
+    level: province
+  IT-IM:
+    name: "Імперія"
+    level: province
+  IT-IS:
+    name: "Ізернія"
+    level: province
+  IT-BT:
+    name: "Провінція Барлетта-Андрія-Трані"
+    level: province
+  IT-CI:
+    name: "Провінція Карбонія-Іглезіас"
+    level: province
+  IT-FC:
+    name: "Провінція Форлі-Чезена"
+    level: province
+  IT-75:
+    name: "Апулія"
+    level: region
+  IT-SP:
+    name: "Ла-Спеція"
+    level: province
+  IT-62:
+    name: "Лаціо"
+    level: region
+  IT-LE:
+    name: "Лечче"
+    level: province
+  IT-LC:
+    name: "Лекко"
+    level: province
+  IT-42:
+    name: "Лігурія"
+    level: region
+  IT-LI:
+    name: "Ліворно"
+    level: province
+  IT-LO:
+    name: "Лоді"
+    level: province
+  IT-25:
+    name: "Ломбардія"
+    level: region
+  IT-LU:
+    name: "Лукка"
+    level: province
+  IT-MC:
+    name: "Мачерата"
+    level: province
+  IT-MN:
+    name: "Мантуя"
+    level: province
+  IT-57:
+    name: "Марке"
+    level: region
+  IT-MT:
+    name: "Матера"
+    level: province
+  IT-ME:
+    name: "Мессіна"
+    level: province
+  IT-MI:
+    name: "Мілан"
+    level: province
+  IT-MO:
+    name: "Модена"
+    level: province
+  IT-67:
+    name: "Молізе"
+    level: region
+  IT-NA:
+    name: "Неаполь"
+    level: province
+  IT-NO:
+    name: "Новара"
+    level: province
+  IT-NU:
+    name: "Нуоро"
+    level: province
+  IT-OR:
+    name: "Ористано"
+    level: province
+  IT-PD:
+    name: "Падуя"
+    level: province
+  IT-PA:
+    name: "Палермо"
+    level: province
+  IT-PR:
+    name: "Парма"
+    level: province
+  IT-PV:
+    name: "Павія"
+    level: province
+  IT-PG:
+    name: "Перуджа"
+    level: province
+  IT-PE:
+    name: "Пескара"
+    level: province
+  IT-PI:
+    name: "Піза"
+    level: province
+  IT-PT:
+    name: "Пістоя"
+    level: province
+  IT-PN:
+    name: "Порденоне"
+    level: province
+  IT-PZ:
+    name: "Потенца"
+    level: province
+  IT-PO:
+    name: "Прато"
+    level: province
+  IT-MS:
+    name: "Провінція Масса-Каррара"
+    level: province
+  IT-MA:
+    name: "Провінція Медіо-Кампідано"
+    level: province
+  IT-MB:
+    name: "Провінція Монца і Бріанца"
+    level: province
+  IT-OG:
+    name: "Провінція Ольястра"
+    level: province
+  IT-OL:
+    name: "Провінція Ольбія-Темпіо"
+    level: province
+  IT-PU:
+    name: "Провінція Пезаро і Урбіно"
+    level: province
+  IT-RG:
+    name: "Рагуза"
+    level: province
+  IT-RA:
+    name: "Равенна"
+    level: province
+  IT-RC:
+    name: "Реджо-Калабрія"
+    level: province
+  IT-RE:
+    name: "Реджо-нель-Емілія"
+    level: province
+  IT-VB:
+    name: "Провінція Вербано-Кузіо-Оссола"
+    level: province
+  IT-RI:
+    name: "Рієті"
+    level: province
+  IT-RN:
+    name: "Ріміні"
+    level: province
+  IT-RM:
+    name: "Рома"
+    level: province
+  IT-RO:
+    name: "Ровіго"
+    level: province
+  IT-SA:
+    name: "Салерно"
+    level: province
+  IT-88:
+    name: "Сардинія"
+    level: region
+  IT-SS:
+    name: "Сассарі"
+    level: province
+  IT-SV:
+    name: "Савона"
+    level: province
+  IT-82:
+    name: "Сицилія"
+    level: region
+  IT-SI:
+    name: "Сієна"
+    level: province
+  IT-SO:
+    name: "Сондріо"
+    level: province
+  IT-TA:
+    name: "Таранто"
+    level: province
+  IT-TE:
+    name: "Терамо"
+    level: province
+  IT-TR:
+    name: "Терні"
+    level: province
+  IT-TP:
+    name: "Трапані"
+    level: province
+  IT-32:
+    name: "Трентіно-Альто-Адідже"
+    level: region
+  IT-TN:
+    name: "Тренто"
+    level: province
+  IT-TV:
+    name: "Тревізо"
+    level: province
+  IT-TS:
+    name: "Трієст"
+    level: province
+  IT-TO:
+    name: "Турин"
+    level: province
+  IT-52:
+    name: "Тоскана"
+    level: region
+  IT-UD:
+    name: "Удіне"
+    level: province
+  IT-55:
+    name: "Умбрія"
+    level: region
+  IT-VA:
+    name: "Варезе"
+    level: province
+  IT-34:
+    name: "Венето"
+    level: region
+  IT-VE:
+    name: "Венеція"
+    level: province
+  IT-VC:
+    name: "Верчеллі"
+    level: province
+  IT-VR:
+    name: "Верона"
+    level: province
+  IT-VV:
+    name: "Вібо-Валентія"
+    level: province
+  IT-VI:
+    name: "Віченца"
+    level: province
+  IT-VT:
+    name: "Вітербо"
+    level: province
+LU:
+  LU-D:
+    name: "Дікірх"
+    level: district
+  LU-G:
+    name: "Гревенмахер"
+    level: district
+  LU-L:
+    name: "Люксембург"
+    level: district
+NL:
+  NL-AW:
+    name: "Аруба"
+    level: country
+  NL-BQ1:
+    name: "Бонайре"
+    level: special municipality
+  NL-CW:
+    name: "Кюрасао"
+    level: country
+  NL-DR:
+    name: "Дренте"
+    level: province
+  NL-FL:
+    name: "Флеволанд"
+    level: province
+  NL-FR:
+    name: "Фрисландія"
+    level: province
+  NL-GE:
+    name: "Гелдерланд"
+    level: province
+  NL-GR:
+    name: "Гронінген"
+    level: province
+  NL-LI:
+    name: "Лімбург"
+    level: province
+  NL-NB:
+    name: "Північний Брабант"
+    level: province
+  NL-NH:
+    name: "Північна Голландія"
+    level: province
+  NL-OV:
+    name: "Оверейсел"
+    level: province
+  NL-BQ2:
+    name: "Саба"
+    level: special municipality
+  NL-BQ3:
+    name: "Сінт-Естатіус"
+    level: special municipality
+  NL-SX:
+    name: "Сінт-Мартен"
+    level: country
+  NL-ZH:
+    name: "Південна Голландія"
+    level: province
+  NL-UT:
+    name: "Утрехт"
+    level: province
+  NL-ZE:
+    name: "Зеландія"
+    level: province
+'NO':
+  NO-02:
+    name: "Акерсгус"
+    level: county
+  NO-09:
+    name: "Еуст-Аґдер"
+    level: county
+  NO-06:
+    name: "Бускерюд"
+    level: county
+  NO-20:
+    name: "Фіннмарк"
+    level: county
+  NO-04:
+    name: "Гедмарк"
+    level: county
+  NO-12:
+    name: "Гордалан"
+    level: county
+  NO-22:
+    name: "Ян-Маєн"
+    level: ''
+  NO-15:
+    name: "Мере-ог-Ромсдал"
+    level: county
+  NO-17:
+    name: "Нур-Тренделаг"
+    level: county
+  NO-18:
+    name: "Нурлан"
+    level: county
+  NO-05:
+    name: "Опплан"
+    level: county
+  NO-03:
+    name: "Осло"
+    level: county
+  NO-11:
+    name: "Руґалан"
+    level: county
+  NO-21:
+    name: "Шпіцберген"
+    level: ''
+  NO-16:
+    name: "Сер-Тренделаг"
+    level: county
+  NO-08:
+    name: "Телемарк"
+    level: county
+  NO-19:
+    name: "Трумс"
+    level: county
+  NO-10:
+    name: "Вест-Аґдер"
+    level: county
+  NO-07:
+    name: "Вестфол"
+    level: county
+  NO-01:
+    name: "Естфол"
+    level: county
+PL:
+  PL-WP:
+    name: "Великопольське воєводство"
+    level: voivodship
+  PL-KP:
+    name: "Куявсько-Поморське воєводство"
+    level: voivodship
+  PL-MA:
+    name: "Малопольське воєводство"
+    level: voivodship
+  PL-DS:
+    name: "Нижньосілезьке воєводство"
+    level: voivodship
+  PL-LU:
+    name: "Люблінське воєводство"
+    level: voivodship
+  PL-LB:
+    name: "Любуське воєводство"
+    level: voivodship
+  PL-MZ:
+    name: "Мазовецьке воєводство"
+    level: voivodship
+  PL-OP:
+    name: "Опольське воєводство"
+    level: voivodship
+  PL-PK:
+    name: "Підкарпатське воєводство"
+    level: voivodship
+  PL-PD:
+    name: "Підляське воєводство"
+    level: voivodship
+  PL-PM:
+    name: "Поморське воєводство"
+    level: voivodship
+  PL-SL:
+    name: "Сілезьке воєводство"
+    level: voivodship
+  PL-WN:
+    name: "Вармінсько-Мазурське воєводство"
+    level: voivodship
+  PL-ZP:
+    name: "Західнопоморське воєводство"
+    level: voivodship
+  PL-SK:
+    name: "Свентокшиське воєводство"
+    level: voivodship
+PT:
+  PT-20:
+    name: "Азорські острови"
+    level: autonomous region
+  PT-02:
+    name: "Беджа"
+    level: district
+  PT-03:
+    name: "Брага"
+    level: district
+  PT-06:
+    name: "Коїмбра"
+    level: district
+  PT-10:
+    name: "Лейрія"
+    level: district
+  PT-11:
+    name: "Лісабон"
+    level: district
+  PT-30:
+    name: "Мадейра"
+    level: autonomous region
+  PT-13:
+    name: "Порту"
+    level: district
+  PT-15:
+    name: "Сетубал"
+    level: district
+RO:
+  RO-AR:
+    name: "Арад"
+    level: county
+  RO-AG:
+    name: "Арг"
+    level: county
+  RO-BC:
+    name: "Бакеу"
+    level: county
+  RO-BN:
+    name: "Бистриця-Несеуд"
+    level: county
+  RO-BT:
+    name: "Ботошані"
+    level: county
+  RO-BV:
+    name: "Брашов"
+    level: county
+  RO-BR:
+    name: "Браїла"
+    level: county
+  RO-B:
+    name: "Бухарест"
+    level: city
+  RO-BZ:
+    name: "Бузеу"
+    level: county
+  RO-CS:
+    name: "Караш-Северін"
+    level: county
+  RO-CJ:
+    name: "Клуж-Напока"
+    level: county
+  RO-CT:
+    name: "Констанца"
+    level: county
+  RO-CV:
+    name: "Ковасна"
+    level: county
+  RO-CL:
+    name: "Келераші"
+    level: county
+  RO-DJ:
+    name: "Долж"
+    level: county
+  RO-DB:
+    name: "Димбовіца"
+    level: county
+  RO-GL:
+    name: "Галац"
+    level: county
+  RO-GR:
+    name: "Джурджу"
+    level: county
+  RO-GJ:
+    name: "Горж"
+    level: county
+  RO-HR:
+    name: "Харгіта"
+    level: county
+  RO-HD:
+    name: "Хунедоара"
+    level: county
+  RO-IS:
+    name: "Ясси"
+    level: county
+  RO-IF:
+    name: "Ілфов"
+    level: county
+  RO-MM:
+    name: "Мармарощина"
+    level: county
+  RO-MH:
+    name: "Мехедінць"
+    level: county
+  RO-MS:
+    name: "Муреш"
+    level: county
+  RO-NT:
+    name: "Нямц"
+    level: county
+  RO-SM:
+    name: "Сату-Маре"
+    level: county
+  RO-SB:
+    name: "Сібіу"
+    level: county
+  RO-SV:
+    name: "Сучава"
+    level: county
+  RO-TR:
+    name: "Телеорман"
+    level: county
+  RO-TM:
+    name: "Тиміш"
+    level: county
+  RO-TL:
+    name: "Тульча"
+    level: county
+  RO-VS:
+    name: "Васлуй"
+    level: county
+  RO-VL:
+    name: "Вилчя"
+    level: county
+RS:
+  RS-00:
+    name: "Белград"
+    level: city
+  RS-02:
+    name: "Середньо-Банатський округ"
+    level: district
+  RS-03:
+    name: "Північно-Банатський округ"
+    level: district
+  RS-01:
+    name: "Північно-Бацький округ"
+    level: district
+  RS-04:
+    name: "Південно-Банатський округ"
+    level: district
+  RS-07:
+    name: "Сремський округ"
+    level: district
+SK:
+  SK-BC:
+    name: "Банськобистрицький край"
+    level: region
+  SK-BL:
+    name: "Братиславський край"
+    level: region
+  SK-KI:
+    name: "Кошицький край"
+    level: region
+  SK-NI:
+    name: "Нітранський край"
+    level: region
+  SK-PV:
+    name: "Пряшівський край"
+    level: region
+  SK-TA:
+    name: "Трнавський край"
+    level: region
+  SK-ZI:
+    name: "Жилінський край"
+    level: region
+ES:
+  ES-C:
+    name: "Ла-Корунья"
+    level: province
+  ES-AB:
+    name: "Альбасете"
+    level: province
+  ES-A:
+    name: "Аліканте"
+    level: province
+  ES-AL:
+    name: "Альмерія"
+    level: province
+  ES-AN:
+    name: "Андалусія"
+    level: ''
+  ES-AS:
+    name: "Астурія"
+    level: autonomous community
+  ES-BA:
+    name: "Бадахос"
+    level: province
+  ES-IB:
+    name: "Балеарські острови"
+    level: autonomous community
+  ES-B:
+    name: "Барселона"
+    level: province
+  ES-BU:
+    name: "Бургос"
+    level: province
+  ES-CA:
+    name: "Кадіс"
+    level: province
+  ES-S:
+    name: "Кантабрія"
+    level: province
+  ES-CM:
+    name: "Кастилія — Ла-Манча"
+    level: autonomous community
+  ES-CL:
+    name: "Кастилія-і-Леон"
+    level: autonomous community
+  ES-CT:
+    name: "Каталонія"
+    level: autonomous community
+  ES-CE:
+    name: "Сеута"
+    level: autonomous city
+  ES-CR:
+    name: "Сьюдад-Реаль"
+    level: province
+  ES-CU:
+    name: "Куенка"
+    level: province
+  ES-CO:
+    name: "Кордова"
+    level: province
+  ES-EX:
+    name: "Естремадура"
+    level: autonomous community
+  ES-SS:
+    name: "Гіпускоа"
+    level: province
+  ES-GI:
+    name: "Жирона"
+    level: province
+  ES-GR:
+    name: "Гранада"
+    level: province
+  ES-GU:
+    name: "Гвадалахара"
+    level: province
+  ES-H:
+    name: "Уельва"
+    level: province
+  ES-HU:
+    name: "Уеска"
+    level: province
+  ES-GC:
+    name: "Лас-Пальмас-де-Ґран-Канарія"
+    level: province
+  ES-LE:
+    name: "Леон"
+    level: province
+  ES-L:
+    name: "Льєйда"
+    level: province
+  ES-LU:
+    name: "Луґо"
+    level: province
+  ES-MD:
+    name: "Мадрид"
+    level: autonomous community
+  ES-ML:
+    name: "Мелілья"
+    level: autonomous city
+  ES-MC:
+    name: "Мурсія"
+    level: autonomous community
+  ES-MA:
+    name: "Малага"
+    level: province
+  ES-NC:
+    name: "Наварра"
+    level: autonomous community
+  ES-OR:
+    name: "Оренсе"
+    level: province
+  ES-P:
+    name: "Паленсія"
+    level: province
+  ES-PO:
+    name: "Понтеведра"
+    level: province
+  ES-SA:
+    name: "Саламанка"
+    level: province
+  ES-TF:
+    name: "Санта-Крус-де-Тенеріфе"
+    level: province
+  ES-SG:
+    name: "Сеговія"
+    level: province
+  ES-SE:
+    name: "Севілья"
+    level: province
+  ES-SO:
+    name: "Сорія"
+    level: province
+  ES-T:
+    name: "Таррагона"
+    level: province
+  ES-TE:
+    name: "Теруель"
+    level: province
+  ES-V:
+    name: "Валенсія"
+    level: province
+  ES-VC:
+    name: "Валенсія"
+    level: autonomous community
+  ES-VA:
+    name: "Вальядолід"
+    level: province
+  ES-Z:
+    name: "Сарагоса"
+    level: province
+  ES-VI:
+    name: "Алава"
+    level: province
+SE:
+  SE-K:
+    name: "Блекінґе"
+    level: county
+  SE-W:
+    name: "Даларна"
+    level: county
+  SE-I:
+    name: "Ґотланд"
+    level: county
+  SE-X:
+    name: "Євлеборй"
+    level: county
+  SE-N:
+    name: "Галланд"
+    level: county
+  SE-Z:
+    name: "Емтланд"
+    level: county
+  SE-F:
+    name: "Йончопінґ"
+    level: county
+  SE-H:
+    name: "Кальмар"
+    level: county
+  SE-G:
+    name: "Кроноберй"
+    level: county
+  SE-BD:
+    name: "Норрботтен"
+    level: county
+  SE-M:
+    name: "Сконе"
+    level: county
+  SE-AB:
+    name: "Стокгольм"
+    level: county
+  SE-D:
+    name: "Седерманланд"
+    level: county
+  SE-C:
+    name: "Уппсала"
+    level: county
+  SE-S:
+    name: "Вермланд"
+    level: county
+  SE-AC:
+    name: "Вестерботтен"
+    level: county
+  SE-Y:
+    name: "Вестерноррланд"
+    level: county
+  SE-U:
+    name: "Вестманланд"
+    level: county
+  SE-O:
+    name: "Вестра Йоталанд"
+    level: county
+  SE-T:
+    name: "Еребру"
+    level: county
+  SE-E:
+    name: "Естерйотланд"
+    level: county
+CH:
+  CH-AG:
+    name: "Ааргау"
+    level: canton
+  CH-AR:
+    name: "Аппенцелль — Ауссерроден"
+    level: canton
+  CH-AI:
+    name: "Аппенцелль — Іннерроден"
+    level: canton
+  CH-BL:
+    name: "Базель-Ланд"
+    level: canton
+  CH-BS:
+    name: "Базель-Штадт"
+    level: canton
+  CH-BE:
+    name: "Берн"
+    level: canton
+  CH-FR:
+    name: "Фрібур"
+    level: canton
+  CH-GL:
+    name: "Гларус"
+    level: canton
+  CH-GR:
+    name: "Граубюнден"
+    level: canton
+  CH-JU:
+    name: "Юра"
+    level: canton
+  CH-NE:
+    name: "Невшатель"
+    level: canton
+  CH-NW:
+    name: "Нідвальден"
+    level: canton
+  CH-OW:
+    name: "Обвальден"
+    level: canton
+  CH-SH:
+    name: "Шаффгаузен"
+    level: canton
+  CH-SO:
+    name: "Золотурн"
+    level: canton
+  CH-TG:
+    name: "Тургау"
+    level: canton
+  CH-TI:
+    name: "Тічино"
+    level: canton
+  CH-UR:
+    name: "Урі"
+    level: canton
+  CH-VS:
+    name: "Вале"
+    level: canton
+  CH-VD:
+    name: "Во"
+    level: canton
+  CH-ZG:
+    name: "Цуг"
+    level: canton
+  CH-GE:
+    name: "Женева"
+    level: canton
+  CH-LU:
+    name: "Люцерн"
+    level: canton
+  CH-ZH:
+    name: "Цюрих"
+    level: canton
+UA:
+  UA-71:
+    name: "Черкаська область"
+    level: region
+  UA-74:
+    name: "Чернігівська область"
+    level: region
+  UA-77:
+    name: "Чернівецька область"
+    level: region
+  UA-43:
+    name: "Кримський півострів"
+    level: autonomous republic
+  UA-12:
+    name: "Дніпропетровська область"
+    level: region
+  UA-14:
+    name: "Донецька область"
+    level: region
+  UA-26:
+    name: "Івано-Франківська область"
+    level: region
+  UA-63:
+    name: "Харківська область"
+    level: region
+  UA-65:
+    name: "Херсонська область"
+    level: region
+  UA-68:
+    name: "Хмельницька область"
+    level: region
+  UA-30:
+    name: "Київ"
+    level: region
+  UA-32:
+    name: "Київська область"
+    level: region
+  UA-35:
+    name: "Кіровоградська область"
+    level: region
+  UA-09:
+    name: "Луганська область"
+    level: region
+  UA-46:
+    name: "Львівська область"
+    level: region
+  UA-48:
+    name: "Миколаївська область"
+    level: region
+  UA-51:
+    name: "Одеська область"
+    level: region
+  UA-53:
+    name: "Полтавська область"
+    level: region
+  UA-56:
+    name: "Рівненська область"
+    level: region
+  UA-40:
+    name: "Севастополь"
+    level: region
+  UA-59:
+    name: "Сумська область"
+    level: region
+  UA-61:
+    name: "Тернопільська область"
+    level: region
+  UA-05:
+    name: "Вінницька область"
+    level: region
+  UA-07:
+    name: "Волинська область"
+    level: region
+  UA-21:
+    name: "Закарпатська область"
+    level: region
+  UA-23:
+    name: "Запорізька область"
+    level: region
+  UA-18:
+    name: "Житомирська область"
+    level: region
+GB:
+  GB-ABE:
+    name: "Абердин"
+    level: council area (scotland)
+  GB-ABD:
+    name: "Абердиншир"
+    level: council area (scotland)
+  GB-ANS:
+    name: "Ангус"
+    level: council area (scotland)
+  GB-BNS:
+    name: "Барнслі"
+    level: metropolitan district
+  GB-BDF:
+    name: "Бедфордшир"
+    level: unitary authority
+  GB-BFS:
+    name: "Белфаст"
+    level: district council area (northern ireland)
+  GB-BIR:
+    name: "Бірмінгем"
+    level: metropolitan district
+  GB-BPL:
+    name: "Блекпул"
+    level: unitary authority
+  GB-BGW:
+    name: "Бланау-Гвент"
+    level: unitary authority (wales)
+  GB-BOL:
+    name: "Болтон"
+    level: metropolitan district
+  GB-BMH:
+    name: "Борнмут"
+    level: unitary authority
+  GB-BRD:
+    name: "Бредфорд"
+    level: metropolitan district
+  GB-BST:
+    name: "Бристоль"
+    level: unitary authority
+  GB-BRY:
+    name: "Бромлі"
+    level: borough
+  GB-BKM:
+    name: "Бакінгемшир"
+    level: two-tier county
+  GB-BUR:
+    name: "Бері"
+    level: metropolitan district
+  GB-CAY:
+    name: "Карфіллі"
+    level: unitary authority (wales)
+  GB-CAM:
+    name: "Кембриджшир"
+    level: two-tier county
+  GB-CRF:
+    name: "Кардіфф"
+    level: unitary authority (wales)
+  GB-CMN:
+    name: "Кармартеншир"
+    level: unitary authority (wales)
+  GB-CGN:
+    name: "Кередігіон"
+    level: unitary authority (wales)
+  GB-CHS:
+    name: "Чешир"
+    level: ''
+  GB-CLK:
+    name: "Клакманнаншир"
+    level: council area (scotland)
+  GB-CLR:
+    name: "Колрейн"
+    level: district council area (northern ireland)
+  GB-CWY:
+    name: "Конві"
+    level: unitary authority (wales)
+  GB-CON:
+    name: "Корнуол"
+    level: unitary authority
+  GB-COV:
+    name: "Ковентрі"
+    level: metropolitan district
+  GB-BDG:
+    name: "Баркінг і Дагенем"
+    level: borough
+  GB-FER:
+    name: "Фермана"
+    level: district council area (northern ireland)
+  GB-CMA:
+    name: "Камбрія"
+    level: two-tier county
+  GB-DEN:
+    name: "Денбігшир"
+    level: unitary authority (wales)
+  GB-DER:
+    name: "Дербі"
+    level: unitary authority
+  GB-DBY:
+    name: "Дербішир"
+    level: two-tier county
+  GB-DRY:
+    name: "Деррі"
+    level: district council area (northern ireland)
+  GB-DEV:
+    name: "Девон"
+    level: two-tier county
+  GB-DNC:
+    name: "Донкастер"
+    level: metropolitan district
+  GB-DOR:
+    name: "Дорсет"
+    level: two-tier county
+  GB-DUD:
+    name: "Дадлі"
+    level: metropolitan district
+  GB-DGY:
+    name: "Дамфріс і Галловей"
+    level: council area (scotland)
+  GB-DND:
+    name: "Данді"
+    level: council area (scotland)
+  GB-EAY:
+    name: "Східний Ершир"
+    level: council area (scotland)
+  GB-EDU:
+    name: "Східний Данбартоншир"
+    level: council area (scotland)
+  GB-ELN:
+    name: "Східний Лотіан"
+    level: council area (scotland)
+  GB-ERW:
+    name: "Східний Ренфрюшир"
+    level: council area (scotland)
+  GB-ERY:
+    name: "Східний Йоркширський Райдінг"
+    level: unitary authority
+  GB-ESX:
+    name: "Східний Сассекс"
+    level: two-tier county
+  GB-EDH:
+    name: "Единбург"
+    level: council area (scotland)
+  GB-ENF:
+    name: "Енфілд"
+    level: borough
+  GB-ESS:
+    name: "Ессекс"
+    level: two-tier county
+  GB-FAL:
+    name: "Фолкерк"
+    level: council area (scotland)
+  GB-FIF:
+    name: "Файф"
+    level: council area (scotland)
+  GB-FLN:
+    name: "Флінтшир"
+    level: unitary authority (wales)
+  GB-GLG:
+    name: "Глазго"
+    level: council area (scotland)
+  GB-GLS:
+    name: "Глостершир"
+    level: two-tier county
+  GB-GRE:
+    name: "Гринвіч"
+    level: borough
+  GB-GWN:
+    name: "Гвінет"
+    level: unitary authority (wales)
+  GB-HAM:
+    name: "Гемпшир"
+    level: two-tier county
+  GB-HRW:
+    name: "Герроу"
+    level: borough
+  GB-HEF:
+    name: "Герефордшир"
+    level: unitary authority
+  GB-HRT:
+    name: "Гартфордшир"
+    level: two-tier county
+  GB-HLD:
+    name: "Височина"
+    level: council area (scotland)
+  GB-IVC:
+    name: "Інверклайд"
+    level: council area (scotland)
+  GB-HMF:
+    name: "Гаммерсміт і Фулхем"
+    level: borough
+  GB-HAV:
+    name: "Гейверінг"
+    level: borough
+  GB-ELS:
+    name: "Західні острови"
+    level: council area (scotland)
+  GB-AGY:
+    name: "Анґлсі"
+    level: unitary authority (wales)
+  GB-LND:
+    name: "Лондонське Сіті"
+    level: city corporation
+  GB-IOW:
+    name: "Острів Вайт"
+    level: unitary authority
+  GB-KEN:
+    name: "Кент"
+    level: two-tier county
+  GB-KHL:
+    name: "Кінгстон-апон-Галл"
+    level: unitary authority
+  GB-KTT:
+    name: "Кінгстон-на-Темзі"
+    level: borough
+  GB-LAN:
+    name: "Ланкашир"
+    level: two-tier county
+  GB-LDS:
+    name: "Лідс"
+    level: metropolitan district
+  GB-LCE:
+    name: "Лестер"
+    level: unitary authority
+  GB-LEC:
+    name: "Лестершир"
+    level: two-tier county
+  GB-LIN:
+    name: "Лінкольншир"
+    level: two-tier county
+  GB-LIV:
+    name: "Ліверпуль"
+    level: metropolitan district
+  GB-NWM:
+    name: "Ньюем"
+    level: borough
+  GB-MAN:
+    name: "Манчестер"
+    level: metropolitan district
+  GB-MTY:
+    name: "Мертір-Тідвіл"
+    level: unitary authority (wales)
+  GB-MLN:
+    name: "Середній Лотіан"
+    level: council area (scotland)
+  GB-MON:
+    name: "Монмутшир"
+    level: unitary authority (wales)
+  GB-MRY:
+    name: "Морей"
+    level: council area (scotland)
+  GB-NTL:
+    name: "Ніт-Порт-Толбот"
+    level: unitary authority (wales)
+  GB-NET:
+    name: "Ньюкасл-апон-Тайн"
+    level: metropolitan district
+  GB-NWP:
+    name: "Ньюпорт"
+    level: unitary authority (wales)
+  GB-NFK:
+    name: "Норфолк"
+    level: two-tier county
+  GB-NAY:
+    name: "Північний Ершир"
+    level: council area (scotland)
+  GB-NLK:
+    name: "Північний Ланаркшир"
+    level: council area (scotland)
+  GB-NYK:
+    name: "Північний Йоркшир"
+    level: two-tier county
+  GB-NTH:
+    name: "Нортгемптоншир"
+    level: two-tier county
+  GB-NBL:
+    name: "Нортумберленд"
+    level: unitary authority
+  GB-RIC:
+    name: "Річмонд-на-Темзі"
+    level: borough
+  GB-NGM:
+    name: "Ноттінгем"
+    level: unitary authority
+  GB-NTT:
+    name: "Ноттінгемшир"
+    level: two-tier county
+  GB-OLD:
+    name: "Олдгем"
+    level: metropolitan district
+  GB-ORK:
+    name: "Оркнейські острови"
+    level: council area (scotland)
+  GB-OXF:
+    name: "Оксфордшир"
+    level: two-tier county
+  GB-PEM:
+    name: "Пембрукшир"
+    level: unitary authority (wales)
+  GB-PKN:
+    name: "Перт-і-Кінросс"
+    level: council area (scotland)
+  GB-PTE:
+    name: "Пітерборо"
+    level: unitary authority
+  GB-PLY:
+    name: "Плімут"
+    level: unitary authority
+  GB-POR:
+    name: "Портсмут"
+    level: unitary authority
+  GB-POW:
+    name: "Повіс"
+    level: unitary authority (wales)
+  GB-RFW:
+    name: "Ренфрюшир"
+    level: council area (scotland)
+  GB-RCH:
+    name: "Рочдейл"
+    level: metropolitan district
+  GB-RUT:
+    name: "Рутленд"
+    level: unitary authority
+  GB-SCB:
+    name: "Шотландські кордони"
+    level: council area (scotland)
+  GB-SHF:
+    name: "Шеффілд"
+    level: metropolitan district
+  GB-ZET:
+    name: "Шетландські острови"
+    level: council area (scotland)
+  GB-SHR:
+    name: "Шропшир"
+    level: unitary authority
+  GB-SOM:
+    name: "Сомерсет"
+    level: two-tier county
+  GB-SAY:
+    name: "Південний Ершир"
+    level: council area (scotland)
+  GB-SLK:
+    name: "Південний Ланаркшир"
+    level: council area (scotland)
+  GB-STH:
+    name: "Саутгемптон"
+    level: unitary authority
+  GB-SOS:
+    name: "Саутенд-он-Сі"
+    level: unitary authority
+  GB-STS:
+    name: "Стаффордшир"
+    level: two-tier county
+  GB-STG:
+    name: "Стерлінг"
+    level: council area (scotland)
+  GB-STE:
+    name: "Сток-он-Трент"
+    level: unitary authority
+  GB-SFK:
+    name: "Суффолк"
+    level: two-tier county
+  GB-SND:
+    name: "Сандерленд"
+    level: metropolitan district
+  GB-SRY:
+    name: "Суррей"
+    level: two-tier county
+  ENG:
+    name: "Англія"
+    level: country
+  GB-TWH:
+    name: "Тауер-Гемлетс"
+    level: borough
+  GB-WFT:
+    name: "Волтгем Форест"
+    level: borough
+  NIR:
+    name: "Північна Ірландія"
+    level: country
+  SCT:
+    name: "Шотландія"
+    level: country
+  GB-SWA:
+    name: "Свонсі"
+    level: unitary authority (wales)
+  GB-TOF:
+    name: "Торван"
+    level: unitary authority (wales)
+  GB-VGL:
+    name: "Долина Гламорган"
+    level: unitary authority (wales)
+  WLS:
+    name: "Уельс"
+    level: country
+  GB-WAR:
+    name: "Ворікшир"
+    level: two-tier county
+  GB-WDU:
+    name: "Західний Данбартоншир"
+    level: council area (scotland)
+  GB-WLN:
+    name: "Західний Лотіан"
+    level: council area (scotland)
+  GB-WSX:
+    name: "Західний Сассекс"
+    level: two-tier county
+  GB-WSM:
+    name: "Вестмінстер"
+    level: borough
+  GB-WGN:
+    name: "Віган"
+    level: metropolitan district
+  GB-WIL:
+    name: "Вілтшир"
+    level: unitary authority
+  GB-WLV:
+    name: "Вулвергемптон"
+    level: metropolitan district
+  GB-WOR:
+    name: "Вустершир"
+    level: two-tier county
+  GB-WRX:
+    name: "Рексем"
+    level: unitary authority (wales)
+  GB-YOR:
+    name: "Йорк"
+    level: unitary authority
+US:
+  US-AL:
+    name: "Алабама"
+    level: state
+  US-AK:
+    name: "Аляска"
+    level: state
+  US-AS:
+    name: "Східне Самоа"
+    level: outlying area
+  US-AZ:
+    name: "Аризона"
+    level: state
+  US-AR:
+    name: "Арканзас"
+    level: state
+  US-CA:
+    name: "Каліфорнія"
+    level: state
+  US-CO:
+    name: "Колорадо"
+    level: state
+  US-CT:
+    name: "Коннектикут"
+    level: state
+  US-DE:
+    name: "Делавер"
+    level: state
+  US-FL:
+    name: "Флорида"
+    level: state
+  US-GA:
+    name: "Джорджія"
+    level: state
+  US-GU:
+    name: "Гуам"
+    level: outlying area
+  US-HI:
+    name: "Гаваї"
+    level: state
+  US-ID:
+    name: "Айдахо"
+    level: state
+  US-IL:
+    name: "Іллінойс"
+    level: state
+  US-IN:
+    name: "Індіана"
+    level: state
+  US-IA:
+    name: "Айова"
+    level: state
+  US-KS:
+    name: "Канзас"
+    level: state
+  US-KY:
+    name: "Кентуккі"
+    level: state
+  US-LA:
+    name: "Луїзіана"
+    level: state
+  US-ME:
+    name: "Мен"
+    level: state
+  US-MD:
+    name: "Меріленд"
+    level: state
+  US-MA:
+    name: "Массачусетс"
+    level: state
+  US-MI:
+    name: "Мічиган"
+    level: state
+  US-MN:
+    name: "Міннесота"
+    level: state
+  US-MS:
+    name: "Міссісіпі"
+    level: state
+  US-MO:
+    name: "Міссурі"
+    level: state
+  US-MT:
+    name: "Монтана"
+    level: state
+  US-NE:
+    name: "Небраска"
+    level: state
+  US-NV:
+    name: "Невада"
+    level: state
+  US-NH:
+    name: "Нью-Гемпшир"
+    level: state
+  US-NJ:
+    name: "Нью-Джерсі"
+    level: state
+  US-NM:
+    name: "Нью-Мексико"
+    level: state
+  US-NY:
+    name: "Нью-Йорк"
+    level: state
+  US-NC:
+    name: "Північна Кароліна"
+    level: state
+  US-ND:
+    name: "Північна Дакота"
+    level: state
+  US-MP:
+    name: "Північні Маріанські острови"
+    level: outlying area
+  US-OH:
+    name: "Огайо"
+    level: state
+  US-OK:
+    name: "Оклахома"
+    level: state
+  US-OR:
+    name: "Орегон"
+    level: state
+  US-PA:
+    name: "Пенсильванія"
+    level: state
+  US-PR:
+    name: "Пуерто-Рико"
+    level: outlying area
+  US-RI:
+    name: "Род-Айленд"
+    level: state
+  US-SC:
+    name: "Південна Кароліна"
+    level: state
+  US-SD:
+    name: "Південна Дакота"
+    level: state
+  US-TN:
+    name: "Теннессі"
+    level: state
+  US-TX:
+    name: "Техас"
+    level: state
+  US-UM:
+    name: "Зовнішні малі острови США"
+    level: outlying area
+  US-UT:
+    name: "Юта"
+    level: state
+  US-DC:
+    name: "Вашингтон"
+    level: district
+  US-VT:
+    name: "Вермонт"
+    level: state
+  US-VI:
+    name: "Віргінські острови"
+    level: outlying area
+  US-VA:
+    name: "Вірджинія"
+    level: state
+  US-WA:
+    name: "Вашингтон"
+    level: state
+  US-WV:
+    name: "Західна Вірджинія"
+    level: state
+  US-WI:
+    name: "Вісконсин"
+    level: state
+  US-WY:
+    name: "Вайомінг"
+    level: state
+MT:
+  MT-04:
+    name: "Біркіркара"
+    level: local council
+  MT-09:
+    name: "Флоріана"
+    level: local council
+  MT-10:
+    name: "Фонтана"
+    level: local council
+  MT-26:
+    name: "Марса"
+    level: local council
+  MT-29:
+    name: "Мдіна"
+    level: local council
+  MT-46:
+    name: "Рабат"
+    level: local council
+  MT-56:
+    name: "Сліма"
+    level: local council
+  MT-60:
+    name: "Валетта"
+    level: local council

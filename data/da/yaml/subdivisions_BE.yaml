@@ -1,0 +1,28 @@
+---
+BE-VAN:
+  name: Antwerpen
+  level: province
+BE-VOV:
+  name: "Østflandern"
+  level: province
+BE-VBR:
+  name: Vlaams-Brabant
+  level: province
+BE-VLI:
+  name: Limburg
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luxembourg
+  level: province
+BE-WAL:
+  name: Vallonien
+  level: region
+BE-WBR:
+  name: Brabant Wallon
+  level: province
+BE-VWV:
+  name: Vestflandern
+  level: province

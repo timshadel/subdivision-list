@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_RS (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-00', E'Београд', E'city');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-14', E'Борски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-11', E'Браничевски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-02', E'Средњобанатски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-23', E'Јабланички управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-09', E'Колубарски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-29', E'Косовскопоморавски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-25', E'Косовски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-08', E'Мачвански управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-17', E'Моравички управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-20', E'Нишавски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-03', E'Севернобанатски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-01', E'Севернобачки управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-22', E'Пиротски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-10', E'Подунавски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-13', E'Поморавски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-24', E'Пчињски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-19', E'Расински управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-04', E'Јужнобанатски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-07', E'Сремски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-16', E'Златиборски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-12', E'Шумадијски управни округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-28', E'Косовскомитровачки округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-26', E'Пећки округ', E'district');
+INSERT INTO "subdivision_RS" ("id", "name", "level") VALUES (E'RS-27', E'Призренски округ', E'district');

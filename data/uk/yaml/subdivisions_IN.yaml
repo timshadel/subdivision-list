@@ -1,0 +1,100 @@
+---
+IN-AN:
+  name: "Андаманські і Нікобарські острови"
+  level: union territory
+IN-AP:
+  name: "Андхра-Прадеш"
+  level: state
+IN-AR:
+  name: "Аруначал-Прадеш"
+  level: state
+IN-AS:
+  name: "Ассам"
+  level: state
+IN-BR:
+  name: "Біхар"
+  level: state
+IN-CH:
+  name: "Чандігарх"
+  level: union territory
+IN-CT:
+  name: "Чхаттісґарх"
+  level: state
+IN-DN:
+  name: "Дадра і Нагар-Хавелі"
+  level: union territory
+IN-DD:
+  name: "Даман і Діу"
+  level: union territory
+IN-DL:
+  name: "Делі"
+  level: union territory
+IN-GA:
+  name: "Гоа"
+  level: state
+IN-GJ:
+  name: "Гуджарат"
+  level: state
+IN-HP:
+  name: "Хімачал-Прадеш"
+  level: state
+IN-JK:
+  name: "Джамму й Кашмір"
+  level: state
+IN-JH:
+  name: "Джхаркханд"
+  level: state
+IN-KA:
+  name: "Карнатака"
+  level: state
+IN-KL:
+  name: "Керала"
+  level: state
+IN-LD:
+  name: "Лакшадвіп"
+  level: union territory
+IN-MH:
+  name: "Махараштра"
+  level: state
+IN-MN:
+  name: "Маніпур"
+  level: state
+IN-ML:
+  name: "Меґхалая"
+  level: state
+IN-MZ:
+  name: "Мізорам"
+  level: state
+IN-NL:
+  name: "Нагаленд"
+  level: state
+IN-OR:
+  name: "Орісса"
+  level: state
+IN-PY:
+  name: "Пудучеррі"
+  level: union territory
+IN-PB:
+  name: "Пенджаб"
+  level: state
+IN-RJ:
+  name: "Раджастхан"
+  level: state
+IN-SK:
+  name: "Сіккім"
+  level: state
+IN-TN:
+  name: "Тамілнаду"
+  level: state
+IN-TR:
+  name: "Тріпура"
+  level: state
+IN-UP:
+  name: "Уттар-Прадеш"
+  level: state
+IN-UT:
+  name: "Уттаракханд"
+  level: state
+IN-WB:
+  name: "Західний Бенгал"
+  level: state

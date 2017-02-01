@@ -1,0 +1,16 @@
+<?php return array (
+  'UZ-AN' => array('name' => 'Andijan', 'level' => 'region'),
+  'UZ-BU' => array('name' => 'Bukhara', 'level' => 'region'),
+  'UZ-FA' => array('name' => 'Fergana', 'level' => 'region'),
+  'UZ-JI' => array('name' => 'Jizzakh', 'level' => 'region'),
+  'UZ-NG' => array('name' => 'Namangan', 'level' => 'region'),
+  'UZ-NW' => array('name' => 'Navoiy', 'level' => 'region'),
+  'UZ-QA' => array('name' => 'Qashqadaryo', 'level' => 'region'),
+  'UZ-QR' => array('name' => 'Karakalpakstan', 'level' => 'republic'),
+  'UZ-SA' => array('name' => 'Samarkand', 'level' => 'region'),
+  'UZ-SI' => array('name' => 'Sirdaryo', 'level' => 'region'),
+  'UZ-SU' => array('name' => 'Surxondaryo', 'level' => 'region'),
+  'UZ-TO' => array('name' => 'Tashkent', 'level' => 'region'),
+  'UZ-TK' => array('name' => 'Toshkent City', 'level' => 'city'),
+  'UZ-XO' => array('name' => 'Khwarezm', 'level' => 'region'),
+);

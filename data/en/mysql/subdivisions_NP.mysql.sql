@@ -1,0 +1,21 @@
+CREATE TABLE subdivision_NP (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-BA', 'Bagmati River', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-BH', 'Bheri', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-DH', 'Dhawalagiri', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-GA', 'Gandaki', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-JA', 'Janakpurdham', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-KA', 'Karnali', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-KO', 'Kosi', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-LU', 'Lumbini', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-2', 'Mid-Western Region', 'development regions');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-1', 'Central Region', 'development regions');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-MA', 'Mahakali', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-ME', 'Mechi Zone', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-NA', 'Narayani', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-3', 'Western Region', 'development regions');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-4', 'Eastern Region', 'development regions');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-RA', 'Rapti', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-SA', 'Sagarmatha', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-SE', 'Search for extraterrestrial intelligence', 'zone');
+INSERT INTO `subdivision_NP` (`id`, `name`, `level`) VALUES ('NP-5', 'Far-Western Region', 'development regions');

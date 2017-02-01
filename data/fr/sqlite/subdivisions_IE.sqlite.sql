@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_IE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-CW', 'Carlow', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-CN', 'Cavan', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-CE', 'Clare', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-LS', 'Comté de Laois', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-WH', 'Comté de Westmeath', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-DL', 'Donegal', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-D', 'Dublin', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-G', 'Galway', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-KY', 'Kerry', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-KE', 'Kildare', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-KK', 'Kilkenny', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-L', 'Leinster', 'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-LK', 'Limerick', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-LD', 'Longford', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-MO', 'Mayo', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-MN', 'Monaghan', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-M', 'Munster', 'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-RN', 'Roscommon', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-SO', 'Sligo', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-TA', 'Tipperary', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-U', 'Ulster', 'province');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-WD', 'Waterford', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-WX', 'Wexford', 'county');
+INSERT INTO "subdivision_IE" ("id", "name", "level") VALUES ('IE-WW', 'Wicklow', 'county');

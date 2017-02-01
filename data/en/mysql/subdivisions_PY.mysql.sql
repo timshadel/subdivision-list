@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_PY (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-16', 'Alto Paraguay Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-10', 'Alto Paraná Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-13', 'Amambay Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-ASU', 'Asunción', 'capital');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-19', 'Boquerón', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-5', 'Caaguazú', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-6', 'Caazapá', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-14', 'Canindeyú Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-11', 'Central', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-1', 'Concepción', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-3', 'Cordillera', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-4', 'Guaira', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-7', 'Itapúa Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-8', 'Misiones Province', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-9', 'Paraguarí', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-15', 'Presidente Hayes Department', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-2', 'San Pedro', 'department');
+INSERT INTO `subdivision_PY` (`id`, `name`, `level`) VALUES ('PY-12', 'Ñeembucú Department', 'department');

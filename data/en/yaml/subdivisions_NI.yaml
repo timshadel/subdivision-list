@@ -1,0 +1,52 @@
+---
+NI-AN:
+  name: Atlántico Norte
+  level: autonomous region
+NI-AS:
+  name: Atlántico Sur
+  level: autonomous region
+NI-BO:
+  name: Boaco
+  level: department
+NI-CA:
+  name: Carazo
+  level: department
+NI-CI:
+  name: Chinandega
+  level: department
+NI-CO:
+  name: Chontales
+  level: department
+NI-ES:
+  name: Estelí
+  level: department
+NI-GR:
+  name: Granada
+  level: department
+NI-JI:
+  name: Jinotega
+  level: department
+NI-LE:
+  name: Leon
+  level: department
+NI-MD:
+  name: Madriz
+  level: department
+NI-MN:
+  name: Managua
+  level: department
+NI-MS:
+  name: Masaya
+  level: department
+NI-MT:
+  name: Matagalpa
+  level: department
+NI-NS:
+  name: Nueva Segovia
+  level: department
+NI-RI:
+  name: Rivas
+  level: department
+NI-SJ:
+  name: Río San Juan
+  level: department

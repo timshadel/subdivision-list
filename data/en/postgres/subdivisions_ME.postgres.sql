@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_ME (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-01', E'Andrijevica', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-02', E'Bar', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-03', E'Berane', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-04', E'Bijelo Polje', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-05', E'Budva', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-06', E'Cetinje', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-07', E'Danilovgrad', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-08', E'Herceg Novi', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-09', E'Kolašin', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-10', E'Kotor', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-11', E'Mojkovac', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-12', E'Nikšic´', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-13', E'Plav', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-14', E'Pljevlja', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-15', E'Plužine', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-16', E'Podgorica', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-17', E'Rožaje', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-19', E'Tivat', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-20', E'Ulcinj', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-18', E'Šavnik', E'commune');
+INSERT INTO "subdivision_ME" ("id", "name", "level") VALUES (E'ME-21', E'Žabljak', E'commune');

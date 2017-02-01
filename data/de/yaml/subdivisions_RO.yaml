@@ -1,0 +1,112 @@
+---
+RO-AR:
+  name: Arad
+  level: county
+RO-BC:
+  name: Bacău
+  level: county
+RO-BN:
+  name: Kreis Bistrița-Năsăud
+  level: county
+RO-BT:
+  name: Botoșani
+  level: county
+RO-BV:
+  name: Brașov
+  level: county
+RO-BR:
+  name: Brăila
+  level: county
+RO-B:
+  name: Bukarest
+  level: city
+RO-BZ:
+  name: Buzău
+  level: county
+RO-CS:
+  name: Kreis Caraș-Severin
+  level: county
+RO-CJ:
+  name: Cluj-Napoca
+  level: county
+RO-CT:
+  name: Constanța
+  level: county
+RO-CV:
+  name: Covasna
+  level: county
+RO-CL:
+  name: Călărași
+  level: county
+RO-DJ:
+  name: Kreis Dolj
+  level: county
+RO-DB:
+  name: Dâmbovița
+  level: county
+RO-GL:
+  name: Galați
+  level: county
+RO-GR:
+  name: Giurgiu
+  level: county
+RO-GJ:
+  name: Kreis Gorj
+  level: county
+RO-HR:
+  name: Kreis Harghita
+  level: county
+RO-HD:
+  name: Hunedoara
+  level: county
+RO-IL:
+  name: Ialomița
+  level: county
+RO-IS:
+  name: Iași
+  level: county
+RO-IF:
+  name: Kreis Ilfov
+  level: county
+RO-MM:
+  name: Komitat Máramaros
+  level: county
+RO-MH:
+  name: Kreis Mehedinți
+  level: county
+RO-MS:
+  name: Kreis Mureș
+  level: county
+RO-NT:
+  name: Kreis Neamț
+  level: county
+RO-PH:
+  name: Prahova
+  level: county
+RO-SM:
+  name: Satu Mare
+  level: county
+RO-SB:
+  name: Sibiu
+  level: county
+RO-SV:
+  name: Suceava
+  level: county
+RO-SJ:
+  name: Salaj
+  level: county
+RO-TR:
+  name: Kreis Teleorman
+  level: county
+RO-TM:
+  name: Timiș
+  level: county
+RO-TL:
+  name: Tulcea
+  level: county
+RO-VS:
+  name: Vaslui
+  level: county
+RO-VL:
+  name: Kreis Vâlcea
+  level: county

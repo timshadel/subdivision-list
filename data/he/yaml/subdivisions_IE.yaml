@@ -1,0 +1,19 @@
+---
+IE-D:
+  name: "דבלין"
+  level: county
+IE-G:
+  name: "גולוויי"
+  level: county
+IE-L:
+  name: "לנסטר"
+  level: province
+IE-LK:
+  name: "לימריק"
+  level: county
+IE-M:
+  name: "מנסטר"
+  level: province
+IE-U:
+  name: "אלסטר"
+  level: province

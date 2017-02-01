@@ -1,0 +1,4 @@
+Brong-Ahafo (GH-BA)
+Greater Accra (GH-AA)
+Upper East (GH-UE)
+Volta (GH-TV)

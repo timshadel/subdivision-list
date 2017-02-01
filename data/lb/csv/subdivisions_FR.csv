@@ -1,0 +1,101 @@
+id,name,level
+FR-01,Departement Ain,metropolitan department
+FR-02,Departement Aisne,metropolitan department
+FR-03,Departement Allier,metropolitan department
+FR-06,Departement Alpes-Maritimes,metropolitan department
+FR-04,Departement Alpes-de-Haute-Provence,metropolitan department
+FR-A,Elsass,metropolitan regions
+FR-B,Aquitaine,metropolitan regions
+FR-08,Ardennen,metropolitan department
+FR-07,Departement Ardèche,metropolitan department
+FR-09,Departement Ariège,metropolitan department
+FR-10,Departement Aube,metropolitan department
+FR-11,Departement Aude,metropolitan department
+FR-12,Departement Aveyron,metropolitan department
+FR-67,Departement Bas-Rhin,metropolitan department
+FR-13,Departement Bouches-du-Rhône,metropolitan department
+FR-14,Departement Calvados,metropolitan department
+FR-15,Departement Cantal,metropolitan department
+FR-F,Centre,metropolitan regions
+FR-G,Champagne-Ardenne,metropolitan regions
+FR-16,Departement Charente,metropolitan department
+FR-17,Departement Charente-Maritime,metropolitan department
+FR-19,Departement Corrèze,metropolitan department
+FR-2A,Departement Corse-du-Sud,metropolitan department
+FR-H,Korsika,metropolitan regions
+FR-23,Departement Creuse,metropolitan department
+FR-79,Departement Deux-Sèvres,metropolitan department
+FR-24,Departement Dordogne,metropolitan department
+FR-25,Departement Doubs,metropolitan department
+FR-26,Departement Drôme,metropolitan department
+FR-91,Departement Essonne,metropolitan department
+FR-27,Departement Eure,metropolitan department
+FR-28,Departement Eure-et-Loir,metropolitan department
+FR-29,Departement Finistère,metropolitan department
+FR-I,Franche-Comté,metropolitan regions
+FR-33,Departement Gironde,metropolitan department
+FR-GP,Departement Guadeloupe,overseas regions
+FR-68,Departement Haut-Rhin,metropolitan department
+FR-2B,Departement Haute-Corse,metropolitan department
+FR-P,Basse-Normandie,metropolitan regions
+FR-GF,Guyane,overseas regions
+FR-43,Departement Haute-Loire,metropolitan department
+FR-52,Departement Haute-Marne,metropolitan department
+FR-74,Departement Haute-Savoie,metropolitan department
+FR-70,Departement Haute-Saône,metropolitan department
+FR-05,Departement Hautes-Alpes,metropolitan department
+FR-92,Departement Hauts-de-Seine,metropolitan department
+FR-34,Departement Hérault,metropolitan department
+FR-35,Departement Ille-et-Vilaine,metropolitan department
+FR-36,Departement Indre,metropolitan department
+FR-38,Departement Isère,metropolitan department
+FR-39,Jura,metropolitan department
+FR-K,Languedoc-Roussillon,metropolitan regions
+FR-42,Departement Loire,metropolitan department
+FR-44,Departement Loire-Atlantique,metropolitan department
+FR-48,Departement Lozère,metropolitan department
+FR-49,Departement Maine-et-Loire,metropolitan department
+FR-50,Departement Manche,metropolitan department
+FR-51,Departement Marne,metropolitan department
+FR-MQ,Departement Martinique,overseas regions
+FR-53,Departement Mayenne,metropolitan department
+FR-YT,Departement Mayotte,territorial collectivity
+FR-54,Departement Meurthe-et-Moselle,metropolitan department
+FR-55,Departement Meuse,metropolitan department
+FR-N,Midi-Pyrénées,metropolitan regions
+FR-56,Departement Morbihan,metropolitan department
+FR-57,Departement Moselle,metropolitan department
+FR-58,Departement Nièvre,metropolitan department
+FR-O,Nord-Pas-de-Calais,metropolitan regions
+FR-60,Departement Oise,metropolitan department
+FR-61,Departement Orne,metropolitan department
+FR-75,Paräis,metropolitan department
+FR-62,Departement Pas-de-Calais,metropolitan department
+FR-R,Pays de la Loire,metropolitan regions
+FR-S,Picardie,metropolitan regions
+FR-T,Poitou-Charentes,metropolitan regions
+FR-Q,Haute-Normandie,metropolitan regions
+FR-PF,Franséisch-Polynesien,overseas territory
+FR-NC,Neikaledonien,overseas territory
+FR-RE,Departement La Réunion,overseas regions
+FR-63,Departement Puy-de-Dôme,metropolitan department
+FR-64,Departement Pyrénées-Atlantiques,metropolitan department
+FR-69,Rhône,metropolitan department
+FR-V,Rhône-Alpes,metropolitan regions
+FR-72,Departement Sarthe,metropolitan department
+FR-76,Departement Seine-Maritime,metropolitan department
+FR-93,Departement Seine-Saint-Denis,metropolitan department
+FR-77,Departement Seine-et-Marne,metropolitan department
+FR-80,Departement Somme,metropolitan department
+FR-81,Tarn,metropolitan department
+FR-82,Departement Tarn-et-Garonne,metropolitan department
+FR-90,Territoire de Belfort,metropolitan department
+FR-94,Departement Val-de-Marne,metropolitan department
+FR-85,Departement Vendée,metropolitan department
+FR-86,Departement Vienne,metropolitan department
+FR-88,Departement Vosges,metropolitan department
+FR-89,Departement Yonne,metropolitan department
+FR-78,Departement Yvelines,metropolitan department
+FR-BL,Saint-Barthélemy,overseas territorial collectivity
+FR-PM,Saint-Pierre a Miquelon,territorial collectivity
+FR-WF,Wallis a Futuna,overseas territory

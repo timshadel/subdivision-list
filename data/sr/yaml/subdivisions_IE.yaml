@@ -1,0 +1,55 @@
+---
+IE-CW:
+  name: "Карлоу"
+  level: county
+IE-CN:
+  name: "Каван"
+  level: county
+IE-LS:
+  name: "Лиш"
+  level: county
+IE-OY:
+  name: "Офали"
+  level: county
+IE-WH:
+  name: "Вестмид"
+  level: county
+IE-D:
+  name: "Даблин"
+  level: county
+IE-G:
+  name: "Голвеј"
+  level: county
+IE-KK:
+  name: "Килкени"
+  level: county
+IE-L:
+  name: "Ленстер"
+  level: province
+IE-LK:
+  name: "Лимерик"
+  level: county
+IE-LD:
+  name: "Лонгфорд"
+  level: county
+IE-MN:
+  name: "Монахан"
+  level: county
+IE-M:
+  name: "Манстер"
+  level: province
+IE-RN:
+  name: "Роскомон"
+  level: county
+IE-SO:
+  name: "Слајго"
+  level: county
+IE-U:
+  name: "Алстер"
+  level: province
+IE-WD:
+  name: "Вотерфорд"
+  level: county
+IE-WX:
+  name: "Вексфорд"
+  level: county

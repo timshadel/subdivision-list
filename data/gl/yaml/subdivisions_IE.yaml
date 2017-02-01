@@ -1,0 +1,55 @@
+---
+IE-CW:
+  name: Carlow - Ceatharlach
+  level: county
+IE-CN:
+  name: Cavan - An Cabhán
+  level: county
+IE-LS:
+  name: Condado de Laois
+  level: county
+IE-OY:
+  name: Condado de Offaly
+  level: county
+IE-WH:
+  name: Condado de Westmeath
+  level: county
+IE-D:
+  name: Dublín - Baile Átha Cliath
+  level: county
+IE-G:
+  name: Galway - Gaillimh
+  level: county
+IE-KY:
+  name: Kerry
+  level: county
+IE-KK:
+  name: Kilkenny - Cill Chainnigh
+  level: county
+IE-L:
+  name: Leinster - Cúige Laighean
+  level: province
+IE-LK:
+  name: Limerick - Luimneach
+  level: county
+IE-LD:
+  name: Longford - An Longfort
+  level: county
+IE-M:
+  name: Munster - Cúige Mumhan
+  level: province
+IE-SO:
+  name: Sligo - Sligeach
+  level: county
+IE-U:
+  name: "Úlster - Cúige Uladh"
+  level: province
+IE-WD:
+  name: Waterford - Port Láirge
+  level: county
+IE-WX:
+  name: Wexford - Loch Garman
+  level: county
+IE-WW:
+  name: Wicklow - Cill Mhantáin
+  level: county

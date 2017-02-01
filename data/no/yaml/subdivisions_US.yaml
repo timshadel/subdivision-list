@@ -1,0 +1,172 @@
+---
+US-AL:
+  name: Alabama
+  level: state
+US-AK:
+  name: Alaska
+  level: state
+US-AS:
+  name: Amerikansk Samoa
+  level: outlying area
+US-AZ:
+  name: Arizona
+  level: state
+US-AR:
+  name: Arkansas
+  level: state
+US-CA:
+  name: California
+  level: state
+US-CO:
+  name: Colorado
+  level: state
+US-CT:
+  name: Connecticut
+  level: state
+US-DE:
+  name: Delaware
+  level: state
+US-FL:
+  name: Florida
+  level: state
+US-GA:
+  name: Georgia
+  level: state
+US-GU:
+  name: Guam
+  level: outlying area
+US-HI:
+  name: Hawaii
+  level: state
+US-ID:
+  name: Idaho
+  level: state
+US-IL:
+  name: Illinois
+  level: state
+US-IN:
+  name: Indiana
+  level: state
+US-IA:
+  name: Iowa
+  level: state
+US-KS:
+  name: Kansas
+  level: state
+US-KY:
+  name: Kentucky
+  level: state
+US-LA:
+  name: Louisiana
+  level: state
+US-ME:
+  name: Maine
+  level: state
+US-MD:
+  name: Maryland
+  level: state
+US-MA:
+  name: Massachusetts
+  level: state
+US-MI:
+  name: Michigan
+  level: state
+US-MN:
+  name: Minnesota
+  level: state
+US-MS:
+  name: Mississippi
+  level: state
+US-MO:
+  name: Missouri
+  level: state
+US-MT:
+  name: Montana
+  level: state
+US-NE:
+  name: Nebraska
+  level: state
+US-NV:
+  name: Nevada
+  level: state
+US-NH:
+  name: New Hampshire
+  level: state
+US-NJ:
+  name: New Jersey
+  level: state
+US-NM:
+  name: New Mexico
+  level: state
+US-NY:
+  name: New York
+  level: state
+US-NC:
+  name: Nord-Carolina
+  level: state
+US-ND:
+  name: Nord-Dakota
+  level: state
+US-MP:
+  name: Nord-Marianene
+  level: outlying area
+US-OH:
+  name: Ohio
+  level: state
+US-OK:
+  name: Oklahoma
+  level: state
+US-OR:
+  name: Oregon
+  level: state
+US-PA:
+  name: Pennsylvania
+  level: state
+US-PR:
+  name: Puerto Rico
+  level: outlying area
+US-RI:
+  name: Rhode Island
+  level: state
+US-SC:
+  name: Sør-Carolina
+  level: state
+US-SD:
+  name: Sør-Dakota
+  level: state
+US-TN:
+  name: Tennessee
+  level: state
+US-TX:
+  name: Texas
+  level: state
+US-UM:
+  name: USAs ytre småøyer
+  level: outlying area
+US-UT:
+  name: Utah
+  level: state
+US-DC:
+  name: Washington, D.C.
+  level: district
+US-VT:
+  name: Vermont
+  level: state
+US-VI:
+  name: Jomfruøyene
+  level: outlying area
+US-VA:
+  name: Virginia
+  level: state
+US-WA:
+  name: Washington
+  level: state
+US-WV:
+  name: Vest-Virginia
+  level: state
+US-WI:
+  name: Wisconsin
+  level: state
+US-WY:
+  name: Wyoming
+  level: state

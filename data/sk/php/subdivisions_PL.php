@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Veľkopoľské vojvodstvo', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Kujavsko-pomoranské vojvodstvo', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Malopoľské vojvodstvo', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Dolnosliezske vojvodstvo', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lubelské vojvodstvo', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubuské vojvodstvo', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Mazovské vojvodstvo', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opolské vojvodstvo', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Podkarpatské vojvodstvo', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podleské vojvodstvo', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pomoranské vojvodstvo', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Sliezske vojvodstvo', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Varmsko-mazurské vojvodstvo', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Západopomoranské vojvodstvo', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Svätokrížske vojvodstvo', 'level' => 'voivodship'),
+);

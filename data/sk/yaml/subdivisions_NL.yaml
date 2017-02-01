@@ -1,0 +1,46 @@
+---
+NL-AW:
+  name: Aruba
+  level: country
+NL-BQ1:
+  name: Bonaire
+  level: special municipality
+NL-CW:
+  name: Curaçao
+  level: country
+NL-DR:
+  name: Drenthe
+  level: province
+NL-FL:
+  name: Flevoland
+  level: province
+NL-FR:
+  name: Frízsko
+  level: province
+NL-GE:
+  name: Gelderland
+  level: province
+NL-GR:
+  name: Groningen
+  level: province
+NL-LI:
+  name: Limbursko
+  level: province
+NL-NB:
+  name: Severné Brabantsko
+  level: province
+NL-NH:
+  name: Severný Holland
+  level: province
+NL-OV:
+  name: Overijssel
+  level: province
+NL-ZH:
+  name: Južný Holland
+  level: province
+NL-UT:
+  name: Utrecht
+  level: province
+NL-ZE:
+  name: Zéland
+  level: province

@@ -1,0 +1,343 @@
+---
+FR-01:
+  name: "Ен"
+  level: metropolitan department
+FR-02:
+  name: "Ена"
+  level: metropolitan department
+FR-03:
+  name: "Альє"
+  level: metropolitan department
+FR-06:
+  name: "Приморські Альпи"
+  level: metropolitan department
+FR-04:
+  name: "Альпи Верхнього Провансу"
+  level: metropolitan department
+FR-A:
+  name: "Ельзас"
+  level: metropolitan regions
+FR-B:
+  name: "Аквітанія"
+  level: metropolitan regions
+FR-08:
+  name: "Арденни"
+  level: metropolitan department
+FR-07:
+  name: "Ардеш"
+  level: metropolitan department
+FR-10:
+  name: "Об"
+  level: metropolitan department
+FR-11:
+  name: "Од"
+  level: metropolitan department
+FR-12:
+  name: "Аверон"
+  level: metropolitan department
+FR-67:
+  name: "Нижній Рейн"
+  level: metropolitan department
+FR-13:
+  name: "Буш-дю-Рон"
+  level: metropolitan department
+FR-E:
+  name: "Бретань"
+  level: metropolitan regions
+FR-14:
+  name: "Кальвадос"
+  level: metropolitan department
+FR-15:
+  name: "Канталь"
+  level: metropolitan department
+FR-G:
+  name: "Шампань-Арденни"
+  level: metropolitan regions
+FR-16:
+  name: "Шаранта"
+  level: metropolitan department
+FR-17:
+  name: "Приморська Шаранта"
+  level: metropolitan department
+FR-18:
+  name: "Шер"
+  level: metropolitan department
+FR-CP:
+  name: "Кліппертон"
+  level: dependency
+FR-19:
+  name: "Коррез"
+  level: metropolitan department
+FR-2A:
+  name: "Південна Корсика"
+  level: metropolitan department
+FR-H:
+  name: "Корсика"
+  level: metropolitan regions
+FR-23:
+  name: "Крез"
+  level: metropolitan department
+FR-79:
+  name: "Де-Севр"
+  level: metropolitan department
+FR-24:
+  name: "Дордонь"
+  level: metropolitan department
+FR-25:
+  name: "Ду"
+  level: metropolitan department
+FR-26:
+  name: "Дром"
+  level: metropolitan department
+FR-91:
+  name: "Ессонн"
+  level: metropolitan department
+FR-27:
+  name: "Ер"
+  level: metropolitan department
+FR-28:
+  name: "Ер і Луар"
+  level: metropolitan department
+FR-29:
+  name: "Фіністер"
+  level: metropolitan department
+FR-I:
+  name: "Франш-Конте"
+  level: metropolitan regions
+FR-30:
+  name: "Гар"
+  level: metropolitan department
+FR-32:
+  name: "Жер"
+  level: metropolitan department
+FR-33:
+  name: "Жиронда"
+  level: metropolitan department
+FR-GP:
+  name: "Гваделупа"
+  level: overseas regions
+FR-68:
+  name: "Верхній Рейн"
+  level: metropolitan department
+FR-2B:
+  name: "Верхня Корсика"
+  level: metropolitan department
+FR-31:
+  name: "Верхня Гаронна"
+  level: metropolitan department
+FR-P:
+  name: "Нижня Нормандія"
+  level: metropolitan regions
+FR-GF:
+  name: "Французька Гвіана"
+  level: overseas regions
+FR-43:
+  name: "Верхня Луара"
+  level: metropolitan department
+FR-52:
+  name: "Верхня Марна"
+  level: metropolitan department
+FR-74:
+  name: "Верхня Савойя"
+  level: metropolitan department
+FR-70:
+  name: "Верхня Сона"
+  level: metropolitan department
+FR-05:
+  name: "Верхні Альпи"
+  level: metropolitan department
+FR-65:
+  name: "Верхні Піренеї"
+  level: metropolitan department
+FR-92:
+  name: "О-де-Сен"
+  level: metropolitan department
+FR-34:
+  name: "Еро"
+  level: metropolitan department
+FR-35:
+  name: "Іль і Вілен"
+  level: metropolitan department
+FR-36:
+  name: "Ендр"
+  level: metropolitan department
+FR-37:
+  name: "Ендр і Луара"
+  level: metropolitan department
+FR-38:
+  name: "Ізер"
+  level: metropolitan department
+FR-39:
+  name: "Юра"
+  level: metropolitan department
+FR-K:
+  name: "Лангедок-Руссільйон"
+  level: metropolitan regions
+FR-41:
+  name: "Луар і Шер"
+  level: metropolitan department
+FR-42:
+  name: "Луара"
+  level: metropolitan department
+FR-44:
+  name: "Атлантична Луара"
+  level: metropolitan department
+FR-45:
+  name: "Луаре"
+  level: metropolitan department
+FR-46:
+  name: "Лот"
+  level: metropolitan department
+FR-47:
+  name: "Лот і Гаронна"
+  level: metropolitan department
+FR-48:
+  name: "Лозер"
+  level: metropolitan department
+FR-49:
+  name: "Мен і Луара"
+  level: metropolitan department
+FR-50:
+  name: "Манш"
+  level: metropolitan department
+FR-51:
+  name: "Марна"
+  level: metropolitan department
+FR-MQ:
+  name: "Мартиніка"
+  level: overseas regions
+FR-53:
+  name: "Майєнн"
+  level: metropolitan department
+FR-YT:
+  name: "Майотта"
+  level: territorial collectivity
+FR-54:
+  name: "Мерт і Мозель"
+  level: metropolitan department
+FR-55:
+  name: "Мез"
+  level: metropolitan department
+FR-N:
+  name: "Південь-Піренеї"
+  level: metropolitan regions
+FR-56:
+  name: "Морбіан"
+  level: metropolitan department
+FR-57:
+  name: "Мозель"
+  level: metropolitan department
+FR-58:
+  name: "Ньєвр"
+  level: metropolitan department
+FR-O:
+  name: "Нор-Па-де-Кале"
+  level: metropolitan regions
+FR-60:
+  name: "Уаза"
+  level: metropolitan department
+FR-61:
+  name: "Орн"
+  level: metropolitan department
+FR-75:
+  name: "Париж"
+  level: metropolitan department
+FR-62:
+  name: "Па-де-Кале"
+  level: metropolitan department
+FR-R:
+  name: "Пеї-де-ла-Луар"
+  level: metropolitan regions
+FR-S:
+  name: "Пікардія"
+  level: metropolitan regions
+FR-T:
+  name: "Пуату-Шарант"
+  level: metropolitan regions
+FR-Q:
+  name: "Верхня Нормандія"
+  level: metropolitan regions
+FR-PF:
+  name: "Французька Полінезія"
+  level: overseas territory
+FR-NC:
+  name: "Нова Каледонія"
+  level: overseas territory
+FR-RE:
+  name: "Реюньйон"
+  level: overseas regions
+FR-U:
+  name: "Прованс-Альпи-Лазурний берег"
+  level: metropolitan regions
+FR-63:
+  name: "Пюї-де-Дом"
+  level: metropolitan department
+FR-64:
+  name: "Атлантичні Піренеї"
+  level: metropolitan department
+FR-66:
+  name: "Східні Піренеї"
+  level: metropolitan department
+FR-69:
+  name: "Рона"
+  level: metropolitan department
+FR-V:
+  name: "Рона-Альпи"
+  level: metropolitan regions
+FR-72:
+  name: "Сарта"
+  level: metropolitan department
+FR-73:
+  name: "Савойя"
+  level: metropolitan department
+FR-71:
+  name: "Сона і Луара"
+  level: metropolitan department
+FR-76:
+  name: "Приморська Сена"
+  level: metropolitan department
+FR-93:
+  name: "Сена-Сен-Дені"
+  level: metropolitan department
+FR-77:
+  name: "Сена і Марна"
+  level: metropolitan department
+FR-80:
+  name: "Сомма"
+  level: metropolitan department
+FR-82:
+  name: "Тарн і Гаронна"
+  level: metropolitan department
+FR-90:
+  name: "Територія Бельфор"
+  level: metropolitan department
+FR-94:
+  name: "Валь-де-Марн"
+  level: metropolitan department
+FR-83:
+  name: "Вар"
+  level: metropolitan department
+FR-84:
+  name: "Воклюз"
+  level: metropolitan department
+FR-85:
+  name: "Вандея"
+  level: metropolitan department
+FR-88:
+  name: "Вогези"
+  level: metropolitan department
+FR-89:
+  name: "Йонна"
+  level: metropolitan department
+FR-78:
+  name: "Івлін"
+  level: metropolitan department
+FR-MF:
+  name: "Сен-Мартен"
+  level: overseas territorial collectivity
+FR-BL:
+  name: "Сен-Бартельмі"
+  level: overseas territorial collectivity
+FR-WF:
+  name: "Волліс і Футуна"
+  level: overseas territory

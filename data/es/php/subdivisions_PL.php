@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Voivodato de Gran Polonia', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Voivodato de Cuyavia y Pomerania', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Voivodato de Pequeña Polonia', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Voivodato de Baja Silesia', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Voivodato de Lublin', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Voivodato de Lubusz', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Voivodato de Mazovia', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Voivodato de Opole', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Voivodato de Subcarpacia', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Voivodato de Podlaquia', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Voivodato de Pomerania', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Voivodato de Silesia', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Voivodato de Varmia y Masuria', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Voivodato de Pomerania Occidental', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Voivodato de Santa Cruz', 'level' => 'voivodship'),
+);

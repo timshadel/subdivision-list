@@ -1,0 +1,37 @@
+---
+IN-AN:
+  name: Andaman e Nicobar
+  level: union territory
+IN-AP:
+  name: Andra Pradex
+  level: state
+IN-AS:
+  name: Assam
+  level: state
+IN-BR:
+  name: Bihar
+  level: state
+IN-DN:
+  name: Dadra e Nagar Haveli
+  level: union territory
+IN-DL:
+  name: Delhi - दिल्ली
+  level: union territory
+IN-GA:
+  name: Goa - गोंय
+  level: state
+IN-HR:
+  name: Haryana
+  level: state
+IN-OR:
+  name: Orissa
+  level: state
+IN-SK:
+  name: Sikkim
+  level: state
+IN-TN:
+  name: Tamil Nadu
+  level: state
+IN-UP:
+  name: Uttar Pradesh
+  level: state

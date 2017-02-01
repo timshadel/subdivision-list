@@ -1,0 +1,77 @@
+id,name,level
+GB-BAS,Bath an Nordost Somerset,unitary authority
+GB-BDF,Bedfordshire,unitary authority
+GB-BBD,Blackburn an Darwen,unitary authority
+GB-BPL,Blackpool,unitary authority
+GB-BMH,Bournemouth,unitary authority
+GB-BNH,Brighton an Hove,unitary authority
+GB-BST,Bristol,unitary authority
+GB-BKM,Buckinghamshire,two-tier county
+GB-CAM,Cambridgeshire,two-tier county
+GB-CHS,Cheshire,
+GB-CON,Cornwall,unitary authority
+GB-CMA,Cumbria,two-tier county
+GB-DAL,Darlington,unitary authority
+GB-DER,Derby,unitary authority
+GB-DBY,Derbyshire,two-tier county
+GB-DEV,Devon,two-tier county
+GB-DOR,Grofschaft Dorset,two-tier county
+GB-ERY,Ost Riding vu Yorkshire,unitary authority
+GB-ESX,Ost Sussex,two-tier county
+GB-EDH,Edinburgh,council area (scotland)
+GB-ESS,Grofschaft Essex,two-tier county
+GB-GLS,Gloucestershire,two-tier county
+GB-HAM,Hampshire,two-tier county
+GB-HPL,Hartlepool,unitary authority
+GB-HEF,Herefordshire,unitary authority
+GB-HRT,Hertfordshire,two-tier county
+GB-AGY,Anglesey,unitary authority (wales)
+GB-IOW,Insel Wight,unitary authority
+GB-KEN,Kent,two-tier county
+GB-KHL,Kingston-upon-Hull,unitary authority
+GB-LAN,Lancashire,two-tier county
+GB-LCE,Leicester,unitary authority
+GB-LEC,Leicestershire,two-tier county
+GB-LIN,Lincolnshire,two-tier county
+GB-LIV,Liverpool,metropolitan district
+GB-LUT,Luton,unitary authority
+GB-MDW,Medway,unitary authority
+GB-MDB,Middlesbrough,unitary authority
+GB-NFK,Norfolk,two-tier county
+GB-NEL,Nordost Lincolnshire,unitary authority
+GB-NLN,Nord Lincolnshire,unitary authority
+GB-NSM,Nord Somerset,unitary authority
+GB-NYK,Nord Yorkshire,two-tier county
+GB-NTH,Northamptonshire,two-tier county
+GB-NBL,Grofschaft Northumberland,unitary authority
+GB-NGM,Nottingham,unitary authority
+GB-NTT,Nottinghamshire,two-tier county
+GB-OXF,Oxfordshire,two-tier county
+GB-PTE,Peterborough,unitary authority
+GB-PLY,Plymouth,unitary authority
+GB-POL,Poole,unitary authority
+GB-POR,Portsmouth,unitary authority
+GB-RCC,Redcar a Cleveland,unitary authority
+GB-RUT,Rutland,unitary authority
+GB-SHR,Shropshire,unitary authority
+GB-SOM,Somerset,two-tier county
+GB-SGC,Süd Gloucestershire,unitary authority
+GB-STH,Southampton,unitary authority
+GB-SOS,Southend-on-Sea,unitary authority
+GB-STS,Staffordshire,two-tier county
+GB-STE,Stoke-on-Trent,unitary authority
+GB-SFK,Suffolk,two-tier county
+GB-SRY,Grofschaft Surrey,two-tier county
+ENG,England,country
+NIR,Nordirland,country
+SCT,Schottland,country
+GB-TFW,Telford a Wrekin,unitary authority
+GB-THR,Thurrock,unitary authority
+GB-TOB,Torbay,unitary authority
+WLS,Wales,country
+GB-WRT,Warrington,unitary authority
+GB-WAR,Warwickshire,two-tier county
+GB-WSX,West Sussex,two-tier county
+GB-WIL,Wiltshire,unitary authority
+GB-WOR,Worcestershire,two-tier county
+GB-YOR,York,unitary authority

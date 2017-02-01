@@ -1,0 +1,34 @@
+---
+ET-AA:
+  name: Addis Ababa
+  level: administration
+ET-AF:
+  name: Afar
+  level: state
+ET-AM:
+  name: Amara
+  level: state
+ET-BE:
+  name: Binshangul Gumuz
+  level: state
+ET-DD:
+  name: Dire Dawa
+  level: administration
+ET-GA:
+  name: Gambela Hizboch
+  level: state
+ET-HA:
+  name: Hareri Hizb
+  level: state
+ET-OR:
+  name: Oromia Region
+  level: state
+ET-SO:
+  name: Sumale
+  level: state
+ET-TI:
+  name: Tigray
+  level: state
+ET-SN:
+  name: Southern Nations
+  level: state

@@ -1,0 +1,18 @@
+<?php return array (
+  'NL-AW' => array('name' => 'Аруба', 'level' => 'country'),
+  'NL-BQ1' => array('name' => 'Бонер', 'level' => 'special municipality'),
+  'NL-CW' => array('name' => 'Курасао', 'level' => 'country'),
+  'NL-DR' => array('name' => 'Дренте', 'level' => 'province'),
+  'NL-FL' => array('name' => 'Флеволанд', 'level' => 'province'),
+  'NL-FR' => array('name' => 'Фризија', 'level' => 'province'),
+  'NL-GE' => array('name' => 'Хелдерланд', 'level' => 'province'),
+  'NL-GR' => array('name' => 'Гронинген', 'level' => 'province'),
+  'NL-NB' => array('name' => 'Северни Брабант', 'level' => 'province'),
+  'NL-NH' => array('name' => 'Северна Холандија', 'level' => 'province'),
+  'NL-OV' => array('name' => 'Оверејсел', 'level' => 'province'),
+  'NL-BQ2' => array('name' => 'Саба', 'level' => 'special municipality'),
+  'NL-BQ3' => array('name' => 'Свети Еустахије', 'level' => 'special municipality'),
+  'NL-ZH' => array('name' => 'Јужна Холандија', 'level' => 'province'),
+  'NL-UT' => array('name' => 'Утрехт', 'level' => 'province'),
+  'NL-ZE' => array('name' => 'Зеланд', 'level' => 'province'),
+);

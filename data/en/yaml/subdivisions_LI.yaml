@@ -1,0 +1,34 @@
+---
+LI-01:
+  name: Balzers
+  level: commune
+LI-02:
+  name: Eschen
+  level: commune
+LI-03:
+  name: Gamprin
+  level: commune
+LI-04:
+  name: Mauren
+  level: commune
+LI-05:
+  name: Planken
+  level: commune
+LI-06:
+  name: Ruggell
+  level: commune
+LI-07:
+  name: Schaan
+  level: commune
+LI-08:
+  name: Schellenberg
+  level: commune
+LI-09:
+  name: Triesen
+  level: commune
+LI-10:
+  name: Triesenberg
+  level: commune
+LI-11:
+  name: Vaduz
+  level: commune

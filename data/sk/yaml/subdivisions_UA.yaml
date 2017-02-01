@@ -1,0 +1,82 @@
+---
+UA-71:
+  name: "Čerkaská oblasť"
+  level: region
+UA-74:
+  name: "Černihivská oblasť"
+  level: region
+UA-77:
+  name: "Černovická oblasť"
+  level: region
+UA-43:
+  name: Krym
+  level: autonomous republic
+UA-12:
+  name: Dnepropetrovská oblasť
+  level: region
+UA-14:
+  name: Donecká oblasť
+  level: region
+UA-26:
+  name: Ivanofrankivská oblasť
+  level: region
+UA-63:
+  name: Charkovská oblasť
+  level: region
+UA-65:
+  name: Chersonská oblasť
+  level: region
+UA-68:
+  name: Chmeľnycká oblasť
+  level: region
+UA-30:
+  name: Kyjev
+  level: region
+UA-32:
+  name: Kyjevská oblasť
+  level: region
+UA-35:
+  name: Kirovohradská oblasť
+  level: region
+UA-09:
+  name: Luhanská oblasť
+  level: region
+UA-46:
+  name: "Ľvovská oblasť"
+  level: region
+UA-48:
+  name: Mykolajivská oblasť
+  level: region
+UA-51:
+  name: Odeská oblasť
+  level: region
+UA-53:
+  name: Poltavská oblasť
+  level: region
+UA-56:
+  name: Rivnenská oblasť
+  level: region
+UA-40:
+  name: Sevastopoľ
+  level: region
+UA-59:
+  name: Sumská oblasť
+  level: region
+UA-61:
+  name: Ternopiľská oblasť
+  level: region
+UA-05:
+  name: Vinnycká oblasť
+  level: region
+UA-07:
+  name: Volyňská oblasť
+  level: region
+UA-21:
+  name: Zakarpatská oblasť
+  level: region
+UA-23:
+  name: Záporožská oblasť
+  level: region
+UA-18:
+  name: "Žytomyrská oblasť"
+  level: region

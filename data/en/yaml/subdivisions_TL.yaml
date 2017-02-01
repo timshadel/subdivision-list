@@ -1,0 +1,40 @@
+---
+TL-AL:
+  name: Aileu
+  level: district
+TL-AN:
+  name: Ainaro
+  level: district
+TL-BA:
+  name: Baucau
+  level: district
+TL-BO:
+  name: Bobonaro
+  level: district
+TL-CO:
+  name: Cova Lima District
+  level: district
+TL-DI:
+  name: Dili
+  level: district
+TL-ER:
+  name: Ermera
+  level: district
+TL-LA:
+  name: Lautém District
+  level: district
+TL-LI:
+  name: Liquiçá
+  level: district
+TL-MT:
+  name: Manatuto
+  level: district
+TL-MF:
+  name: Manufahi District
+  level: district
+TL-OE:
+  name: Oecusse District
+  level: district
+TL-VI:
+  name: Viqueque
+  level: district

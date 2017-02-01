@@ -1,0 +1,49 @@
+---
+KN-01:
+  name: Christ Church Nichola Town Parish
+  level: parish
+KN-N:
+  name: Nevis
+  level: state
+KN-02:
+  name: Saint Anne Sandy Point Parish
+  level: parish
+KN-03:
+  name: Saint George Basseterre Parish
+  level: parish
+KN-04:
+  name: Saint George Gingerland Parish
+  level: parish
+KN-05:
+  name: Saint James Windward Parish
+  level: parish
+KN-06:
+  name: Saint John Capisterre Parish
+  level: parish
+KN-07:
+  name: Saint John Figtree Parish
+  level: parish
+KN-K:
+  name: Saint Kitts
+  level: state
+KN-08:
+  name: Saint Mary Cayon Parish
+  level: parish
+KN-09:
+  name: Saint Paul Capisterre
+  level: parish
+KN-10:
+  name: Saint Paul Charlestown Parish
+  level: parish
+KN-11:
+  name: Saint Peter Basseterre Parish
+  level: parish
+KN-12:
+  name: Saint Thomas Lowland Parish
+  level: parish
+KN-13:
+  name: Saint Thomas Middle Island Parish
+  level: parish
+KN-15:
+  name: Trinity Palmetto Point Parish
+  level: parish

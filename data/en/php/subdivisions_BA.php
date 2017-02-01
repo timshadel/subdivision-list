@@ -1,0 +1,15 @@
+<?php return array (
+  'BA-05' => array('name' => 'Bosnian Podrinje Canton', 'level' => 'canton'),
+  'BA-BRC' => array('name' => 'Brčko District', 'level' => 'district'),
+  'BA-BIH' => array('name' => 'Federation of Bosnia and Herzegovina', 'level' => 'entity'),
+  'BA-07' => array('name' => 'Hercegova?ko-neretvanski kanton', 'level' => 'canton'),
+  'BA-10' => array('name' => 'Kanton br. 10', 'level' => 'canton'),
+  'BA-09' => array('name' => 'Sarajevo Canton', 'level' => 'canton'),
+  'BA-02' => array('name' => 'Posavina Canton', 'level' => 'canton'),
+  'BA-SRP' => array('name' => 'Republika Srpska', 'level' => 'entity'),
+  'BA-06' => array('name' => 'Central Bosnia Canton', 'level' => 'canton'),
+  'BA-03' => array('name' => 'Tuzla Canton', 'level' => 'canton'),
+  'BA-01' => array('name' => 'Una-Sana Canton', 'level' => 'canton'),
+  'BA-08' => array('name' => 'Zapadnohercegova?ki kanton', 'level' => 'canton'),
+  'BA-04' => array('name' => 'Zeni?ko-dobojski kanton', 'level' => 'canton'),
+);

@@ -1,0 +1,22 @@
+CREATE TABLE subdivision_NO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-02', E'Акерсгус', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-09', E'Еуст-Аґдер', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-06', E'Бускерюд', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-20', E'Фіннмарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-04', E'Гедмарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-12', E'Гордалан', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-22', E'Ян-Маєн', E'');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-15', E'Мере-ог-Ромсдал', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-17', E'Нур-Тренделаг', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-18', E'Нурлан', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-05', E'Опплан', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-03', E'Осло', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-11', E'Руґалан', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-21', E'Шпіцберген', E'');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-16', E'Сер-Тренделаг', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-08', E'Телемарк', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-19', E'Трумс', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-10', E'Вест-Аґдер', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-07', E'Вестфол', E'county');
+INSERT INTO "subdivision_NO" ("id", "name", "level") VALUES (E'NO-01', E'Естфол', E'county');

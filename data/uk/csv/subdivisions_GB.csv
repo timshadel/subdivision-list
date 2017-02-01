@@ -1,0 +1,143 @@
+id,name,level
+GB-ABE,Абердин,council area (scotland)
+GB-ABD,Абердиншир,council area (scotland)
+GB-ANS,Ангус,council area (scotland)
+GB-BNS,Барнслі,metropolitan district
+GB-BDF,Бедфордшир,unitary authority
+GB-BFS,Белфаст,district council area (northern ireland)
+GB-BIR,Бірмінгем,metropolitan district
+GB-BPL,Блекпул,unitary authority
+GB-BGW,Бланау-Гвент,unitary authority (wales)
+GB-BOL,Болтон,metropolitan district
+GB-BMH,Борнмут,unitary authority
+GB-BRD,Бредфорд,metropolitan district
+GB-BST,Бристоль,unitary authority
+GB-BRY,Бромлі,borough
+GB-BKM,Бакінгемшир,two-tier county
+GB-BUR,Бері,metropolitan district
+GB-CAY,Карфіллі,unitary authority (wales)
+GB-CAM,Кембриджшир,two-tier county
+GB-CRF,Кардіфф,unitary authority (wales)
+GB-CMN,Кармартеншир,unitary authority (wales)
+GB-CGN,Кередігіон,unitary authority (wales)
+GB-CHS,Чешир,
+GB-CLK,Клакманнаншир,council area (scotland)
+GB-CLR,Колрейн,district council area (northern ireland)
+GB-CWY,Конві,unitary authority (wales)
+GB-CON,Корнуол,unitary authority
+GB-COV,Ковентрі,metropolitan district
+GB-BDG,Баркінг і Дагенем,borough
+GB-FER,Фермана,district council area (northern ireland)
+GB-CMA,Камбрія,two-tier county
+GB-DEN,Денбігшир,unitary authority (wales)
+GB-DER,Дербі,unitary authority
+GB-DBY,Дербішир,two-tier county
+GB-DRY,Деррі,district council area (northern ireland)
+GB-DEV,Девон,two-tier county
+GB-DNC,Донкастер,metropolitan district
+GB-DOR,Дорсет,two-tier county
+GB-DUD,Дадлі,metropolitan district
+GB-DGY,Дамфріс і Галловей,council area (scotland)
+GB-DND,Данді,council area (scotland)
+GB-EAY,Східний Ершир,council area (scotland)
+GB-EDU,Східний Данбартоншир,council area (scotland)
+GB-ELN,Східний Лотіан,council area (scotland)
+GB-ERW,Східний Ренфрюшир,council area (scotland)
+GB-ERY,Східний Йоркширський Райдінг,unitary authority
+GB-ESX,Східний Сассекс,two-tier county
+GB-EDH,Единбург,council area (scotland)
+GB-ENF,Енфілд,borough
+GB-ESS,Ессекс,two-tier county
+GB-FAL,Фолкерк,council area (scotland)
+GB-FIF,Файф,council area (scotland)
+GB-FLN,Флінтшир,unitary authority (wales)
+GB-GLG,Глазго,council area (scotland)
+GB-GLS,Глостершир,two-tier county
+GB-GRE,Гринвіч,borough
+GB-GWN,Гвінет,unitary authority (wales)
+GB-HAM,Гемпшир,two-tier county
+GB-HRW,Герроу,borough
+GB-HEF,Герефордшир,unitary authority
+GB-HRT,Гартфордшир,two-tier county
+GB-HLD,Височина,council area (scotland)
+GB-IVC,Інверклайд,council area (scotland)
+GB-HMF,Гаммерсміт і Фулхем,borough
+GB-HAV,Гейверінг,borough
+GB-ELS,Західні острови,council area (scotland)
+GB-AGY,Анґлсі,unitary authority (wales)
+GB-LND,Лондонське Сіті,city corporation
+GB-IOW,Острів Вайт,unitary authority
+GB-KEN,Кент,two-tier county
+GB-KHL,Кінгстон-апон-Галл,unitary authority
+GB-KTT,Кінгстон-на-Темзі,borough
+GB-LAN,Ланкашир,two-tier county
+GB-LDS,Лідс,metropolitan district
+GB-LCE,Лестер,unitary authority
+GB-LEC,Лестершир,two-tier county
+GB-LIN,Лінкольншир,two-tier county
+GB-LIV,Ліверпуль,metropolitan district
+GB-NWM,Ньюем,borough
+GB-MAN,Манчестер,metropolitan district
+GB-MTY,Мертір-Тідвіл,unitary authority (wales)
+GB-MLN,Середній Лотіан,council area (scotland)
+GB-MON,Монмутшир,unitary authority (wales)
+GB-MRY,Морей,council area (scotland)
+GB-NTL,Ніт-Порт-Толбот,unitary authority (wales)
+GB-NET,Ньюкасл-апон-Тайн,metropolitan district
+GB-NWP,Ньюпорт,unitary authority (wales)
+GB-NFK,Норфолк,two-tier county
+GB-NAY,Північний Ершир,council area (scotland)
+GB-NLK,Північний Ланаркшир,council area (scotland)
+GB-NYK,Північний Йоркшир,two-tier county
+GB-NTH,Нортгемптоншир,two-tier county
+GB-NBL,Нортумберленд,unitary authority
+GB-RIC,Річмонд-на-Темзі,borough
+GB-NGM,Ноттінгем,unitary authority
+GB-NTT,Ноттінгемшир,two-tier county
+GB-OLD,Олдгем,metropolitan district
+GB-ORK,Оркнейські острови,council area (scotland)
+GB-OXF,Оксфордшир,two-tier county
+GB-PEM,Пембрукшир,unitary authority (wales)
+GB-PKN,Перт-і-Кінросс,council area (scotland)
+GB-PTE,Пітерборо,unitary authority
+GB-PLY,Плімут,unitary authority
+GB-POR,Портсмут,unitary authority
+GB-POW,Повіс,unitary authority (wales)
+GB-RFW,Ренфрюшир,council area (scotland)
+GB-RCH,Рочдейл,metropolitan district
+GB-RUT,Рутленд,unitary authority
+GB-SCB,Шотландські кордони,council area (scotland)
+GB-SHF,Шеффілд,metropolitan district
+GB-ZET,Шетландські острови,council area (scotland)
+GB-SHR,Шропшир,unitary authority
+GB-SOM,Сомерсет,two-tier county
+GB-SAY,Південний Ершир,council area (scotland)
+GB-SLK,Південний Ланаркшир,council area (scotland)
+GB-STH,Саутгемптон,unitary authority
+GB-SOS,Саутенд-он-Сі,unitary authority
+GB-STS,Стаффордшир,two-tier county
+GB-STG,Стерлінг,council area (scotland)
+GB-STE,Сток-он-Трент,unitary authority
+GB-SFK,Суффолк,two-tier county
+GB-SND,Сандерленд,metropolitan district
+GB-SRY,Суррей,two-tier county
+ENG,Англія,country
+GB-TWH,Тауер-Гемлетс,borough
+GB-WFT,Волтгем Форест,borough
+NIR,Північна Ірландія,country
+SCT,Шотландія,country
+GB-SWA,Свонсі,unitary authority (wales)
+GB-TOF,Торван,unitary authority (wales)
+GB-VGL,Долина Гламорган,unitary authority (wales)
+WLS,Уельс,country
+GB-WAR,Ворікшир,two-tier county
+GB-WDU,Західний Данбартоншир,council area (scotland)
+GB-WLN,Західний Лотіан,council area (scotland)
+GB-WSX,Західний Сассекс,two-tier county
+GB-WSM,Вестмінстер,borough
+GB-WGN,Віган,metropolitan district
+GB-WIL,Вілтшир,unitary authority
+GB-WLV,Вулвергемптон,metropolitan district
+GB-WOR,Вустершир,two-tier county
+GB-WRX,Рексем,unitary authority (wales)
+GB-YOR,Йорк,unitary authority

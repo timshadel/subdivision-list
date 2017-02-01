@@ -1,0 +1,46 @@
+---
+EE-37:
+  name: Harju län
+  level: county
+EE-39:
+  name: Dagö
+  level: county
+EE-44:
+  name: Ida-Viru län
+  level: county
+EE-51:
+  name: Järva län
+  level: county
+EE-49:
+  name: Jõgeva län
+  level: county
+EE-59:
+  name: Lääne-Viru län
+  level: county
+EE-57:
+  name: Lääne län
+  level: county
+EE-67:
+  name: Pärnu län
+  level: county
+EE-65:
+  name: Põlva län
+  level: county
+EE-70:
+  name: Rapla län
+  level: county
+EE-74:
+  name: "Ösel"
+  level: county
+EE-78:
+  name: Tartu län
+  level: county
+EE-82:
+  name: Valga län
+  level: county
+EE-84:
+  name: Viljandi län
+  level: county
+EE-86:
+  name: Võru län
+  level: county

@@ -1,0 +1,15 @@
+<?php return array (
+  'NA-CA' => array('name' => 'Caprivi', 'level' => 'region'),
+  'NA-ER' => array('name' => 'Erongo Region', 'level' => 'region'),
+  'NA-HA' => array('name' => 'Hardap', 'level' => 'region'),
+  'NA-KA' => array('name' => 'Karas', 'level' => 'region'),
+  'NA-KH' => array('name' => 'Khomas Region', 'level' => 'region'),
+  'NA-KU' => array('name' => 'Kunene', 'level' => 'region'),
+  'NA-OW' => array('name' => 'Ohangwena Region', 'level' => 'region'),
+  'NA-OK' => array('name' => 'Okavango', 'level' => 'region'),
+  'NA-OH' => array('name' => 'Omaheke Region', 'level' => 'region'),
+  'NA-OS' => array('name' => 'Omusati Region', 'level' => 'region'),
+  'NA-ON' => array('name' => 'Oshana Region', 'level' => 'region'),
+  'NA-OT' => array('name' => 'Oshikoto', 'level' => 'region'),
+  'NA-OD' => array('name' => 'Otjozondjupa Region', 'level' => 'region'),
+);

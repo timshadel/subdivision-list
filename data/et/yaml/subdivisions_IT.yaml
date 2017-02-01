@@ -1,0 +1,262 @@
+---
+IT-65:
+  name: Abruzzo
+  level: region
+IT-AL:
+  name: Alessandria
+  level: province
+IT-AN:
+  name: Ancona
+  level: province
+IT-AR:
+  name: Arezzo
+  level: province
+IT-AT:
+  name: Asti
+  level: province
+IT-BA:
+  name: Bari
+  level: province
+IT-77:
+  name: Basilicata
+  level: region
+IT-BL:
+  name: Belluno
+  level: province
+IT-BG:
+  name: Bergamo
+  level: province
+IT-BI:
+  name: Biella
+  level: province
+IT-BO:
+  name: Bologna
+  level: province
+IT-BZ:
+  name: Bolzano
+  level: province
+IT-BS:
+  name: Brescia
+  level: province
+IT-CA:
+  name: Cagliari
+  level: province
+IT-78:
+  name: Calabria
+  level: region
+IT-72:
+  name: Campania
+  level: region
+IT-CT:
+  name: Catania
+  level: province
+IT-CO:
+  name: Como
+  level: province
+IT-CR:
+  name: Cremona
+  level: province
+IT-CN:
+  name: Cuneo
+  level: province
+IT-45:
+  name: Emilia Romagna
+  level: region
+IT-FE:
+  name: Ferrara
+  level: province
+IT-FI:
+  name: Firenze
+  level: province
+IT-FG:
+  name: Foggia
+  level: province
+IT-FO:
+  name: Forlì
+  level: ''
+IT-36:
+  name: Friuli-Venezia Giulia
+  level: region
+IT-GE:
+  name: Genova
+  level: province
+IT-IM:
+  name: Imperia
+  level: province
+IT-BT:
+  name: Barletta-Andria-Trani provints
+  level: province
+IT-CI:
+  name: Carbonia-Iglesiase provints
+  level: province
+IT-FC:
+  name: Forlì-Cesena provints
+  level: province
+IT-75:
+  name: Apuulia
+  level: region
+IT-SP:
+  name: La Spezia
+  level: province
+IT-62:
+  name: Lazio
+  level: region
+IT-LC:
+  name: Lecco
+  level: province
+IT-42:
+  name: Liguuria
+  level: region
+IT-LI:
+  name: Livorno
+  level: province
+IT-25:
+  name: Lombardia
+  level: region
+IT-LU:
+  name: Lucca
+  level: province
+IT-MN:
+  name: Mantova
+  level: province
+IT-57:
+  name: Marche
+  level: region
+IT-MT:
+  name: Matera
+  level: province
+IT-ME:
+  name: Messina
+  level: province
+IT-MI:
+  name: Milano
+  level: province
+IT-MO:
+  name: Modena
+  level: province
+IT-67:
+  name: Molise
+  level: region
+IT-NA:
+  name: Napoli
+  level: province
+IT-NO:
+  name: Novara
+  level: province
+IT-PD:
+  name: Padova
+  level: province
+IT-PA:
+  name: Palermo
+  level: province
+IT-PR:
+  name: Parma
+  level: province
+IT-PV:
+  name: Pavia
+  level: province
+IT-PG:
+  name: Perugia
+  level: province
+IT-PC:
+  name: Piacenza
+  level: province
+IT-21:
+  name: Piemonte
+  level: region
+IT-PI:
+  name: Pisa
+  level: province
+IT-PT:
+  name: Pistoia
+  level: province
+IT-PO:
+  name: Prato
+  level: province
+IT-MA:
+  name: Medio Campidano provints
+  level: province
+IT-MB:
+  name: Monza e Brianza provints
+  level: province
+IT-OG:
+  name: Ogliastra provints
+  level: province
+IT-OL:
+  name: Olbia-Tempio provints
+  level: province
+IT-PU:
+  name: Pesaro e Urbino provints
+  level: province
+IT-RA:
+  name: Ravenna
+  level: province
+IT-VB:
+  name: Verbano-Cusio-Ossola provints
+  level: province
+IT-RN:
+  name: Rimini
+  level: province
+IT-RO:
+  name: Rovigo
+  level: province
+IT-88:
+  name: Sardiinia
+  level: region
+IT-82:
+  name: Sitsiilia
+  level: region
+IT-SI:
+  name: Siena
+  level: province
+IT-SO:
+  name: Sondrio
+  level: province
+IT-TA:
+  name: Taranto
+  level: province
+IT-32:
+  name: Trentino-Alto Adige
+  level: region
+IT-TN:
+  name: Trento
+  level: province
+IT-TV:
+  name: Treviso
+  level: province
+IT-TS:
+  name: Trieste
+  level: province
+IT-TO:
+  name: Torino
+  level: province
+IT-52:
+  name: Toscana
+  level: region
+IT-UD:
+  name: Udine
+  level: province
+IT-55:
+  name: Umbria
+  level: region
+IT-VA:
+  name: Varese
+  level: province
+IT-34:
+  name: Veneto
+  level: region
+IT-VE:
+  name: Venezia
+  level: province
+IT-VC:
+  name: Vercelli
+  level: province
+IT-VR:
+  name: Verona
+  level: province
+IT-VI:
+  name: Vicenza
+  level: province
+IT-VT:
+  name: Viterbo
+  level: province

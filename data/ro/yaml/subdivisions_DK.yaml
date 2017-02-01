@@ -1,0 +1,43 @@
+---
+DK-070:
+  name: Aarhus
+  level: county
+DK-040:
+  name: Insula Bornholm
+  level: county
+DK-84:
+  name: Capital
+  level: region
+DK-82:
+  name: Regiunea Midtjylland
+  level: region
+DK-015:
+  name: Copenhaga
+  level: county
+DK-042:
+  name: Funen
+  level: county
+DK-83:
+  name: Regiunea Syddanmark
+  level: region
+DK-055:
+  name: Ribe
+  level: county
+DK-065:
+  name: Ringkøbing
+  level: county
+DK-025:
+  name: Roskilde
+  level: county
+DK-035:
+  name: Storstrøm Amt
+  level: county
+DK-060:
+  name: Vejle
+  level: county
+DK-030:
+  name: Vestsjællands Amt
+  level: county
+DK-85:
+  name: Zeelanda
+  level: region

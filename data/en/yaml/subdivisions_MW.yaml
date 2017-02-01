@@ -1,0 +1,94 @@
+---
+MW-BA:
+  name: Balaka
+  level: district
+MW-BL:
+  name: Blantyre
+  level: district
+MW-C:
+  name: Central Region
+  level: region
+MW-CK:
+  name: Chikwawa
+  level: district
+MW-CR:
+  name: Chiradzulu
+  level: district
+MW-CT:
+  name: Chitipa
+  level: district
+MW-DE:
+  name: Dedza
+  level: district
+MW-DO:
+  name: Dowa
+  level: district
+MW-KR:
+  name: Karonga
+  level: district
+MW-KS:
+  name: Kasungu
+  level: district
+MW-LK:
+  name: Likoma
+  level: district
+MW-LI:
+  name: Lilongwe
+  level: district
+MW-MH:
+  name: Machinga people
+  level: district
+MW-MG:
+  name: Mangochi
+  level: district
+MW-MC:
+  name: Mchinji
+  level: district
+MW-MU:
+  name: Mulanje
+  level: district
+MW-MW:
+  name: Mwanza
+  level: district
+MW-MZ:
+  name: Mzimba
+  level: district
+MW-NE:
+  name: Neno
+  level: district
+MW-NB:
+  name: Nkhata Bay
+  level: district
+MW-NK:
+  name: Nkhotakota
+  level: district
+MW-N:
+  name: Northern Region
+  level: region
+MW-NS:
+  name: Nsanje
+  level: district
+MW-NU:
+  name: Ntcheu
+  level: district
+MW-NI:
+  name: Ntchisi
+  level: district
+MW-PH:
+  name: Phalombe
+  level: district
+MW-RU:
+  name: Rumphi
+  level: district
+MW-SA:
+  name: Salima
+  level: district
+MW-S:
+  name: Southern Region
+  level: region
+MW-TH:
+  name: Thyolo
+  level: district
+MW-ZO:
+  name: Zomba
+  level: district

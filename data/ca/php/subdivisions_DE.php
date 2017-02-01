@@ -1,0 +1,18 @@
+<?php return array (
+  'DE-BW' => array('name' => 'Baden-Wurtemberg', 'level' => 'state'),
+  'DE-BY' => array('name' => 'Baviera', 'level' => 'state'),
+  'DE-BE' => array('name' => 'Berlín', 'level' => 'state'),
+  'DE-BB' => array('name' => 'Brandenburg', 'level' => 'state'),
+  'DE-HB' => array('name' => 'Bremen', 'level' => 'state'),
+  'DE-HH' => array('name' => 'Hamburg', 'level' => 'state'),
+  'DE-HE' => array('name' => 'Hessen', 'level' => 'state'),
+  'DE-NI' => array('name' => 'Baixa Saxònia', 'level' => 'state'),
+  'DE-MV' => array('name' => 'Mecklemburg - Pomerània Occidental', 'level' => 'state'),
+  'DE-NW' => array('name' => 'Rin del Nord - Westfàlia', 'level' => 'state'),
+  'DE-RP' => array('name' => 'Renània-Palatinat', 'level' => 'state'),
+  'DE-SL' => array('name' => 'Saarland', 'level' => 'state'),
+  'DE-SN' => array('name' => 'Saxònia', 'level' => 'state'),
+  'DE-ST' => array('name' => 'Saxònia-Anhalt', 'level' => 'state'),
+  'DE-SH' => array('name' => 'Slesvig-Holstein', 'level' => 'state'),
+  'DE-TH' => array('name' => 'Turíngia', 'level' => 'state'),
+);

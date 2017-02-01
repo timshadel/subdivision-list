@@ -1,0 +1,19 @@
+---
+GM-B:
+  name: Banjul
+  level: city
+GM-L:
+  name: Lower River Division
+  level: division
+GM-M:
+  name: MacCarthy Island
+  level: division
+GM-N:
+  name: North Bank
+  level: division
+GM-U:
+  name: Upper River Division
+  level: division
+GM-W:
+  name: Western
+  level: division

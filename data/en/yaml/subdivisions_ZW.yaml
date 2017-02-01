@@ -1,0 +1,31 @@
+---
+ZW-BU:
+  name: Bulawayo
+  level: city
+ZW-HA:
+  name: Harare
+  level: city
+ZW-MA:
+  name: Manicaland Province
+  level: province
+ZW-MC:
+  name: Mashonaland Central Province
+  level: province
+ZW-ME:
+  name: Mashonaland East Province
+  level: province
+ZW-MW:
+  name: Mashonaland West Province
+  level: province
+ZW-MV:
+  name: Masvingo
+  level: province
+ZW-MN:
+  name: Matabeleland North Province
+  level: province
+ZW-MS:
+  name: Matabeleland South Province
+  level: province
+ZW-MI:
+  name: Midlands
+  level: province

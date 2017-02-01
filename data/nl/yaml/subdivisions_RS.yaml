@@ -1,0 +1,67 @@
+---
+RS-00:
+  name: Belgrado
+  level: city
+RS-14:
+  name: Bor
+  level: district
+RS-11:
+  name: Braničevo
+  level: district
+RS-02:
+  name: Centraal-Banaat
+  level: district
+RS-23:
+  name: Jablanica
+  level: district
+RS-09:
+  name: Kolubara
+  level: district
+RS-08:
+  name: Mačva
+  level: district
+RS-17:
+  name: Moravica
+  level: district
+RS-20:
+  name: Nišava
+  level: district
+RS-03:
+  name: Noord-Banaat
+  level: district
+RS-01:
+  name: Noord-Bačka
+  level: district
+RS-22:
+  name: Pirot
+  level: district
+RS-10:
+  name: Podunavlje
+  level: district
+RS-13:
+  name: Pomoravlje
+  level: district
+RS-24:
+  name: Pčinja
+  level: district
+RS-19:
+  name: Rasina
+  level: district
+RS-04:
+  name: Zuid-Banaat
+  level: district
+RS-07:
+  name: Srem
+  level: district
+RS-16:
+  name: Zlatibor
+  level: district
+RS-12:
+  name: "Šumadija"
+  level: district
+RS-26:
+  name: Pejë
+  level: district
+RS-27:
+  name: Prizren
+  level: district

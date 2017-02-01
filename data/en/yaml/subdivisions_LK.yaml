@@ -1,0 +1,103 @@
+---
+LK-52:
+  name: Ampara
+  level: district
+LK-71:
+  name: Anuradhapura
+  level: district
+LK-81:
+  name: Badulla
+  level: district
+LK-1:
+  name: Western Province
+  level: province
+LK-3:
+  name: Southern Province
+  level: province
+LK-12:
+  name: Gampaha
+  level: district
+LK-31:
+  name: Galle
+  level: district
+LK-33:
+  name: Hambantota
+  level: district
+LK-13:
+  name: Kalutara
+  level: district
+LK-92:
+  name: Kegalle
+  level: district
+LK-42:
+  name: Kilinochchi
+  level: district
+LK-61:
+  name: Kurunegala
+  level: district
+LK-11:
+  name: Colombo
+  level: district
+LK-51:
+  name: Madakalapuva
+  level: district
+LK-2:
+  name: Central Province
+  level: province
+LK-21:
+  name: Kandy
+  level: district
+LK-43:
+  name: Mannar
+  level: district
+LK-5:
+  name: Central Province
+  level: province
+LK-45:
+  name: Mullaitivu
+  level: district
+LK-22:
+  name: Matale
+  level: district
+LK-32:
+  name: Matara
+  level: district
+LK-82:
+  name: Moneragala
+  level: district
+LK-23:
+  name: Nuwara Eliya
+  level: district
+LK-62:
+  name: Puttalam
+  level: district
+LK-72:
+  name: Polonnaruwa
+  level: district
+LK-91:
+  name: Ratnapura
+  level: district
+LK-9:
+  name: Sabaragamuwa Province
+  level: province
+LK-53:
+  name: Trincomalee
+  level: district
+LK-4:
+  name: Northern Province
+  level: province
+LK-7:
+  name: North Central Province
+  level: province
+LK-44:
+  name: Vavuniya
+  level: district
+LK-6:
+  name: North Western Province
+  level: province
+LK-41:
+  name: Jaffna
+  level: district
+LK-8:
+  name: Uva Province
+  level: province

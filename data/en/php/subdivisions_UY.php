@@ -1,0 +1,18 @@
+<?php return array (
+  'UY-AR' => array('name' => 'José Gervasio Artigas', 'level' => 'department'),
+  'UY-DU' => array('name' => 'Durazno', 'level' => 'department'),
+  'UY-FS' => array('name' => 'Flores', 'level' => 'department'),
+  'UY-FD' => array('name' => 'Florida', 'level' => 'department'),
+  'UY-LA' => array('name' => 'Lavalleja Department', 'level' => 'department'),
+  'UY-MA' => array('name' => 'Maldonado', 'level' => 'department'),
+  'UY-MO' => array('name' => 'Montevideo', 'level' => 'department'),
+  'UY-PA' => array('name' => 'Paysandú', 'level' => 'department'),
+  'UY-RV' => array('name' => 'Rivera', 'level' => 'department'),
+  'UY-RO' => array('name' => 'Rocha', 'level' => 'department'),
+  'UY-RN' => array('name' => 'Rio Negro', 'level' => 'department'),
+  'UY-SA' => array('name' => 'Salto', 'level' => 'department'),
+  'UY-SJ' => array('name' => 'San José', 'level' => 'department'),
+  'UY-SO' => array('name' => 'Soriano', 'level' => 'department'),
+  'UY-TA' => array('name' => 'Tacuarembó', 'level' => 'department'),
+  'UY-TT' => array('name' => 'Treinta y Tres', 'level' => 'department'),
+);

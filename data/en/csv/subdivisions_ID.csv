@@ -1,0 +1,41 @@
+id,name,level
+ID-AC,Aceh,autonomous province
+ID-BA,Bali,province
+ID-BB,Bangka–Belitung Islands,province
+ID-BT,Banten,province
+ID-BE,Bengkulu,province
+ID-GO,Gorontalo,province
+ID-JK,Jakarta,special district
+ID-JA,Jambi,province
+ID-JW,Jawa,geographic units
+ID-JB,West Java,province
+ID-JT,Central Java,province
+ID-JI,East Java,province
+ID-KA,Kalimantan,geographic units
+ID-KB,West Kalimantan,province
+ID-KS,South Kalimantan,province
+ID-KT,Central Kalimantan,province
+ID-KI,East Kalimantan,province
+ID-KR,Riau Islands Province,province
+ID-LA,Lampung,province
+ID-ML,Maluku,geographic units
+ID-MA,Maluku,province
+ID-MU,North Maluku,province
+ID-NU,Lesser Sunda Islands,geographic units
+ID-NB,West Nusa Tenggara,province
+ID-NT,East Nusa Tenggara,province
+ID-PA,Papua,province
+ID-IJ,Papua,geographic units
+ID-PB,West Papua,province
+ID-RI,Riau,province
+ID-SL,Sulawesi,geographic units
+ID-SR,West Sulawesi,province
+ID-SN,South Sulawesi,province
+ID-ST,Central Sulawesi,province
+ID-SG,South East Sulawesi,province
+ID-SA,North Sulawesi,province
+ID-SM,Sumatra,geographic units
+ID-SB,West Sumatra,province
+ID-SS,South Sumatra,province
+ID-SU,North Sumatra,province
+ID-YO,Yogyakarta,special region

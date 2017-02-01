@@ -1,0 +1,22 @@
+---
+CL-AN:
+  name: Antofagasta
+  level: region
+CL-AP:
+  name: Arica y Parinacota
+  level: region
+CL-AT:
+  name: Atacamaørkenen
+  level: region
+CL-AI:
+  name: Aisén
+  level: region
+CL-CO:
+  name: Coquimbo
+  level: region
+CL-RM:
+  name: Región Metropolitana de Santiago
+  level: region
+CL-VS:
+  name: Valparaíso
+  level: region

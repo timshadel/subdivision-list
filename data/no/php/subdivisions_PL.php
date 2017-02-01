@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Storpolske voivodskap', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Kujaviskpommerske voivodskap', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Lillepolske voivodskap', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Nederschlesiske voivodskap', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lublin voivodskap', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubusz voivodskap', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Masoviske voivodskap', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opole voivodskap', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Subkarpatiske voivodskap', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podlasie voivodskap', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pommerske voivodskap', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Schlesiske voivodskap', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Ermlandskmasuriske voivodskap', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Vestpommerske voivodskap', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Helligkorsvoivodskapet', 'level' => 'voivodship'),
+);

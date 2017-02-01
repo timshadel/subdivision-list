@@ -1,0 +1,46 @@
+---
+PL-WP:
+  name: Storpolens vojvodskap
+  level: voivodship
+PL-KP:
+  name: Kujavien-Pommerns vojvodskap
+  level: voivodship
+PL-MA:
+  name: Lillpolens vojvodskap
+  level: voivodship
+PL-DS:
+  name: Nedre Schlesiens vojvodskap
+  level: voivodship
+PL-LU:
+  name: Lublins vojvodskap
+  level: voivodship
+PL-LB:
+  name: Lubusz vojvodskap
+  level: voivodship
+PL-MZ:
+  name: Masoviens vojvodskap
+  level: voivodship
+PL-OP:
+  name: Opole vojvodskap
+  level: voivodship
+PL-PK:
+  name: Nedre Karpaternas vojvodskap
+  level: voivodship
+PL-PD:
+  name: Podlasiens vojvodskap
+  level: voivodship
+PL-PM:
+  name: Pommerns vojvodskap
+  level: voivodship
+PL-SL:
+  name: Schlesiens vojvodskap
+  level: voivodship
+PL-WN:
+  name: Ermland-Masuriens vojvodskap
+  level: voivodship
+PL-ZP:
+  name: Västpommerns vojvodskap
+  level: voivodship
+PL-SK:
+  name: "Święty Krzyż vojvodskap"
+  level: voivodship

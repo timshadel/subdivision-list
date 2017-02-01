@@ -1,0 +1,100 @@
+---
+IN-AN:
+  name: "Андамани и Никобари"
+  level: union territory
+IN-AP:
+  name: "Андра Прадеш"
+  level: state
+IN-AR:
+  name: "Аруначал Прадеш"
+  level: state
+IN-AS:
+  name: "Асам"
+  level: state
+IN-BR:
+  name: "Бихар"
+  level: state
+IN-CH:
+  name: "Чандигар"
+  level: union territory
+IN-CT:
+  name: "Чатисгар"
+  level: state
+IN-DN:
+  name: "Дадра и Нагар Хавели"
+  level: union territory
+IN-DD:
+  name: "Даман и Диу"
+  level: union territory
+IN-DL:
+  name: "Делхи"
+  level: union territory
+IN-GA:
+  name: "Гоа"
+  level: state
+IN-GJ:
+  name: "Гуџарат"
+  level: state
+IN-HR:
+  name: "Харајана"
+  level: state
+IN-HP:
+  name: "Химачал Прадеш"
+  level: state
+IN-JH:
+  name: "Џарканд"
+  level: state
+IN-KA:
+  name: "Карнатака"
+  level: state
+IN-KL:
+  name: "Керала"
+  level: state
+IN-LD:
+  name: "Лакадиви"
+  level: union territory
+IN-MP:
+  name: "Мадја Прадеш"
+  level: state
+IN-MH:
+  name: "Махараштра"
+  level: state
+IN-MN:
+  name: "Манипур"
+  level: state
+IN-ML:
+  name: "Мегхалаја"
+  level: state
+IN-MZ:
+  name: "Мизорам"
+  level: state
+IN-NL:
+  name: "Нагаланд"
+  level: state
+IN-OR:
+  name: "Ориса"
+  level: state
+IN-PY:
+  name: "Територија Пондишери"
+  level: union territory
+IN-RJ:
+  name: "Раџастан"
+  level: state
+IN-SK:
+  name: "Сиким"
+  level: state
+IN-TN:
+  name: "Тамил Наду"
+  level: state
+IN-TR:
+  name: "Трипура"
+  level: state
+IN-UP:
+  name: "Утар Прадеш"
+  level: state
+IN-UT:
+  name: "Утаранчал"
+  level: state
+IN-WB:
+  name: "Западни Бенгал"
+  level: state

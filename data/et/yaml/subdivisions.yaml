@@ -1,0 +1,1981 @@
+---
+AD:
+  AD-07:
+    name: Andorra la Vella
+    level: parish
+AT:
+  AT-1:
+    name: Burgenland
+    level: state
+  AT-3:
+    name: Alam-Austria
+    level: state
+  AT-5:
+    name: Salzburg
+    level: state
+  AT-6:
+    name: Steiermargi liidumaa
+    level: state
+  AT-4:
+    name: "Ülem-Austria"
+    level: state
+  AT-9:
+    name: Viin
+    level: state
+  AT-8:
+    name: Vorarlberg
+    level: state
+BY:
+  BY-HM:
+    name: Minsk
+    level: city
+BE:
+  BE-VAN:
+    name: Antwerpen
+    level: province
+  BE-BRU:
+    name: Pealinna Brüsseli piirkond
+    level: capital region
+  BE-VOV:
+    name: Ida-Flandria
+    level: province
+  BE-VBR:
+    name: Flaami Brabant
+    level: province
+  BE-VLG:
+    name: Flandria
+    level: region
+  BE-VLI:
+    name: Limburg
+    level: province
+  BE-WLG:
+    name: Liège
+    level: province
+  BE-WLX:
+    name: Luksemburg
+    level: province
+  BE-WAL:
+    name: Valloonia
+    level: region
+  BE-WBR:
+    name: Vallooni Brabant
+    level: province
+  BE-VWV:
+    name: Lääne-Flandria provints
+    level: province
+CA:
+  CA-AB:
+    name: Alberta
+    level: province
+  CA-BC:
+    name: Briti Columbia
+    level: province
+  CA-MB:
+    name: Manitoba provints
+    level: province
+  CA-NB:
+    name: New Brunswick
+    level: province
+  CA-NL:
+    name: Newfoundland ja Labrador
+    level: province
+  CA-NT:
+    name: Loodealad
+    level: territory
+  CA-NS:
+    name: Nova Scotia
+    level: province
+  CA-NU:
+    name: Nunavut
+    level: territory
+  CA-ON:
+    name: Ontario
+    level: province
+  CA-PE:
+    name: Prints Edwardi saar
+    level: province
+  CA-QC:
+    name: Québec
+    level: province
+  CA-SK:
+    name: Saskatchewani provints
+    level: province
+  CA-YT:
+    name: Yukon
+    level: territory
+CL:
+  CL-AN:
+    name: Antofagasta
+    level: region
+  CL-AP:
+    name: Arica y Parinacota
+    level: region
+  CL-AT:
+    name: Atacama
+    level: region
+  CL-VS:
+    name: Valparaíso
+    level: region
+DK:
+  DK-070:
+    name: "Århus"
+    level: county
+  DK-040:
+    name: Bornholm
+    level: county
+  DK-82:
+    name: Kesk-Jüütimaa
+    level: region
+  DK-015:
+    name: Kopenhaagen
+    level: county
+  DK-042:
+    name: Fyn
+    level: county
+  DK-83:
+    name: Lõuna-Taani piirkond
+    level: region
+  DK-055:
+    name: Ribe
+    level: county
+  DK-025:
+    name: Roskilde
+    level: county
+  DK-060:
+    name: Vejle
+    level: county
+  DK-076:
+    name: Viborg
+    level: county
+  DK-85:
+    name: Zeelandi provints
+    level: region
+EE:
+  EE-37:
+    name: Harju maakond
+    level: county
+  EE-39:
+    name: Hiiumaa
+    level: county
+  EE-44:
+    name: Ida-Viru maakond
+    level: county
+  EE-51:
+    name: Järva maakond
+    level: county
+  EE-49:
+    name: Jõgeva maakond
+    level: county
+  EE-59:
+    name: Lääne-Viru maakond
+    level: county
+  EE-57:
+    name: Lääne maakond
+    level: county
+  EE-67:
+    name: Pärnu maakond
+    level: county
+  EE-65:
+    name: Põlva maakond
+    level: county
+  EE-70:
+    name: Rapla maakond
+    level: county
+  EE-74:
+    name: Saaremaa
+    level: county
+  EE-78:
+    name: Tartu maakond
+    level: county
+  EE-82:
+    name: Valga maakond
+    level: county
+  EE-84:
+    name: Viljandi maakond
+    level: county
+  EE-86:
+    name: Võru maakond
+    level: county
+FR:
+  FR-01:
+    name: Aini departemang
+    level: metropolitan department
+  FR-06:
+    name: Alpes-Maritimes
+    level: metropolitan department
+  FR-A:
+    name: Alsace
+    level: metropolitan regions
+  FR-B:
+    name: Akvitaania
+    level: metropolitan regions
+  FR-08:
+    name: Ardennid
+    level: metropolitan department
+  FR-67:
+    name: Bas-Rhini departemang
+    level: metropolitan department
+  FR-15:
+    name: Cantali departemang
+    level: metropolitan department
+  FR-G:
+    name: Champagne-Ardenne
+    level: metropolitan regions
+  FR-18:
+    name: Cher
+    level: metropolitan department
+  FR-CP:
+    name: Clipperton
+    level: dependency
+  FR-2A:
+    name: Corse du Sud
+    level: metropolitan department
+  FR-H:
+    name: Korsika
+    level: metropolitan regions
+  FR-28:
+    name: Eure-et-Loiri departemang
+    level: metropolitan department
+  FR-29:
+    name: Finistère
+    level: metropolitan department
+  FR-I:
+    name: Franche-Comté
+    level: metropolitan regions
+  FR-GP:
+    name: Guadeloupe
+    level: overseas regions
+  FR-68:
+    name: Haut-Rhini departemang
+    level: metropolitan department
+  FR-P:
+    name: Alam-Normandia
+    level: metropolitan regions
+  FR-GF:
+    name: Prantsuse Guajaana
+    level: overseas regions
+  FR-74:
+    name: Haute-Savoie departemang
+    level: metropolitan department
+  FR-87:
+    name: Haute-Vienne
+    level: metropolitan department
+  FR-05:
+    name: Hautes-Alpes
+    level: metropolitan department
+  FR-92:
+    name: Hauts-de-Seine
+    level: metropolitan department
+  FR-34:
+    name: Hérault
+    level: metropolitan department
+  FR-K:
+    name: Languedoc-Roussillon
+    level: metropolitan regions
+  FR-41:
+    name: Loir-et-Cheri departemang
+    level: metropolitan department
+  FR-46:
+    name: Lot
+    level: metropolitan department
+  FR-MQ:
+    name: Martinique
+    level: overseas regions
+  FR-YT:
+    name: Mayotte
+    level: territorial collectivity
+  FR-N:
+    name: Midi–Pyrénées
+    level: metropolitan regions
+  FR-56:
+    name: Morbihani departemang
+    level: metropolitan department
+  FR-59:
+    name: Nord
+    level: metropolitan department
+  FR-O:
+    name: Nord–Pas-de-Calais
+    level: metropolitan regions
+  FR-75:
+    name: Pariis
+    level: metropolitan department
+  FR-R:
+    name: Pays de la Loire
+    level: metropolitan regions
+  FR-S:
+    name: Picardie
+    level: metropolitan regions
+  FR-T:
+    name: Poitou-Charentes
+    level: metropolitan regions
+  FR-Q:
+    name: "Ülem-Normandia"
+    level: metropolitan regions
+  FR-PF:
+    name: Prantsuse Polüneesia
+    level: overseas territory
+  FR-NC:
+    name: Uus-Kaledoonia
+    level: overseas territory
+  FR-RE:
+    name: Réunion
+    level: overseas regions
+  FR-64:
+    name: Pyrénées-Atlantiques
+    level: metropolitan department
+  FR-69:
+    name: Rhône
+    level: metropolitan department
+  FR-V:
+    name: Rhône-Alpes
+    level: metropolitan regions
+  FR-73:
+    name: Savoia departemang
+    level: metropolitan department
+  FR-93:
+    name: Seine-Saint-Denis
+    level: metropolitan department
+  FR-77:
+    name: Seine-et-Marne
+    level: metropolitan department
+  FR-81:
+    name: Tarn
+    level: metropolitan department
+  FR-94:
+    name: Val-de-Marne
+    level: metropolitan department
+  FR-85:
+    name: Vendée
+    level: metropolitan department
+  FR-78:
+    name: Yvelines
+    level: metropolitan department
+  FR-MF:
+    name: Saint-Martin
+    level: overseas territorial collectivity
+  FR-BL:
+    name: Saint-Barthélemy
+    level: overseas territorial collectivity
+  FR-PM:
+    name: Saint-Pierre ja Miquelon
+    level: territorial collectivity
+  FR-WF:
+    name: Wallis ja Futuna
+    level: overseas territory
+DE:
+  DE-BW:
+    name: Baden-Württemberg
+    level: state
+  DE-BY:
+    name: Baieri
+    level: state
+  DE-BE:
+    name: Berliin
+    level: state
+  DE-BB:
+    name: Brandenburg
+    level: state
+  DE-HB:
+    name: Bremen
+    level: state
+  DE-HH:
+    name: Hamburg
+    level: state
+  DE-HE:
+    name: Hessen
+    level: state
+  DE-NI:
+    name: Alam-Saksi
+    level: state
+  DE-MV:
+    name: Mecklenburg-Vorpommern
+    level: state
+  DE-NW:
+    name: Nordrhein-Westfalen
+    level: state
+  DE-RP:
+    name: Rheinland-Pfalz
+    level: state
+  DE-SL:
+    name: Saarimaa
+    level: state
+  DE-SN:
+    name: Saksimaa
+    level: state
+  DE-ST:
+    name: Saksi-Anhalt
+    level: state
+  DE-SH:
+    name: Schleswig-Holstein
+    level: state
+  DE-TH:
+    name: Tüüringi
+    level: state
+GH:
+  GH-TV:
+    name: Volta
+    level: region
+IN:
+  IN-AN:
+    name: Andamanid ja Nicobarid
+    level: union territory
+  IN-AP:
+    name: Andhra Pradesh
+    level: state
+  IN-AR:
+    name: Arunāchal Pradesh
+    level: state
+  IN-AS:
+    name: Assam
+    level: state
+  IN-BR:
+    name: Bihār
+    level: state
+  IN-CH:
+    name: Chandīgarh
+    level: union territory
+  IN-CT:
+    name: Chhattīsgarh
+    level: state
+  IN-DN:
+    name: Dadra ja Nagar Haveli
+    level: union territory
+  IN-DD:
+    name: Daman ja Diu
+    level: union territory
+  IN-DL:
+    name: Delhi
+    level: union territory
+  IN-GA:
+    name: Goa osariik
+    level: state
+  IN-GJ:
+    name: Gujarāt
+    level: state
+  IN-HR:
+    name: Haryana
+    level: state
+  IN-HP:
+    name: Himachal Pradesh
+    level: state
+  IN-JK:
+    name: Jammu ja Kashmir
+    level: state
+  IN-JH:
+    name: Jharkhand
+    level: state
+  IN-KA:
+    name: Karnataka
+    level: state
+  IN-KL:
+    name: Kerala
+    level: state
+  IN-LD:
+    name: Lakshadweep
+    level: union territory
+  IN-MP:
+    name: Madhya Pradesh
+    level: state
+  IN-MH:
+    name: Mahārāshtra
+    level: state
+  IN-MN:
+    name: Manipur
+    level: state
+  IN-ML:
+    name: Meghālaya
+    level: state
+  IN-MZ:
+    name: Mizoram
+    level: state
+  IN-NL:
+    name: Nagaland
+    level: state
+  IN-OR:
+    name: Orissa
+    level: state
+  IN-PY:
+    name: Puducherry liiduterritoorium
+    level: union territory
+  IN-RJ:
+    name: Rājasthān
+    level: state
+  IN-SK:
+    name: Sikkim
+    level: state
+  IN-TN:
+    name: Tamil Nadu
+    level: state
+  IN-TR:
+    name: Tripura
+    level: state
+  IN-UP:
+    name: Uttar Pradesh
+    level: state
+  IN-UT:
+    name: Uttarakhand
+    level: state
+  IN-WB:
+    name: Lääne-Bengali osariik
+    level: state
+IE:
+  IE-CW:
+    name: Carlow
+    level: county
+  IE-D:
+    name: Dublin
+    level: county
+  IE-G:
+    name: Galway
+    level: county
+  IE-LK:
+    name: Limerick
+    level: county
+  IE-SO:
+    name: Sligo
+    level: county
+IL:
+  IL-HA:
+    name: Haifa
+    level: district
+  IL-JM:
+    name: Jeruusalemm
+    level: district
+  IL-TA:
+    name: Tel Aviv
+    level: district
+IT:
+  IT-65:
+    name: Abruzzo
+    level: region
+  IT-AL:
+    name: Alessandria
+    level: province
+  IT-AN:
+    name: Ancona
+    level: province
+  IT-AR:
+    name: Arezzo
+    level: province
+  IT-AT:
+    name: Asti
+    level: province
+  IT-BA:
+    name: Bari
+    level: province
+  IT-77:
+    name: Basilicata
+    level: region
+  IT-BL:
+    name: Belluno
+    level: province
+  IT-BG:
+    name: Bergamo
+    level: province
+  IT-BI:
+    name: Biella
+    level: province
+  IT-BO:
+    name: Bologna
+    level: province
+  IT-BZ:
+    name: Bolzano
+    level: province
+  IT-BS:
+    name: Brescia
+    level: province
+  IT-CA:
+    name: Cagliari
+    level: province
+  IT-78:
+    name: Calabria
+    level: region
+  IT-72:
+    name: Campania
+    level: region
+  IT-CT:
+    name: Catania
+    level: province
+  IT-CO:
+    name: Como
+    level: province
+  IT-CR:
+    name: Cremona
+    level: province
+  IT-CN:
+    name: Cuneo
+    level: province
+  IT-45:
+    name: Emilia Romagna
+    level: region
+  IT-FE:
+    name: Ferrara
+    level: province
+  IT-FI:
+    name: Firenze
+    level: province
+  IT-FG:
+    name: Foggia
+    level: province
+  IT-FO:
+    name: Forlì
+    level: ''
+  IT-36:
+    name: Friuli-Venezia Giulia
+    level: region
+  IT-GE:
+    name: Genova
+    level: province
+  IT-IM:
+    name: Imperia
+    level: province
+  IT-BT:
+    name: Barletta-Andria-Trani provints
+    level: province
+  IT-CI:
+    name: Carbonia-Iglesiase provints
+    level: province
+  IT-FC:
+    name: Forlì-Cesena provints
+    level: province
+  IT-75:
+    name: Apuulia
+    level: region
+  IT-SP:
+    name: La Spezia
+    level: province
+  IT-62:
+    name: Lazio
+    level: region
+  IT-LC:
+    name: Lecco
+    level: province
+  IT-42:
+    name: Liguuria
+    level: region
+  IT-LI:
+    name: Livorno
+    level: province
+  IT-25:
+    name: Lombardia
+    level: region
+  IT-LU:
+    name: Lucca
+    level: province
+  IT-MN:
+    name: Mantova
+    level: province
+  IT-57:
+    name: Marche
+    level: region
+  IT-MT:
+    name: Matera
+    level: province
+  IT-ME:
+    name: Messina
+    level: province
+  IT-MI:
+    name: Milano
+    level: province
+  IT-MO:
+    name: Modena
+    level: province
+  IT-67:
+    name: Molise
+    level: region
+  IT-NA:
+    name: Napoli
+    level: province
+  IT-NO:
+    name: Novara
+    level: province
+  IT-PD:
+    name: Padova
+    level: province
+  IT-PA:
+    name: Palermo
+    level: province
+  IT-PR:
+    name: Parma
+    level: province
+  IT-PV:
+    name: Pavia
+    level: province
+  IT-PG:
+    name: Perugia
+    level: province
+  IT-PC:
+    name: Piacenza
+    level: province
+  IT-21:
+    name: Piemonte
+    level: region
+  IT-PI:
+    name: Pisa
+    level: province
+  IT-PT:
+    name: Pistoia
+    level: province
+  IT-PO:
+    name: Prato
+    level: province
+  IT-MA:
+    name: Medio Campidano provints
+    level: province
+  IT-MB:
+    name: Monza e Brianza provints
+    level: province
+  IT-OG:
+    name: Ogliastra provints
+    level: province
+  IT-OL:
+    name: Olbia-Tempio provints
+    level: province
+  IT-PU:
+    name: Pesaro e Urbino provints
+    level: province
+  IT-RA:
+    name: Ravenna
+    level: province
+  IT-VB:
+    name: Verbano-Cusio-Ossola provints
+    level: province
+  IT-RN:
+    name: Rimini
+    level: province
+  IT-RO:
+    name: Rovigo
+    level: province
+  IT-88:
+    name: Sardiinia
+    level: region
+  IT-82:
+    name: Sitsiilia
+    level: region
+  IT-SI:
+    name: Siena
+    level: province
+  IT-SO:
+    name: Sondrio
+    level: province
+  IT-TA:
+    name: Taranto
+    level: province
+  IT-32:
+    name: Trentino-Alto Adige
+    level: region
+  IT-TN:
+    name: Trento
+    level: province
+  IT-TV:
+    name: Treviso
+    level: province
+  IT-TS:
+    name: Trieste
+    level: province
+  IT-TO:
+    name: Torino
+    level: province
+  IT-52:
+    name: Toscana
+    level: region
+  IT-UD:
+    name: Udine
+    level: province
+  IT-55:
+    name: Umbria
+    level: region
+  IT-VA:
+    name: Varese
+    level: province
+  IT-34:
+    name: Veneto
+    level: region
+  IT-VE:
+    name: Venezia
+    level: province
+  IT-VC:
+    name: Vercelli
+    level: province
+  IT-VR:
+    name: Verona
+    level: province
+  IT-VI:
+    name: Vicenza
+    level: province
+  IT-VT:
+    name: Viterbo
+    level: province
+LU:
+  LU-L:
+    name: Luksemburg
+    level: district
+NL:
+  NL-AW:
+    name: Aruba
+    level: country
+  NL-BQ1:
+    name: Bonaire
+    level: special municipality
+  NL-CW:
+    name: Curaçao
+    level: country
+  NL-DR:
+    name: Drenthe provints
+    level: province
+  NL-FL:
+    name: Flevoland
+    level: province
+  NL-FR:
+    name: Friisimaa provints
+    level: province
+  NL-GE:
+    name: Gelderlandi provints
+    level: province
+  NL-GR:
+    name: Groningen
+    level: province
+  NL-LI:
+    name: Limburg
+    level: province
+  NL-NB:
+    name: Põhja-Brabant
+    level: province
+  NL-NH:
+    name: Põhja-Holland
+    level: province
+  NL-OV:
+    name: Overijsseli provints
+    level: province
+  NL-BQ2:
+    name: Saba saar
+    level: special municipality
+  NL-BQ3:
+    name: Sint-Eustatius
+    level: special municipality
+  NL-ZH:
+    name: Lõuna-Holland
+    level: province
+  NL-UT:
+    name: Utrecht
+    level: province
+  NL-ZE:
+    name: Zeelandi provints
+    level: province
+'NO':
+  NO-02:
+    name: Akershus
+    level: county
+  NO-09:
+    name: Aust-Agder
+    level: county
+  NO-06:
+    name: Buskerud
+    level: county
+  NO-20:
+    name: Finnmark
+    level: county
+  NO-04:
+    name: Hedmark
+    level: county
+  NO-12:
+    name: Hordaland
+    level: county
+  NO-22:
+    name: Jan Mayen
+    level: ''
+  NO-15:
+    name: Møre og Romsdal
+    level: county
+  NO-17:
+    name: Nord-Trøndelag
+    level: county
+  NO-18:
+    name: Nordland
+    level: county
+  NO-05:
+    name: Oppland
+    level: county
+  NO-03:
+    name: Oslo
+    level: county
+  NO-11:
+    name: Rogaland
+    level: county
+  NO-14:
+    name: Sogn og Fjordane
+    level: county
+  NO-21:
+    name: Svalbard
+    level: ''
+  NO-16:
+    name: Sør-Trøndelag
+    level: county
+  NO-08:
+    name: Telemark
+    level: county
+  NO-19:
+    name: Troms
+    level: county
+  NO-10:
+    name: Vest-Agder
+    level: county
+  NO-07:
+    name: Vestfold
+    level: county
+  NO-01:
+    name: "Østfold"
+    level: county
+PL:
+  PL-WP:
+    name: Suur-Poola vojevoodkond
+    level: voivodship
+  PL-KP:
+    name: Kujawy-Pomorze vojevoodkond
+    level: voivodship
+  PL-MA:
+    name: Väike-Poola vojevoodkond
+    level: voivodship
+  PL-DS:
+    name: Alam-Sileesia vojevoodkond
+    level: voivodship
+  PL-LU:
+    name: Lublini vojevoodkond
+    level: voivodship
+  PL-LB:
+    name: Lubuszi vojevoodkond
+    level: voivodship
+  PL-MZ:
+    name: Masoovia vojevoodkond
+    level: voivodship
+  PL-OP:
+    name: Opole vojevoodkond
+    level: voivodship
+  PL-PK:
+    name: Podkarpacie vojevoodkond
+    level: voivodship
+  PL-PD:
+    name: Podlaasia vojevoodkond
+    level: voivodship
+  PL-PM:
+    name: Pomorze vojevoodkond
+    level: voivodship
+  PL-SL:
+    name: Sileesia vojevoodkond
+    level: voivodship
+  PL-WN:
+    name: Warmia-Masuuria vojevoodkond
+    level: voivodship
+  PL-ZP:
+    name: Lääne-Pomorze vojevoodkond
+    level: voivodship
+  PL-SK:
+    name: "Święty Krzyżi vojevoodkond"
+    level: voivodship
+PT:
+  PT-20:
+    name: Assoorid
+    level: autonomous region
+  PT-03:
+    name: Braga
+    level: district
+  PT-06:
+    name: Coimbra
+    level: district
+  PT-10:
+    name: Leiria
+    level: district
+  PT-11:
+    name: Lissabon
+    level: district
+  PT-30:
+    name: Madeira
+    level: autonomous region
+  PT-13:
+    name: Porto
+    level: district
+RO:
+  RO-BN:
+    name: Bistrița-Năsăudi maakond
+    level: county
+  RO-BT:
+    name: Botoșani
+    level: county
+  RO-BV:
+    name: Brașov
+    level: county
+  RO-B:
+    name: Bukarest
+    level: city
+  RO-CS:
+    name: Caraș-Severini maakond
+    level: county
+  RO-CJ:
+    name: Cluj-Napoca
+    level: county
+  RO-CT:
+    name: Constanța
+    level: county
+  RO-DJ:
+    name: Dolji maakond
+    level: county
+  RO-GL:
+    name: Galați
+    level: county
+  RO-GR:
+    name: Giurgiu
+    level: county
+  RO-GJ:
+    name: Gorji maakond
+    level: county
+  RO-HR:
+    name: Harghita maakond
+    level: county
+  RO-IS:
+    name: Iași
+    level: county
+  RO-IF:
+    name: Ilfovi maakond
+    level: county
+  RO-MH:
+    name: Mehedinți maakond
+    level: county
+  RO-MS:
+    name: Mureși maakond
+    level: county
+  RO-NT:
+    name: Neamți maakond
+    level: county
+  RO-SM:
+    name: Satu Mare
+    level: county
+  RO-SB:
+    name: Sibiu
+    level: county
+  RO-TR:
+    name: Teleormani maakond
+    level: county
+  RO-TM:
+    name: Timiș
+    level: county
+  RO-VL:
+    name: Vâlcea maakond
+    level: county
+RS:
+  RS-00:
+    name: Belgrad
+    level: city
+  RS-02:
+    name: Kesk-Banat
+    level: district
+  RS-03:
+    name: Põhja-Banat
+    level: district
+  RS-01:
+    name: Põhja-Bačka
+    level: district
+  RS-04:
+    name: Lõuna-Banat
+    level: district
+  RS-07:
+    name: Sremi ringkond
+    level: district
+SK:
+  SK-BC:
+    name: Banská Bystrica maakond
+    level: region
+  SK-BL:
+    name: Bratislava maakond
+    level: region
+  SK-KI:
+    name: Košice maakond
+    level: region
+  SK-NI:
+    name: Nitra maakond
+    level: region
+  SK-PV:
+    name: Prešovi maakond
+    level: region
+  SK-TA:
+    name: Trnava maakond
+    level: region
+  SK-ZI:
+    name: "Žilina maakond"
+    level: region
+ES:
+  ES-C:
+    name: A Coruña
+    level: province
+  ES-A:
+    name: Alicante
+    level: province
+  ES-AL:
+    name: Almería
+    level: province
+  ES-AN:
+    name: Andaluusia
+    level: ''
+  ES-AS:
+    name: Astuuria
+    level: autonomous community
+  ES-BA:
+    name: Badajoz
+    level: province
+  ES-IB:
+    name: Baleaarid
+    level: autonomous community
+  ES-B:
+    name: Barcelona
+    level: province
+  ES-BU:
+    name: Burgos
+    level: province
+  ES-S:
+    name: Kantaabria
+    level: province
+  ES-CM:
+    name: Castilla–La Mancha
+    level: autonomous community
+  ES-CL:
+    name: Castilla-León
+    level: autonomous community
+  ES-CT:
+    name: Kataloonia
+    level: autonomous community
+  ES-CE:
+    name: Ceuta
+    level: autonomous city
+  ES-CO:
+    name: Córdoba
+    level: province
+  ES-EX:
+    name: Extremadura
+    level: autonomous community
+  ES-SS:
+    name: Gipuzkoa
+    level: province
+  ES-GI:
+    name: Girona
+    level: province
+  ES-GR:
+    name: Granada
+    level: province
+  ES-GU:
+    name: Guadalajara
+    level: province
+  ES-H:
+    name: Huelva
+    level: province
+  ES-GC:
+    name: Las Palmas de Gran Canaria
+    level: province
+  ES-LE:
+    name: Leon
+    level: province
+  ES-LU:
+    name: Lugo
+    level: province
+  ES-MD:
+    name: Madrid
+    level: autonomous community
+  ES-ML:
+    name: Melilla
+    level: autonomous city
+  ES-MC:
+    name: Murcia
+    level: autonomous community
+  ES-MA:
+    name: Málaga
+    level: province
+  ES-NC:
+    name: Navarra
+    level: autonomous community
+  ES-SA:
+    name: Salamanca
+    level: province
+  ES-TF:
+    name: Santa Cruz de Tenerife
+    level: province
+  ES-SE:
+    name: Sevilla
+    level: province
+  ES-TO:
+    name: Toledo
+    level: province
+  ES-V:
+    name: Valencia
+    level: province
+  ES-VC:
+    name: Valencia autonoomne piirkond
+    level: autonomous community
+  ES-VA:
+    name: Valladolid
+    level: province
+  ES-Z:
+    name: Zaragoza
+    level: province
+  ES-VI:
+    name: Araba
+    level: province
+SE:
+  SE-K:
+    name: Blekinge lään
+    level: county
+  SE-W:
+    name: Dalarna lään
+    level: county
+  SE-I:
+    name: Ojamaa lään
+    level: county
+  SE-X:
+    name: Gävleborgi lään
+    level: county
+  SE-N:
+    name: Hallandi lään
+    level: county
+  SE-Z:
+    name: Jämtlandi lään
+    level: county
+  SE-F:
+    name: Jönköpingi lään
+    level: county
+  SE-H:
+    name: Kalmari lään
+    level: county
+  SE-G:
+    name: Kronobergi lään
+    level: county
+  SE-BD:
+    name: Norrbotteni lään
+    level: county
+  SE-M:
+    name: Skåne lään
+    level: county
+  SE-AB:
+    name: Stockholmi lään
+    level: county
+  SE-D:
+    name: Södermanlandi lään
+    level: county
+  SE-C:
+    name: Uppsala lään
+    level: county
+  SE-S:
+    name: Värmlandi lään
+    level: county
+  SE-AC:
+    name: Västerbotteni lään
+    level: county
+  SE-Y:
+    name: Västernorrlandi lään
+    level: county
+  SE-U:
+    name: Västmanlandi lään
+    level: county
+  SE-O:
+    name: Västra Götalandi lään
+    level: county
+  SE-T:
+    name: "Örebro lään"
+    level: county
+  SE-E:
+    name: "Östergötlandi lään"
+    level: county
+CH:
+  CH-AG:
+    name: Aargau kanton
+    level: canton
+  CH-AR:
+    name: Appenzell Ausserrhoden
+    level: canton
+  CH-AI:
+    name: Appenzell Innerrhoden
+    level: canton
+  CH-BL:
+    name: Basel-Landschaft
+    level: canton
+  CH-BS:
+    name: Basel-Stadt
+    level: canton
+  CH-BE:
+    name: Bern
+    level: canton
+  CH-GR:
+    name: Graubündeni kanton
+    level: canton
+  CH-NE:
+    name: Neuchâtel
+    level: canton
+  CH-NW:
+    name: Nidwalden
+    level: canton
+  CH-OW:
+    name: Obwalden
+    level: canton
+  CH-TG:
+    name: Thurgau kanton
+    level: canton
+  CH-TI:
+    name: Ticino kanton
+    level: canton
+  CH-ZG:
+    name: Zug
+    level: canton
+  CH-GE:
+    name: Genf
+    level: canton
+  CH-LU:
+    name: Luzern
+    level: canton
+  CH-ZH:
+    name: Zürich
+    level: canton
+UA:
+  UA-71:
+    name: Tšerkassõ oblast
+    level: region
+  UA-74:
+    name: Tšernigivi oblast
+    level: region
+  UA-77:
+    name: Tšernivtsi oblast
+    level: region
+  UA-43:
+    name: Krimm
+    level: autonomous republic
+  UA-12:
+    name: Dnipropetrovski oblast
+    level: region
+  UA-14:
+    name: Donetski oblast
+    level: region
+  UA-26:
+    name: Ivano-Frankivski oblast
+    level: region
+  UA-63:
+    name: Harkivi oblast
+    level: region
+  UA-65:
+    name: Hersoni oblast
+    level: region
+  UA-68:
+    name: Hmelnõtskõi oblast
+    level: region
+  UA-30:
+    name: Kiiev
+    level: region
+  UA-32:
+    name: Kiievi oblast
+    level: region
+  UA-35:
+    name: Kirovogradi oblast
+    level: region
+  UA-09:
+    name: Luganski oblast
+    level: region
+  UA-46:
+    name: Lvivi oblast
+    level: region
+  UA-48:
+    name: Mõkolajivi oblast
+    level: region
+  UA-51:
+    name: Odessa oblast
+    level: region
+  UA-53:
+    name: Poltava oblast
+    level: region
+  UA-56:
+    name: Rivne oblast
+    level: region
+  UA-40:
+    name: Sevastopol
+    level: region
+  UA-59:
+    name: Sumõ oblast
+    level: region
+  UA-61:
+    name: Ternopili oblast
+    level: region
+  UA-05:
+    name: Vinnõtsja oblast
+    level: region
+  UA-07:
+    name: Volõõnia oblast
+    level: region
+  UA-21:
+    name: Taga-Karpaatia
+    level: region
+  UA-23:
+    name: Zaporižžja oblast
+    level: region
+  UA-18:
+    name: "Žõtomõri oblast"
+    level: region
+GB:
+  GB-ABE:
+    name: Aberdeen
+    level: council area (scotland)
+  GB-ABD:
+    name: Aberdeenshire
+    level: council area (scotland)
+  GB-ANS:
+    name: Angus
+    level: council area (scotland)
+  GB-AGB:
+    name: Argyll and Bute
+    level: council area (scotland)
+  GB-ARM:
+    name: Armagh
+    level: district council area (northern ireland)
+  GB-BNS:
+    name: Barnsley
+    level: metropolitan district
+  GB-BDF:
+    name: Bedfordshire
+    level: unitary authority
+  GB-BFS:
+    name: Belfast
+    level: district council area (northern ireland)
+  GB-BIR:
+    name: Birmingham
+    level: metropolitan district
+  GB-BPL:
+    name: Blackpool
+    level: unitary authority
+  GB-BGW:
+    name: Blaenau Gwent
+    level: unitary authority (wales)
+  GB-BOL:
+    name: Bolton
+    level: metropolitan district
+  GB-BMH:
+    name: Bournemouth
+    level: unitary authority
+  GB-BRD:
+    name: Bradford
+    level: metropolitan district
+  GB-BGE:
+    name: Bridgend
+    level: unitary authority (wales)
+  GB-BST:
+    name: Bristol
+    level: unitary authority
+  GB-BRY:
+    name: Bromley
+    level: borough
+  GB-BKM:
+    name: Buckinghamshire
+    level: two-tier county
+  GB-CAY:
+    name: Caerphilly
+    level: unitary authority (wales)
+  GB-CAM:
+    name: Cambridgeshire
+    level: two-tier county
+  GB-CRF:
+    name: Cardiff
+    level: unitary authority (wales)
+  GB-CMN:
+    name: Carmarthenshire
+    level: unitary authority (wales)
+  GB-CGN:
+    name: Ceredigion
+    level: unitary authority (wales)
+  GB-CHS:
+    name: Cheshire
+    level: ''
+  GB-CLK:
+    name: Clackmannanshire
+    level: council area (scotland)
+  GB-CWY:
+    name: Conwy
+    level: unitary authority (wales)
+  GB-CON:
+    name: Cornwall
+    level: unitary authority
+  GB-COV:
+    name: Coventry
+    level: metropolitan district
+  GB-CMA:
+    name: Cumbria
+    level: two-tier county
+  GB-DAL:
+    name: Darlington
+    level: unitary authority
+  GB-DEN:
+    name: Denbighshire
+    level: unitary authority (wales)
+  GB-DER:
+    name: Derby
+    level: unitary authority
+  GB-DBY:
+    name: Derbyshire
+    level: two-tier county
+  GB-DEV:
+    name: Devoni krahvkond
+    level: two-tier county
+  GB-DOR:
+    name: Dorset
+    level: two-tier county
+  GB-DGY:
+    name: Dumfries and Galloway
+    level: council area (scotland)
+  GB-DND:
+    name: Dundee
+    level: council area (scotland)
+  GB-DUR:
+    name: Durham
+    level: unitary authority
+  GB-EAL:
+    name: Ealing
+    level: borough
+  GB-EAY:
+    name: East Ayrshire
+    level: council area (scotland)
+  GB-EDU:
+    name: East Dunbartonshire
+    level: council area (scotland)
+  GB-ELN:
+    name: East Lothian
+    level: council area (scotland)
+  GB-ERW:
+    name: East Renfrewshire
+    level: council area (scotland)
+  GB-ERY:
+    name: East Riding of Yorkshire
+    level: unitary authority
+  GB-ESX:
+    name: Ida-Sussex
+    level: two-tier county
+  GB-EDH:
+    name: Edinburgh
+    level: council area (scotland)
+  GB-ESS:
+    name: Essex
+    level: two-tier county
+  GB-FAL:
+    name: Falkirk
+    level: council area (scotland)
+  GB-FIF:
+    name: Fife
+    level: council area (scotland)
+  GB-FLN:
+    name: Flintshire
+    level: unitary authority (wales)
+  GB-GAT:
+    name: Gateshead
+    level: metropolitan district
+  GB-GLG:
+    name: Glasgow
+    level: council area (scotland)
+  GB-GLS:
+    name: Gloucestershire
+    level: two-tier county
+  GB-GRE:
+    name: Greenwich
+    level: borough
+  GB-GWN:
+    name: Gwynedd
+    level: unitary authority (wales)
+  GB-HAM:
+    name: Hampshire
+    level: two-tier county
+  GB-HEF:
+    name: Herefordshire
+    level: unitary authority
+  GB-HRT:
+    name: Hertfordshire
+    level: two-tier county
+  GB-HLD:
+    name: Mägismaa
+    level: council area (scotland)
+  GB-HIL:
+    name: Hillingdon
+    level: borough
+  GB-IVC:
+    name: Inverclyde
+    level: council area (scotland)
+  GB-HAV:
+    name: Haveringi linnaosa
+    level: borough
+  GB-ELS:
+    name: Välis-Hebriidid
+    level: council area (scotland)
+  GB-AGY:
+    name: Anglesey
+    level: unitary authority (wales)
+  GB-IOW:
+    name: Wight
+    level: unitary authority
+  GB-IOS:
+    name: Scilly saared
+    level: ''
+  GB-ISL:
+    name: Islington
+    level: borough
+  GB-KEN:
+    name: Kent
+    level: two-tier county
+  GB-LAN:
+    name: Lancashire
+    level: two-tier county
+  GB-LDS:
+    name: Leeds
+    level: metropolitan district
+  GB-LEC:
+    name: Leicestershire
+    level: two-tier county
+  GB-LIN:
+    name: Lincolnshire
+    level: two-tier county
+  GB-LIV:
+    name: Liverpool
+    level: metropolitan district
+  GB-MAN:
+    name: Manchester
+    level: metropolitan district
+  GB-MTY:
+    name: Merthyr Tydfil
+    level: unitary authority (wales)
+  GB-MLN:
+    name: Midlothian
+    level: council area (scotland)
+  GB-MON:
+    name: Monmouthshire
+    level: unitary authority (wales)
+  GB-MRY:
+    name: Moray
+    level: council area (scotland)
+  GB-NTL:
+    name: Neath Port Talbot
+    level: unitary authority (wales)
+  GB-NET:
+    name: Newcastle upon Tyne
+    level: metropolitan district
+  GB-NWP:
+    name: Newport
+    level: unitary authority (wales)
+  GB-NFK:
+    name: Norfolk
+    level: two-tier county
+  GB-NAY:
+    name: North Ayrshire
+    level: council area (scotland)
+  GB-NLK:
+    name: North Lanarkshire
+    level: council area (scotland)
+  GB-NYK:
+    name: Põhja-Yorkshire
+    level: two-tier county
+  GB-NTH:
+    name: Northamptonshire
+    level: two-tier county
+  GB-NBL:
+    name: Northumberland
+    level: unitary authority
+  GB-NTT:
+    name: Nottinghamshire
+    level: two-tier county
+  GB-ORK:
+    name: Orkney saared
+    level: council area (scotland)
+  GB-OXF:
+    name: Oxfordshire
+    level: two-tier county
+  GB-PEM:
+    name: Pembrokeshire
+    level: unitary authority (wales)
+  GB-PKN:
+    name: Perth and Kinross
+    level: council area (scotland)
+  GB-PTE:
+    name: Peterborough
+    level: unitary authority
+  GB-PLY:
+    name: Plymouth
+    level: unitary authority
+  GB-POL:
+    name: Poole
+    level: unitary authority
+  GB-POR:
+    name: Portsmouth
+    level: unitary authority
+  GB-POW:
+    name: Powys
+    level: unitary authority (wales)
+  GB-RFW:
+    name: Renfrewshire
+    level: council area (scotland)
+  GB-RUT:
+    name: Rutland
+    level: unitary authority
+  GB-SCB:
+    name: Scottish Borders
+    level: council area (scotland)
+  GB-SHF:
+    name: Sheffield
+    level: metropolitan district
+  GB-ZET:
+    name: Shetlandi saared
+    level: council area (scotland)
+  GB-SHR:
+    name: Shropshire
+    level: unitary authority
+  GB-SOM:
+    name: Somerset
+    level: two-tier county
+  GB-SAY:
+    name: South Ayrshire
+    level: council area (scotland)
+  GB-SLK:
+    name: South Lanarkshire
+    level: council area (scotland)
+  GB-STH:
+    name: Southampton
+    level: unitary authority
+  GB-STS:
+    name: Staffordshire
+    level: two-tier county
+  GB-STG:
+    name: Stirling
+    level: council area (scotland)
+  GB-SFK:
+    name: Suffolk
+    level: two-tier county
+  GB-SRY:
+    name: Surrey
+    level: two-tier county
+  ENG:
+    name: Inglismaa
+    level: country
+  GB-TWH:
+    name: Tower Hamlets
+    level: borough
+  NIR:
+    name: Põhja-Iirimaa
+    level: country
+  SCT:
+    name: "Šotimaa"
+    level: country
+  GB-SWA:
+    name: Swansea
+    level: unitary authority (wales)
+  GB-SWD:
+    name: Swindon
+    level: unitary authority
+  GB-TOB:
+    name: Torbay
+    level: unitary authority
+  GB-TOF:
+    name: Torfaen
+    level: unitary authority (wales)
+  GB-VGL:
+    name: Vale of Glamorgan
+    level: unitary authority (wales)
+  WLS:
+    name: Wales
+    level: country
+  GB-WRT:
+    name: Warrington
+    level: unitary authority
+  GB-WAR:
+    name: Warwickshire
+    level: two-tier county
+  GB-WDU:
+    name: West Dunbartonshire
+    level: council area (scotland)
+  GB-WLN:
+    name: West Lothian
+    level: council area (scotland)
+  GB-WSX:
+    name: Lääne-Sussex
+    level: two-tier county
+  GB-WGN:
+    name: Wigan
+    level: metropolitan district
+  GB-WIL:
+    name: Wiltshire
+    level: unitary authority
+  GB-WOR:
+    name: Worcestershire
+    level: two-tier county
+  GB-WRX:
+    name: Wrexham
+    level: unitary authority (wales)
+  GB-YOR:
+    name: York
+    level: unitary authority
+US:
+  US-AL:
+    name: Alabama
+    level: state
+  US-AK:
+    name: Alaska
+    level: state
+  US-AS:
+    name: Ameerika Samoa
+    level: outlying area
+  US-AZ:
+    name: Arizona
+    level: state
+  US-AR:
+    name: Arkansas
+    level: state
+  US-CA:
+    name: California
+    level: state
+  US-CO:
+    name: Colorado
+    level: state
+  US-CT:
+    name: Connecticut
+    level: state
+  US-DE:
+    name: Delaware
+    level: state
+  US-FL:
+    name: Florida
+    level: state
+  US-GU:
+    name: Guam
+    level: outlying area
+  US-HI:
+    name: Hawaii osariik
+    level: state
+  US-ID:
+    name: Idaho
+    level: state
+  US-IL:
+    name: Illinois
+    level: state
+  US-IN:
+    name: Indiana
+    level: state
+  US-IA:
+    name: Iowa
+    level: state
+  US-KS:
+    name: Kansas
+    level: state
+  US-KY:
+    name: Kentucky
+    level: state
+  US-LA:
+    name: Louisiana osariik
+    level: state
+  US-ME:
+    name: Maine
+    level: state
+  US-MD:
+    name: Maryland
+    level: state
+  US-MA:
+    name: Massachusetts
+    level: state
+  US-MI:
+    name: Michigan
+    level: state
+  US-MN:
+    name: Minnesota
+    level: state
+  US-MS:
+    name: Mississippi osariik
+    level: state
+  US-MO:
+    name: Missouri osariik
+    level: state
+  US-MT:
+    name: Montana
+    level: state
+  US-NE:
+    name: Nebraska
+    level: state
+  US-NV:
+    name: Nevada
+    level: state
+  US-NH:
+    name: New Hampshire
+    level: state
+  US-NJ:
+    name: New Jersey osariik
+    level: state
+  US-NM:
+    name: New Mexico
+    level: state
+  US-NY:
+    name: New Yorgi osariik
+    level: state
+  US-NC:
+    name: Põhja-Carolina
+    level: state
+  US-ND:
+    name: Põhja-Dakota
+    level: state
+  US-MP:
+    name: Põhja-Mariaanid
+    level: outlying area
+  US-OH:
+    name: Ohio
+    level: state
+  US-OK:
+    name: Oklahoma
+    level: state
+  US-OR:
+    name: Oregon
+    level: state
+  US-PA:
+    name: Pennsylvania
+    level: state
+  US-PR:
+    name: Puerto Rico
+    level: outlying area
+  US-RI:
+    name: Rhode Island
+    level: state
+  US-SC:
+    name: Lõuna-Carolina
+    level: state
+  US-SD:
+    name: Lõuna-Dakota
+    level: state
+  US-TN:
+    name: Tennessee
+    level: state
+  US-TX:
+    name: Texas
+    level: state
+  US-UM:
+    name: "Ühendriikide hajasaared"
+    level: outlying area
+  US-UT:
+    name: Utah
+    level: state
+  US-DC:
+    name: Washington
+    level: district
+  US-VT:
+    name: Vermont
+    level: state
+  US-VI:
+    name: Neitsisaared
+    level: outlying area
+  US-VA:
+    name: Virginia
+    level: state
+  US-WA:
+    name: Washington
+    level: state
+  US-WV:
+    name: Lääne-Virginia
+    level: state
+  US-WI:
+    name: Wisconsin
+    level: state
+  US-WY:
+    name: Wyoming
+    level: state
+MT:
+  MT-60:
+    name: Valletta
+    level: local council

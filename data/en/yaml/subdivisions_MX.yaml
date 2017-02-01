@@ -1,0 +1,97 @@
+---
+MX-AGU:
+  name: Aguascalientes
+  level: state
+MX-BCN:
+  name: Baja California
+  level: state
+MX-BCS:
+  name: Baja California Sur
+  level: state
+MX-CAM:
+  name: Campeche
+  level: state
+MX-CHP:
+  name: Chiapas
+  level: state
+MX-CHH:
+  name: Chihuahua
+  level: state
+MX-COA:
+  name: Coahuila
+  level: state
+MX-COL:
+  name: Colima
+  level: state
+MX-DIF:
+  name: Distrito Federal
+  level: federal district
+MX-DUR:
+  name: Durango
+  level: state
+MX-GUA:
+  name: Guanajuato
+  level: state
+MX-GRO:
+  name: Guerrero
+  level: state
+MX-HID:
+  name: Hidalgo
+  level: state
+MX-JAL:
+  name: Jalisco
+  level: state
+MX-MIC:
+  name: Michoacán
+  level: state
+MX-MOR:
+  name: Morelos
+  level: state
+MX-MEX:
+  name: Mexico
+  level: state
+MX-NAY:
+  name: Nayarit
+  level: state
+MX-NLE:
+  name: Nuevo León
+  level: state
+MX-OAX:
+  name: Oaxaca
+  level: state
+MX-PUE:
+  name: Puebla
+  level: state
+MX-QUE:
+  name: Querétaro
+  level: state
+MX-ROO:
+  name: Quintana Roo
+  level: state
+MX-SLP:
+  name: San Luis Potosí
+  level: state
+MX-SIN:
+  name: Sinaloa
+  level: state
+MX-SON:
+  name: Sonora
+  level: state
+MX-TAB:
+  name: Tabasco
+  level: state
+MX-TAM:
+  name: Tamaulipas
+  level: state
+MX-TLA:
+  name: Tlaxcala
+  level: state
+MX-VER:
+  name: Veracruz
+  level: state
+MX-YUC:
+  name: Yucatán
+  level: state
+MX-ZAC:
+  name: Zacatecas
+  level: state

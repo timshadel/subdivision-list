@@ -1,0 +1,21 @@
+id,name,level
+PT-01,Aveiro,district
+PT-02,Beja,district
+PT-03,Braga,district
+PT-04,Bragança,district
+PT-05,Castelo Branco,district
+PT-06,Coimbra,district
+PT-08,Faro,district
+PT-09,Guarda,district
+PT-10,Leiria,district
+PT-11,Lisbon,district
+PT-12,Portalegre Municipality,district
+PT-13,Porto,district
+PT-30,Madeira,autonomous region
+PT-20,Azores,autonomous region
+PT-14,Santarém,district
+PT-15,Setúbal,district
+PT-16,Viana do Castelo,district
+PT-17,Vila Real,district
+PT-18,Viseu,district
+PT-07,Évora,district

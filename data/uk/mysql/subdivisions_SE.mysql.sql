@@ -1,0 +1,23 @@
+CREATE TABLE subdivision_SE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-K', 'Блекінґе', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-W', 'Даларна', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-I', 'Ґотланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-X', 'Євлеборй', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-N', 'Галланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-Z', 'Емтланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-F', 'Йончопінґ', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-H', 'Кальмар', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-G', 'Кроноберй', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-BD', 'Норрботтен', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-M', 'Сконе', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-AB', 'Стокгольм', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-D', 'Седерманланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-C', 'Уппсала', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-S', 'Вермланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-AC', 'Вестерботтен', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-Y', 'Вестерноррланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-U', 'Вестманланд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-O', 'Вестра Йоталанд', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-T', 'Еребру', 'county');
+INSERT INTO `subdivision_SE` (`id`, `name`, `level`) VALUES ('SE-E', 'Естерйотланд', 'county');

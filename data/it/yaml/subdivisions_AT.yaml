@@ -1,0 +1,28 @@
+---
+AT-1:
+  name: Burgenland
+  level: state
+AT-2:
+  name: Carinzia
+  level: state
+AT-3:
+  name: Bassa Austria
+  level: state
+AT-5:
+  name: Salisburgo
+  level: state
+AT-6:
+  name: Stiria
+  level: state
+AT-7:
+  name: Tirolo
+  level: state
+AT-4:
+  name: Alta Austria
+  level: state
+AT-9:
+  name: Vienna
+  level: state
+AT-8:
+  name: Vorarlberg
+  level: state

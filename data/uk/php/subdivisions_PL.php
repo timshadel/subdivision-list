@@ -1,0 +1,17 @@
+<?php return array (
+  'PL-WP' => array('name' => 'Великопольське воєводство', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Куявсько-Поморське воєводство', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Малопольське воєводство', 'level' => 'voivodship'),
+  'PL-DS' => array('name' => 'Нижньосілезьке воєводство', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Люблінське воєводство', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Любуське воєводство', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Мазовецьке воєводство', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Опольське воєводство', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Підкарпатське воєводство', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Підляське воєводство', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Поморське воєводство', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Сілезьке воєводство', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Вармінсько-Мазурське воєводство', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'Західнопоморське воєводство', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Свентокшиське воєводство', 'level' => 'voivodship'),
+);

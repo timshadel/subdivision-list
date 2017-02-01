@@ -1,0 +1,16 @@
+CREATE TABLE subdivision_SN (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-DK', 'Dakar', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-DB', 'Diourbel', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-FK', 'Fatick', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-KA', 'Kaffrine', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-KL', 'Kaolack', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-KD', 'Kolda', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-KE', 'Kédougou', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-LG', 'Louga', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-MT', 'Matam', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-SL', 'Saint Louis', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-SE', 'Sédhiou', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-TC', 'Tambacounda', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-TH', 'Thiès', 'region');
+INSERT INTO "subdivision_SN" ("id", "name", "level") VALUES ('SN-ZG', 'Ziguinchor', 'region');

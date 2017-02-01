@@ -1,0 +1,37 @@
+---
+BE-VAN:
+  name: Antverpy
+  level: province
+BE-BRU:
+  name: Región Brusel-hlavné mesto
+  level: capital region
+BE-VOV:
+  name: Východné Flámsko
+  level: province
+BE-VBR:
+  name: Flámsky Brabant
+  level: province
+BE-VLG:
+  name: Flámsky región
+  level: region
+BE-WHT:
+  name: Hennegavsko
+  level: province
+BE-VLI:
+  name: Limbursko
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luxembursko
+  level: province
+BE-WAL:
+  name: Valónsky región
+  level: region
+BE-WBR:
+  name: Valónsky Brabant
+  level: province
+BE-VWV:
+  name: Západné Flámsko
+  level: province

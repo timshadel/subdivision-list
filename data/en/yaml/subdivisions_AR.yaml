@@ -1,0 +1,73 @@
+---
+AR-B:
+  name: Buenos Aires
+  level: province
+AR-K:
+  name: Catamarca
+  level: province
+AR-H:
+  name: Chaco
+  level: province
+AR-U:
+  name: Chubut
+  level: province
+AR-C:
+  name: Buenos Aires
+  level: federal district
+AR-W:
+  name: Corrientes
+  level: province
+AR-X:
+  name: Córdoba
+  level: province
+AR-E:
+  name: Entre Ríos
+  level: province
+AR-P:
+  name: Geography of Taiwan
+  level: province
+AR-Y:
+  name: Jujuy Province
+  level: province
+AR-L:
+  name: La Pampa
+  level: province
+AR-F:
+  name: Rioja
+  level: province
+AR-M:
+  name: Mendoza
+  level: province
+AR-N:
+  name: Misiones Province
+  level: province
+AR-Q:
+  name: Neuquén
+  level: province
+AR-R:
+  name: Rio Negro
+  level: province
+AR-A:
+  name: Salta
+  level: province
+AR-J:
+  name: San Juan
+  level: province
+AR-D:
+  name: San Luis
+  level: province
+AR-Z:
+  name: Santa Cruz
+  level: province
+AR-S:
+  name: Santa Fe
+  level: province
+AR-G:
+  name: Santiago del Estero
+  level: province
+AR-V:
+  name: Tierra del Fuego
+  level: province
+AR-T:
+  name: Tucumán Province
+  level: province

@@ -1,0 +1,373 @@
+---
+IT-65:
+  name: Abruzzes
+  level: region
+IT-AG:
+  name: Agrigente
+  level: province
+IT-AL:
+  name: Alexandrie
+  level: province
+IT-AN:
+  name: Ancône
+  level: province
+IT-AO:
+  name: Aoste
+  level: province
+IT-AR:
+  name: Arezzo
+  level: province
+IT-AP:
+  name: Ascoli Piceno
+  level: province
+IT-AT:
+  name: Asti
+  level: province
+IT-AV:
+  name: Avellino
+  level: province
+IT-BA:
+  name: Bari
+  level: province
+IT-77:
+  name: Basilicate
+  level: region
+IT-BL:
+  name: Belluno
+  level: province
+IT-BN:
+  name: Bénévent
+  level: province
+IT-BG:
+  name: Bergame
+  level: province
+IT-BI:
+  name: Biella
+  level: province
+IT-BO:
+  name: Bologne
+  level: province
+IT-BZ:
+  name: Bolzano
+  level: province
+IT-BS:
+  name: Brescia
+  level: province
+IT-BR:
+  name: Brindisi
+  level: province
+IT-CA:
+  name: Cagliari
+  level: province
+IT-78:
+  name: Calabre
+  level: region
+IT-CL:
+  name: Caltanissetta
+  level: province
+IT-72:
+  name: Campanie
+  level: region
+IT-CB:
+  name: Campobasso
+  level: province
+IT-CE:
+  name: Caserte
+  level: province
+IT-CT:
+  name: Catane
+  level: province
+IT-CZ:
+  name: Catanzaro
+  level: province
+IT-CH:
+  name: Chieti
+  level: province
+IT-CO:
+  name: Côme
+  level: province
+IT-CS:
+  name: Cosenza
+  level: province
+IT-CR:
+  name: Crémone
+  level: province
+IT-KR:
+  name: Crotone
+  level: province
+IT-CN:
+  name: Coni
+  level: province
+IT-45:
+  name: "Émilie-Romagne"
+  level: region
+IT-EN:
+  name: Enna
+  level: province
+IT-FM:
+  name: Fermo
+  level: province
+IT-FE:
+  name: Ferrare
+  level: province
+IT-FI:
+  name: Florence
+  level: province
+IT-FG:
+  name: Foggia
+  level: province
+IT-FO:
+  name: Forlì
+  level: ''
+IT-36:
+  name: Frioul-Vénétie julienne
+  level: region
+IT-FR:
+  name: Frosinone
+  level: province
+IT-GE:
+  name: Gênes
+  level: province
+IT-GO:
+  name: Gorizia
+  level: province
+IT-GR:
+  name: Grosseto
+  level: province
+IT-IM:
+  name: Imperia
+  level: province
+IT-IS:
+  name: Isernia
+  level: province
+IT-BT:
+  name: Province de Barletta-Andria-Trani
+  level: province
+IT-CI:
+  name: Province de Carbonia-Iglesias
+  level: province
+IT-FC:
+  name: Province de Forlì-Cesena
+  level: province
+IT-75:
+  name: Pouilles
+  level: region
+IT-SP:
+  name: La Spezia
+  level: province
+IT-62:
+  name: Latium
+  level: region
+IT-LE:
+  name: Lecce
+  level: province
+IT-LC:
+  name: Lecco
+  level: province
+IT-42:
+  name: Ligurie
+  level: region
+IT-LI:
+  name: Livourne
+  level: province
+IT-LO:
+  name: Lodi
+  level: province
+IT-25:
+  name: Lombardie
+  level: region
+IT-LU:
+  name: Lucques
+  level: province
+IT-MC:
+  name: Macerata
+  level: province
+IT-MN:
+  name: Mantoue
+  level: province
+IT-57:
+  name: Marches
+  level: region
+IT-MT:
+  name: Matera
+  level: province
+IT-ME:
+  name: Messine
+  level: province
+IT-MI:
+  name: Milan
+  level: province
+IT-MO:
+  name: Modène
+  level: province
+IT-67:
+  name: Molise
+  level: region
+IT-NA:
+  name: Naples
+  level: province
+IT-NO:
+  name: Novare
+  level: province
+IT-NU:
+  name: Nuoro
+  level: province
+IT-OR:
+  name: Oristano
+  level: province
+IT-PD:
+  name: Padoue
+  level: province
+IT-PA:
+  name: Palerme
+  level: province
+IT-PR:
+  name: Parme
+  level: province
+IT-PV:
+  name: Pavie
+  level: province
+IT-PG:
+  name: Pérouse
+  level: province
+IT-PE:
+  name: Pescara
+  level: province
+IT-PC:
+  name: Plaisance
+  level: province
+IT-21:
+  name: Piémont
+  level: region
+IT-PI:
+  name: Pise
+  level: province
+IT-PT:
+  name: Pistoia
+  level: province
+IT-PN:
+  name: Pordenone
+  level: province
+IT-PZ:
+  name: Potenza
+  level: province
+IT-PO:
+  name: Prato
+  level: province
+IT-MS:
+  name: Province de Massa et Carrare
+  level: province
+IT-MA:
+  name: Province du Medio Campidano
+  level: province
+IT-MB:
+  name: Province de Monza et de la Brianza
+  level: province
+IT-RG:
+  name: Raguse
+  level: province
+IT-RA:
+  name: Ravenne
+  level: province
+IT-RC:
+  name: Reggio de Calabre
+  level: province
+IT-LT:
+  name: Latino
+  level: province
+IT-VB:
+  name: Province du Verbano-Cusio-Ossola
+  level: province
+IT-RI:
+  name: Rieti
+  level: province
+IT-RN:
+  name: Rimini
+  level: province
+IT-RM:
+  name: Roma
+  level: province
+IT-RO:
+  name: Rovigo
+  level: province
+IT-SA:
+  name: Salerne
+  level: province
+IT-88:
+  name: Sardaigne
+  level: region
+IT-SS:
+  name: Sassari
+  level: province
+IT-SV:
+  name: Savone
+  level: province
+IT-82:
+  name: Sicile
+  level: region
+IT-SI:
+  name: Sienne
+  level: province
+IT-SO:
+  name: Sondrio
+  level: province
+IT-TA:
+  name: Tarente
+  level: province
+IT-TE:
+  name: Teramo
+  level: province
+IT-TR:
+  name: Terni
+  level: province
+IT-TP:
+  name: Trapani
+  level: province
+IT-32:
+  name: Trentin-Haut-Adige
+  level: region
+IT-TN:
+  name: Trente
+  level: province
+IT-TV:
+  name: Trévise
+  level: province
+IT-TS:
+  name: Trieste
+  level: province
+IT-TO:
+  name: Turin
+  level: province
+IT-52:
+  name: Toscane
+  level: region
+IT-UD:
+  name: Udine
+  level: province
+IT-55:
+  name: Ombrie
+  level: region
+IT-VA:
+  name: Varèse
+  level: province
+IT-34:
+  name: Vénétie
+  level: region
+IT-VE:
+  name: Venise
+  level: province
+IT-VC:
+  name: Verceil
+  level: province
+IT-VR:
+  name: Vérone
+  level: province
+IT-VV:
+  name: Vibo Valentia
+  level: province
+IT-VI:
+  name: Vicence
+  level: province
+IT-VT:
+  name: Viterbe
+  level: province

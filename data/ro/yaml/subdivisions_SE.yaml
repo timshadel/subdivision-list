@@ -1,0 +1,64 @@
+---
+SE-K:
+  name: Blekinge län
+  level: county
+SE-W:
+  name: Dalarnas län
+  level: county
+SE-I:
+  name: Gotlands län
+  level: county
+SE-X:
+  name: Regiunea Gävleborg
+  level: county
+SE-N:
+  name: Hallands län
+  level: county
+SE-Z:
+  name: Regiunea Jämtland
+  level: county
+SE-F:
+  name: Jönköpings län
+  level: county
+SE-H:
+  name: Kalmar län
+  level: county
+SE-G:
+  name: Kronobergs län
+  level: county
+SE-BD:
+  name: Norrbottens län
+  level: county
+SE-M:
+  name: Skåne län
+  level: county
+SE-AB:
+  name: Stockholms län
+  level: county
+SE-D:
+  name: Södermanlands län
+  level: county
+SE-C:
+  name: Uppsala län
+  level: county
+SE-S:
+  name: Värmlands län
+  level: county
+SE-AC:
+  name: Västerbottens län
+  level: county
+SE-Y:
+  name: Västernorrlands län
+  level: county
+SE-U:
+  name: Västmanlands län
+  level: county
+SE-O:
+  name: Västra Götalands län
+  level: county
+SE-T:
+  name: "Örebro län"
+  level: county
+SE-E:
+  name: "Östergötlands län"
+  level: county

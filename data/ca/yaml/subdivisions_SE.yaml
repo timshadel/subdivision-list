@@ -1,0 +1,49 @@
+---
+SE-K:
+  name: Comtat de Blekinge
+  level: county
+SE-W:
+  name: Comtat de Dalarna
+  level: county
+SE-I:
+  name: Comtat de Gotland
+  level: county
+SE-X:
+  name: Comtat de Gävleborg
+  level: county
+SE-N:
+  name: Comtat de Halland
+  level: county
+SE-Z:
+  name: Comtat de Jämtland
+  level: county
+SE-F:
+  name: Comtat de Jönköping
+  level: county
+SE-H:
+  name: Comtat de Kalmar
+  level: county
+SE-G:
+  name: Comtat de Kronoberg
+  level: county
+SE-BD:
+  name: Comtat de Norrbotten
+  level: county
+SE-D:
+  name: Comtat de Södermanland
+  level: county
+SE-S:
+  name: Comtat de Värmland
+  level: county
+SE-AC:
+  name: Comtat de Västerbotten
+  level: county
+SE-Y:
+  name: Comtat de Västernorrland
+  level: county
+SE-U:
+  name: Comtat de Västmanland
+  level: county
+SE-O:
+  name: Comtat de Västra Götaland
+  level: county

@@ -1,0 +1,5 @@
+Distretto Centrale (IL-M)
+Haifa (IL-HA)
+Gerusalemme (IL-JM)
+Distretto Meridionale (IL-D)
+Tel Aviv (IL-TA)

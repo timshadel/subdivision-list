@@ -1,0 +1,64 @@
+---
+SE-K:
+  name: "Блећинге"
+  level: county
+SE-W:
+  name: "Даларна"
+  level: county
+SE-I:
+  name: "Готланд"
+  level: county
+SE-X:
+  name: "Јевлеборг"
+  level: county
+SE-N:
+  name: "Халанд"
+  level: county
+SE-Z:
+  name: "Јемтланд"
+  level: county
+SE-F:
+  name: "Јенћепинг"
+  level: county
+SE-H:
+  name: "Калмар"
+  level: county
+SE-G:
+  name: "Крунуберг"
+  level: county
+SE-BD:
+  name: "Нурботен"
+  level: county
+SE-M:
+  name: "Сконе"
+  level: county
+SE-AB:
+  name: "Стокхолм"
+  level: county
+SE-D:
+  name: "Седерманланд"
+  level: county
+SE-C:
+  name: "Упсала"
+  level: county
+SE-S:
+  name: "Вермланд"
+  level: county
+SE-AC:
+  name: "Вестерботен"
+  level: county
+SE-Y:
+  name: "Вестернурланд"
+  level: county
+SE-U:
+  name: "Вестманланд"
+  level: county
+SE-O:
+  name: "Вестра Јеталанд"
+  level: county
+SE-T:
+  name: "Еребро"
+  level: county
+SE-E:
+  name: "Естерјетланд"
+  level: county

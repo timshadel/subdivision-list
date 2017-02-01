@@ -1,0 +1,76 @@
+---
+FI-AL:
+  name: "Åland"
+  level: ''
+FI-01:
+  name: "Åland Islands"
+  level: region
+FI-02:
+  name: South Karelia
+  level: region
+FI-03:
+  name: Southern Ostrobothnia
+  level: region
+FI-04:
+  name: Southern Savonia
+  level: region
+FI-ES:
+  name: Southern Finland Province
+  level: ''
+FI-IS:
+  name: Eastern Finland Province
+  level: ''
+FI-05:
+  name: Kainuu
+  level: region
+FI-06:
+  name: Tavastia Proper
+  level: region
+FI-07:
+  name: Central Ostrobothnia
+  level: region
+FI-08:
+  name: Central Finland
+  level: region
+FI-09:
+  name: Kymenlaakso
+  level: region
+FI-LL:
+  name: Lapland
+  level: ''
+FI-10:
+  name: Lappi
+  level: region
+FI-LS:
+  name: Western Finland Province
+  level: ''
+FI-OL:
+  name: Oulu Province
+  level: ''
+FI-11:
+  name: Pirkanmaa
+  level: region
+FI-12:
+  name: Pohjanmaa
+  level: region
+FI-13:
+  name: North Karelia
+  level: region
+FI-14:
+  name: Northern Ostrobothnia
+  level: region
+FI-15:
+  name: Northern Savonia
+  level: region
+FI-16:
+  name: Päijänne Tavastia
+  level: region
+FI-17:
+  name: Satakunta
+  level: region
+FI-18:
+  name: Uusimaa
+  level: region
+FI-19:
+  name: Varsinais-Suomi
+  level: region

@@ -1,0 +1,7 @@
+Alajuela (CR-A)
+Cartago (CR-C)
+Guanacaste (CR-G)
+Heredia (CR-H)
+Limón (CR-L)
+Puntarenas (CR-P)
+San José (CR-SJ)

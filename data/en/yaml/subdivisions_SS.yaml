@@ -1,0 +1,31 @@
+---
+SS-EC:
+  name: Central Equatoria
+  level: states
+SS-EE:
+  name: Eastern Equatoria
+  level: states
+SS-JG:
+  name: Jonglei
+  level: states
+SS-LK:
+  name: Lake
+  level: states
+SS-BN:
+  name: Northern Bahr el Ghazal
+  level: states
+SS-UY:
+  name: Unity
+  level: states
+SS-NU:
+  name: Upper Nile
+  level: states
+SS-WR:
+  name: Warrap
+  level: states
+SS-BW:
+  name: Western Bahr el Ghazal
+  level: states
+SS-EW:
+  name: Western Equatoria
+  level: states

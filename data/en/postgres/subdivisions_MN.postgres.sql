@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_MN (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-073', E'Arkhangai Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-071', E'Bayan-Ölgii Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-069', E'Bayankhongor', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-067', E'Bulgan', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-037', E'Darkhan-Uul Province', E'municipality');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-061', E'Dornod Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-063', E'Dornogovi Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-059', E'Dundgovi Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-057', E'Zavkhan', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-065', E'Govi-Altay', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-064', E'Govi-Sümber', E'municipality');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-039', E'Khentii', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-043', E'Khovd', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-041', E'Khövsgöl', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-035', E'Orkhon', E'municipality');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-049', E'Selenge', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-051', E'Sükhbaatar', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-047', E'Töv Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-1', E'Ulan Bator', E'municipality');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-046', E'Uvs Province', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-053', E'Ömnögovi', E'province');
+INSERT INTO "subdivision_MN" ("id", "name", "level") VALUES (E'MN-055', E'Övörkhangai Province', E'province');

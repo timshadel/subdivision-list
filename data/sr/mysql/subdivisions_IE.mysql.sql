@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_IE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-CW', 'Карлоу', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-CN', 'Каван', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LS', 'Лиш', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-OY', 'Офали', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WH', 'Вестмид', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-D', 'Даблин', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-G', 'Голвеј', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-KK', 'Килкени', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-L', 'Ленстер', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LK', 'Лимерик', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-LD', 'Лонгфорд', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-MN', 'Монахан', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-M', 'Манстер', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-RN', 'Роскомон', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-SO', 'Слајго', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-U', 'Алстер', 'province');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WD', 'Вотерфорд', 'county');
+INSERT INTO `subdivision_IE` (`id`, `name`, `level`) VALUES ('IE-WX', 'Вексфорд', 'county');

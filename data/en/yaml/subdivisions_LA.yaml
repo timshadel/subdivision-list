@@ -1,0 +1,55 @@
+---
+LA-AT:
+  name: Attapu
+  level: province
+LA-BK:
+  name: Bokeo Province
+  level: province
+LA-BL:
+  name: Bolikhamxai
+  level: province
+LA-CH:
+  name: Champasak
+  level: province
+LA-HO:
+  name: Houaphanh Province
+  level: province
+LA-KH:
+  name: Khammouane Province
+  level: province
+LA-LM:
+  name: Luang Namtha
+  level: province
+LA-LP:
+  name: Louangphabang
+  level: province
+LA-OU:
+  name: Oudômxai
+  level: province
+LA-PH:
+  name: Phôngsali
+  level: province
+LA-SL:
+  name: Salavan
+  level: province
+LA-SV:
+  name: Savannakhet
+  level: province
+LA-VI:
+  name: Vientiane
+  level: province
+LA-VT:
+  name: Vientiane Prefecture
+  level: prefecture
+LA-XA:
+  name: Xaignabouli
+  level: province
+LA-XN:
+  name: Xaisomboun
+  level: special zone
+LA-XI:
+  name: Xiangkhoang
+  level: province
+LA-XE:
+  name: Xékong
+  level: province

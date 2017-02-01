@@ -1,0 +1,76 @@
+---
+US-AL:
+  name: Alabama
+  level: state
+US-AZ:
+  name: Arizona
+  level: state
+US-AR:
+  name: Arkansas
+  level: state
+US-CA:
+  name: Kalifornien
+  level: state
+US-CO:
+  name: Colorado
+  level: state
+US-CT:
+  name: Connecticut
+  level: state
+US-DE:
+  name: Delaware
+  level: state
+US-FL:
+  name: Florida
+  level: state
+US-GA:
+  name: Georgien
+  level: state
+US-GU:
+  name: Guam
+  level: outlying area
+US-HI:
+  name: Hawaii
+  level: state
+US-IL:
+  name: Illinois
+  level: state
+US-LA:
+  name: Louisiana
+  level: state
+US-MS:
+  name: Mississippi
+  level: state
+US-NH:
+  name: New Hampshire
+  level: state
+US-NM:
+  name: New Mexico
+  level: state
+US-NY:
+  name: New York
+  level: state
+US-OK:
+  name: Oklahoma
+  level: state
+US-PR:
+  name: Puerto Rico
+  level: outlying area
+US-TX:
+  name: Texas
+  level: state
+US-DC:
+  name: Washington
+  level: district
+US-VA:
+  name: Virginia
+  level: state
+US-WA:
+  name: Washington
+  level: state
+US-WI:
+  name: Wisconsin
+  level: state
+US-WY:
+  name: Wyoming
+  level: state

@@ -1,0 +1,6 @@
+Blekinge (SE-K)
+Dalarna (SE-W)
+Gotland (SE-I)
+Värmland (SE-S)
+Västra Götaland (SE-O)
+Örebro (SE-T)

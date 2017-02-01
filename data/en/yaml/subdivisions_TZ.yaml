@@ -1,0 +1,79 @@
+---
+TZ-01:
+  name: Arusha
+  level: region
+TZ-02:
+  name: Dar es Salaam
+  level: region
+TZ-03:
+  name: Dodoma
+  level: region
+TZ-04:
+  name: Iringa
+  level: region
+TZ-05:
+  name: Kagera
+  level: region
+TZ-06:
+  name: North Pemba Region
+  level: region
+TZ-07:
+  name: Zanzibar North Region
+  level: region
+TZ-08:
+  name: Kigoma
+  level: region
+TZ-09:
+  name: Mount Kilimanjaro
+  level: region
+TZ-10:
+  name: South Pemba Region
+  level: region
+TZ-11:
+  name: Zanzibar Central/South Region
+  level: region
+TZ-12:
+  name: Lindi
+  level: region
+TZ-26:
+  name: Manyara Region
+  level: region
+TZ-13:
+  name: Mara
+  level: region
+TZ-14:
+  name: Mbeya
+  level: region
+TZ-15:
+  name: Zanzibar Urban/West Region
+  level: region
+TZ-16:
+  name: Morogoro
+  level: region
+TZ-17:
+  name: Mtwara
+  level: region
+TZ-18:
+  name: Mwanza
+  level: region
+TZ-19:
+  name: Pwani
+  level: region
+TZ-20:
+  name: Rukwa Region
+  level: region
+TZ-21:
+  name: Ruvuma Region
+  level: region
+TZ-22:
+  name: Shinyanga
+  level: region
+TZ-23:
+  name: Singida
+  level: region
+TZ-24:
+  name: Tabora
+  level: region
+TZ-25:
+  name: Tanga
+  level: region

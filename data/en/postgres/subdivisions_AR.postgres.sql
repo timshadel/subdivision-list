@@ -1,0 +1,26 @@
+CREATE TABLE subdivision_AR (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-B', E'Buenos Aires', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-K', E'Catamarca', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-H', E'Chaco', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-U', E'Chubut', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-C', E'Buenos Aires', E'federal district');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-W', E'Corrientes', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-X', E'Córdoba', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-E', E'Entre Ríos', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-P', E'Geography of Taiwan', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-Y', E'Jujuy Province', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-L', E'La Pampa', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-F', E'Rioja', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-M', E'Mendoza', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-N', E'Misiones Province', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-Q', E'Neuquén', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-R', E'Rio Negro', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-A', E'Salta', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-J', E'San Juan', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-D', E'San Luis', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-Z', E'Santa Cruz', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-S', E'Santa Fe', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-G', E'Santiago del Estero', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-V', E'Tierra del Fuego', E'province');
+INSERT INTO "subdivision_AR" ("id", "name", "level") VALUES (E'AR-T', E'Tucumán Province', E'province');

@@ -1,0 +1,34 @@
+---
+BE-VAN:
+  name: Antwerpen
+  level: province
+BE-BRU:
+  name: Pealinna Brüsseli piirkond
+  level: capital region
+BE-VOV:
+  name: Ida-Flandria
+  level: province
+BE-VBR:
+  name: Flaami Brabant
+  level: province
+BE-VLG:
+  name: Flandria
+  level: region
+BE-VLI:
+  name: Limburg
+  level: province
+BE-WLG:
+  name: Liège
+  level: province
+BE-WLX:
+  name: Luksemburg
+  level: province
+BE-WAL:
+  name: Valloonia
+  level: region
+BE-WBR:
+  name: Vallooni Brabant
+  level: province
+BE-VWV:
+  name: Lääne-Flandria provints
+  level: province

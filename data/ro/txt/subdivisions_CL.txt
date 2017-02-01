@@ -1,0 +1,6 @@
+Antofagasta (CL-AN)
+Regiunea Arica și Parinacota (CL-AP)
+Deșertul Atacama (CL-AT)
+Coquimbo (CL-CO)
+Tarapacá (CL-TA)
+Valparaíso (CL-VS)

@@ -1,0 +1,16 @@
+<?php return array (
+  'NR-01' => array('name' => 'Aiwo', 'level' => 'district'),
+  'NR-02' => array('name' => 'Anabar', 'level' => 'district'),
+  'NR-03' => array('name' => 'Anetan', 'level' => 'district'),
+  'NR-04' => array('name' => 'Anibare', 'level' => 'district'),
+  'NR-05' => array('name' => 'Baiti District', 'level' => 'district'),
+  'NR-06' => array('name' => 'Boe', 'level' => 'district'),
+  'NR-07' => array('name' => 'Buada', 'level' => 'district'),
+  'NR-08' => array('name' => 'Denigomodu District', 'level' => 'district'),
+  'NR-09' => array('name' => 'Ewa', 'level' => 'district'),
+  'NR-10' => array('name' => 'Ijuw', 'level' => 'district'),
+  'NR-11' => array('name' => 'Meneng', 'level' => 'district'),
+  'NR-12' => array('name' => 'Nibok District', 'level' => 'district'),
+  'NR-13' => array('name' => 'Uaboe District', 'level' => 'district'),
+  'NR-14' => array('name' => 'Yaren', 'level' => 'district'),
+);

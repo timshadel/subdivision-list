@@ -1,0 +1,19 @@
+---
+RS-00:
+  name: Belgrad
+  level: city
+RS-02:
+  name: Kesk-Banat
+  level: district
+RS-03:
+  name: Põhja-Banat
+  level: district
+RS-01:
+  name: Põhja-Bačka
+  level: district
+RS-04:
+  name: Lõuna-Banat
+  level: district
+RS-07:
+  name: Sremi ringkond
+  level: district

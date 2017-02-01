@@ -1,0 +1,6 @@
+Belgrad (RS-00)
+Kesk-Banat (RS-02)
+Põhja-Banat (RS-03)
+Põhja-Bačka (RS-01)
+Lõuna-Banat (RS-04)
+Sremi ringkond (RS-07)

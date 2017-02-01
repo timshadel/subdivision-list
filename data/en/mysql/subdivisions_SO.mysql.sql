@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_SO (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-AW', 'Awdal', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-BK', 'Bakool', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-BN', 'Banaadir', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-BR', 'Bari', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-BY', 'Bay', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-GA', 'Galguduud', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-GE', 'Gedo', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-HI', 'Hiran', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-JD', 'Middle Juba', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-JH', 'Lower Juba', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-MU', 'Mudug', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-NU', 'Nugal', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-SA', 'Sanaag', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-SD', 'Middle Shebelle', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-SH', 'Lower Shebelle', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-SO', 'Sool', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-TO', 'Togdheer', 'region');
+INSERT INTO `subdivision_SO` (`id`, `name`, `level`) VALUES ('SO-WO', 'Woqooyi Galbeed', 'region');

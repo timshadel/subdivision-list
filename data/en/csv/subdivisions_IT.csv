@@ -1,0 +1,134 @@
+id,name,level
+IT-65,Abruzzo,region
+IT-AG,Agrigento,province
+IT-AL,Alessandria,province
+IT-AN,Ancona,province
+IT-AO,Aosta,province
+IT-AR,Arezzo,province
+IT-AP,Ascoli Piceno,province
+IT-AT,Asti,province
+IT-AV,Avellino,province
+IT-BA,Bari,province
+IT-BT,Province of Barletta-Andria-Trani,province
+IT-77,Basilicata,region
+IT-BL,Belluno,province
+IT-BN,Benevento,province
+IT-BG,Bergamo,province
+IT-BI,Biella,province
+IT-BO,Bologna,province
+IT-BZ,Bolzano,province
+IT-BS,Brescia,province
+IT-BR,Brindisi,province
+IT-CA,Cagliari,province
+IT-78,Calabria,region
+IT-CL,Caltanissetta,province
+IT-72,Campania,region
+IT-CB,Campobasso,province
+IT-CI,Province of Carbonia-Iglesias,province
+IT-CE,Caserta,province
+IT-CT,Catania,province
+IT-CZ,Catanzaro,province
+IT-CH,Chieti,province
+IT-CO,Como,province
+IT-CS,Cosenza,province
+IT-CR,Cremona,province
+IT-KR,Crotone,province
+IT-CN,Cuneo,province
+IT-45,Emilia-Romagna,region
+IT-EN,Enna,province
+IT-FM,Fermo,province
+IT-FE,Ferrara,province
+IT-FI,Florence,province
+IT-FG,Foggia,province
+IT-FC,Province of Forlì-Cesena,province
+IT-FO,Forlì,
+IT-36,Friuli-Venezia Giulia,region
+IT-FR,Frosinone,province
+IT-GE,Genoa,province
+IT-GO,Gorizia,province
+IT-GR,Grosseto,province
+IT-IM,Imperia,province
+IT-IS,Isernia,province
+IT-SP,La Spezia,province
+IT-LT,Latino,province
+IT-62,Lazio,region
+IT-LE,Lecce,province
+IT-LC,Lecco,province
+IT-42,Liguria,region
+IT-LI,Livorno,province
+IT-LO,Lodi,province
+IT-25,Lombardy,region
+IT-LU,Lucca,province
+IT-MC,Macerata,province
+IT-MN,Mantua,province
+IT-57,Marche,region
+IT-MS,Province of Massa and Carrara,province
+IT-MT,Matera,province
+IT-VS,Province of Medio Campidano,province
+IT-MA,Province of Medio Campidano,province
+IT-ME,Messina,province
+IT-MI,Milan,province
+IT-MO,Modena,province
+IT-67,Molise,region
+IT-MB,Province of Monza and Brianza,province
+IT-NA,Naples,province
+IT-NO,Novara,province
+IT-NU,Nuoro,province
+IT-OG,Province of Ogliastra,province
+IT-OT,Province of Olbia-Tempio,province
+IT-OL,Province of Olbia-Tempio,province
+IT-OR,Oristano,province
+IT-PD,Padua,province
+IT-PA,Palermo,province
+IT-PR,Parma,province
+IT-PV,Pavia,province
+IT-PG,Perugia,province
+IT-PS,Province of Pesaro and Urbino,province
+IT-PU,Province of Pesaro and Urbino,province
+IT-PE,Pescara,province
+IT-PC,Piacenza,province
+IT-21,Piedmont,region
+IT-PI,Pisa,province
+IT-PT,Pistoia,province
+IT-PN,Pordenone,province
+IT-PZ,Potenza,province
+IT-PO,Prato,province
+IT-75,Apulia,region
+IT-RG,Ragusa,province
+IT-RA,Ravenna,province
+IT-RC,Reggio Calabria,province
+IT-RE,Reggio Emilia,province
+IT-RI,Rieti,province
+IT-RN,Rimini,province
+IT-RM,Roma,province
+IT-RO,Rovigo,province
+IT-SA,Salerno,province
+IT-88,Sardinia,region
+IT-SS,Sassari,province
+IT-SV,Savona,province
+IT-82,Sicily,region
+IT-SI,Siena,province
+IT-SR,Siracusa,province
+IT-SO,Sondrio,province
+IT-TA,Taranto,province
+IT-TE,Teramo,province
+IT-TR,Terni,province
+IT-TO,Turin,province
+IT-52,Tuscany,region
+IT-TP,Trapani,province
+IT-32,Trentino-Alto Adige/Südtirol,region
+IT-TN,Trento,province
+IT-TV,Treviso,province
+IT-TS,Trieste,province
+IT-UD,Udine,province
+IT-55,Umbria,region
+IT-23,Aosta Valley,region
+IT-VA,Varese,province
+IT-34,Veneto,region
+IT-VE,Venice,province
+IT-VB,Province of Verbano-Cusio-Ossola,province
+IT-VC,Vercelli,province
+IT-VR,Verona,province
+IT-VV,Vibo Valentia,province
+IT-VI,Vicenza,province
+IT-VT,Viterbo,province

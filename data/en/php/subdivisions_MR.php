@@ -1,0 +1,15 @@
+<?php return array (
+  'MR-07' => array('name' => 'Adrar', 'level' => 'region'),
+  'MR-03' => array('name' => 'Assaba Region', 'level' => 'region'),
+  'MR-05' => array('name' => 'Brakna Region', 'level' => 'region'),
+  'MR-08' => array('name' => 'Dakhlet Nouadhibou Region', 'level' => 'region'),
+  'MR-04' => array('name' => 'Gorgol', 'level' => 'region'),
+  'MR-10' => array('name' => 'Guidimaka Region', 'level' => 'region'),
+  'MR-01' => array('name' => 'Hodh Ech Chargui Region', 'level' => 'region'),
+  'MR-02' => array('name' => 'Hodh El Gharbi Region', 'level' => 'region'),
+  'MR-12' => array('name' => 'Inchiri Region', 'level' => 'region'),
+  'MR-NKC' => array('name' => 'Nouakchott', 'level' => 'district'),
+  'MR-09' => array('name' => 'Tagant', 'level' => 'region'),
+  'MR-11' => array('name' => 'Tiris Zemmour Region', 'level' => 'region'),
+  'MR-06' => array('name' => 'Trarza Region', 'level' => 'region'),
+);

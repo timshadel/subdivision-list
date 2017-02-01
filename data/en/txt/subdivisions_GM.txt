@@ -1,0 +1,6 @@
+Banjul (GM-B)
+Lower River Division (GM-L)
+MacCarthy Island (GM-M)
+North Bank (GM-N)
+Upper River Division (GM-U)
+Western (GM-W)

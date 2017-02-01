@@ -1,0 +1,112 @@
+---
+RO-AR:
+  name: Arad
+  level: county
+RO-BC:
+  name: Bacău
+  level: county
+RO-BN:
+  name: Bistrița-Năsăud
+  level: county
+RO-BT:
+  name: Botoșani
+  level: county
+RO-BV:
+  name: Brașov
+  level: county
+RO-BR:
+  name: Brăila
+  level: county
+RO-B:
+  name: Boekarest
+  level: city
+RO-BZ:
+  name: Buzău
+  level: county
+RO-CS:
+  name: Caraș-Severin
+  level: county
+RO-CJ:
+  name: Cluj-Napoca
+  level: county
+RO-CT:
+  name: Constanța
+  level: county
+RO-CV:
+  name: Covasna
+  level: county
+RO-CL:
+  name: Călărași
+  level: county
+RO-DJ:
+  name: District Dolj
+  level: county
+RO-DB:
+  name: Dâmboviţa
+  level: county
+RO-GL:
+  name: Galați
+  level: county
+RO-GR:
+  name: Giurgiu
+  level: county
+RO-GJ:
+  name: District Gorj
+  level: county
+RO-HR:
+  name: Harghita
+  level: county
+RO-HD:
+  name: Hunedoara
+  level: county
+RO-IL:
+  name: Ialomiţa
+  level: county
+RO-IS:
+  name: Iași
+  level: county
+RO-IF:
+  name: District Ilfov
+  level: county
+RO-MM:
+  name: Maramureş
+  level: county
+RO-MH:
+  name: District Mehedinți
+  level: county
+RO-MS:
+  name: District Mureș
+  level: county
+RO-NT:
+  name: District Neamț
+  level: county
+RO-OT:
+  name: Olt
+  level: county
+RO-PH:
+  name: Prahova
+  level: county
+RO-SM:
+  name: Satu Mare
+  level: county
+RO-SB:
+  name: Sibiu
+  level: county
+RO-SV:
+  name: Suceava
+  level: county
+RO-TR:
+  name: District Teleorman
+  level: county
+RO-TM:
+  name: Timiş
+  level: county
+RO-TL:
+  name: Tulcea
+  level: county
+RO-VS:
+  name: Vaslui
+  level: county
+RO-VL:
+  name: District Vâlcea
+  level: county

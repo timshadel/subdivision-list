@@ -1,0 +1,166 @@
+---
+US-AL:
+  name: Alabama
+  level: state
+US-AK:
+  name: Alasca - Alaska
+  level: state
+US-AS:
+  name: Samoa Americana
+  level: outlying area
+US-AZ:
+  name: Arizona
+  level: state
+US-AR:
+  name: Arcansas - Arkansas
+  level: state
+US-CA:
+  name: California
+  level: state
+US-CO:
+  name: Colorado
+  level: state
+US-CT:
+  name: Connecticut
+  level: state
+US-DE:
+  name: Delaware
+  level: state
+US-FL:
+  name: Florida
+  level: state
+US-GA:
+  name: Xeorxia
+  level: state
+US-GU:
+  name: Guam
+  level: outlying area
+US-ID:
+  name: Idaho
+  level: state
+US-IL:
+  name: Illinois
+  level: state
+US-IN:
+  name: Indiana
+  level: state
+US-IA:
+  name: Iowa
+  level: state
+US-KS:
+  name: Kansas
+  level: state
+US-KY:
+  name: Kentucky
+  level: state
+US-LA:
+  name: Luisiana - Louisiana
+  level: state
+US-ME:
+  name: Maine
+  level: state
+US-MD:
+  name: Maryland
+  level: state
+US-MA:
+  name: Massachusetts
+  level: state
+US-MI:
+  name: Míchigan - Michigan
+  level: state
+US-MN:
+  name: Minnesota
+  level: state
+US-MS:
+  name: Mississippi
+  level: state
+US-MO:
+  name: Misuri - Missouri
+  level: state
+US-MT:
+  name: Montana
+  level: state
+US-NE:
+  name: Nebrasca
+  level: state
+US-NV:
+  name: Nevada
+  level: state
+US-NH:
+  name: Nova Hampshire - New Hampshire
+  level: state
+US-NJ:
+  name: Nova Jersey
+  level: state
+US-NM:
+  name: Novo México
+  level: state
+US-NY:
+  name: Estado de Nova York
+  level: state
+US-NC:
+  name: Carolina do Norte - North Carolina
+  level: state
+US-ND:
+  name: Dacota do Norte
+  level: state
+US-MP:
+  name: Illas Marianas do Norte
+  level: outlying area
+US-OH:
+  name: Ohio
+  level: state
+US-OK:
+  name: Oklahoma
+  level: state
+US-OR:
+  name: Oregón - Oregon
+  level: state
+US-PA:
+  name: Pensilvania - Pennsylvania
+  level: state
+US-PR:
+  name: Porto Rico - Puerto Rico
+  level: outlying area
+US-RI:
+  name: Rhode Island
+  level: state
+US-SC:
+  name: Carolina do Sur - South Carolina
+  level: state
+US-SD:
+  name: Dacota do Sur
+  level: state
+US-TN:
+  name: Tennessee
+  level: state
+US-TX:
+  name: Texas
+  level: state
+US-UT:
+  name: Utah
+  level: state
+US-DC:
+  name: Washington, D.C.
+  level: district
+US-VT:
+  name: Vermont
+  level: state
+US-VI:
+  name: Illas Virxes
+  level: outlying area
+US-VA:
+  name: Virxinia - Virginia
+  level: state
+US-WA:
+  name: Washington
+  level: state
+US-WV:
+  name: Virxinia Occidental - West Virginia
+  level: state
+US-WI:
+  name: Wisconsin
+  level: state
+US-WY:
+  name: Wyoming
+  level: state

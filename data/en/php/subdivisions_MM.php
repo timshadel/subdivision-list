@@ -1,0 +1,16 @@
+<?php return array (
+  'MM-07' => array('name' => 'Ayeyarwady', 'level' => 'division'),
+  'MM-02' => array('name' => 'Bago', 'level' => 'division'),
+  'MM-14' => array('name' => 'Chin', 'level' => 'state'),
+  'MM-11' => array('name' => 'Kachin', 'level' => 'state'),
+  'MM-12' => array('name' => 'Kayah', 'level' => 'state'),
+  'MM-13' => array('name' => 'Kayin', 'level' => 'state'),
+  'MM-03' => array('name' => 'Magwe', 'level' => 'division'),
+  'MM-04' => array('name' => 'Mandalay', 'level' => 'division'),
+  'MM-15' => array('name' => 'Mon', 'level' => 'state'),
+  'MM-16' => array('name' => 'Rakhine', 'level' => 'state'),
+  'MM-01' => array('name' => 'Sagaing', 'level' => 'division'),
+  'MM-17' => array('name' => 'Shan', 'level' => 'state'),
+  'MM-05' => array('name' => 'Tanintharyi', 'level' => 'division'),
+  'MM-06' => array('name' => 'Yangon', 'level' => 'division'),
+);

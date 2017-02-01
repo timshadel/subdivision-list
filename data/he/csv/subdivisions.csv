@@ -1,0 +1,488 @@
+country,id,name,level
+AD,AD-07,אנדורה לה ולה,parish
+AT,AT-1,בורגנלנד,state
+AT,AT-3,אוסטריה תחתית,state
+AT,AT-5,זלצבורג,state
+AT,AT-6,שטיריה,state
+AT,AT-7,טירול,state
+AT,AT-4,אוסטריה עילית,state
+AT,AT-9,וינה,state
+AT,AT-8,פורארלברג,state
+BY,BY-HM,מינסק,city
+BE,BE-VAN,אנטוורפן,province
+BE,BE-BRU,בריסל,capital region
+BE,BE-WLX,לוקסמבורג,province
+BE,BE-WAL,ולוניה,region
+CA,CA-AB,אלברטה,province
+CA,CA-BC,קולומביה הבריטית,province
+CA,CA-MB,מניטובה,province
+CA,CA-NB,ניו ברנזוויק,province
+CA,CA-NL,ניופאונדלנד ולברדור,province
+CA,CA-NT,הטריטוריות הצפון-מערביות,territory
+CA,CA-NS,נובה סקוטיה,province
+CA,CA-NU,נונאווט,territory
+CA,CA-ON,אונטריו,province
+CA,CA-PE,אי הנסיך אדוארד,province
+CA,CA-QC,קוויבק,province
+CA,CA-YT,יוקון,territory
+CL,CL-AT,מדבר אטקמה,region
+CL,CL-VS,ולפראיסו,region
+DK,DK-070,אורהוס,county
+DK,DK-040,בורנהולם,county
+DK,DK-015,קופנהגן,county
+DK,DK-85,זיילנד,region
+EE,EE-37,מחוז האריו,county
+EE,EE-39,היומאה,county
+EE,EE-44,מחוז אידה-וירו,county
+EE,EE-51,מחוז יארבה,county
+EE,EE-49,מחוז ייגבה,county
+EE,EE-59,מחוז לאנה-וירו,county
+EE,EE-57,מחוז לאנה,county
+EE,EE-67,מחוז פרנו,county
+EE,EE-65,מחוז פילבה,county
+EE,EE-70,מחוז ראפלה,county
+EE,EE-74,סארמאה,county
+EE,EE-78,מחוז טרטו,county
+EE,EE-82,מחוז ולגה,county
+EE,EE-84,מחוז ויליאנדי,county
+EE,EE-86,מחוז וורו,county
+FR,FR-01,אן,metropolitan department
+FR,FR-02,אן,metropolitan department
+FR,FR-03,אלייה,metropolitan department
+FR,FR-06,האלפים הימיים,metropolitan department
+FR,FR-04,האלפים של פרובאנס עילית,metropolitan department
+FR,FR-A,אלזס,metropolitan regions
+FR,FR-B,אקיטן,metropolitan regions
+FR,FR-08,ארדנים,metropolitan department
+FR,FR-07,ארדש,metropolitan department
+FR,FR-10,אוב,metropolitan department
+FR,FR-11,אוד,metropolitan department
+FR,FR-12,אוורון,metropolitan department
+FR,FR-67,ריין תחתון,metropolitan department
+FR,FR-D,בורגונדי,metropolitan regions
+FR,FR-14,קלבדוס,metropolitan department
+FR,FR-F,מרכז,metropolitan regions
+FR,FR-G,שמפאן-ארדן,metropolitan regions
+FR,FR-17,השראנט הימי,metropolitan department
+FR,FR-18,שר,metropolitan department
+FR,FR-CP,קליפרטון,dependency
+FR,FR-2A,קורסיקה הדרומית,metropolitan department
+FR,FR-H,קורסיקה,metropolitan regions
+FR,FR-25,דו,metropolitan department
+FR,FR-29,פיניסטר,metropolitan department
+FR,FR-I,פראנש-קונטה,metropolitan regions
+FR,FR-GP,גוואדלופ,overseas regions
+FR,FR-2B,קורסיקה עילית,metropolitan department
+FR,FR-P,נורמנדי תחתית,metropolitan regions
+FR,FR-GF,גיאנה הצרפתית,overseas regions
+FR,FR-74,סבואה עילית,metropolitan department
+FR,FR-05,האלפים העליונים,metropolitan department
+FR,FR-92,רמות הסן,metropolitan department
+FR,FR-34,ארו,metropolitan department
+FR,FR-35,איל ווילן,metropolitan department
+FR,FR-37,אנדר ולואר,metropolitan department
+FR,FR-K,לנגדוק-רוסיון,metropolitan regions
+FR,FR-42,לואר,metropolitan department
+FR,FR-44,הלואר האטלנטי,metropolitan department
+FR,FR-M,לוריין,metropolitan regions
+FR,FR-46,לוט,metropolitan department
+FR,FR-48,לוזר,metropolitan department
+FR,FR-50,מאנש,metropolitan department
+FR,FR-MQ,מרטיניק,overseas regions
+FR,FR-YT,מיוט,territorial collectivity
+FR,FR-N,מידי-פירנה,metropolitan regions
+FR,FR-57,מוזל,metropolitan department
+FR,FR-O,נור-פה דה קאלה,metropolitan regions
+FR,FR-61,אורן,metropolitan department
+FR,FR-75,פריז,metropolitan department
+FR,FR-62,פה-דה-קאלה,metropolitan department
+FR,FR-R,פיי דה לה לואר,metropolitan regions
+FR,FR-S,פיקרדי,metropolitan regions
+FR,FR-T,פואטו-שראנט,metropolitan regions
+FR,FR-Q,נורמנדי עילית,metropolitan regions
+FR,FR-PF,פולינזיה הצרפתית,overseas territory
+FR,FR-NC,קלדוניה החדשה,overseas territory
+FR,FR-RE,ראוניון,overseas regions
+FR,FR-64,הפירנאים האטלנטיים,metropolitan department
+FR,FR-69,רון,metropolitan department
+FR,FR-V,רון-אלפ,metropolitan regions
+FR,FR-73,סבואה,metropolitan department
+FR,FR-76,סן-מריטים,metropolitan department
+FR,FR-80,סום,metropolitan department
+FR,FR-81,טארן,metropolitan department
+FR,FR-82,טארן וגארון,metropolitan department
+FR,FR-84,ווקלוז,metropolitan department
+FR,FR-85,ונדה,metropolitan department
+FR,FR-86,ויין,metropolitan department
+FR,FR-89,יון,metropolitan department
+FR,FR-BL,סן ברתלמי,overseas territorial collectivity
+FR,FR-PM,סן פייר ומיקלון,territorial collectivity
+FR,FR-WF,ואליס ופוטונה,overseas territory
+DE,DE-BW,באדן-וירטמברג,state
+DE,DE-BY,בוואריה,state
+DE,DE-BE,ברלין,state
+DE,DE-BB,ברנדנבורג,state
+DE,DE-HB,ברמן,state
+DE,DE-HH,המבורג,state
+DE,DE-HE,הסן,state
+DE,DE-NI,סקסוניה התחתונה,state
+DE,DE-MV,מקלנבורג-מערב פומרניה,state
+DE,DE-NW,נורדריין-וסטפאליה,state
+DE,DE-RP,ריינלנד-פאלץ,state
+DE,DE-SL,חבל הסאר,state
+DE,DE-SN,סקסוניה,state
+DE,DE-ST,סקסוניה-אנהלט,state
+DE,DE-SH,שלזוויג-הולשטיין,state
+DE,DE-TH,תורינגיה,state
+GH,GH-TV,וולטה,region
+IN,IN-AN,איי אנדמן וניקובר,union territory
+IN,IN-AP,אנדרה פראדש,state
+IN,IN-AS,אסאם,state
+IN,IN-BR,ביהר,state
+IN,IN-DN,דאדרה ונאגר הבלי,union territory
+IN,IN-DD,דאמאן ודיו,union territory
+IN,IN-DL,דלהי,union territory
+IN,IN-GA,גואה,state
+IN,IN-HR,הריאנה,state
+IN,IN-KA,קארנאטקה,state
+IN,IN-KL,קרלה,state
+IN,IN-LD,לקשאדוויפ,union territory
+IN,IN-MP,מאדהיה פראדש,state
+IN,IN-MH,מהאראשטרה,state
+IN,IN-MN,מאניפור,state
+IN,IN-ML,מגהלאיה,state
+IN,IN-MZ,מיזוראם,state
+IN,IN-NL,נאגאלנד,state
+IN,IN-OR,אוריסה,state
+IN,IN-SK,סיקים,state
+IN,IN-TN,טאמיל נאדו,state
+IN,IN-TR,טריפורה,state
+IN,IN-UP,אוטר פראדש,state
+IN,IN-UT,אוטראקהאנד,state
+IN,IN-WB,מערב בנגל,state
+IE,IE-D,דבלין,county
+IE,IE-G,גולוויי,county
+IE,IE-L,לנסטר,province
+IE,IE-LK,לימריק,county
+IE,IE-M,מנסטר,province
+IE,IE-U,אלסטר,province
+IL,IL-HA,חיפה,district
+IL,IL-JM,ירושלים,district
+IL,IL-TA,תל אביב-יפו,district
+IT,IT-65,אברוצו,region
+IT,IT-AL,אלסנדריה,province
+IT,IT-AN,אנקונה,province
+IT,IT-AO,אאוסטה,province
+IT,IT-AR,ארצו,province
+IT,IT-AT,אסטי,province
+IT,IT-BA,בארי,province
+IT,IT-77,בזיליקטה,region
+IT,IT-BN,בנוונטו,province
+IT,IT-BG,ברגמו,province
+IT,IT-BI,ביאלה,province
+IT,IT-BO,בולוניה,province
+IT,IT-BZ,בולצנו,province
+IT,IT-BS,ברשה,province
+IT,IT-BR,ברינדיזי,province
+IT,IT-CA,קליארי,province
+IT,IT-78,קלבריה,region
+IT,IT-CL,קלטניסטה,province
+IT,IT-72,קמפניה,region
+IT,IT-CB,קמפובאסו,province
+IT,IT-CT,קטניה,province
+IT,IT-CZ,קטנזארו,province
+IT,IT-CO,קומו,province
+IT,IT-CR,קרמונה,province
+IT,IT-KR,קרוטונה,province
+IT,IT-CN,קונאו,province
+IT,IT-45,אמיליה-רומאניה,region
+IT,IT-EN,אנה,province
+IT,IT-FE,פרארה,province
+IT,IT-FI,פירנצה,province
+IT,IT-GO,גוריציה,province
+IT,IT-BT,בארלטה-אנדריה-טראני,province
+IT,IT-CI,קרבוניה איגלסיס,province
+IT,IT-75,פוליה,region
+IT,IT-SP,לה ספציה,province
+IT,IT-62,לאציו,region
+IT,IT-42,ליגוריה,region
+IT,IT-LI,ליבורנו,province
+IT,IT-25,לומברדיה,region
+IT,IT-LU,לוקה,province
+IT,IT-MN,מנטובה,province
+IT,IT-57,מארקה,region
+IT,IT-MT,מטרה,province
+IT,IT-ME,מסינה,province
+IT,IT-MI,מילאנו,province
+IT,IT-MO,מודנה,province
+IT,IT-67,מוליזה,region
+IT,IT-NA,נאפולי,province
+IT,IT-OR,אוריסטאנו,province
+IT,IT-PD,פאדובה,province
+IT,IT-PA,פלרמו,province
+IT,IT-PR,פארמה,province
+IT,IT-PV,פאביה,province
+IT,IT-21,פיימונטה,region
+IT,IT-PI,פיזה,province
+IT,IT-PT,פיסטויה,province
+IT,IT-PZ,פוטנצה,province
+IT,IT-PO,פראטו,province
+IT,IT-MS,מאסה-קרארה,province
+IT,IT-OL,אולביה טמפיו,province
+IT,IT-PU,פזארו אה אורבינו,province
+IT,IT-RG,רגוזה,province
+IT,IT-RA,רוונה,province
+IT,IT-RN,רימיני,province
+IT,IT-RM,רומא,province
+IT,IT-SA,סלרנו,province
+IT,IT-88,סרדיניה,region
+IT,IT-SS,סאסארי,province
+IT,IT-82,סיציליה,region
+IT,IT-SI,סיינה,province
+IT,IT-TA,טאראנטו,province
+IT,IT-TR,טרני,province
+IT,IT-TP,טרפאני,province
+IT,IT-TN,טרנטו,province
+IT,IT-TV,טרוויזו,province
+IT,IT-TS,טריאסטה,province
+IT,IT-TO,טורינו,province
+IT,IT-52,טוסקנה,region
+IT,IT-55,אומבריה,region
+IT,IT-VA,וארזה,province
+IT,IT-34,ונטו,region
+IT,IT-VE,ונציה,province
+IT,IT-VR,ורונה,province
+IT,IT-VV,ויבו ולנטיה,province
+LU,LU-L,לוקסמבורג,district
+NL,NL-AW,ארובה,country
+NL,NL-BQ1,בונייר,special municipality
+NL,NL-CW,קוראסאו,country
+NL,NL-DR,דרנתה,province
+NL,NL-FL,פלבולנד,province
+NL,NL-FR,פריסלנד,province
+NL,NL-GE,חלדרלנד,province
+NL,NL-GR,חרונינגן,province
+NL,NL-NB,צפון בראבנט,province
+NL,NL-NH,צפון הולנד,province
+NL,NL-OV,אובראיסל,province
+NL,NL-BQ2,סאבא,special municipality
+NL,NL-BQ3,סנט אוסטתיוס,special municipality
+NL,NL-ZH,דרום הולנד,province
+NL,NL-UT,אוטרכט,province
+NL,NL-ZE,זיילנד,province
+NO,NO-02,אקרסהוס,county
+NO,NO-22,יאן מאיין,
+NO,NO-03,אוסלו,county
+NO,NO-21,סבאלברד,
+PT,PT-20,האיים האזוריים,autonomous region
+PT,PT-03,בראגה,district
+PT,PT-06,קוימברה,district
+PT,PT-10,לייריה,district
+PT,PT-11,ליסבון,district
+PT,PT-30,מדיירה,autonomous region
+PT,PT-13,פורטו,district
+PT,PT-14,סנטרם,district
+PT,PT-15,סטובל,district
+PT,PT-07,אבורה,district
+RO,RO-AR,ארד,county
+RO,RO-BC,בקאו,county
+RO,RO-BT,בוטושאן,county
+RO,RO-BV,בראשוב,county
+RO,RO-BR,בראילה,county
+RO,RO-B,בוקרשט,city
+RO,RO-BZ,בוזאו,county
+RO,RO-CT,קונסטנצה,county
+RO,RO-GL,גאלאץ,county
+RO,RO-HD,חונדוארה,county
+RO,RO-IS,יאשי,county
+RO,RO-SM,סאטו מארה,county
+RO,RO-SB,סיביו,county
+RO,RO-VS,וסלוי,county
+RS,RS-00,בלגרד,city
+SK,SK-BC,באנסקה ביסטריצה,region
+SK,SK-TA,מחוז טרנבה,region
+ES,ES-AB,אלבסטה,province
+ES,ES-A,אליקנטה,province
+ES,ES-AN,אנדלוסיה,
+ES,ES-AS,אסטוריאס,autonomous community
+ES,ES-BA,בדחוס,province
+ES,ES-IB,האיים הבלאריים,autonomous community
+ES,ES-B,ברצלונה,province
+ES,ES-CA,קדיס,province
+ES,ES-S,קנטבריה,province
+ES,ES-CL,קסטיליה ולאון,autonomous community
+ES,ES-CT,קטלוניה,autonomous community
+ES,ES-CE,סאוטה,autonomous city
+ES,ES-CR,סיודאד ריאל,province
+ES,ES-CU,קואנקה,province
+ES,ES-CO,קורדובה,province
+ES,ES-EX,אקסטרמדורה,autonomous community
+ES,ES-GR,גרנדה,province
+ES,ES-GU,גוודלחרה,province
+ES,ES-HU,אואסקה,province
+ES,ES-LE,לאון,province
+ES,ES-L,ליידה,province
+ES,ES-LU,לוגו,province
+ES,ES-MD,מדריד,autonomous community
+ES,ES-ML,מלייה,autonomous city
+ES,ES-MC,מורסיה,autonomous community
+ES,ES-MA,מאלגה,province
+ES,ES-NC,נווארה,autonomous community
+ES,ES-SA,סלמנקה,province
+ES,ES-TF,סנטה קרוס דה טנריפה,province
+ES,ES-SG,סגוביה,province
+ES,ES-SE,סביליה,province
+ES,ES-SO,סוריה,province
+ES,ES-T,טרגונה,province
+ES,ES-V,ולנסיה,province
+ES,ES-VC,ולנסיה,autonomous community
+ES,ES-VA,ואיאדוליד,province
+ES,ES-Z,סרגוסה,province
+SE,SE-X,מחוז יבלבורג,county
+SE,SE-Z,מחוז ימטלנד,county
+SE,SE-AB,מחוז סטוקהולם,county
+SE,SE-O,מחוז יטאלנד המערבית,county
+CH,CH-AG,ארגאו,canton
+CH,CH-BE,ברן,canton
+CH,CH-FR,פריבור,canton
+CH,CH-GR,גראובינדן,canton
+CH,CH-NW,נידוולדן,canton
+CH,CH-OW,אובוולדן,canton
+CH,CH-SG,סנט גאלן,canton
+CH,CH-SO,זולותורן,canton
+CH,CH-TG,תורגאו,canton
+CH,CH-VS,ואלה,canton
+CH,CH-VD,וו,canton
+CH,CH-LU,לוצרן,canton
+CH,CH-ZH,ציריך,canton
+UA,UA-43,חצי האי קרים,autonomous republic
+UA,UA-30,קייב,region
+UA,UA-40,סבסטופול,region
+UA,UA-05,מחוז ויניצה,region
+UA,UA-21,זקרפטיה,region
+GB,GB-ABE,אברדין,council area (scotland)
+GB,GB-AGB,ארגייל וביוט,council area (scotland)
+GB,GB-BDF,בדפורדשייר,unitary authority
+GB,GB-BFS,בלפאסט,district council area (northern ireland)
+GB,GB-BIR,ברמינגהאם,metropolitan district
+GB,GB-BST,בריסטול,unitary authority
+GB,GB-CMD,קמדן,borough
+GB,GB-CRF,קארדיף,unitary authority (wales)
+GB,GB-CON,קורנוול,unitary authority
+GB,GB-COV,קובנטרי,metropolitan district
+GB,GB-BDG,בארקינג ודאגנהאם,borough
+GB,GB-CMA,קאמבריה,two-tier county
+GB,GB-DEN,דנבישייר,unitary authority (wales)
+GB,GB-DER,דרבי,unitary authority
+GB,GB-DBY,דרבישייר,two-tier county
+GB,GB-DRY,דרי,district council area (northern ireland)
+GB,GB-DOR,דורסט,two-tier county
+GB,GB-DUR,דרהאם,unitary authority
+GB,GB-EAL,אילינג,borough
+GB,GB-EDH,אדינבורו,council area (scotland)
+GB,GB-ENF,אנפילד,borough
+GB,GB-ESS,אסקס,two-tier county
+GB,GB-GAT,גייטסהד,metropolitan district
+GB,GB-GLG,גלאזגו,council area (scotland)
+GB,GB-GLS,גלוסטרשייר,two-tier county
+GB,GB-HAM,המפשייר,two-tier county
+GB,GB-HRW,הארו,borough
+GB,GB-HAV,הברינג,borough
+GB,GB-AGY,אנגלסי,unitary authority (wales)
+GB,GB-LND,הסיטי של לונדון,city corporation
+GB,GB-IOW,האי וייט,unitary authority
+GB,GB-IOS,איי סילי,
+GB,GB-ISL,איזלינגטון,borough
+GB,GB-KEN,קנט,two-tier county
+GB,GB-KHL,האל,unitary authority
+GB,GB-LAN,לנקשייר,two-tier county
+GB,GB-LRN,לרן,district council area (northern ireland)
+GB,GB-LDS,לידס,metropolitan district
+GB,GB-LCE,לסטר,unitary authority
+GB,GB-LIV,ליברפול,metropolitan district
+GB,GB-NWM,ניוהאם,borough
+GB,GB-MDB,מידלסברו,unitary authority
+GB,GB-NET,ניוקאסל,metropolitan district
+GB,GB-NFK,נורפוק,two-tier county
+GB,GB-NGM,נוטינגהאם,unitary authority
+GB,GB-OLD,אולדהאם,metropolitan district
+GB,GB-ORK,אורקני,council area (scotland)
+GB,GB-OXF,אוקספורדשייר,two-tier county
+GB,GB-RDG,רדינג,unitary authority
+GB,GB-RUT,ראטלנד,unitary authority
+GB,GB-SHF,שפילד,metropolitan district
+GB,GB-ZET,איי שטלנד,council area (scotland)
+GB,GB-SOM,סאמרסט,two-tier county
+GB,GB-SFK,סאפוק,two-tier county
+GB,ENG,אנגליה,country
+GB,GB-TWH,טאוור האמלטס,borough
+GB,NIR,צפון אירלנד,country
+GB,SCT,סקוטלנד,country
+GB,GB-SWA,סוונסי,unitary authority (wales)
+GB,WLS,ויילס,country
+GB,GB-WAR,ווריקשייר,two-tier county
+GB,GB-WSM,וסטמינסטר,borough
+GB,GB-WLV,וולברהמפטון,metropolitan district
+GB,GB-WRX,רקסהאם,unitary authority (wales)
+GB,GB-YOR,יורק,unitary authority
+US,US-AL,אלבמה,state
+US,US-AK,אלסקה,state
+US,US-AS,סמואה האמריקנית,outlying area
+US,US-AZ,אריזונה,state
+US,US-AR,ארקנסו,state
+US,US-CA,קליפורניה,state
+US,US-CO,קולורדו,state
+US,US-CT,קונטיקט,state
+US,US-DE,דלאוור,state
+US,US-FL,פלורידה,state
+US,US-GU,גואם,outlying area
+US,US-HI,הוואי,state
+US,US-ID,איידהו,state
+US,US-IL,אילינוי,state
+US,US-IN,אינדיאנה,state
+US,US-IA,איווה,state
+US,US-KS,קנזס,state
+US,US-KY,קנטקי,state
+US,US-LA,לואיזיאנה,state
+US,US-ME,מיין,state
+US,US-MD,מרילנד,state
+US,US-MI,מישיגן,state
+US,US-MN,מינסוטה,state
+US,US-MS,מיסיסיפי,state
+US,US-MO,מיזורי,state
+US,US-MT,מונטנה,state
+US,US-NE,נברסקה,state
+US,US-NV,נבדה,state
+US,US-NH,ניו המפשייר,state
+US,US-NM,ניו מקסיקו,state
+US,US-NY,ניו יורק,state
+US,US-NC,קרוליינה הצפונית,state
+US,US-ND,דקוטה הצפונית,state
+US,US-MP,איי מריאנה הצפוניים,outlying area
+US,US-OH,אוהיו,state
+US,US-OK,אוקלהומה,state
+US,US-OR,אורגון,state
+US,US-PA,פנסילבניה,state
+US,US-PR,פוארטו ריקו,outlying area
+US,US-RI,רוד איילנד,state
+US,US-SC,קרוליינה הדרומית,state
+US,US-SD,דקוטה הדרומית,state
+US,US-TN,טנסי,state
+US,US-TX,טקסס,state
+US,US-UT,יוטה,state
+US,US-DC,וושינגטון די. סי.,district
+US,US-VT,ורמונט,state
+US,US-VI,איי הבתולה,outlying area
+US,US-WA,וושינגטון,state
+US,US-WI,ויסקונסין,state
+US,US-WY,ויומינג,state
+MT,MT-03,בירגו,local council
+MT,MT-04,בירקירקארה,local council
+MT,MT-09,פלוריאנה,local council
+MT,MT-25,לואה,local council
+MT,MT-29,מדינה,local council
+MT,MT-41,פייטה,local council
+MT,MT-20,סנגלאה,local council
+MT,MT-45,ויקטוריה,local council
+MT,MT-56,סליאמה,local council
+MT,MT-60,ולטה,local council

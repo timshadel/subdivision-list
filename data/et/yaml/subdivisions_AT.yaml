@@ -1,0 +1,22 @@
+---
+AT-1:
+  name: Burgenland
+  level: state
+AT-3:
+  name: Alam-Austria
+  level: state
+AT-5:
+  name: Salzburg
+  level: state
+AT-6:
+  name: Steiermargi liidumaa
+  level: state
+AT-4:
+  name: "Ülem-Austria"
+  level: state
+AT-9:
+  name: Viin
+  level: state
+AT-8:
+  name: Vorarlberg
+  level: state

@@ -1,0 +1,253 @@
+---
+UG-317:
+  name: ABIM
+  level: district
+UG-301:
+  name: Adjumani
+  level: district
+UG-314:
+  name: Amolatar
+  level: district
+UG-216:
+  name: Amuria
+  level: district
+UG-319:
+  name: Amuru
+  level: district
+UG-302:
+  name: Apac
+  level: district
+UG-303:
+  name: Arua
+  level: district
+UG-217:
+  name: Budaka
+  level: district
+UG-223:
+  name: Bududa
+  level: district
+UG-201:
+  name: Bugiri
+  level: district
+UG-224:
+  name: Bukedea
+  level: district
+UG-218:
+  name: Bukwa
+  level: district
+UG-419:
+  name: Buliisa
+  level: district
+UG-401:
+  name: Bundibugyo
+  level: district
+UG-402:
+  name: Bushenyi
+  level: district
+UG-202:
+  name: Busia
+  level: district
+UG-219:
+  name: Butaleja
+  level: district
+UG-C:
+  name: Central
+  level: geographic regions
+UG-318:
+  name: Dokolo
+  level: district
+UG-E:
+  name: Eastern
+  level: geographic regions
+UG-304:
+  name: Gulu
+  level: district
+UG-403:
+  name: Hoima
+  level: district
+UG-416:
+  name: Ibanda
+  level: district
+UG-203:
+  name: Iganga
+  level: district
+UG-417:
+  name: Isingiro
+  level: district
+UG-204:
+  name: Jinja
+  level: district
+UG-315:
+  name: Kaabong
+  level: district
+UG-404:
+  name: Kabale
+  level: district
+UG-405:
+  name: Kabarole District
+  level: district
+UG-213:
+  name: Kaberamaido
+  level: district
+UG-101:
+  name: Kalangala
+  level: district
+UG-220:
+  name: Kaliro
+  level: district
+UG-102:
+  name: Kampala
+  level: district
+UG-205:
+  name: Kamuli
+  level: district
+UG-413:
+  name: Kamwenge
+  level: district
+UG-414:
+  name: Kanungu
+  level: district
+UG-206:
+  name: Kapchorwa
+  level: district
+UG-406:
+  name: Kasese
+  level: district
+UG-207:
+  name: Katakwi
+  level: district
+UG-112:
+  name: Kayunga
+  level: district
+UG-407:
+  name: Kibaale
+  level: district
+UG-103:
+  name: Kiboga
+  level: district
+UG-418:
+  name: Kiruhura
+  level: district
+UG-408:
+  name: Kisoro
+  level: district
+UG-305:
+  name: Kitgum
+  level: district
+UG-316:
+  name: Koboko
+  level: district
+UG-306:
+  name: Kotido
+  level: district
+UG-208:
+  name: Kumi
+  level: district
+UG-415:
+  name: Kyenjojo
+  level: district
+UG-307:
+  name: Lira
+  level: district
+UG-104:
+  name: Luweero
+  level: district
+UG-116:
+  name: Lyantonde
+  level: district
+UG-221:
+  name: Manafwa
+  level: district
+UG-320:
+  name: Lugbara people
+  level: district
+UG-105:
+  name: Masaka
+  level: district
+UG-409:
+  name: Masindi
+  level: district
+UG-214:
+  name: Mayuge
+  level: district
+UG-209:
+  name: Mbale
+  level: district
+UG-410:
+  name: Mbarara
+  level: district
+UG-114:
+  name: Mityana
+  level: district
+UG-308:
+  name: Moroto
+  level: district
+UG-309:
+  name: Moyo
+  level: district
+UG-106:
+  name: Mpigi
+  level: district
+UG-107:
+  name: Mubende
+  level: district
+UG-108:
+  name: Mukono Town
+  level: district
+UG-311:
+  name: Nakapiripirit
+  level: district
+UG-115:
+  name: Nakaseke
+  level: district
+UG-109:
+  name: Nakasongola
+  level: district
+UG-222:
+  name: Namutumba
+  level: district
+UG-310:
+  name: Nebbi
+  level: district
+UG-N:
+  name: Northern
+  level: geographic regions
+UG-411:
+  name: Ntungamo
+  level: district
+UG-321:
+  name: Oyam
+  level: district
+UG-312:
+  name: Pader
+  level: district
+UG-210:
+  name: Pallisa
+  level: district
+UG-110:
+  name: Rakai
+  level: district
+UG-412:
+  name: Rukungiri
+  level: district
+UG-111:
+  name: Sembabule
+  level: district
+UG-215:
+  name: Sironko
+  level: district
+UG-211:
+  name: Soroti
+  level: district
+UG-212:
+  name: Tororo
+  level: district
+UG-113:
+  name: Wakiso Town
+  level: district
+UG-W:
+  name: Western
+  level: geographic regions
+UG-313:
+  name: Yumbe
+  level: district

@@ -1,0 +1,25 @@
+CREATE TABLE subdivision_UA (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-71', 'Черкашка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-77', 'Чернивачка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-43', 'Крим', 'autonomous republic');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-12', 'Дњепропетровска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-14', 'Доњечка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-63', 'Харковска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-65', 'Херсонска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-68', 'Хмељничка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-30', 'Кијев', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-32', 'Кијевска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-35', 'Кировоградска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-09', 'Луганска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-46', 'Лавовска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-48', 'Миколајивска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-51', 'Одешка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-53', 'Полтавска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-56', 'Ривањска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-40', 'Севастопољ', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-59', 'Сумска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-61', 'Тернопољска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-07', 'Волињска област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-23', 'Запорошка област', 'region');
+INSERT INTO `subdivision_UA` (`id`, `name`, `level`) VALUES ('UA-18', 'Житомирска област', 'region');

@@ -1,0 +1,13 @@
+---
+IL-M:
+  name: Zentralrajon
+  level: district
+IL-HA:
+  name: Haifa
+  level: district
+IL-JM:
+  name: Jerusalem
+  level: district
+IL-TA:
+  name: Tel Aviv-Jaffa
+  level: district

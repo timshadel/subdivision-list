@@ -1,0 +1,38 @@
+id,name,level
+ES-AB,Albacete,province
+ES-A,Alicante,province
+ES-AN,Andalusien,
+ES-AS,Asturien,autonomous community
+ES-IB,Balearesch Inselen,autonomous community
+ES-B,Barcelona,province
+ES-BU,Burgos,province
+ES-CA,Cádiz,province
+ES-S,Kantabrien,province
+ES-CM,Kastilien-La Mancha,autonomous community
+ES-CL,Kastilien-León,autonomous community
+ES-CT,Katalounien,autonomous community
+ES-CE,Ceuta,autonomous city
+ES-CU,Cuenca,province
+ES-CO,Córdoba,province
+ES-EX,Extremadura,autonomous community
+ES-SS,Guipúzcoa,province
+ES-GR,Granada,province
+ES-J,Jaén,province
+ES-GC,Las Palmas de Gran Canaria,province
+ES-LE,León,province
+ES-LU,Lugo,province
+ES-MD,Madrid,autonomous community
+ES-ML,Melilla,autonomous city
+ES-MC,Murcia,autonomous community
+ES-MA,Málaga,province
+ES-NC,Navarra,autonomous community
+ES-LO,Rioja,province
+ES-SA,Salamanca,province
+ES-SE,Sevilla,province
+ES-TO,Toledo,province
+ES-V,Valencia,province
+ES-VC,Autonom Gemeinschaft Valencia,autonomous community
+ES-VA,Valladolid,province
+ES-ZA,Zamora,province
+ES-Z,Saragossa,province
+ES-VI,Álava,province

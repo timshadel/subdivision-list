@@ -1,0 +1,24 @@
+CREATE TABLE subdivision_GT (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-AV', 'Alta Verapaz Department', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-BV', 'Baja Verapaz Department', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-CM', 'Chimaltenango', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-CQ', 'Chiquimula', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-PR', 'El Progreso', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-ES', 'Escuintla', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-GU', 'Guatemala', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-HU', 'Huehuetenango', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-IZ', 'Izabal', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-JA', 'Jalapa', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-JU', 'Jutiapa', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-PE', 'Petén', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-QZ', 'Quetzaltenango', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-QC', 'Quiche', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-RE', 'Retalhuleu', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-SA', 'Sacatepéquez', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-SM', 'San Marcos', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-SR', 'Santa Rosa', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-SO', 'Sololá', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-SU', 'Suchitepéquez Department', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-TO', 'Totonicapán', 'department');
+INSERT INTO `subdivision_GT` (`id`, `name`, `level`) VALUES ('GT-ZA', 'Zacapa', 'department');

@@ -1,0 +1,21 @@
+id,name,level
+CH-AG,Argovia,canton
+CH-AR,Appenzell Exterior,canton
+CH-AI,Appenzell Interior,canton
+CH-BL,Basilea-Campo,canton
+CH-BS,Basilea-Cidade,canton
+CH-BE,Berna - Bern,canton
+CH-FR,Friburgo - Fribourg,canton
+CH-GR,Grisóns,canton
+CH-JU,Jura,canton
+CH-NE,Neuchâtel,canton
+CH-NW,Nidwalden,canton
+CH-OW,Obwalden,canton
+CH-SH,Schaffhausen,canton
+CH-TG,Turgovia,canton
+CH-TI,Tesino,canton
+CH-VS,Valais,canton
+CH-VD,Vaud,canton
+CH-GE,Xenebra - Genève,canton
+CH-LU,Lucerna - Luzern,canton
+CH-ZH,Zúric - Zürich,canton

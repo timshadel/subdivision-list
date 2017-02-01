@@ -1,0 +1,268 @@
+---
+RU-AD:
+  name: Adygea
+  level: republic
+RU-AGB:
+  name: Agin-Buryat Okrug
+  level: autonomous district
+RU-AL:
+  name: Altai Republic
+  level: republic
+RU-ALT:
+  name: Altai Krai
+  level: administrative territory
+RU-AMU:
+  name: Amur Oblast
+  level: administrative region
+RU-ARK:
+  name: Arkhangelsk Oblast
+  level: administrative region
+RU-AST:
+  name: Astrakhan Oblast
+  level: administrative region
+RU-BA:
+  name: Bashkortostan
+  level: republic
+RU-BEL:
+  name: Belgorod Oblast
+  level: administrative region
+RU-BRY:
+  name: Bryansk Oblast
+  level: administrative region
+RU-BU:
+  name: Buryatia
+  level: republic
+RU-CE:
+  name: Chechnya
+  level: republic
+RU-CHE:
+  name: Chelyabinsk Oblast
+  level: administrative region
+RU-CHI:
+  name: Chita Oblast
+  level: administrative region
+RU-CHU:
+  name: Chukotka Autonomous Okrug
+  level: autonomous district
+RU-CU:
+  name: Chuvashia
+  level: republic
+RU-DA:
+  name: Dagestan
+  level: republic
+RU-EVE:
+  name: Evenk Autonomous Okrug
+  level: autonomous district
+RU-IN:
+  name: Ingushskaya Respublika
+  level: republic
+RU-IRK:
+  name: Irkutsk Oblast
+  level: administrative region
+RU-IVA:
+  name: Ivanovo Oblast
+  level: administrative region
+RU-KB:
+  name: Kabardino-Balkaria
+  level: republic
+RU-KGD:
+  name: Kaliningrad Oblast
+  level: administrative region
+RU-KL:
+  name: Kalmykia
+  level: republic
+RU-KLU:
+  name: Kaluga Oblast
+  level: administrative region
+RU-KAM:
+  name: Kamchatka Oblast
+  level: administrative territory
+RU-KC:
+  name: Karachay-Cherkessia
+  level: republic
+RU-KR:
+  name: Republic of Karelia
+  level: republic
+RU-KEM:
+  name: Kemerovo Oblast
+  level: administrative region
+RU-KHA:
+  name: Khabarovsk Krai
+  level: administrative territory
+RU-KK:
+  name: Khakassia
+  level: republic
+RU-KHM:
+  name: Khanty-Mansiyskiy avtonomnyy okrug
+  level: autonomous district
+RU-KIR:
+  name: Kirov Oblast
+  level: administrative region
+RU-KO:
+  name: Komi Republic
+  level: republic
+RU-KOR:
+  name: Koryak Okrug
+  level: autonomous district
+RU-KOS:
+  name: Kostroma Oblast
+  level: administrative region
+RU-KDA:
+  name: Krasnodar Krai
+  level: administrative territory
+RU-KYA:
+  name: Krasnoyarsk Krai
+  level: administrative territory
+RU-KGN:
+  name: Kurgan Oblast
+  level: administrative region
+RU-KRS:
+  name: Kursk Oblast
+  level: administrative region
+RU-LEN:
+  name: Leningrad Oblast
+  level: administrative region
+RU-LIP:
+  name: Lipetsk Oblast
+  level: administrative region
+RU-MAG:
+  name: Magadan Oblast
+  level: administrative region
+RU-ME:
+  name: Mari El
+  level: republic
+RU-MO:
+  name: Mordovia
+  level: republic
+RU-MOS:
+  name: Moscow Oblast
+  level: administrative region
+RU-MOW:
+  name: Moskva
+  level: autonomous city
+RU-MUR:
+  name: Murmansk Oblast
+  level: administrative region
+RU-NEN:
+  name: Nenets Autonomous Okrug
+  level: autonomous district
+RU-NIZ:
+  name: Nizhny Novgorod Oblast
+  level: administrative region
+RU-NGR:
+  name: Novgorod Oblast
+  level: administrative region
+RU-NVS:
+  name: Novosibirsk Oblast
+  level: administrative region
+RU-OMS:
+  name: Omsk Oblast
+  level: administrative region
+RU-ORE:
+  name: Orenburg Oblast
+  level: administrative region
+RU-ORL:
+  name: Oryol Oblast
+  level: administrative region
+RU-PNZ:
+  name: Penza Oblast
+  level: administrative region
+RU-PER:
+  name: Perm
+  level: administrative territory
+RU-PRI:
+  name: Primorsky Krai
+  level: administrative territory
+RU-PSK:
+  name: Pskov Oblast
+  level: administrative region
+RU-ROS:
+  name: Rostov Oblast
+  level: administrative region
+RU-RYA:
+  name: Ryazan Oblast
+  level: administrative region
+RU-SA:
+  name: Sakha
+  level: republic
+RU-SAK:
+  name: Sakhalin Oblast
+  level: administrative region
+RU-SAM:
+  name: Samara Oblast
+  level: administrative region
+RU-SPE:
+  name: Saint Petersburg
+  level: autonomous city
+RU-SAR:
+  name: Saratov Oblast
+  level: administrative region
+RU-SE:
+  name: Severnaya Osetiya
+  level: republic
+RU-SMO:
+  name: Smolensk Oblast
+  level: administrative region
+RU-STA:
+  name: Stavropol Krai
+  level: administrative territory
+RU-SVE:
+  name: Sverdlovsk Oblast
+  level: administrative region
+RU-TAM:
+  name: Tambov Oblast
+  level: administrative region
+RU-TA:
+  name: Tatarstan
+  level: republic
+RU-TAY:
+  name: Taymyrskiy  avtonomnyy okrug
+  level: autonomous district
+RU-TOM:
+  name: Tomsk Oblast
+  level: administrative region
+RU-TUL:
+  name: Tula Oblast
+  level: administrative region
+RU-TVE:
+  name: Tver Oblast
+  level: administrative region
+RU-TYU:
+  name: Tyumen Oblast
+  level: administrative region
+RU-TY:
+  name: Tyva
+  level: republic
+RU-UD:
+  name: Udmurtia
+  level: republic
+RU-ULY:
+  name: Ulyanovsk Oblast
+  level: administrative region
+RU-UOB:
+  name: Ust-Orda Buryat Okrug
+  level: autonomous district
+RU-VLA:
+  name: Vladimir Oblast
+  level: administrative region
+RU-VGG:
+  name: Volgograd Oblast
+  level: administrative region
+RU-VLG:
+  name: Vologda Oblast
+  level: administrative region
+RU-VOR:
+  name: Voronezh Oblast
+  level: administrative region
+RU-YAN:
+  name: Yamalo-Nenets Autonomous Okrug
+  level: autonomous district
+RU-YAR:
+  name: Yaroslavl Oblast
+  level: administrative region
+RU-YEV:
+  name: Jewish Autonomous Oblast
+  level: autonomous region
+RU-ZAB:
+  name: Zabaykalsky Krai
+  level: administrative territory

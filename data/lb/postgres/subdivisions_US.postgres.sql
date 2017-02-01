@@ -1,0 +1,27 @@
+CREATE TABLE subdivision_US (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-AL', E'Alabama', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-AZ', E'Arizona', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-AR', E'Arkansas', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-CA', E'Kalifornien', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-CO', E'Colorado', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-CT', E'Connecticut', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-DE', E'Delaware', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-FL', E'Florida', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-GA', E'Georgien', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-GU', E'Guam', E'outlying area');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-HI', E'Hawaii', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-IL', E'Illinois', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-LA', E'Louisiana', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-MS', E'Mississippi', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-NH', E'New Hampshire', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-NM', E'New Mexico', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-NY', E'New York', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-OK', E'Oklahoma', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-PR', E'Puerto Rico', E'outlying area');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-TX', E'Texas', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-DC', E'Washington', E'district');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-VA', E'Virginia', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-WA', E'Washington', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-WI', E'Wisconsin', E'state');
+INSERT INTO "subdivision_US" ("id", "name", "level") VALUES (E'US-WY', E'Wyoming', E'state');

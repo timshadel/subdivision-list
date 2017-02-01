@@ -1,0 +1,9 @@
+CREATE TABLE subdivision_CL (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-AN', 'Antofagasta', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-AP', 'Región de Arica y Parinacota', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-AT', 'Atacamaöknen', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-AI', 'Región de Aisén', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-CO', 'Coquimbo', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-RM', 'Región Metropolitana de Santiago', 'region');
+INSERT INTO "subdivision_CL" ("id", "name", "level") VALUES ('CL-VS', 'Valparaíso', 'region');

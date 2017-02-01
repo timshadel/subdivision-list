@@ -1,0 +1,49 @@
+---
+DE-BW:
+  name: Baden-Wurtemberg
+  level: state
+DE-BY:
+  name: Baviera
+  level: state
+DE-BE:
+  name: Berlín
+  level: state
+DE-BB:
+  name: Brandenburg
+  level: state
+DE-HB:
+  name: Bremen
+  level: state
+DE-HH:
+  name: Hamburg
+  level: state
+DE-HE:
+  name: Hessen
+  level: state
+DE-NI:
+  name: Baixa Saxònia
+  level: state
+DE-MV:
+  name: Mecklemburg - Pomerània Occidental
+  level: state
+DE-NW:
+  name: Rin del Nord - Westfàlia
+  level: state
+DE-RP:
+  name: Renània-Palatinat
+  level: state
+DE-SL:
+  name: Saarland
+  level: state
+DE-SN:
+  name: Saxònia
+  level: state
+DE-ST:
+  name: Saxònia-Anhalt
+  level: state
+DE-SH:
+  name: Slesvig-Holstein
+  level: state
+DE-TH:
+  name: Turíngia
+  level: state

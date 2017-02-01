@@ -1,0 +1,40 @@
+---
+CA-AB:
+  name: "Альберта"
+  level: province
+CA-BC:
+  name: "Британська Колумбія"
+  level: province
+CA-MB:
+  name: "Манітоба"
+  level: province
+CA-NB:
+  name: "Нью-Брансвік"
+  level: province
+CA-NL:
+  name: "Ньюфаундленд і Лабрадор"
+  level: province
+CA-NT:
+  name: "Північно-західні території"
+  level: territory
+CA-NS:
+  name: "Нова Шотландія"
+  level: province
+CA-NU:
+  name: "Нунавут"
+  level: territory
+CA-ON:
+  name: "Онтаріо"
+  level: province
+CA-PE:
+  name: "Острів Принца Едварда"
+  level: province
+CA-QC:
+  name: "Квебек"
+  level: province
+CA-SK:
+  name: "Саскачеван"
+  level: province
+CA-YT:
+  name: "Юкон"
+  level: territory

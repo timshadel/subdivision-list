@@ -1,0 +1,16 @@
+---
+SG-01:
+  name: Central Singapore
+  level: district
+SG-02:
+  name: Northeast
+  level: district
+SG-03:
+  name: Northwest
+  level: district
+SG-04:
+  name: Southeast
+  level: district
+SG-05:
+  name: Southwest
+  level: district

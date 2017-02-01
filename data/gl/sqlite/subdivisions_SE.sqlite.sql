@@ -1,0 +1,21 @@
+CREATE TABLE subdivision_SE (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-K', 'Condado de Blekinge', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-W', 'Condado de Dalarna', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-X', 'Condado de Gävleborg', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-N', 'Condado de Halland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-Z', 'Condado de Jämtland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-F', 'Condado de Jönköping', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-H', 'Condado de Kalmar', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-G', 'Condado de Kronoberg', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-BD', 'Condado de Norrbotten', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-M', 'Escania', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-AB', 'Condado de Estocolmo', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-D', 'Södermanland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-C', 'Condado de Uppsala', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-AC', 'Condado de Västerbotten', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-Y', 'Condado de Västernorrland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-U', 'Condado de Västmanland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-O', 'Condado de Västra Götaland', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-T', 'Condado de Örebro', 'county');
+INSERT INTO "subdivision_SE" ("id", "name", "level") VALUES ('SE-E', 'Condado de Östergötland', 'county');

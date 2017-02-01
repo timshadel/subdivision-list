@@ -1,0 +1,208 @@
+---
+VN-44:
+  name: An Giang province
+  level: province
+VN-43:
+  name: Ba Ria–Vung Tau province
+  level: province
+VN-53:
+  name: Bac Kan
+  level: province
+VN-54:
+  name: Bac Giang
+  level: province
+VN-55:
+  name: Bac Lieu
+  level: province
+VN-56:
+  name: Bac Ninh
+  level: province
+VN-50:
+  name: Ben Tre
+  level: province
+VN-31:
+  name: Binh Dinh province
+  level: province
+VN-57:
+  name: Binh Duong province
+  level: province
+VN-58:
+  name: Binh Phuoc province
+  level: province
+VN-40:
+  name: Binh Thuan province
+  level: province
+VN-59:
+  name: Ca Mau
+  level: province
+VN-CT:
+  name: Cần Thơ
+  level: municipality
+VN-48:
+  name: Cần Thơ
+  level: province
+VN-04:
+  name: Cao Bang
+  level: province
+VN-DN:
+  name: Da Nang
+  level: municipality
+VN-60:
+  name: Da Nang
+  level: province
+VN-33:
+  name: Dak Lak province
+  level: province
+VN-72:
+  name: Dak Nong province
+  level: province
+VN-71:
+  name: Dien Bien province
+  level: province
+VN-39:
+  name: Dong Nai
+  level: province
+VN-45:
+  name: Dong Thap province
+  level: province
+VN-30:
+  name: Gia Lai province
+  level: province
+VN-03:
+  name: Ha Giang
+  level: province
+VN-63:
+  name: Ha Nam province
+  level: province
+VN-HN:
+  name: Hanoi
+  level: municipality
+VN-64:
+  name: Ha Noi
+  level: province
+VN-15:
+  name: Ha Tay province
+  level: province
+VN-23:
+  name: Ha Tinh
+  level: province
+VN-61:
+  name: Hai Duong
+  level: province
+VN-HP:
+  name: Hai Phong
+  level: municipality
+VN-62:
+  name: Hai Phong
+  level: province
+VN-73:
+  name: Hau Giang province
+  level: province
+VN-SG:
+  name: Ho Chi Minh
+  level: municipality
+VN-65:
+  name: Ho Chi Minh
+  level: province
+VN-14:
+  name: Hoa Binh
+  level: province
+VN-66:
+  name: Hung Yen
+  level: province
+VN-34:
+  name: Khanh Hoa province
+  level: province
+VN-47:
+  name: Kien Giang province
+  level: province
+VN-28:
+  name: Kon Tum
+  level: province
+VN-01:
+  name: Lai Chau
+  level: province
+VN-35:
+  name: Lam Dong province
+  level: province
+VN-09:
+  name: Lang Son
+  level: province
+VN-02:
+  name: Lao Cai
+  level: province
+VN-41:
+  name: Long An province
+  level: province
+VN-67:
+  name: Nam Dinh
+  level: province
+VN-22:
+  name: Nghe An province
+  level: province
+VN-18:
+  name: Ninh Binh
+  level: province
+VN-36:
+  name: Ninh Thuan province
+  level: province
+VN-68:
+  name: Phu Tho
+  level: province
+VN-32:
+  name: Phu Yen province
+  level: province
+VN-24:
+  name: Quang Binh province
+  level: province
+VN-27:
+  name: Quang Nam province
+  level: province
+VN-29:
+  name: Quang Ngai
+  level: province
+VN-13:
+  name: Quang Ninh province
+  level: province
+VN-25:
+  name: Quang Tri
+  level: province
+VN-52:
+  name: Soc Trang
+  level: province
+VN-05:
+  name: Son La
+  level: province
+VN-37:
+  name: Tay Ninh
+  level: province
+VN-20:
+  name: Thai Binh
+  level: province
+VN-69:
+  name: Thái Nguyên
+  level: province
+VN-21:
+  name: Thanh Hóa
+  level: province
+VN-26:
+  name: Thua Thien – Hue province
+  level: province
+VN-46:
+  name: Tien Giang province
+  level: province
+VN-51:
+  name: Tra Vinh
+  level: province
+VN-07:
+  name: Tuyen Quang
+  level: province
+VN-49:
+  name: Vinh Long
+  level: province
+VN-70:
+  name: Vinh Phuc province
+  level: province
+VN-06:
+  name: Yen Bai
+  level: province

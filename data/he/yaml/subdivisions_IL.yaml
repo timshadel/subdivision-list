@@ -1,0 +1,10 @@
+---
+IL-HA:
+  name: "חיפה"
+  level: district
+IL-JM:
+  name: "ירושלים"
+  level: district
+IL-TA:
+  name: "תל אביב-יפו"
+  level: district

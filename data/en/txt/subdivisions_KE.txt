@@ -1,0 +1,8 @@
+Central (KE-200)
+Coast (KE-300)
+Eastern (KE-400)
+Nairobi (KE-110)
+North-Eastern (KE-500)
+Nyanza (KE-600)
+Rift Valley (KE-700)
+Western (KE-900)

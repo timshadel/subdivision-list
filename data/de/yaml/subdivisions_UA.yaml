@@ -1,0 +1,82 @@
+---
+UA-71:
+  name: Oblast Tscherkassy
+  level: region
+UA-74:
+  name: Oblast Tschernihiw
+  level: region
+UA-77:
+  name: Oblast Tscherniwzi
+  level: region
+UA-43:
+  name: Krim
+  level: autonomous republic
+UA-12:
+  name: Oblast Dnipropetrowsk
+  level: region
+UA-14:
+  name: Oblast Donezk
+  level: region
+UA-26:
+  name: Oblast Iwano-Frankiwsk
+  level: region
+UA-63:
+  name: Oblast Charkiw
+  level: region
+UA-65:
+  name: Oblast Cherson
+  level: region
+UA-68:
+  name: Oblast Chmelnyzkyj
+  level: region
+UA-30:
+  name: Kiew
+  level: region
+UA-32:
+  name: Oblast Kiew
+  level: region
+UA-35:
+  name: Oblast Kirowohrad
+  level: region
+UA-09:
+  name: Oblast Luhansk
+  level: region
+UA-46:
+  name: Oblast Lwiw
+  level: region
+UA-48:
+  name: Oblast Mykolajiw
+  level: region
+UA-51:
+  name: Oblast Odessa
+  level: region
+UA-53:
+  name: Oblast Poltawa
+  level: region
+UA-56:
+  name: Oblast Riwne
+  level: region
+UA-40:
+  name: Sewastopol
+  level: region
+UA-59:
+  name: Oblast Sumy
+  level: region
+UA-61:
+  name: Oblast Ternopil
+  level: region
+UA-05:
+  name: Oblast Winnyzja
+  level: region
+UA-07:
+  name: Oblast Wolhynien
+  level: region
+UA-21:
+  name: Oblast Transkarpatien
+  level: region
+UA-23:
+  name: Oblast Saporischschja
+  level: region
+UA-18:
+  name: Oblast Schytomyr
+  level: region

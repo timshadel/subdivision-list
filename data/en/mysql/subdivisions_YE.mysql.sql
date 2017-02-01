@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_YE (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-AM', '`Amran', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-AB', 'Abyan Governorate', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-DA', 'Ad Dāli‘', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-HU', 'Al ?udaydah', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-JA', 'Al Jawf', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-MR', 'Al Mahrah Governorate', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-MW', 'Al Mahwit', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-DH', 'Dhamar', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-HD', 'Hadhramaut', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-HJ', 'Hajjah', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-IB', 'Ibb', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-LA', 'La?ij', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-RA', 'Raymah', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-SN', 'Sanʿā', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-SH', 'Shabwah Governorate', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-TA', 'Taʿizz', 'governorate');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-SA', 'Şan‘ā', 'municipality');
+INSERT INTO `subdivision_YE` (`id`, `name`, `level`) VALUES ('YE-AD', 'ʿAdan', 'governorate');

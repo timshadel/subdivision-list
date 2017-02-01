@@ -1,0 +1,6 @@
+Comitatul Laois (IE-LS)
+Comitatul Offaly (IE-OY)
+Comitatul Westmeath (IE-WH)
+Dublin (IE-D)
+Limerick (IE-LK)
+Ulster (IE-U)

@@ -1,0 +1,6 @@
+Southern District (IL-D)
+Haifa (IL-HA)
+Central District (IL-M)
+North District (IL-Z)
+Tel Aviv (IL-TA)
+Jerusalem (IL-JM)

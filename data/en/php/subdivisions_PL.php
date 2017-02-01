@@ -1,0 +1,18 @@
+<?php return array (
+  'PL-DS' => array('name' => 'Lower Silesian Voivodeship', 'level' => 'voivodship'),
+  'PL-KP' => array('name' => 'Kuyavian-Pomeranian Voivodeship', 'level' => 'voivodship'),
+  'PL-LU' => array('name' => 'Lublin Voivodeship', 'level' => 'voivodship'),
+  'PL-LB' => array('name' => 'Lubusz Voivodeship', 'level' => 'voivodship'),
+  'PL-LD' => array('name' => 'Lódzkie', 'level' => 'voivodship'),
+  'PL-MA' => array('name' => 'Lesser Poland Voivodeship', 'level' => 'voivodship'),
+  'PL-MZ' => array('name' => 'Masovian Voivodeship', 'level' => 'voivodship'),
+  'PL-OP' => array('name' => 'Opole Voivodeship', 'level' => 'voivodship'),
+  'PL-PK' => array('name' => 'Podkarpackie Voivodeship', 'level' => 'voivodship'),
+  'PL-PD' => array('name' => 'Podlaskie Voivodeship', 'level' => 'voivodship'),
+  'PL-PM' => array('name' => 'Pomeranian Voivodeship', 'level' => 'voivodship'),
+  'PL-SL' => array('name' => 'Silesian Voivodeship', 'level' => 'voivodship'),
+  'PL-SK' => array('name' => 'Świętokrzyskie Voivodeship', 'level' => 'voivodship'),
+  'PL-WN' => array('name' => 'Warmian-Masurian Voivodeship', 'level' => 'voivodship'),
+  'PL-WP' => array('name' => 'Greater Poland Voivodeship', 'level' => 'voivodship'),
+  'PL-ZP' => array('name' => 'West Pomeranian Voivodeship', 'level' => 'voivodship'),
+);

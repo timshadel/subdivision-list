@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_SO (id VARCHAR(6) NOT NULL, name VARCHAR(255), level VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-AW', E'Awdal', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-BK', E'Bakool', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-BN', E'Banaadir', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-BR', E'Bari', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-BY', E'Bay', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-GA', E'Galguduud', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-GE', E'Gedo', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-HI', E'Hiran', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-JD', E'Middle Juba', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-JH', E'Lower Juba', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-MU', E'Mudug', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-NU', E'Nugal', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-SA', E'Sanaag', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-SD', E'Middle Shebelle', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-SH', E'Lower Shebelle', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-SO', E'Sool', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-TO', E'Togdheer', E'region');
+INSERT INTO "subdivision_SO" ("id", "name", "level") VALUES (E'SO-WO', E'Woqooyi Galbeed', E'region');

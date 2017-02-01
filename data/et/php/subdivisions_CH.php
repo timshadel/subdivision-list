@@ -1,0 +1,18 @@
+<?php return array (
+  'CH-AG' => array('name' => 'Aargau kanton', 'level' => 'canton'),
+  'CH-AR' => array('name' => 'Appenzell Ausserrhoden', 'level' => 'canton'),
+  'CH-AI' => array('name' => 'Appenzell Innerrhoden', 'level' => 'canton'),
+  'CH-BL' => array('name' => 'Basel-Landschaft', 'level' => 'canton'),
+  'CH-BS' => array('name' => 'Basel-Stadt', 'level' => 'canton'),
+  'CH-BE' => array('name' => 'Bern', 'level' => 'canton'),
+  'CH-GR' => array('name' => 'Graubündeni kanton', 'level' => 'canton'),
+  'CH-NE' => array('name' => 'Neuchâtel', 'level' => 'canton'),
+  'CH-NW' => array('name' => 'Nidwalden', 'level' => 'canton'),
+  'CH-OW' => array('name' => 'Obwalden', 'level' => 'canton'),
+  'CH-TG' => array('name' => 'Thurgau kanton', 'level' => 'canton'),
+  'CH-TI' => array('name' => 'Ticino kanton', 'level' => 'canton'),
+  'CH-ZG' => array('name' => 'Zug', 'level' => 'canton'),
+  'CH-GE' => array('name' => 'Genf', 'level' => 'canton'),
+  'CH-LU' => array('name' => 'Luzern', 'level' => 'canton'),
+  'CH-ZH' => array('name' => 'Zürich', 'level' => 'canton'),
+);

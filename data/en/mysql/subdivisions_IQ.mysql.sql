@@ -1,0 +1,20 @@
+CREATE TABLE subdivision_IQ (id VARCHAR(6) NOT NULL, name VARCHAR(255) NOT NULL, level VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-AN', 'Anbar Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-BA', 'Basra', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-MU', 'Muthanna Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-QA', 'Al-Qādisiyyah', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-NA', 'Najaf', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-AR', 'Erbil', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-SU', 'Sulaymaniyah', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-TS', 'Kirkuk Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-BB', 'Babylon Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-BG', 'Baghdad', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-DA', 'Dohuk', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-DQ', 'Dhi Qar Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-DI', 'Diyalá', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-KA', 'Karbala', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-MA', 'Maysan Province', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-NI', 'Ninawá', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-SD', 'Salah ad-Din', 'province');
+INSERT INTO `subdivision_IQ` (`id`, `name`, `level`) VALUES ('IQ-WA', 'Wasit', 'province');

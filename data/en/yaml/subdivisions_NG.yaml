@@ -1,0 +1,112 @@
+---
+NG-AB:
+  name: Abia
+  level: state
+NG-FC:
+  name: Federal Capital Territory
+  level: capital territory
+NG-AD:
+  name: Adamawa
+  level: state
+NG-AK:
+  name: Akwa Ibom State
+  level: state
+NG-AN:
+  name: Anambra State
+  level: state
+NG-BA:
+  name: Bauchi
+  level: state
+NG-BY:
+  name: Bayelsa State
+  level: state
+NG-BE:
+  name: Benue River
+  level: state
+NG-BO:
+  name: Borno
+  level: state
+NG-CR:
+  name: Cross River
+  level: state
+NG-DE:
+  name: Delta
+  level: state
+NG-EB:
+  name: Ebonyi State
+  level: state
+NG-ED:
+  name: Edo
+  level: state
+NG-EK:
+  name: Ekiti State
+  level: state
+NG-EN:
+  name: Enugu
+  level: state
+NG-GO:
+  name: Gombe
+  level: state
+NG-IM:
+  name: IMO
+  level: state
+NG-JI:
+  name: Jigawa State
+  level: state
+NG-KD:
+  name: Kaduna
+  level: state
+NG-KN:
+  name: Kano
+  level: state
+NG-KT:
+  name: Katsina
+  level: state
+NG-KE:
+  name: Kebbi State
+  level: state
+NG-KO:
+  name: Kogi State
+  level: state
+NG-KW:
+  name: Kwara
+  level: state
+NG-LA:
+  name: Lagos
+  level: state
+NG-NA:
+  name: Nasarawa State
+  level: state
+NG-NI:
+  name: Niger
+  level: state
+NG-OG:
+  name: Ogun
+  level: state
+NG-ON:
+  name: Ondo
+  level: state
+NG-OS:
+  name: Oshun
+  level: state
+NG-OY:
+  name: Oyo
+  level: state
+NG-PL:
+  name: Plateau
+  level: state
+NG-RI:
+  name: River
+  level: state
+NG-SO:
+  name: Sokoto
+  level: state
+NG-TA:
+  name: Taraba
+  level: state
+NG-YO:
+  name: Yobe State
+  level: state
+NG-ZA:
+  name: Zamfara State
+  level: state
